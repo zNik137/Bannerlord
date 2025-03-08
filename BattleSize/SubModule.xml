@@ -1,0 +1,21 @@
+﻿<Module>
+  <Name value="BattleSize"/>
+  <Id value="BattleSize"/>
+  <Version value="v1.2.3.0"/>
+  <SingleplayerModule value="true"/>
+  <MultiplayerModule value="false"/>
+  <DependedModules>
+  </DependedModules>
+  <SubModules>
+    <SubModule>
+      <Name value="BattleSize"/>
+      <DLLName value="BattleSize.dll"/>
+      <SubModuleClassType value="BattleSize.SubModule"/>
+      <Tags>
+        <Tag key="DedicatedServerType" value="none" />
+        <Tag key="IsNoRenderModeElement" value="false" />
+      </Tags>
+    </SubModule>
+  </SubModules>
+  <Xmls/>
+</Module>
