@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Türkçe" />
+	</tags>
+	<strings>
+		<string id="blcdlgGTExVE" text="Babamı {VICTIM} öldürdükten sonra nasıl olur da karşıma çıkarsın? Şeref sınırını aştın ve şimdi bedelini ödeyeceksin. Sonuna hazırlan!" />
+		<string id="blcdlggYJ6BH" text="Demek babamın hayatını alan sensin... {VICTIM} harika bir adamdı ve şimdi buradayız. Şimdi kendini savunmak için ne söyleyeceksin?" />
+		<string id="blcdlgps4zkV" text="{VICTIM} benim babamdı ve sesini bir daha hiç duyamamamdan sen sorumlusun. Seni affedip affetmeyeceğimi bilmiyorum ama şimdilik, söyleyeceklerini söyle." />
+		<string id="blcdlgJXcBWy" text="Savaştayız ve babama {VICTIM} ne yaptığını biliyorum. Unuttuğumu sanma. Söylemen gerekeni söyle, ama dikkatli ol." />
+		<string id="blcdlgjNnxQ6" text="Savaşta bile babama {VICTIM} olanları görmezden gelemem. İyi bir adamdı. Neden böyle olmak zorundaydı?" />
+		<string id="blcdlgjThL0c" text="Bu savaş, babam {VICTIM}'in kaybıyla ilgili hiçbir şeyi değiştirmiyor. Gerçeği söyle—duymam gerek." />
+		<string id="blcdlgL1txjd" text="Babamın, {VICTIM}'in katilinin yüzünü göreceğimi hiç düşünmemiştim. Unuttuğumu veya affettiğimi sanma. Sözlerini söyle ve çabuk git." />
+		<string id="blcdlg9vhQRo" text="Seninle böyle karşılaşmak garip. Babam {VICTIM}, her zaman dürüstlükten bahsederdi... ve şimdi sen onun hayatını aldın. Kendini nasıl savunacaksın?" />
+		<string id="blcdlgqQynS7" text="Babam {VICTIM}, senin yüzünden artık yok. Sorularım var ve bana cevap borçlusun. Sabrım tükenmeden konuş." />
+		<string id="blcdlgRpZmkp" text="Annemi {VICTIM} öldürdün. Sana merhamet yok. Verdiğin acının her zerresini hissedeceksin!" />
+		<string id="blcdlgBw8lBI" text="Annem {VICTIM}, sana verdiğinden daha iyisini hak ediyordu. Bunun kolay olduğunu iddia etmeyeceğim... şimdi, söyleyeceklerin nedir?" />
+		<string id="blcdlgaSCNn4" text="Annemin adı {VICTIM}'di ve sen onun hayatına son verdin. Bu savaş alanı, kelimelerin ifade edemediği şeyi çözecek." />
+		<string id="blcdlgFQaWzX" text="Bu savaş, anneme {VICTIM} yaptıklarını silmiyor. Uzak dur, yoksa sonuçları olur." />
+		<string id="blcdlgLBwpGo" text="Bu savaşın ortasında bile, annem {VICTIM} ve hayatının senin yüzünden nasıl sona erdiği hakkında düşünmeyi bırakamıyorum. Neden?" />
+		<string id="blcdlgxhcHdt" text="Bu savaş, anneme {VICTIM} yaptıklarından seni aklamıyor. Kendini açıkla." />
+		<string id="blcdlglRQSUG" text="Onun adını, {VICTIM}'i, ağzına almaya bile hakkın yok. Umarım yaptıkların için suçluluk duygusu seni rahat bırakmaz." />
+		<string id="blcdlgOHejDX" text="Annem {VICTIM}, senin yüzünden gitti. Neden? Böyle bir kaderi hak etmek için ne yaptı?" />
+		<string id="blcdlgVcHQtd" text="Annemin, {VICTIM}'in hayatına son verenin sen olduğunu biliyorum. Dinleyeceğim... ama kelimelerini dikkatli seç." />
+		<string id="blcdlgvkh1lR" text="Oğlum {VICTIM}'i benden aldın. Bunun için sana merhamet göstermeyeceğim. Hadi bitirelim şunu!" />
+		<string id="blcdlgssBKg2" text="Oğlum, {VICTIM}... senin yüzünden gitti. Aramızda ne bağ varsa, burada bitiyor. Şimdi konuş." />
+		<string id="blcdlg0VQ72O" text="Oğlumun adı {VICTIM}'di. Ve şimdi senin sayende yok. Hadi bunu halledelim." />
+		<string id="blcdlgp6EVKk" text="Bu savaşta bile oğluma {VICTIM} ne yaptığını unutamıyorum. Bir gün bunun hesabını vereceksin." />
+		<string id="blcdlgCiGPo1" text="Savaşta bile, oğlum {VICTIM} ve yaptıkların aklımdan çıkmıyor. Onu neden benden aldın?" />
+		<string id="blcdlgpUfu24" text="Bu savaş, kaybımı değiştirmiyor—oğlum {VICTIM}, senin yüzünden gitti. Konuş." />
+		<string id="blcdlgDXzJMK" text="Oğlum {VICTIM}'i öldürdün. Affedilmeyi veya nezaket bekleme. Bir gün bunun hesabını vereceksin." />
+		<string id="blcdlgJcIHFs" text="Oğlum {VICTIM}'i bu dünyadan aldın. Seninle böyle yüzleşmek zorunda kalacağımı hiç düşünmemiştim. Konuş ama dikkatli ol." />
+		<string id="blcdlgjgpXzS" text="Oğlum {VICTIM}, senin yüzünden gitti. Kendini açıkla ve zamanımı boşa harcama." />
+		<string id="blcdlgAUsM64" text="Kızımı, {VICTIM}'i benden aldın. Aynı acıyı bin kat hissetmeni sağlayacağım. Hazırlan!" />
+		<string id="blcdlg1Hq2YA" text="Kızım {VICTIM}, çok daha iyisini hak ediyordu. Sana bir zamanlar güvenmiştim ama şimdi... Ölümünün ötesini göremiyorum. Konuş." />
+		<string id="blcdlgY016ey" text="Kızımın hayatına, {VICTIM}'e, son verdin. Bu, iyileşmeyecek bir yara. Savaş başlamadan önce ne söyleyeceksen söyle." />
+		<string id="blcdlg09wKxr" text="Bu savaş, kızım {VICTIM}'e yaptıklarını silemez. Bir gün adalet yerini bulacak." />
+		<string id="blcdlgVTO4tj" text="Savaşın ortasında bile, kızım {VICTIM}'i düşünmeden edemiyorum. Onu neden benden aldın?" />
+		<string id="blcdlgcXnTfD" text="Savaş, kızım {VICTIM}'e yaptıklarını değiştirmez. Sebeplerini söyle, gerçi onu geri getirmeyecekler." />
+		<string id="blcdlgUYmtPY" text="Kızımı, {VICTIM}'i öldürdün. Seni asla affedeceğimi bir an bile düşünme." />
+		<string id="blcdlg8Hwren" text="Kızım {VICTIM}, senin yüzünden benden alındı. Neden? Anlamam gerek." />
+		<string id="blcdlgGXRdff" text="Kızım, {VICTIM}, senin yüzünden artık yok. Kendini açıkla." />
+		<string id="blcdlgs24XT9" text="Büyükbabamı, {VICTIM}'i öldürdün. Bu, bardağı taşıran son damlaydı. Bundan geri dönüş yok - adalet karşısında hazırlan!" />
+		<string id="blcdlgxyGZbq" text="{VICTIM} benim büyükbabamdı, ailemizin direğiydi. Ve sen onu bizden aldın. Şimdi karşımda duruyorsun... ne söyleyeceksin?" />
+		<string id="blcdlgbPMcz3" text="Büyükbabamın, {VICTIM}'in hayatına son verdin. Bu karşılaşma sadece sözlerden daha fazlasını çözecek." />
+		<string id="blcdlgCyzEK1" text="Savaşın ortasında bile, büyükbabam {VICTIM}'e yaptıklarını unutamam. Bir gün bunun hesabını vereceksin." />
+		<string id="blcdlgl5ESQK" text="Savaş, senin yüzünden büyükbabam {VICTIM}'i kaybetmenin acısını silmedi. Neden yaptın?" />
+		<string id="blcdlg8VZzxF" text="Büyükbabam, {VICTIM}, senin yüzünden gitti. Geçmişi hiçbir şey geri getiremez ama kendini açıkla." />
+		<string id="blcdlgKzmAfQ" text="Büyükbabamı, {VICTIM}'i öldürdün. Bunu asla affedeceğimi veya unutacağımı bir an bile düşünme." />
+		<string id="blcdlgz01Xo0" text="Büyükbabam, {VICTIM}, senin yüzünden benden alındı. Neden? Gerekçeni duymam gerek." />
+		<string id="blcdlgtMoEKK" text="Büyükbabamın adı {VICTIM}'di. Hayatına son verdin ve cevaplaman gereken sorularım var." />
+		<string id="blcdlgRURg1o" text="Torunumu, {VICTIM}'i benden aldın. Affetmek yok, sadece ceza var. Kendini hazırla!" />
+		<string id="blcdlgm3yBkK" text="Torunum, {VICTIM}, bir geleceği hak ediyordu. Ama sen onu reddettin. Şimdi konuş, gerçi bu durumuna yardımcı olmayabilir." />
+		<string id="blcdlgNX6oXD" text="Torunumun hayatına, {VICTIM}'e son verdin. Bunun için adalet yerini bulana kadar durmayacağım." />
+		<string id="blcdlg7zj6KI" text="Savaştayız, ama torunum, {VICTIM}, senin yüzünden gitti. Bu senin için iyi bitmeyecek." />
+		<string id="blcdlgBdegcI" text="Savaş, torunum {VICTIM}'in hatırasını silmiyor. Onu neden benden aldın?" />
+		<string id="blcdlgZ1Bphy" text="Torunumun adı {VICTIM}'di. Ve şimdi senin yüzünden yok. Gerçeği söyle." />
+		<string id="blcdlgW6LPZ5" text="Torunumu, {VICTIM}'i öldürdün. Sempati veya anlayış bekleme - sadece hesap verebilirlik." />
+		<string id="blcdlgbghPaD" text="Torunumu, {VICTIM}'i benden aldın. Neden? Bu anlamsız eylemi anlamama yardım et." />
+		<string id="blcdlge5X70Q" text="Torunum, {VICTIM}, senin yüzünden gitti. Hala yapabiliyorken kendini açıkla." />
+		<string id="blcdlg9wvTaG" text="Karımı, {VICTIM}'i benden aldın. Bu affedilmez bir suç. Şimdi, bedelini ödeyeceksin!" />
+		<string id="blcdlgH9qdyF" text="{VICTIM} benim karımdı, her şeyde ortağımdı. Ve sen onun hayatına son verdin. Hiçbir kelime bunu geri getiremeyecek olsa da kendini açıkla." />
+		<string id="blcdlgwJJ9LC" text="Karımın adı {VICTIM}'di. Senin yüzünden gitti. Bu savaş sadece sözlerden daha fazlasına karar verecek." />
+		<string id="blcdlgbkg8CE" text="Bu savaşın ortasında bile, karım {VICTIM}'i ve ona yaptıklarını düşünüyorum. Hesaplaşma zamanın gelecek." />
+		<string id="blcdlg84DKvo" text="Karım, {VICTIM}, bu kaderden daha fazlasını hak ediyordu. Onu neden benden aldın?" />
+		<string id="blcdlgkr97ZZ" text="Savaş, kaybımı değiştirmiyor - karım {VICTIM}, senin yüzünden gitti. Konuş." />
+		<string id="blcdlg1pgS3Z" text="Karım {VICTIM}'i öldürdün. Söylediğin hiçbir şey beni affettirmeyecek." />
+		<string id="blcdlg0LthHG" text="{VICTIM} benim karımdı ve sen onun hayatına son verdin. Cevabın beni tatmin edeceğinden şüpheli olsam da nedenini söyle." />
+		<string id="blcdlgWRzEnv" text="Karımın adı {VICTIM}'di. Onu benden aldın ve cevaplanması gereken sorularım var." />
+		<string id="blcdlg1xavWH" text="Kocamı, {VICTIM}'i öldürdün. Bunun için, nasıl acı çektiysem senin de öyle acı çekmeni sağlayacağım!" />
+		<string id="blcdlgFMyB5z" text="Kocam, {VICTIM}, benim her şeyimdi. Ve şimdi senin yüzünden gitti. Önemli olmayabilir de olsa kendini açıkla." />
+		<string id="blcdlgykUzfe" text="Kocamın adı {VICTIM}'di. Sen onun hayatına son verdin. Affetmek yok, sadece yargı var." />
+		<string id="blcdlgZUyCVW" text="Savaşta bile kocamı, {VICTIM}'i ve ona yaptıklarını hatırlıyorum. Bir gün adalet yerini bulacak." />
+		<string id="blcdlguPFAne" text="Kocam {VICTIM}, sana verdiğinden daha iyisini hak ediyordu. Neden yaptın?" />
+		<string id="blcdlgvpuEOz" text="Bu savaş, kocam {VICTIM} ve onun ölümüyle ilgili hiçbir şeyi değiştirmiyor. Kendini açıkla." />
+		<string id="blcdlgeIliAI" text="Kocamı, {VICTIM}'i öldürdün. Bu asla iyileşmeyecek ve affedilmeyecek bir yara." />
+		<string id="blcdlg6zlSDy" text="{VICTIM} benim kocamdı, en yakın arkadaşımdı. Neden onun hayatına son verdin?" />
+		<string id="blcdlgj9jgqN" text="Kocamın adı {VICTIM}'di. Ve sen onu benden aldın. Önemli olmayabilir de olsa konuş." />
+		<string id="blcdlgRySuod" text="Akrabaımı, {VICTIM}'i öldürdün. Bu ihanet unutulmayacak. Kendini adalete hazırla!" />
+		<string id="blcdlgFWwpJF" text="{VICTIM} senin tarafından alınmış ailemin bir üyesiydi. Neden? Bu kötü bitmeden önce kendini açıkla." />
+		<string id="blcdlgEuTIiw" text="Akrabaımın hayatına son verdin, {VICTIM}. Öyle ya da böyle adaleti sağlayacağım." />
+		<string id="blcdlg7Ggycy" text="Bu savaşın ortasında bile akrabaıma, {VICTIM}'e yaptıklarını unutamam. Bunun sonuçları olacak." />
+		<string id="blcdlg96dBmm" text="Savaş, akrabaımın ölümünü, {VICTIM}'i silmiyor. Onu bizden neden aldın?" />
+		<string id="blcdlg2SDnuP" text="Akrabaım {VICTIM}, senin yüzünden gitti. Hemen kendini açıkla." />
+		<string id="blcdlgL9JBT1" text="Akrabaımı, {VICTIM}'i öldürdün. Yaptıkların için affetmek yok." />
+		<string id="blcdlgfZiQSL" text="{VICTIM} benim bir akrabamdı. Onun ölümü senin yüzünden. Neden bunu yaptın?" />
+		<string id="blcdlgNbvJLE" text="Akrabaım, {VICTIM}, senin yüzünden gitti. Seni kurtarmayabilir de olsa gerçeği söyle." />
+		<string id="blcdlgPQlgOP" text="{KILLER}, senin akraban, babamı, {VICTIM}'i öldürdü. Bize utanç ve kayıp getirdin. Şimdi adaletinle yüzleşeceksin!" />
+		<string id="blcdlgz7zK21" text="Babam {VICTIM}, {KILLER}'ın eliyle alındı. Sana bir zamanlar güvenmiştim. Bu nasıl olabilir? Şimdi konuş." />
+		<string id="blcdlgj17o47" text="{VICTIM} benim babamdı. {KILLER} geri alınamaz olanı yaptı. Bu savaş alanı gerisini belirleyecek." />
+		<string id="blcdlg6N69k7" text="Aile üyen {KILLER}, babamı, {VICTIM}'i öldürdü. Affetmeyeceğim, ama bahaneni dinleyeceğim." />
+		<string id="blcdlgV9fZiJ" text="Babam {VICTIM}, akraban {KILLER} yüzünden gitti. Bu ihaneti beklemiyordum. Neden?" />
+		<string id="blcdlgemu8Wm" text="{KILLER}, babam {VICTIM}'in hayatına son verdi. Sana kendini açıklama şansı vereceğim. Dikkatli konuş." />
+		<string id="blcdlgx6K9U8" text="Akraban {KILLER}, annemin, {VICTIM}'in hayatına son verdi. Aileme ihanet ettiğin için pişman edeceğim. Hazırlan!" />
+		<string id="blcdlgKs0sFw" text="Annem {VICTIM}, {KILLER}'ın yaptığından daha iyisini hak ediyordu. Sana güvenmiştim ve şimdi bu mu? Şimdi konuş." />
+		<string id="blcdlgHvbhEm" text="Annem {VICTIM}, {KILLER} tarafından alındı. Bu savaş alanı, kelimelerin ifade edemediğini çözecek." />
+		<string id="blcdlgrifeQO" text="{VICTIM}, annem, {KILLER} yüzünden artık yok. Seni asla affedeceğimi sanma. Söylemen gerekeni söyle ve git." />
+		<string id="blcdlgavneGH" text="{KILLER}, annemi, {VICTIM}'i öldürdü. Ailenizden bunu beklemiyordum. Neden oldu?" />
+		<string id="blcdlgWRLH4O" text="Annem, {VICTIM}, senin akrabaların, {KILLER} tarafından alındı. Sebebini söyle, sonrasında ne olacağına karar vereceğim." />
+		<string id="blcdlgbRp8Ck" text="{KILLER} oğlumu, {VICTIM}'i, benden aldı. Aileniz de bu savaş bitmeden aynı acıyı hissedecek!" />
+		<string id="blcdlg9Lph5g" text="Oğlum, {VICTIM}, {KILLER} yüzünden artık yok. Seni bir zamanlar müttefik olarak görürdüm. Kendini açıkla." />
+		<string id="blcdlgO4mKze" text="Oğlum, {VICTIM}, {KILLER} tarafından alındı. Bu savaş alanı onun kaybı için adalet getirecek." />
+		<string id="blcdlgEfYXdl" text="Akrabaların, {KILLER}, oğlumu, {VICTIM}'i öldürdü. Bahanelerini istemiyorum ama dinleyeceğim—şimdilik." />
+		<string id="blcdlg54ArNa" text="{VICTIM}, oğlum, ailenizin eylemleri, {KILLER}, yüzünden artık yok. Neden bu noktaya gelindi?" />
+		<string id="blcdlgDg8c3E" text="{KILLER} oğlumun hayatına, {VICTIM}'in hayatına son verdi. Söyleyeceklerini söyle, ama bunun benim için çok ağır olduğunu bil." />
+		<string id="blcdlgaS6M1U" text="Akrabaların, {KILLER}, kızımı, {VICTIM}'i, benden çaldı. Aynı acıyı taşımanı sağlayacağım. Savaşa hazırlan!" />
+		<string id="blcdlgReoGiB" text="Kızım, {VICTIM}, {KILLER}'ın eliyle düştü. Sana bir zamanlar saygı duyardım, ama şimdi duyamıyorum. Onlar için ne söyleyeceksin?" />
+		<string id="blcdlgHk9Shj" text="{VICTIM} benim kızımdı ve {KILLER} onun hayatına son verdi. Buna göz yumamam. Bu bitmeden önce söylemen gerekeni söyle." />
+		<string id="blcdlgvUHzB6" text="Aile üyeniz, {KILLER}, kızımı, {VICTIM}'i öldürdü. Bu, asla iyileşmeyecek bir yara. Söylemeye geldiğini söyle ve git." />
+		<string id="blcdlgMpoIXy" text="{VICTIM} benim kızımdı. {KILLER} affedilmez olanı yaptı ve yine de buradayız. Şimdi bana ne söyleyeceksin?" />
+		<string id="blcdlgA9OK5u" text="Kızım, {VICTIM}, {KILLER} yüzünden artık yok. Şimdi burada duruyorsun ve ben dinliyorum. Dikkatli konuş." />
+		<string id="blcdlgm8ldjS" text="{KILLER} büyükbabamı/büyükannemi, {VICTIM}'i öldürdü ve bugün ihanetlerinin bedelini ödeyeceksin. Adalet kan ister!" />
+		<string id="blcdlgA34MgY" text="{KILLER}, büyükbabamın/büyükannemin, {VICTIM}'in hayatına son verdi. O, bilgelik ve gücün direğiydi. Bu nasıl olabilir?" />
+		<string id="blcdlgmVCAO1" text="Büyükbabam/büyükannem, {VICTIM}, öldü ve {KILLER} sorumlu. Bu savaş alanı bugün yargıç olacak." />
+		<string id="blcdlg0Qj0gd" text="Aile üyeniz, {KILLER}, büyükbabamı/büyükannemi, {VICTIM}'i, benden aldı. Burada affetme yok. Çabuk konuş." />
+		<string id="blcdlggg0AxY" text="{KILLER} ailemi {VICTIM}'den, büyükbabamdan/büyükannemden, mahrum etti. Sana bir zamanlar saygı duyardım. Seni dinlediğime pişman etme." />
+		<string id="blcdlgpdf13t" text="Büyükbabam/büyükannem, {VICTIM}, {KILLER} tarafından alındı. Konuş. Dinleyeceğim ama zamanımı boşa harcama." />
+		<string id="blcdlgJeM18g" text="{KILLER} torunumu, {VICTIM}'i öldürdü. Bu acı sonsuzdur. Bugün, aileniz de aynı kaybı hissedecek!" />
+		<string id="blcdlgjyYHkA" text="{VICTIM}, torunum, {KILLER} yüzünden artık yok. Seninle böyle karşılaşmayı beklemiyordum. Gerçeğini şimdi söyle." />
+		<string id="blcdlgFvxgO9" text="Torunum, {VICTIM}, artık yok ve {KILLER} suçlu. Bu, burada savaş alanında bitiyor." />
+		<string id="blcdlgQB1q2B" text="Ailen, {KILLER}, torunumu, {VICTIM}'i, benden çaldı. Affetmeyeceğim ama söyleyeceklerini dinleyeceğim." />
+		<string id="blcdlgMiuXTF" text="{VICTIM}, torunum, {KILLER} yüzünden artık yok. Bu yaranın ne kadar derin olduğunu bilmelisin. Ne söyleyeceksin?" />
+		<string id="blcdlgkFZkwH" text="Aile üyeniz, {KILLER}, torunumu, {VICTIM}'i, aldı. Dinliyorum ama sabrımı test etme." />
+		<string id="blcdlgMTSOiY" text="{KILLER} akrabalarımdan birini, {VICTIM}'i öldürdü. Seninkiler tarafından dökülen aile kanının intikamı bugün alınacak!" />
+		<string id="blcdlgJVqsnG" text="Aile üyeniz, {KILLER}, akrabamın, {VICTIM}'in hayatına son verdi. Bu kolay bir konuşma değil, ama söyleyeceklerini söyle." />
+		<string id="blcdlgbWhdSH" text="Burada durup bana {VICTIM}'in ölümü hakkında hakaret mi ediyorsun? Onu alt etmek için iki katı büyüklükte bir orduya ihtiyacın vardı. Zavallı! Bugün, savaş alanına hiç ayak basmadığınızı dileyeceksiniz." />
+		<string id="blcdlgNkoH8q" text="Üstünlük sendeydi, {VICTIM} cesurca savaştı ve yine de onu yere serdin. Hak edilmemiş bir zaferin tadını çıkarmak hoşuna gitti mi?" />
+		<string id="blcdlgptajGx" text="Ezici bir güce komuta ettin ve yine de {VICTIM}'i öldürmekle gurur duydun? Yaptığın şeyde hiçbir onur yok." />
+		<string id="blcdlgS1jlaf" text="{VICTIM}'i yenmek için ezici bir güce liderlik ettin. Savaşta bile böyle bir eylemde gurur değil, sadece utanç vardır." />
+		<string id="blcdlgTTtKDO" text="{VICTIM}'in ezici gücüne karşı hiçbir şansı yoktu. Bunun vicdanını rahatsız edip etmediğini merak ediyorum." />
+		<string id="blcdlgwSC9tS" text="Komutanlığın altında, {VICTIM} büyük bir ordu tarafından yenildi. Bu zafer sana boş geliyor mu?" />
+		<string id="blcdlgs7UGgG" text="Kuvvetlerini {VICTIM}'i ezmek için yönettin, onu sayıca boğdun. Bunda zafer yok, sadece korkaklık var." />
+		<string id="blcdlg6jsd02" text="{VICTIM} düştüğünde başında sen olduğunu biliyorum. Ezici sayılarınıza karşı hiçbir şansı yoktu. Bunu nasıl haklı çıkarıyorsun?" />
+		<string id="blcdlg7Su2U5" text="Sen komutandın ve {VICTIM}'in devasa kuvvetlerine karşı hiçbir şansı yoktu. Ölümünden hiç pişmanlık duyuyor musun?" />
+		<string id="blcdlgsGz46K" text="{VICTIM}'i öldürdün ve  ezici sayılar olmadan mı? Hah, bozuk bir saat bile günde iki kez doğruyu gösterir. Bakalım bana karşı nasıl başarılı olacaksın!" />
+		<string id="blcdlgQ5Cpx1" text="Demek doğru - adil bir dövüşte {VICTIM}'i öldürmeyi başardın. Sende bu yetenek olduğunu düşünmemiştim. Ama hiç suçluluk duyuyor musun?" />
+		<string id="blcdlg0DBqqa" text="{VICTIM} senin elinde öldü ve bu, sayıca üstün olduğun için de değil. Kendini kanıtlamak için ne kadar ileri gideceksin?" />
+		<string id="blcdlgUGtqWu" text="{VICTIM}'i savaşta yendin. Ezici bir üstünlük yok, sadece yeteneğin. Sence bu haklı çıkarır mı?" />
+		<string id="blcdlgIYEFnm" text="{VICTIM} senin komutanlığın altında düştü. Adil bir dövüştü ama kaybı hafifletmiyor, değil mi?" />
+		<string id="blcdlgKjnByr" text="Adil bir dövüşte {VICTIM}'i yere serdin. Bu zaferin yükünü taşıyor musun?" />
+		<string id="blcdlggHCG6C" text="{VICTIM}'i savaşta öldürdüğünü duydum. Adil dövüş olsun ya da olmasın, bu seni asil yapmaz. Sadece tehlikeli yapar." />
+		<string id="blcdlgwYDsaO" text="{VICTIM} düştüğünde başında sen vardın, değil mi? Daha iyisini hak ediyordu. Değer miydi?" />
+		<string id="blcdlgSiqhZ1" text="{VICTIM} senin liderliğin altında savaştı ve şimdi ölü yatıyor. Bu zafer bedele değer miydi?" />
+		<string id="blcdlgWDGqjg" text="Senin gibilerden biri olan {KILLER}, {VICTIM}'i savaş alanında bir korkak gibi öldürdü. Tencere yuvarlanmış kapağını bulmuş, sanırım!" />
+		<string id="blcdlgyXVEOl" text="Müttefikin {KILLER}, {VICTIM}'in ölümünden sorumluydu. Merak ediyorum, değer verdiğin sadakat türü bu mu - acımasızca öldüren?" />
+		<string id="blcdlgcRjaoy" text="{KILLER}, senin bayrağın altında {VICTIM}'i öldürdü, onu ezici bir güçle ezip geçti. Böyle eylemleri onaylıyor musun?" />
+		<string id="blcdlgE5fJNr" text="Müttefikin {KILLER}, {VICTIM}'i sayıca ezdi. Bu senin hakkında ne söylüyor?" />
+		<string id="blcdlgyXk53E" text="{KILLER}'ın {VICTIM}'i savaşta öldürdüğünü duydum. İlham verdiğin sadakat türü bu mu?" />
+		<string id="blcdlgqkOyd4" text="{KILLER}, {VICTIM}'i ezici bir güçle yendi. Bu senin değerlerini yansıtıyor mu?" />
+		<string id="blcdlgYbJpoW" text="Unuttuğumu sanma. Tanıdığın biri olan {KILLER}, {VICTIM}'i savaş alanında katletti. Bu senin hakkında ne söylüyor?" />
+		<string id="blcdlgFUhSfJ" text="{KILLER} ve {VICTIM}'e yaptıkları hakkında bir şeyler duydum. Onları iyi tanıyor olmalısın - böyle taktikleri onaylıyor musun?" />
+		<string id="blcdlgahcHKP" text="Ortağın {KILLER}, {VICTIM}'i tek taraflı bir savaşta öldürdü. Yakınında tuttuğun kişiler hakkında iyi şeyler söylemiyor." />
+		<string id="blcdlgr8vbr3" text="{KILLER}, {VICTIM}'i öldürdü ve üstün sayılarla bile değil. Müttefiklerin arasında bir yılan var ve sen de ondan farksızsın!" />
+		<string id="blcdlgWrCW5G" text="Müttefikin {KILLER}, {VICTIM}'i ezici bir üstünlük olmadan öldürdü. Bu onların yeteneği miydi... yoksa vahşiliği mi?" />
+		<string id="blcdlgRLo7Du" text="Arkadaşın {KILLER}, {VICTIM}'i yere serdi. Adil olsun ya da olmasın, kendini kimlerle çevrelediğin hakkında çok şey anlatıyor." />
+		<string id="blcdlgnlEeVj" text="Müttefikin {KILLER}, {VICTIM}'i savaşta öldürdü. Sayılar olmasa bile, eylem vahşiydi." />
+		<string id="blcdlg3OJPYD" text="Güvendiğin biri olan {KILLER}, {VICTIM}'i savaşta öldürdü. Bu sana nasıl geliyor?" />
+		<string id="blcdlgQFdhiC" text="{KILLER}, {VICTIM}'i öldürdü. Adil bir dövüşte bile, kayıp senin adına leke sürüyor." />
+		<string id="blcdlgYINJsO" text="Müttefikin {KILLER}'ın {VICTIM}'e yaptıklarını unutmadım. Sayıca az olsalar bile, acımasızlıkları eşsizdi." />
+		<string id="blcdlgYw6qjB" text="Tanıdığın biri olan {KILLER}, {VICTIM}'i öldürdü. Bunu senin hakkında düşündüğüm kişiyle nasıl bağdaştırıyorsun?" />
+		<string id="blcdlgE645Fj" text="Ortağın {KILLER}, {VICTIM}'i savaşta öldürdü. Adil olsun ya da olmasın, yaptıkları senin adına gölge düşürüyor." />
+		<string id="blcdlg17SyKN" text="Hah! Önceki savaşımızı kazanmış olabilirsiniz, ama bu sadece benim iki katı insan gücüne sahip olduğunuz içindi. Domuz bulmak, kaliteli asil askerlerle savaşmaktan daha kolaydır. Bugün, domuzlarınızı keseceğiz!" />
+		<string id="blcdlgRybbYw" text="Geçen sefer sayıca üstünlüğünüz beni alt etti, ama bugün domuzlarınız gerçek savaşçıların kılıçları altında düşecek." />
+		<string id="blcdlgGWNypo" text="Son savaşımızı kazandınız, ama adil bir dövüş olduğunu varsaymayalım. İki katı asker ve daha iyi malzemeler—senin konumundaki bir komutandan daha azını beklemezdim." />
+		<string id="blcdlg4qt3No" text="Geçen sefer şans sizden yanaydı, ama beceriniz yine de parladı. Sizinle eşit şartlarda karşılaşmayı dört gözle bekliyorum." />
+		<string id="blcdlgN38LRV" text="{LOCATION} yakınlarında savaştık ve siz kazandınız. Ezici üstünlükle tartışmak zor. Bakalım bir dahaki sefere onlarsız başarabilecek misin." />
+		<string id="blcdlgi0g1NZ" text="{LOCATION} yakınlarındaki çatışmamız size gitti, ancak bu kadar fazla sayıda askerle bu şaşırtıcı değildi. Adil bir dövüşte neler olacağını görelim." />
+		<string id="blcdlgSH2SsJ" text="Savaştayız, ama bugün düşmanlığa gerek yok. Elbette, geçen sefer {LOCATION} yakınlarında kazandınız, ama yine de rekabetimizin bitmesine daha çok zaman olduğunu söyleyebilirim." />
+		<string id="blcdlg72ZdE8" text="{LOCATION}'daki zaferiniz rekabetimizi bitirmedi. Bu savaşın sunacağı daha çok şey var." />
+		<string id="blcdlgg78gHt" text="Bugün savaşmıyor olabiliriz, ama son karşılaşmamızı nasıl ele aldığınıza saygı duyuyorum. Bir dahaki karşılaşmamızda aynı keskinlikte kalıp kalmayacağınızı merak ediyorum." />
+		<string id="blcdlgHud8Rk" text="Son karşılaşmamızdaki stratejiniz beni etkiledi. Tekrar yollarımız kesiştiğinde nasıl performans göstereceğinizi görmek için sabırsızlanıyorum." />
+		<string id="blcdlgcu0igu" text="{LOCATION} yakınlarındaki son çatışmamız sizin lehinize sonuçlandı. Ancak barışçıl bir zaman, tekrar karşılaştığımızda yeni fırsatlara yol açabilir." />
+		<string id="blcdlgs7vKQ2" text="{LOCATION}'daki savaş sizin yolunuza gitti, ancak savaş sürprizlerle doludur. Bundan sonra ne olursa olsun hazır olacağım." />
+		<string id="blcdlg0XBR0T" text="{LOCATION}'da ezici bir sayısal üstünlüğünüz vardı ve yine de sanki günü kazanan sizin becerinizmiş gibi kasılıyorsunuz. Beni kuruntularınızdan kurtarın." />
+		<string id="blcdlg4XlTtK" text="{LOCATION}'daki sözde zaferiniz sadece sayılardan ibaretti. Beceri henüz kanıtlanmadı." />
+		<string id="blcdlgv26JVI" text="{LOCATION} yakınlarındaki o savaş—avantaj sizdeydi, ama yine de kuvvetlerinizi nasıl yönettiğinize hayranım. Adil bir dövüşte nasıl savaşacağınızı görmek isterim." />
+		<string id="blcdlgvFtuzx" text="Avantajınıza rağmen {LOCATION} yakınlarında iyi komuta ettiniz. Umarım şans eşit olduğunda sizinle karşılaşırım." />
+		<string id="blcdlgwL9UmQ" text="{LOCATION} yakınlarındaki çatışmamızı hatırlıyorum. Kazandınız, ama sayılar sizin tarafınızdaydı. Bir rövanşın nasıl geçeceğini merak ediyorum." />
+		<string id="blcdlgc1QdEC" text="{LOCATION}'daki savaş, yalnızca sayısal üstünlük nedeniyle sizin lehinizeydi. Bakalım bu şans devam edecek mi." />
+		<string id="blcdlgGidcMI" text="Demek beni daha önce yendin—kıl payı. Takviye yok, ezici üstünlük yok, sadece şans. O şans bugün seni kurtarmayacak." />
+		<string id="blcdlgkfuosj" text="Şans seni geçen sefer taşıdı, ama bugün gerçek yenilginin nasıl bir his olduğunu göreceksin." />
+		<string id="blcdlgivsxhd" text="{LOCATION} yakınlarındaki akıllıca stratejinizi hala hatırlıyorum. Dürüstçe kazandınız ve buna saygı duyuyorum—bana pahalıya mal olsa bile." />
+		<string id="blcdlg4OV2Pw" text="{LOCATION}'daki taktikleriniz, yenilgiye rağmen saygımı kazandı. Becerinizi tekrar test etmeyi dört gözle bekliyorum." />
+		<string id="blcdlgfy94cH" text="{LOCATION} yakınlarında kılıçlarımızı çaprazladık ve galip siz çıktınız. Şans değildi, itiraf ediyorum. Ama beceriniz bugün de devam edecek mi?" />
+		<string id="blcdlg1R9KNC" text="{LOCATION}'da beceriniz ortadaydı. Ama bu avantajı bugün koruyabilir misin?" />
+		<string id="blcdlgtOxZNE" text="Daha önce kazanmış olabilirsiniz, ama bu bir dahaki sefere zayıflıklarınıza saldırmamı engellemeyecek. Savaşımız henüz bitmedi." />
+		<string id="blcdlgMT4JoN" text="Zaferinle savaşımız bitmedi. Bir dahaki sefere en az beklediğin yerde saldıracağım." />
+		<string id="blcdlgNnlS22" text="Zaferini hatırlıyorum ve sonuçtan memnun olmasam da taktiklerine saygı duyuyorum. Ama hala savaştayız ve rüzgarlar değişebilir." />
+		<string id="blcdlgxLFUd3" text="Taktiklerin sana daha önce zafer kazandırdı, ancak bu savaşın daha fazla bölümü var. Bakalım nasıl sonuçlanacak." />
+		<string id="blcdlg2KIPG4" text="Son karşılaşmamız benim lehime gitmedi, ama henüz bitmedim. Savaş devam ediyor ve her şey olabilir." />
+		<string id="blcdlgKtBnMu" text="Bu savaş, {LOCATION}'daki zaferinle çözülmedi. Kararlaştırılacak çok şey var." />
+		<string id="blcdlgYi0bVc" text="Beni {LOCATION} yakınlarında bir kez yenmiş olabilirsin, ama her zaman bunun bir şans eseri olduğuna inanacağım. Bir dahaki sefere bu kadar şanslı olmayacaksın." />
+		<string id="blcdlgdms2Rc" text="{LOCATION} yakınlarındaki galibiyetin bir şans eseriydi, başka bir şey değil. Tekrar olmayacak." />
+		<string id="blcdlgPzAebh" text="{LOCATION} yakınlarındaki zaferini hatırlıyorum. Zorlu bir mücadeleydi ve sana bunun için saygı duyuyorum. Belki bir dahaki sefere zaferi ben kazanırım." />
+		<string id="blcdlgoplphi" text="{LOCATION} yakınlarında elde ettiğin zafer saygımı kazandı. Bir dahaki sefere kendi zaferimi hedefleyeceğim." />
+		<string id="blcdlgOhPuS2" text="{LOCATION} yakınlarındaki son savaşımız senin lehine sonuçlandı. Dürüstçe kabul ediyorum. Umarım bu çizgiyi koruyabilirsin." />
+		<string id="blcdlg0TZgWs" text="{LOCATION}'da yeteneğini kanıtladın. Bakalım bir sonraki çatışmaya da yansıyacak mı." />
+		<string id="blcdlgx9eH6c" text="Tüm avantajlarına rağmen bana yenildin. {LOCATION} yakınlarında, 'büyük liderliğin' ıslak parşömen gibi parçalandı. Alçakgönüllülük konusunda bir başka derse hazırlan." />
+		<string id="blcdlgSdE3wN" text="Ezici güçlerine rağmen, {LOCATION}'da bana yenildin. Bugün, başarısızlığın tekrarlanıyor." />
+		<string id="blcdlgsB4o5z" text="Sayılarınız göz önüne alındığında, sizi {LOCATION} yakınlarında yenmeyi beklemiyordum. Ama belki de adamlarınız beni küçümsedi. Bakalım bugün derslerini almışlar mı." />
+		<string id="blcdlgrU9t2h" text="{LOCATION} yakınlarında iyi savaştın, ama zaferim beklenmedikti. Bakalım bugün şans nasıl değişecek." />
+		<string id="blcdlgaS4eII" text="Tüm zorluklara rağmen, {LOCATION} yakınlarında galip çıktım. Bakalım bu sonuç burada tekrarlanacak mı." />
+		<string id="blcdlgfNDPkX" text="{LOCATION}'a ezici bir güç getirdin ama yine de kaybettin. Bakalım bu sefer nasıl olacaksın." />
+		<string id="blcdlgyuPZUp" text="Üstünlüğün olmasına rağmen {LOCATION}'daki zaferimi inkar edemezsin. Bir dahaki sefere savaştığımızda herhangi bir acıma bekleme." />
+		<string id="blcdlgJq7gtm" text="Kuvvetlerin daha büyüktü, ancak yine de {LOCATION}'da bana yenildin. Bunu bir dahaki sefere sana hatırlatacağım." />
+		<string id="blcdlgUJ1wed" text="{LOCATION}'da ordun daha güçlüydü, ama yine de kazandım. Şans mı belki? Ya da belki de fark ettiğimden daha iyiyim." />
+		<string id="blcdlgQ8dOPw" text="Şanslar göz önüne alındığında, sizi {LOCATION}'da yendiğime şaşırdım. Sonucun tekrar aynı olup olmayacağını merak ediyorum." />
+		<string id="blcdlgYLsxIT" text="Son savaşımızda, zorluklara rağmen galip geldim. Bende güçlü bir izlenim bıraktı—merak ediyorum seni nasıl etkiledi." />
+		<string id="blcdlgWMPRvT" text="{LOCATION}'da kazanmayı beklemiyordum ama işte buradayız. Bakalım tarih tekerrür edecek mi." />
+		<string id="blcdlgbtOskL" text="Üstünlüğe sahip olsan bile, beni {LOCATION}'da yenemedin. Utanç verici bir performans, sence de öyle değil mi?" />
+		<string id="blcdlg5J9hBF" text="{LOCATION}'da kuvvetlerin üstündü, yine de ben galip geldim. Bu sefer hangi bahaneyi sunacaksın?" />
+		<string id="blcdlg1R2fJ7" text="{LOCATION}'daki liderliğin, kaybetmiş olsan bile takdire şayandı. O zamandan beri nasıl büyüdüğünü görmeyi dört gözle bekliyorum." />
+		<string id="blcdlgHAIahX" text="Seni {LOCATION}'da yendim, ama liderliğin bir izlenim bıraktı. Sana bunun için saygı duyuyorum." />
+		<string id="blcdlgY2g37n" text="{LOCATION}'daki çatışmamız bir sürprizdi—kazanmayı beklemiyordum. Belki şanstı, ama tekrar olup olmayacağını merak ediyorum." />
+		<string id="blcdlggEbuXQ" text="{LOCATION}'da, avantajına rağmen zafer kazandım. Bakalım bugün dengeler değişecek mi." />
+		<string id="blcdlghVzYDV" text="Yani, eşit şartlarda olduğumuzda seni {LOCATION}'da yendim. Gerçekten bugünün farklı olacağını mı düşünüyorsun?" />
+		<string id="blcdlgcLA9tB" text="{KONUM}'da kibrin bedelini öğrendin. Bugün, tekrar öğreneceksin." />
+		<string id="blcdlgKzfwgx" text="{KONUM}'da iyi savaştın, ama yine de kazanmayı başardım. İyi bir dövüştü - bugün de aynısını umuyorum." />
+		<string id="blcdlgS2e2mj" text="{KONUM}'da seni yendim ama bana hatırlamaya değer bir savaş verdin. Bugün bir tane daha yaratın." />
+		<string id="blcdlggeDoJu" text="{KONUM}'daki çatışmamız benim lehime sonuçlandı. O zamandan beri kendini geliştirip geliştirmediğini görelim." />
+		<string id="blcdlgbOMBAF" text="{KONUM}'da bana yenildin ama savaş alanı her zaman tahmin edilemez. Bakalım bugün neler olacak." />
+		<string id="blcdlgkB8GgD" text="Seni {KONUM}'da açıkça yendim. Savaş alanında tekrar karşılaştığımızda bunu hatırla." />
+		<string id="blcdlgaoql06" text="{KONUM}'daki savaşımız kimin daha güçlü olduğunu kanıtladı. Umarım o zamandan beri bir şeyler öğrenmişsindir." />
+		<string id="blcdlgh4nuOG" text="{KONUM}'da zaferi kazandım ama taktiklerin beni etkiledi. Bir sonraki karşılaşmamızı dört gözle bekliyorum." />
+		<string id="blcdlgzSP2E3" text="{KONUM}'da yenilgiye rağmen takdire şayan bir şekilde savaştın. Sana değerli bir rakip olarak saygı duyuyorum." />
+		<string id="blcdlgDN28iJ" text="Seni {KONUM}'da yendim ama her savaş bir öğrenme deneyimidir. Bir dahaki sefere nasıl olacağımızı görelim." />
+		<string id="blcdlgqV8n22" text="{KONUM}'da galip çıktım. Ama geleceğin savaşta bizim için neler getireceğini kim bilebilir?" />
+		<string id="blcdlgUlPSkA" text="{KONUM}'daki kaybın, özellikle de ihtimaller adil olduğundan, canını yakmış olmalı. Bugün sana o yenilgiyi hatırlatacağım." />
+		<string id="blcdlgBGom4v" text="{KONUM}'da üstünlüğümü gösterdim. Bakalım bugün savaş alanına yeni bir şey getirmiş misin." />
+		<string id="blcdlgrcT8tZ" text="{KONUM}'daki performansın, yenilgiye rağmen övgüye değerdi. Umarım birbirimizden bir şeyler öğrenebiliriz." />
+		<string id="blcdlg52EveY" text="{KONUM}'da zafer kazandım ama cesaretin göze çarpıyordu. Bunun için sana saygı duyuyorum." />
+		<string id="blcdlgQexiJR" text="{KONUM}'daki savaşımız benim lehime sonuçlandı ama seni bir daha küçümsemeyeceğim." />
+		<string id="blcdlg3FlFM6" text="{KONUM}'da günü kazandım ama sen iyi savaştın. Bakalım tarih tekerrür edecek mi." />
+		<string id="blcdlgW8criF" text="Hah! Seni nasıl zincire vurup savaş alanından köpek gibi sürüklediğimi unutmuş gibisin! Merak etme, bugün her şeyi tekrar hatırlayacaksın. Tabii savaşta köpek gibi ölmezsen." />
+		<string id="blcdlgUnEa4x" text="Zincirlerimin bileklerindeki ağırlığını hatırlıyor musun? Görünüşe göre sana o aşağılanmayı bir kez daha hatırlatmam gerekiyor." />
+		<string id="blcdlgaZRcKL" text="{KATİL}'imin seni vahşi bir hayvan gibi nasıl zincirlediğini hatırlıyorum. Yargılamadan sonsuza dek kaçabileceğini mi sandın? Seni zincire vurarak geri getireceğim!" />
+		<string id="blcdlgsXGI9o" text="{KATİL}'im seni bir zamanlar vahşi bir hayvan gibi esir tuttu. Bugünden başlayarak esaretine geri dönmeni sağlayacağım." />
+		<string id="blcdlgR2UHZW" text="{KURBAN}, akrabaların, daha önce bir kez elime düştü. Görünüşe göre tüm ailen tek tek zincirlerim için kaderinde var!" />
+		<string id="blcdlgRi724j" text="Değerli akraban {KURBAN}'ı esir aldım. Belki bugün seni de esir koleksiyonuma eklerim." />
+		<string id="blcdlgYe7kTi" text="Beni sıradan bir hırsız gibi kafese koyduktan sonra benimle yüzleşmeye cesaret mi ediyorsun? Bu sefer özgürlük için yalvaran sen olacaksın!" />
+		<string id="blcdlgphZFUZ" text="Esirin olma aşağılanması hala içimde yanıyor. Bugün, o utancı ödeteceğim." />
+		<string id="blcdlgdJyXku" text="{KATİL} bir keresinde beni hapse atmaya cesaret etti. Savaşta karşılaştığımızda onuruma hakaret ettiğin için pişman olacaksın!" />
+		<string id="blcdlg63CySi" text="Senin de bildiğin {KATİL} tarafından tutulmak gururuma bir yaraydı. Bugün incam için hazırlan." />
+		<string id="blcdlgepLsaa" text="Akrabalarım olan {KURBAN}'ı esir aldın. Böyle bir hakaret cevapsız kalmayacak!" />
+		<string id="blcdlg8FGKXz" text="Ailemden {KURBAN} esaretinde acı çekti. Bugün, onların acısına karşılık vereceksin." />
+		<string id="blcdlgQ5eXCX" text="Tekrar karşılaşıyoruz ve seni bir zamanlar nasıl ele geçirdiğimi hatırlamaktan kendimi alamıyorum. O aşağılanmanın bedelini ödemeye mi geldin?" />
+		<string id="blcdlg7TsPkp" text="Seni görmek, seni yenilmiş bir canavar gibi zincirlediğim zamanları hatırlatıyor. Bana tekrar meydan okuyacak mısın, yoksa yerini öğrendin mi?" />
+		<string id="blcdlgJlyf5e" text="Bir zamanlar {KILLER}'ımın elindeydin. Merak ediyorum, intikam mı almaya geldin yoksa daha fazla aşağılanmaya mı?" />
+		<string id="blcdlgAfoZGV" text="{KILLER}'ımın zincirlerinden aldığın yaralar hala görünüyor. İntikam mı arıyorsun yoksa teslim olmaya mı geldin?" />
+		<string id="blcdlgexLykQ" text="Akraban {VICTIM} bir zamanlar bana yenildi. Ailenizin onurunu kurtarmaya mı çalışacaksınız, yoksa sizden daha fazlasını mı alacağım?" />
+		<string id="blcdlgZosxHf" text="{VICTIM}, senin soyun, gazabımı tattı. Onların kaderini mi takip edeceksin, yoksa onların intikamını almaya mı cesaret edeceksin?" />
+		<string id="blcdlgnYZi7L" text="Demek beni hapse atmaya cesaret eden sensin. Savaş tekrar kapımızda. İkinci kez bu kadar cesur olacak mısın?" />
+		<string id="blcdlgKf7q0I" text="Hapishanenizi unutmadım. Ama savaş uzun ve intikamım zamanı gelince gelecek." />
+		<string id="blcdlgZQzDSc" text="{KILLER}'ınız beni bir hayvan gibi kafese koymuştu. Şimdi tekrar savaştayız ve kılıcım intikam için susamış." />
+		<string id="blcdlgppp3pS" text="{KILLER}'ınızın insafına kalmıştım. Ama bu savaş bana o hesabı kapatma şansı verdi." />
+		<string id="blcdlg7t0tuw" text="Akrabalarım olan {VICTIM}'i esir almaya cesaret ettin. Bu hakareti cevapsız bırakmayacağım." />
+		<string id="blcdlgu3wget" text="{VICTIM} senin elinde acı çekti ve bu savaş, o borç kanla ödenene kadar bitmeyecek." />
+		<string id="blcdlgo79agp" text="Seni esir aldığım günü hatırlıyorum. Şimdi geçmişinden kaçmak için özgürce mi dolaşıyorsun?" />
+		<string id="blcdlgBLOW4X" text="Bir zamanlar benim esirimken, barış içinde tekrar karşılaşmamız ne kadar garip." />
+		<string id="blcdlgn18KRK" text="Bir zamanlar {KILLER}'ım tarafından zincirlenmiştin. Kader bize kılıçlar çekilmeden karşılaşma fırsatı vererek bir oyun oynuyor olmalı." />
+		<string id="blcdlguOT7Xn" text="Şu an barış içinde olsak bile, {KILLER}'ımla olan geçmişin unutulmadı. Seni buraya getiren nedir?" />
+		<string id="blcdlg72kW8r" text="Akraban {VICTIM} bir zamanlar benim esirimdi. Hala merhametimden mi yoksa gazabımdan mı bahsediyorlar?" />
+		<string id="blcdlghUIUJ6" text="Kanından olan {VICTIM}'i zincirlerde tuttum. Barış şimdilik devam edebilir ama anı kalıcıdır." />
+		<string id="blcdlgnhEv1M" text="Beni bir zamanlar esir almıştın. Şimdi barış hüküm sürüyor olabilir ama bu anı aklımda kalıyor." />
+		<string id="blcdlgz7hDzb" text="Hapishanenizi iyi hatırlıyorum. Neden barış içinde buluştuk? Benimle alay mı etmek istiyorsun?" />
+		<string id="blcdlgbUcm2F" text="{KILLER}'ınız beni bir zamanlar esir almıştı. Şimdi kılıçlar olmadan karşılaşıyoruz. Bu dünya ne kadar garip olabilir." />
+		<string id="blcdlgwiGI7C" text="{KILLER}'ınızın zincirlerini hala hatırlıyorum. Neden şimdi birbirimizin boğazına yapışmıyoruz?" />
+		<string id="blcdlgve3MwU" text="Klanımın bir üyesi olan {VICTIM} senin tarafınden esir alındı. Şimdi ne kadar barışçıl olsak da, yaralar kalır." />
+		<string id="blcdlg0jCiIK" text="Akrabalarımın {VICTIM}'ini bir zamanlar hapse attın. Savaş olmadan karşılaşsak bile, unutmadım." />
+		<string id="blcdlgGux0gh" text="Hah! Saflarımızdan {VICTIM}'i {LOCATION} yakınlarında yenmiş olabilirsin, ama sadece ezici sayıda adam getirdiğin için. Bir korkanın zaferi." />
+		<string id="blcdlgvCChc1" text="Bizim hizibimizden {VICTIM}'i {LOCATION} yakınlarında yenmen hiçbir şeyi değiştirmiyor. Taktiklerin çaresizlik kokuyor." />
+		<string id="blcdlgNLnmsX" text="Bizim taraftan {VICTIM}'e karşı {LOCATION} yakınlarındaki zaferini duydum. Etkileyici, ama kendini kaybetme." />
+		<string id="blcdlggee7SM" text="Bizim hizibimizden {VICTIM}'e karşı {LOCATION} yakınlarındaki zaferin görülmeye değerdi. Güzel iş." />
+		<string id="blcdlgz3Tce2" text="Demek bizim hizibimizden {VICTIM}'i {LOCATION} yakınlarında alt ettin. Bakalım bana karşı da aynı derecede başarılı olacak mısın?" />
+		<string id="blcdlglZZiRE" text="Bizim taraftan {VICTIM}'e karşı {LOCATION} yakınlarındaki zaferin kayda değerdi, ama ben o kadar kolay yenilmem." />
+		<string id="blcdlgUO5DtE" text="{AGAINST} grubundan {VICTIM}'i {LOCATION} yakınlarında yendin, ama bu pek bir şey kanıtlamıyor. Onlar bizim kadar yetenekli değiller. " />
+		<string id="blcdlgKk15YV" text="{LOCATION}'da {AGAINST} grubundan {VICTIM}'i alt etmek büyük bir başarı değildi. Biz daha zorlu bir rakip olacağız." />
+		<string id="blcdlgcvz6ve" text="{LOCATION} yakınlarında {AGAINST} grubundan {VICTIM}'i yendiğini duydum. Önemli bir başarı, senden de daha azını beklemezdim." />
+		<string id="blcdlgwFOU7W" text="{LOCATION}'da {AGAINST} grubundan {VICTIM}'e karşı kazandığın zafer yeteneğini gösteriyor. Tebrikler." />
+		<string id="blcdlgW2P8U1" text="{LOCATION} yakınlarında {AGAINST} grubundan {VICTIM}'e karşı kazandığın zafer herkesçe biliniyor. Bakalım bu başarı serini sürdürebilecek misin." />
+		<string id="blcdlgk0RQ7c" text="{LOCATION}'da {AGAINST} grubundan {VICTIM}'i yenmek etkileyiciydi. Bakalım gerçek bir zorlukla nasıl başa çıkacaksın." />
+		<string id="blcdlg2D5xil" text="{LOCATION} yakınlarında grubumuzdan {VICTIM}'e karşı sayısal üstünlüğüne rağmen kazandığın zafer etkileyiciydi." />
+		<string id="blcdlgU2BRRK" text="{LOCATION}'da bizim tarafımızdan {VICTIM}'i yenmen hakkındaki düşüncelerimi değiştirmiyor." />
+		<string id="blcdlgu0K9Ek" text="{LOCATION} yakınlarında bizim tarafımızdan {VICTIM}'e karşı kazandığın zaferi duydum. İyi dövüştün, ancak şartlar göz önüne alındığında biraz haksız bir dövüştü belki de." />
+		<string id="blcdlgEuawg8" text="{LOCATION}'da grubumuzdan {VICTIM}'e karşı başarın dikkat çekiciydi. Saygımı kazandın." />
+		<string id="blcdlgoGn2s3" text="{LOCATION} yakınlarında grubumuzdan {VICTIM}'e karşı kazandığın zafer, sayısal üstünlüğünüz göz önüne alındığında bekleniyordu." />
+		<string id="blcdlgGZ0yrM" text="{LOCATION}'da grubumuzdan {VICTIM}'e karşı zaferin, koşullar göz önüne alındığında sürpriz olmadı." />
+		<string id="blcdlgkn1PcM" text="{LOCATION} yakınlarında {AGAINST} grubundan {VICTIM}'e karşı sayısal üstünlüğüne rağmen kazandığın zafer etkileyiciydi." />
+		<string id="blcdlgfDi7gy" text="{LOCATION}'da {AGAINST} grubundan {VICTIM}'e karşı bile, yalnızca ezici sayısal üstünlüğünüz sayesinde kazandınız." />
+		<string id="blcdlgBNznEQ" text="{LOCATION} yakınlarında {AGAINST} grubundan {VICTIM}'e karşı kazandığın zaferi duydum. İyi dövüştün, ancak şartlar göz önüne alındığında biraz haksız bir dövüştü belki de." />
+		<string id="blcdlgVHMemN" text="{LOCATION}'da {AGAINST} grubundan {VICTIM}'e karşı zaferin, hünerinin harika bir göstergesiydi. İyi iş çıkardın." />
+		<string id="blcdlgpkJEcf" text="{LOCATION} yakınlarında {AGAINST} grubundan {VICTIM}'e karşı kazandığın zafer, sayısal üstünlüğünüz göz önüne alındığında bekleniyordu." />
+		<string id="blcdlgxZptxj" text="{LOCATION}'da {AGAINST} grubundan {VICTIM}'i yenmen, sahip olduğun kuvvetler göz önüne alındığında sürpriz olmadı." />
+		<string id="blcdlgQUCfgY" text="{LOCATION} yakınlarında grubumuzdan {VICTIM}'e karşı şanslıydın. Bu şans bugün seni kurtarmayacak." />
+		<string id="blcdlgYU9BVw" text="{LOCATION}'da grubumuzdan {VICTIM}'e karşı sözde zaferin benim için hiçbir şey ifade etmiyor. Farklı bir sonuca hazırlan." />
+		<string id="blcdlg3flROl" text="{LOCATION} yakınlarında grubumuzdan {VICTIM}'e karşı kazandığın zaferi duydum. Adil bir dövüştü ve tebrik ederim." />
+		<string id="blcdlgMl8z4x" text="{LOCATION}'da grubumuzdan {VICTIM}'e karşı başarın ilham vericiydi. Hayranlığımı kazandın." />
+		<string id="blcdlglD1BCb" text="{LOCATION} yakınlarında grubumuzdan {VICTIM}'i alt ettin. Bu küçük bir başarı değildi, ama şimdi benimle karşı karşıyasın." />
+		<string id="blcdlgF5CWrL" text="{LOCATION}'da grubumuzdan {VICTIM}'e karşı zaferin dikkate değer, ancak bu farklı bir oyun." />
+		<string id="blcdlg0qFhOb" text="{LOCATION} yakınlarında {AGAINST} grubundan {VICTIM}'i yendiğini duydum. Kendini beğenme - bana karşı farklı bir hikaye olacak." />
+		<string id="blcdlgvHcq8S" text="{LOCATION}'da {AGAINST} grubundan {VICTIM}'e karşı sözde zaferin burada tekrarlanmayacak." />
+		<string id="blcdlgKRJDPH" text="{LOCATION} yakınlarında {AGAINST} grubundan {VICTIM}'e karşı zaferin becerikliydi. Bakalım bu dövüşte nasıl başa çıkacaksın." />
+		<string id="blcdlgKd1gpQ" text="{LOCATION}'da {AGAINST} grubundan {VICTIM}'e karşı zaferin etkileyiciydi. Daha fazlasını görmeyi dört gözle bekliyorum." />
+		<string id="blcdlg30k9LB" text="{LOCATION} yakınlarında {AGAINST} grubundan {VICTIM}'e karşı kazandın. Bu bir kaza değildi, ama bu başarıyı tekrarlayabilir misin?" />
+		<string id="blcdlgnMRCuX" text="{LOCATION}'da {AGAINST} grubundan {VICTIM}'e karşı zaferin küçük bir başarı değildi. Sırada ne var?" />
+		<string id="blcdlgLkEBky" text="{LOCATION} yakınlarında grubumuzdan {VICTIM}'e karşı şanslıydın. Bu şans bugün seni kurtarmayacak." />
+		<string id="blcdlg2keNxj" text="Bizim tarafımızdan {VICTIM}'ı {LOCATION}'da yenmeniz bir tesadüftü. Gerçekte ne kadar zayıf olduğunuzu görmeye hazır olun." />
+		<string id="blcdlgocNfe4" text="Bizim taraftan {VICTIM} üzerinde {LOCATION} yakınlarındaki zaferinizi duydum. Hakkaniyetli bir mücadeleydi ve iyi iş çıkardınız." />
+		<string id="blcdlgWhi3FI" text="Bizim taraftan {VICTIM}'a karşı {LOCATION}'daki zaferiniz hepimiz için gurur verici bir andı. İyi oynadınız." />
+		<string id="blcdlgd1giqT" text="Bizim hizibimizden {VICTIM}'ı {LOCATION} yakınlarında yendiniz. Bu küçük bir başarı değildi, ama şimdi benimle karşı karşıyasınız." />
+		<string id="blcdlghImsI5" text="Bizim hizibimizden {VICTIM} üzerinde {LOCATION}'daki zaferiniz etkileyiciydi. Bunu tekrar yapabilir misiniz merak ediyorum." />
+		<string id="blcdlgtFnEXr" text="{AGAINST} tarafından {VICTIM}'ı {LOCATION} yakınlarında yendiğinizi duydum. Kendini beğenme - bana karşı farklı bir hikaye olacak." />
+		<string id="blcdlgghkkVv" text="{AGAINST} tarafından {VICTIM}'a karşı {LOCATION}'daki sözde zaferiniz sonuncusu olacak. Kendinizi hazırlayın." />
+		<string id="blcdlg0JKdZv" text="{AGAINST} tarafından {VICTIM} üzerinde {LOCATION} yakınlarındaki zaferiniz becerikliydi. Bakalım bu dövüşle nasıl başa çıkacaksınız." />
+		<string id="blcdlgiO8LIM" text="{AGAINST} tarafından {VICTIM}'a karşı {LOCATION}'daki başarınızı duydum. Bana aynı gücü göster." />
+		<string id="blcdlgBpNU0u" text="{AGAINST} tarafından {VICTIM}'ı {LOCATION} yakınlarında yendiniz. Bu bir kaza değildi, ama bu başarıyı tekrarlayabilir misiniz?" />
+		<string id="blcdlgrrDYLC" text="{AGAINST} tarafından {VICTIM} üzerinde {LOCATION}'daki zaferiniz küçük bir başarı değildi. Şimdi sınırlarınızı test edelim." />
+		<string id="blcdlgbgGNxR" text="Bizim hizibimizden {VICTIM} üzerinde {LOCATION} yakınlarındaki zaferiniz etkileyiciydi. Belki bundan bir şeyler öğrenmişsinizdir." />
+		<string id="blcdlgrPIVCo" text="Bizim hizibimizden {VICTIM}'a karşı {LOCATION}'daki zaferinizde bile hayranlık duyulacak bir şey göremiyorum." />
+		<string id="blcdlghkIRrn" text="Bizim taraftan {VICTIM} üzerinde {LOCATION} yakınlarındaki zaferinizi duydum. İyi mücadele ettiniz ve becerinizin bir kanıtı." />
+		<string id="blcdlgpRRxhK" text="Bizim hizibimizden {VICTIM}'a karşı {LOCATION}'daki başarınız bize gurur veriyor. Aferin savaşçı." />
+		<string id="blcdlgC1OIgo" text="Bizim hizibimizden {VICTIM} üzerinde {LOCATION} yakınlarındaki zaferiniz etkileyiciydi. Bakalım bu performans seviyesini koruyabilecek misiniz." />
+		<string id="blcdlgiufCMY" text="Bizim tarafımızdan {VICTIM}'ı {LOCATION}'da alt etmek küçük bir iş değildi. İvmeyi koruyun." />
+		<string id="blcdlgBqlLHT" text="{AGAINST} tarafından {VICTIM} üzerinde {LOCATION} yakınlarındaki zaferiniz etkileyiciydi. Belki bundan bir şeyler öğrenmişsinizdir." />
+		<string id="blcdlgdG2yb2" text="{AGAINST} tarafından {VICTIM}'a karşı {LOCATION}'da zar zor sıyrıldınız. Bir dahaki sefere bu kadar şanslı olmayacaksınız." />
+		<string id="blcdlga2FA4U" text="{AGAINST} tarafından {VICTIM} üzerinde {LOCATION} yakınlarındaki zaferinizi duydum. İyi mücadele ettiniz ve becerinizin bir kanıtı." />
+		<string id="blcdlg8nwuwu" text="{AGAINST} tarafından {VICTIM}'a karşı {LOCATION}'daki zaferiniz ilham verici bir güç gösterisiydi. Tebrikler." />
+		<string id="blcdlgWLoJDJ" text="{AGAINST} tarafından {VICTIM} üzerinde {LOCATION} yakınlarındaki zaferiniz etkileyiciydi. Bakalım bu performans seviyesini koruyabilecek misiniz." />
+		<string id="blcdlgHzkXuL" text="{AGAINST} tarafından {VICTIM}'ı {LOCATION}'da yenmek iyi bir başlangıçtı. Şimdi bana başka neler yapabildiğini göster." />
+		<string id="blcdlgUnXjJj" text="Sayıca fazla olmanıza rağmen, {LOCATION} yakınlarında grubumuzdan {VICTIM}'e bile yenildiniz. Şimdi daha iyisini yapacağınızı ne düşündürüyor?" />
+		<string id="blcdlgmAB4kr" text="{LOCATION}'da grubumuzdan {VICTIM}'i yenmeniz bir tesadüftü. Bugün bu kadar şanslı olmayacaksın." />
+		<string id="blcdlgdXA0Qr" text="{LOCATION} yakınlarında grubumuzdan {VICTIM}'e yenildiğini duydum. Utanılacak bir şey yok, ama belki bugün kendini telafi edersin." />
+		<string id="blcdlgLILGpg" text="{LOCATION}'da grubumuzdan {VICTIM}'e yenilmen talihsizdi. Endişelenme, tekrar dengeyi bulacaksın." />
+		<string id="blcdlgZ1JrV1" text="Ezici bir güce sahip olmanıza rağmen, {LOCATION} yakınlarında grubumuzdan {VICTIM}'e yenildiniz. Bakalım bu dövüşle nasıl başa çıkacaksınız." />
+		<string id="blcdlgYuE58v" text="{LOCATION}'da grubumuzdan {VICTIM}'e yenilmen, hala öğrenecek çok şeyin olduğunu gösteriyor. Bakalım gelişti mi." />
+		<string id="blcdlgEN60fk" text="Avantajlarınıza rağmen, {LOCATION} yakınlarında {AGAINST} grubundan {VICTIM}'i bile yenemediniz. Acınası bir gösteri." />
+		<string id="blcdlgPluEd2" text="{LOCATION}'da {AGAINST} grubundan {VICTIM}'i yenememek, zayıflıklarınızı ortaya koyuyor. Bu sefer farklı olmayacak." />
+		<string id="blcdlgXka3l4" text="{LOCATION} yakınlarında {AGAINST} grubundan {VICTIM} tarafından alt edildiğini duydum. Endişelenme - bugün yeni bir şans." />
+		<string id="blcdlgnfeQ2Y" text="{LOCATION}'da {AGAINST} grubundan {VICTIM}'e yenilmen, en iyilerin bile düşebileceğini gösteriyor. Bana neler öğrendiğini göster." />
+		<string id="blcdlgXMigSp" text="Şans sizden yana olmasına rağmen, {LOCATION} yakınlarında {AGAINST} grubundan {VICTIM}'e yenildiniz. Umarım bundan ders çıkarmışsındır." />
+		<string id="blcdlgcC5tQK" text="{LOCATION}'da {AGAINST} grubundan {VICTIM}'i yenmek kolay bir iş değildi, ama daha da yüksek bahislerle tekrar yapabilir misin?" />
+		<string id="blcdlgCGozuc" text="Sayısal avantajınız göz önüne alındığında, {LOCATION} yakınlarında grubumuzdan {VICTIM}'e yenilmeniz beklenmedikti." />
+		<string id="blcdlgd6aVwV" text="Üstün sayılara sahip olmanıza rağmen, {LOCATION}'da grubumuzdan {VICTIM} size değerli bir ders verdi. Sizden daha fazlasını bekliyorum." />
+		<string id="blcdlg8zI9zl" text="{LOCATION} yakınlarında grubumuzdan {VICTIM}'e yenildiğinizi duydum. Utanılacak bir şey yok, ama belki bu deneyimden ders çıkarırsınız." />
+		<string id="blcdlgziUj9G" text="{LOCATION}'da grubumuzdan {VICTIM}'e yenilmen, değerini azaltmaz. Bu, gelişmeye giden bir basamak." />
+		<string id="blcdlgKHGZex" text="Sayılarınız göz önüne alındığında, {LOCATION} yakınlarında grubumuzdan {VICTIM}'e yenilmeniz şaşırtıcıydı." />
+		<string id="blcdlgMAF36t" text="{LOCATION}'da grubumuzdan {VICTIM}'e yenildiniz. Bakalım bu sefer işleri nasıl halledeceksiniz." />
+		<string id="blcdlgrTMqpb" text="Sayısal avantajınız göz önüne alındığında, {LOCATION} yakınlarında {AGAINST} grubundan {VICTIM}'e yenilmeniz beklenmedikti." />
+		<string id="blcdlgvKazam" text="Şans sizden yana olmasına rağmen, {LOCATION}'da {AGAINST} grubundan {VICTIM} sizi alt etti. Bu sefer daha iyisini beklemeyin." />
+		<string id="blcdlg8zQXoX" text="{LOCATION} yakınlarında {AGAINST} grubundan {VICTIM}'e yenildiğinizi duydum. Utanılacak bir şey yok, ama belki bu deneyimden ders çıkarırsınız." />
+		<string id="blcdlgdp1XE8" text="{LOCATION}'da {AGAINST} grubundan {VICTIM}'e yenilmek bir gerilemeydi. Bakalım bundan ne kazandınız." />
+		<string id="blcdlgaMXzsE" text="Sayılarınız göz önüne alındığında, {LOCATION} yakınlarında {AGAINST} grubundan {VICTIM}'e yenilmeniz şaşırtıcıydı." />
+		<string id="blcdlggV5FXW" text="{LOCATION}'da {AGAINST} grubundan {VICTIM}'e yenildiniz. O zamandan beri bir şeyler öğrendiğinize inanıyorum." />
+		<string id="blcdlgkO0i33" text="Açık ve net bir şekilde, grubumuzdan {VICTIM} sizi {LOCATION} yakınlarında yendi. Bu sefer bahaneniz olmayacak." />
+		<string id="blcdlgCFVF9t" text="Bizim grubumuzdan {VICTIM}'e {LOCATION}'da açık ve net bir şekilde yenildin. Artık başarısızlıklarından kaçma." />
+		<string id="blcdlgyIeigp" text="Bizim grubumuzdan {VICTIM}'in seni {LOCATION} yakınlarında yendiğini duydum. Temiz bir dövüştü ve yenilgide utanılacak bir şey yok." />
+		<string id="blcdlguX5ieX" text="Bizim grubumuzdan {VICTIM}'e {LOCATION}'da yenilmende bile onurluydun. Bu ruhu koru." />
+		<string id="blcdlgSCsBfe" text="Bizim grubumuzdan {VICTIM}'e {LOCATION} yakınlarında yenildin. Adil bir yenilgi. Bakalım bugün nasıl bir performans sergileyeceksin." />
+		<string id="blcdlg2W0EPz" text="Bizim grubumuzdan {VICTIM}'e {LOCATION}'da yenilmek zayıf olduğun anlamına gelmez, ama ayağa kalkma zamanı." />
+		<string id="blcdlgRjCErS" text="{AGAINST} grubundan {VICTIM}'e {LOCATION} yakınlarında yenildin. Dürüstçe. Tekrar yenilginin tadına bakmaya hazır ol." />
+		<string id="blcdlgK0yAa3" text="{AGAINST} grubundan {VICTIM}'e {LOCATION}'da yenilmek ilk hatandı. Bundan geri dönüş yok." />
+		<string id="blcdlgTWtLhS" text="{AGAINST} grubundan {VICTIM}'e karşı {LOCATION} yakınlarında yenildiğini duydum. Adil bir savaştı, ama bugün yeni bir şans." />
+		<string id="blcdlgKWAEuw" text="{AGAINST} grubundan {VICTIM}'e {LOCATION}'da aldığın yenilgi direncini gösterdi. Bunu boşa harcama." />
+		<string id="blcdlgc2BQfV" text="{AGAINST} grubundan {VICTIM}'e karşı {LOCATION} yakınlarında adil bir dövüşte yenildin. O zamandan beri kendini geliştirip geliştirmediğini görelim." />
+		<string id="blcdlg12oSjU" text="{AGAINST} grubundan {VICTIM}'e {LOCATION}'da yenilmek son değildi. Ne kadar büyüdüğünü görelim." />
+		<string id="blcdlgx1pQM2" text="Açık ve net bir şekilde, grubumuzdan {VICTIM} seni {LOCATION} yakınlarında yendi. Bu sefer bahanen olmayacak." />
+		<string id="blcdlgx5iQhR" text="Bizim grubumuzdan {VICTIM}'i {LOCATION}'da yenemedin. Bugün daha kolay olmayacak." />
+		<string id="blcdlgHryLDo" text="Bizim grubumuzdan {VICTIM}'in seni {LOCATION} yakınlarında yendiğini duydum. Temiz bir dövüştü ve yenilgide utanılacak bir şey yok." />
+		<string id="blcdlgB9rQcb" text="Yenilgiye uğramasına rağmen, grubumuzdan {VICTIM} {LOCATION}'da yeteneğini gösterdi. Bakalım sen daha iyisini yapabilecek misin." />
+		<string id="blcdlg14xEIw" text="Bizim grubumuzdan {VICTIM}'e {LOCATION} yakınlarında yenildin. Adil bir yenilgi. Bakalım bugün nasıl bir performans sergileyeceksin." />
+		<string id="blcdlgys0R4c" text="{VICTIM}'e karşı {LOCATION}'da aldığın yenilgi, gözlerini açtı. Bakalım bundan ders almış mısın?" />
+		<string id="blcdlgaQrQCl" text="{AGAINST} grubundan {VICTIM}'e {LOCATION} yakınlarında yenildin. Dürüstçe. Tekrar yenilginin tadına bakmaya hazır ol." />
+		<string id="blcdlgszWD5g" text="Tüm gücüne rağmen, {AGAINST} grubundan {VICTIM} seni {LOCATION}'da alt etti. Farklı bir sonuç bekleme." />
+		<string id="blcdlg6y4Ieg" text="{AGAINST} grubundan {VICTIM}'e karşı {LOCATION} yakınlarında yenildiğini duydum. Adil bir savaştı, ama bugün yeni bir şans." />
+		<string id="blcdlgqWccpT" text="{AGAINST} grubundan {VICTIM}'e {LOCATION}'da yenilmek kolay değildi. Ama endişelenme - bugün yeni bir başlangıç." />
+		<string id="blcdlgHHpN5f" text="{AGAINST} grubundan {VICTIM}'e karşı {LOCATION} yakınlarında adil bir dövüşte yenildin. O zamandan beri kendini geliştirip geliştirmediğini görelim." />
+		<string id="blcdlgQCu2eA" text="Şans senden yana olmasına rağmen, {AGAINST} grubundan {VICTIM} seni {LOCATION}'da alt etti. Bu sefer daha iyisini yapabilir misin?" />
+		<string id="blcdlgFes1xv" text="Bizim grubumuzdan {VICTIM}'e {LOCATION} yakınlarında yenilmen beklenmedikti. Belki de onları küçümsedin." />
+		<string id="blcdlg4l6zLG" text="Bizim grubumuzdan {VICTIM}'e {LOCATION}'da yenilmek zayıflık gösterdi. Bu sefer daha iyisini yapacağına güveniyorum." />
+		<string id="blcdlgaVgnk5" text="Bizim tarafımızdan {VICTIM}'e {LOCATION} yakınlarında yenildiğini duydum. Utanılacak bir şey yok, ama bakalım nasıl toparlanacaksın." />
+		<string id="blcdlglT08ez" text="{VICTIM}'e {LOCATION}'da yenilmen talihsiz bir olaydı. Ama herkes tökezler - bakalım toparlanabilecek misin." />
+		<string id="blcdlgrrE6B5" text="Bizim grubumuzdan {VICTIM}'e {LOCATION} yakınlarında yenilmen şaşırtıcıydı. Bakalım durumu değiştirebilecek misin." />
+		<string id="blcdlgVt76yX" text="{LOCATION}'da {VICTIM} tarafından gafil avlandın. O zamandan beri ne kadar öğrendiğini göster bana." />
+		<string id="blcdlgbyxDC3" text="{AGAINST} grubundan {VICTIM}'e {LOCATION} yakınlarında yenilmen beklenmedikti. Belki de onları küçümsedin." />
+		<string id="blcdlgwE5pMI" text="{LOCATION}'da {AGAINST}'dan {VICTIM}'e yenilmek koymuş olmalı. Bu sefer sonucun değişmesini bekleme." />
+		<string id="blcdlgYWaPHD" text="{LOCATION} yakınlarında {AGAINST}'dan {VICTIM}'e yenildiğini duydum. Utanılacak bir şey yok, ama bakalım nasıl toparlanacaksın." />
+		<string id="blcdlgpThUjp" text="{LOCATION}'da {AGAINST}'dan {VICTIM}'e yenilmek yutulması zor bir haptı. Ancak bugün yeni bir fırsat." />
+		<string id="blcdlgsVViAS" text="{LOCATION} yakınlarında {AGAINST}'dan {VICTIM}'e yenilgin şaşırtıcıydı. Bakalım işleri tersine çevirebilecek misin." />
+		<string id="blcdlgEwnUbB" text="{LOCATION}'da {AGAINST}'dan {VICTIM}'e karşı alınan bu yenilgi beklenmedikti. Bugün daha iyisini yapabilir misin?" />
+		<string id="blcdlgCeYjyz" text="{LOCATION} yakınlarında hizbimizden {VICTIM}'e yenildin. Böyle bir başarısızlığın mazereti yok - bir dahaki sefere merhamet bekleme." />
+		<string id="blcdlgPjvIOk" text="{LOCATION}'da hizbimizden {VICTIM}'e yenilgin sadece bir yenilgi değil, aynı zamanda bir dersti. Bu şansı boşa harcama." />
+		<string id="blcdlg1glltJ" text="{LOCATION} yakınlarında hizbimizden {VICTIM}'e yenildiğini duydum. Zor bir yenilgi, ama hepimizin kötü günleri olur. Bakalım bugün nasıl bir performans sergileyeceksin." />
+		<string id="blcdlgRgwIr2" text="Şampiyonlar bile bazen kaybeder. {LOCATION}'da hizbimizden {VICTIM}'e yenilgin insan olduğunu gösteriyor. Yükselişini görelim." />
+		<string id="blcdlg5iD1zn" text="{LOCATION} yakınlarında hizbimizden {VICTIM}'e yenildin. Adil bir dövüştü. Bir sonrakinde nasıl yapacağını merak ediyorum." />
+		<string id="blcdlg1VkXH8" text="{LOCATION}'da hizbimizden {VICTIM}'e adil bir kayıp. Bir dahaki sefere daha hazırlıklı olup olmadığını göreceğiz." />
+		<string id="blcdlgeR58C3" text="{LOCATION} yakınlarında {AGAINST}'dan {VICTIM}'e yenildin. Böyle kaybetmek acı verici olmalı. Bir dahaki sefere daha iyi bir sonuç bekleme." />
+		<string id="blcdlgEaInm3" text="{LOCATION}'da {AGAINST}'dan {VICTIM}'e yenilmek, düşüşünün sadece başlangıcıydı. Aynısından daha fazlasına hazırlan." />
+		<string id="blcdlgSQ7WRM" text="{LOCATION} yakınlarında {AGAINST}'dan {VICTIM}'e yenildiğini duydum. Yazık oldu. Yine de sana saygı duyuyorum. Bakalım bugün işleri tersine çevirebilecek misin." />
+		<string id="blcdlgsrXWow" text="{LOCATION}'da {AGAINST}'dan {VICTIM}'e yenilgin seni tanımlamıyor. Şimdi nasıl performans göstereceğini görmek için sabırsızlanıyorum." />
+		<string id="blcdlg38u0Xs" text="{LOCATION} yakınlarında {AGAINST}'dan {VICTIM}'e yenildin. Zorlu bir maçtı, ama belki bugün daha hazırlıklı olursun." />
+		<string id="blcdlg4bXNI9" text="{LOCATION}'da {AGAINST}'dan {VICTIM}'e karşı alınan bu yenilgi, yenilmez olmadığını gösteriyor. Bakalım işleri tersine çevirebilecek misin." />
+		<string id="blcdlg86RMTB" text="{LOCATION} yakınlarında her türlü avantaja rağmen {VICTOR}'a karşı aptal gibi kaybettin! Ve şimdi farklı bir sonuç umarak karşımda duruyorsun? Acınası." />
+		<string id="blcdlguTeUS4" text="{LOCATION}'da {VICTOR}'a karşı aldığın acıklı yenilgi hala herkesin aklında. Ve bana karşı bir şansın olduğunu mu düşünüyorsun? Saçma." />
+		<string id="blcdlgitxTXY" text="{LOCATION} yakınlarında {VICTOR}'a yenildiğini duydum. Şans senden yana olsa bile, senin günün değildi. Umarım bundan kurtulursun." />
+		<string id="blcdlgCTdCbK" text="{LOCATION}'da {VICTOR}'a yenilgin beni de dahil olmak üzere birçok kişiyi şaşırttı. En iyiler bile tökezler. Güçlü kal." />
+		<string id="blcdlg9BVRBe" text="Haberler hızlı yayılır—ezici gücüne rağmen {LOCATION}'da {VICTOR}'a karşı kaybettin. Şans dengesizdir, değil mi?" />
+		<string id="blcdlgnypV97" text="Demek {LOCATION}'da {VICTOR}'a karşı yenilgi öyküleri doğru. Kader en güçlü olanlara bile acımasız olabilir." />
+		<string id="blcdlgbL9NcR" text="{LOCATION}'da {VICTOR}'a karşı aldığın son yenilgi seni savunmasız bıraktı. Belki bu görüşme... aydınlatıcı olur." />
+		<string id="blcdlg9sVtPz" text="{LOCATION}'da {VICTOR}'a karşı yaptığın gaf seni açığa çıkardı. Acaba bu sefer şansın değişecek mi?" />
+		<string id="blcdlgDFLJkO" text="{LOCATION} yakınlarında {VICTOR}'a yenilmiş olsan da, stratejik konumun güçlü kalıyor. Mevcut durumumuzdan nasıl karşılıklı yarar sağlayabileceğimizi görüşelim." />
+		<string id="blcdlgu4VRdF" text="{LOCATION}'da {VICTOR}'a karşı aldığın yenilgiye rağmen, hala toparlanma potansiyeli var. Nasıl birlikte çalışabileceğimizi görelim." />
+		<string id="blcdlgSeiJVz" text="{LOCATION}'da {VICTOR}'a yenildiğin haberi hızla yayıldı. Savaş zamanlarında, talih hızla değişebilir. Nasıl yeniden toparlanmayı planlıyorsun?" />
+		<string id="blcdlghNGK7r" text="Herkes {LOCATION}'da {VICTOR}'a karşı yenilginden bahsediyor. Bu gibi zamanlar genellikle beklenmedik ittifaklara yol açar. Sen ne dersin?" />
+		<string id="blcdlgBmQDdl" text="Bu kadar ezici bir üstünlükle nasıl kaybediyorsun? {LOCATION}'da {VICTOR}'a karşı yenilgin alemin dilindeydi. Gerçek bir gaf." />
+		<string id="blcdlgK3GvcX" text="{LOCATION}'da {VICTOR}'a karşı büyük başarısızlığın herkesi güldürdü. Başka bahanen var mı?" />
+		<string id="blcdlg0JRNJs" text="{LOCATION}'da, özellikle de tüm avantajlarına rağmen {VICTOR}'a yenilmek koymuş olmalı. En iyiler bile tökezler. Tekrar yükseleceğine inanıyorum." />
+		<string id="blcdlg6KS7Au" text="{LOCATION}'da {VICTOR}'a karşı aldığın yenilgi talihsizdi, ancak en güçlülerin bile tökezlediğinin bir hatırlatıcısı. İyileşeceksin." />
+		<string id="blcdlgm9Aiyw" text="Her avantaja rağmen {LOCATION} yakınlarında {VICTOR}'a yenildin. Belki de hiçbir gücün yenilmez olmadığı dersi." />
+		<string id="blcdlgPvRgY8" text="{LOCATION}'da {VICTOR}'a karşı aldığın yenilgi, kimsenin yenilmez olmadığını gösteriyor. Belki de stratejini yeniden değerlendirmenin zamanı gelmiştir." />
+		<string id="blcdlgvijBuD" text="{LOCATION} yakınlarında {VICTOR}'a karşı direnemedin bile. Şimdi de benimle yüzleşebileceğini mi düşünüyorsun? Gülünç." />
+		<string id="blcdlgUpubqN" text="{LOCATION}'da {VICTOR}'a karşı utanç verici yenilginden sonra bana karşı durmaya mı cüret ediyorsun? Aptalca." />
+		<string id="blcdlgvk6Zhb" text="{LOCATION} yakınlarında {VICTOR}'a karşı aldığın yenilgiyi duydum. Şansın yaver gitmedi, yine de savaştın. Bu cesarete saygı duyuyorum." />
+		<string id="blcdlgulsUQw" text="{LOCATION}'da {VICTOR}'a karşı aldığın yenilgi bir zafer olmayabilir, ancak cesaretini kanıtladı. Savaşmaya devam et." />
+		<string id="blcdlgZNB7EI" text="{LOCATION}'da {VICTOR}'a karşı yenildin. Sayıca az veya manevra olarak alt edilmiş, görünen o ki büyükler bile düşebilir." />
+		<string id="blcdlgmab0bM" text="{LOCATION}'da {VICTOR}'a karşı alınan yenilgi çok uzaklara yayıldı. En güçlü ordular bile tökezleyebilir." />
+		<string id="blcdlgNzgzVT" text="Sayıca az olmana rağmen, {LOCATION}'da {VICTOR}'a karşı aldığın yenilgi gücünü azaltmıyor. Mevcut çatışmamız ikimiz için de fırsatlar sunuyor." />
+		<string id="blcdlgLshqJq" text="{LOCATION}'da {VICTOR} tarafından yenilgiye uğratılmış olsan da, kendi meselelerimizi halletmek için bir şans görüyorum. Dikkatlice." />
+		<string id="blcdlgnVVaOp" text="{LOCATION} yakınlarında {VICTOR}'a karşı aldığın son yenilgi, bizim lehimize olabilir. Bu gidişatı nasıl lehimize çevirebileceğimizi araştıralım mı?" />
+		<string id="blcdlgjgrchP" text="{LOCATION}'da {VICTOR}'a karşı alınan yenilgi, strateji için yeni kapılar açıyor. Birlikte daha fazlasını başarabileceğimize inanıyorum." />
+		<string id="blcdlg7ZRgVk" text="{LOCATION}'da {VICTOR}'a karşı aldığın yenilgi haberi bana ulaştı. Bu belirsiz zamanlarda ittifaklar hızla değişebilir. Bir sonraki hamlen ne?" />
+		<string id="blcdlg72qIkL" text="{LOCATION}'da {VICTOR}'a karşı alınan yenilgi, bu savaşın gidişatını değiştiriyor. İleriye dönük planın ne?" />
+		<string id="blcdlgRasuVb" text="{LOCATION}'da {VICTOR}'a karşı aldığın yenilgi, şansın yaver gitmese bile, utanç vericiydi. Benim hünerime asla yetişemeyeceğinin bir başka nedeni." />
+		<string id="blcdlgSRI0tz" text="{LOCATION}'da {VICTOR}'a nasıl yenildiğin, benden ne kadar aşağıda olduğunu kanıtlıyor. Yerini hatırla." />
+		<string id="blcdlgXnCTcJ" text="{LOCATION} yakınlarında {VICTOR}'a karşı aldığın yenilgi talihsizdi. Şansın yaver gitmediğini biliyorum, ama yerinde durarak cesaret gösterdin." />
+		<string id="blcdlgbipZNd" text="{LOCATION}'da {VICTOR}'a karşı aldığın yenilgiye rağmen, çabana saygı duyuyorum. En büyükler bile düşer. Güçlü kal." />
+		<string id="blcdlgzAFx96" text="{LOCATION} yakınlarında {VICTOR}'a karşı yenildiğin söyleniyor. Talihsiz, ancak üstün güçlere yenilmekte utanılacak bir şey yok." />
+		<string id="blcdlgljAO7x" text="{LOCATION}'da {VICTOR}'a karşı aldığın yenilgi kaydedildi. En yetenekliler bile zaman zaman tökezler." />
+		<string id="blcdlg8SrY7m" text="Bütün avantajlara sahipken bir grup pis haydut grubuna yenildin! İnanamıyorum. Gerçekten bu kadar beceriksiz misin? Bir daha karşılaşırsak seni ezerim." />
+		<string id="blcdlgrkTNaq" text="Böyle bir yağmacı grubuna yenilmek mi? Üstün güçlerin varken bile. İşlerin kolay olmadığını biliyorum, ama düşüşte olup olmadığını merak etmemek elde değil." />
+		<string id="blcdlgpQ2hMc" text="Avantajlıyken bir grup aşağılık yağmacıya yenilmek nasıl bir duygu? En büyükler bile bazen düşer, ama bu yenilgi bambaşkaydı." />
+		<string id="blcdlglJJ5Zs" text="Savaşta bile yağmacılara yenilmek utanç verici. Çabuk toparlansan iyi edersin, yoksa müttefikler arasında alay konusu olursun." />
+		<string id="blcdlgPDX0zn" text="Özellikle savaş zamanında o yağmacılara yenilmene şaşırdım. Belki de daha büyük endişelerle dikkatin dağılmıştı?" />
+		<string id="blcdlgxkEVHk" text="Yağmacılara yenilmek ideal değil, özellikle de savaş nedeniyle kaynaklar kıt olduğunda. Umarım genel kampanyanızı etkilemez." />
+		<string id="blcdlg160hHQ" text="Bir grup değersiz serseriye yenildin ve sayıca üstün müydün? Kesinlikle acınası. Bir avuç düzensiz haydutla bile baş edemedin." />
+		<string id="blcdlgBruZap" text="Kuvvetlerin yerindeyken bile haydutlara mı yenildin? Şansın senden yana olmadığını biliyorum, ama umarım bundan ders çıkarırsın." />
+		<string id="blcdlgsdpQtj" text="Üstünlük sende olmasına rağmen, bir grup yağmacı seni alt etti. Ağır bir kayıp, ama belki toparlanırsın." />
+		<string id="blcdlg0SD76d" text="Demek kalabalık bir haydut çetesine, sayıca üstünlük onlardayken yenildin? Aptallığın bedelini ödedin. Ne kadar utanmış hissettiğini tahmin edebiliyorum." />
+		<string id="blcdlglPP5qI" text="Sayıca az olmadan haydutlara mı yenildin? Anlaşılması zor. Belki dikkatin dağılmıştır. Daha iyisini yapabileceğini biliyorum." />
+		<string id="blcdlg0FpXU8" text="Haydutlara yenilmek, çoğu insanın övündüğü bir şey değildir. Ama bazen şans senden yana olmaz." />
+		<string id="blcdlgpM4u5A" text="Savaş zamanında yağmacıların elinde yenilmen endişe verici. Düşmanlarımızın kullanabileceği zayıflıklara işaret ediyor." />
+		<string id="blcdlgockfDN" text="Özellikle savaş durumu göz önüne alındığında, yağmacılara yenilmeniz beni endişelendiriyor. Savunmalarımızı güçlendirmeye odaklanalım." />
+		<string id="blcdlgFgPBtA" text="Yağmacılara yenilmek ideal olmasa da, savaş zamanında bakış açımızı korumamız çok önemli. Stratejilerimizi yeniden değerlendirmemiz gerekecek." />
+		<string id="blcdlgnrnJ78" text="Senin tarafında ezici bir güç olmadan yağmacılara yenilmek mi? Ne kadar acınacı. Bu yenilgi, kolayca silemeyeceğin bir zayıflık işareti." />
+		<string id="blcdlglTMZ8v" text="Haydutlara yenilmek üzücü, özellikle de durum göründüğü kadar kötü değilken. Ama senin içinde daha fazla savaş olduğunu biliyorum." />
+		<string id="blcdlg4olR5w" text="Görünüşe göre haydutlar seni kötü bir zamanda yakaladı. Eminim bundan ders çıkaracaksın, ama hazmı zor bir yenilgi." />
+		<string id="blcdlgtq4Qxk" text="{HERO}, {ME}'ye karşı {TIMES} kez savaştı ve savaşı kazandı. Bu artık bir onur meselesi." />
+		<string id="blcdlgWG8eGb" text="{HERO}, {ME}'ye karşı {TIMES} kez savaştı ve savaşı kazandı. Kahraman olmanın bir anlamı yok!" />
+		<string id="blcdlgM0q5jl" text="Doğuştan gelen bir servet arzusu tarafından yönlendirilen bir kişilik." />
+		<string id="blcdlgEWNWpg" text="{ME}'nin sevilen birisi {HERO} tarafından idam edildi. Bunun hesabı sorulmalı." />
+		<string id="blcdlgCzeMaF" text="Doğuştan gelen bir ilgi veya takdir arayışı içinde olan bir kişilik." />
+		<string id="blcdlgCi3H6j" text="Doğuştan gelen bir güç veya liderlik arayışı içinde olan bir kişilik." />
+		<string id="blcdlgdA3El2" text="Sebep yok" />
+		<string id="blcdlgeIcWoYU" text="İhanetinin bedelini ödeyeceksin. Bir daha yollarımızın kesişmemesi için dua et." />
+		<string id="blcdlge9C60MS" text="Dostluğa ihaneti seçtin. Yaşamanı sağlamaya kararımı değiştirmeden önce git." />
+		<string id="blcdlgePUFa1Y" text="İnfaz ciddi bir eylemdir. Sonuçlarıyla yüzleşmeye hazır olduğunu umuyorum." />
+		<string id="blcdlgeectnIz" text="Kılıç çekmesek bile, ihanetini asla affetmeyeceğim. Şimdi git." />
+		<string id="blcdlgedzuwVq" text="Barış bulabileceğimizi sanmıştım, ama eylemlerin bu umudu yok etti. Şimdi git." />
+		<string id="blcdlgeLg5fTY" text="Söylenecek bir şey kalmadı. Yürü git." />
+		<string id="blcdlgeidWdXh" text="Sana karşı sabrım kalmadı. Kontrolü kaybetmeden önce git." />
+		<string id="blcdlgeMBMQRO" text="Müttefik olduğumuzu sanıyordum, ama öyle olmadığı anlaşılıyor. Hoşça kal." />
+		<string id="blcdlge2wAIIf" text="Bu konuşma bitti. Şimdi git." />
+		<string id="blcdlgecCVyIt" text="Senden nefret ediyorum. Bu tartışma bitti." />
+		<string id="blcdlgeH64AFR" text="Savaş bizi ayırıyor, ama hala daha iyi günler umuyorum. Hoşça kal." />
+		<string id="blcdlgei47DHI" text="Koşullar gereği düşmanız. Bu konuşmayı burada bitirelim." />
+		<string id="blcdlgejNtjwE" text="İntikamımız hızlı olacak. Şimdi git." />
+		<string id="blcdlgeHZl1iZ" text="Zaferin buruktu, ama aramızdaki hiçbir şeyi değiştirmiyor. Hoşça kal." />
+		<string id="blcdlgevlKWql" text="Şartlarımızı tekrar değerlendirmeden önce git." />
+		<string id="blcdlgeJ0Ratm" text="Biliyorsun.. Tek bir zafer kaderini değiştirmez. Bu savaş daha bitmedi. Şimdi git." />
+		<string id="blcdlgeeIXTqn" text="Kendini layık bir düşman olarak kanıtladın. Hoşça kal." />
+		<string id="blcdlgeEVD77g" text="Kazanılan bir savaş, biten bir savaş değildir. Bir dahaki sefere kadar, gözümün önünden kaybol." />
+		<string id="blcdlge7WgiQD" text="Tutsakların senin elinde uzun süre kalmayacak. Şimdi git." />
+		<string id="blcdlgekV9de8" text="Umarım tutsaklarına onurlu davranırsın. Şimdi beni yalnız bırak." />
+		<string id="blcdlge2mXX1Y" text="Esir alınanlar bu savaşta sadece birer piyon. Başka söyleyecek bir şeyim yok." />
+		<string id="blcdlgeRdTMTG" text="Tutsakların sana merhamet satın almayacak. Şimdi git." />
+		<string id="blcdlgeeOA5Nf" text="Bu savaş arkadaşları esirlere dönüştürüyor. Başka söyleyecek bir şeyim yok." />
+		<string id="blcdlgeSlMama" text="Savaş esirler alır, ama kimseyi esirgemez. Şimdi git." />
+		<string id="blcdlgeKkrH1P" text="Eğer kaldıysa, topraklarına geri dön. Şimdi gözümün önünden kaybol." />
+		<string id="blcdlgeJpetO6" text="Cesurca savaştın, ama bugün senin günün değil. Şimdi git." />
+		<string id="blcdlgevXavJq" text="Bu savaşı kaybettin. Hala yapabilirken yürü git." />
+		<string id="blcdlgeOjz27Z" text="Yenilgin hiçbir şeyi değiştirmez. Tekrar karşılaşacağız." />
+		<string id="blcdlgek1XuMo" text="Kaybetmek seni tanımlamaz, ama hala savaş halindeyiz. Hoşça kal." />
+		<string id="blcdlge2IfqLm" text="Kaybettin, ama savaş devam ediyor. Şimdi git." />
+		<string id="blcdlgesoXB9e" text="Söyleyecek başka bir şeyim yok. Elveda." />
+		<string id="blcdlgFjr23a" text="{LOCATION} yakınlarında bizim saflardan {VICTIM}’i küçük düşürdün, ama bu seni yenilmez yapmaz. Sıradaki rakibin benim." />
+		<string id="blcdlgE0Bvlk" text="Demek {LOCATION}’da bizim taraftan {VICTIM}’i ezdin? Kör bir kılıç bile bazen kesebilir. Keskinliğini test edelim." />
+		<string id="blcdlgYgHQXh" text="{LOCATION} yakınlarında bizim taraftan {VICTIM}’i yendiğini duydum. Adil bir dövüş olmuş olmalı. Güçlendiğini görmek güzel." />
+		<string id="blcdlgf4s6Ud" text="{LOCATION}’da bizim saflardan {VICTIM}’e karşı kazandığın zafer hak edilmişti. Böyle devam edersen aramızda efsane olacaksın." />
+		<string id="blcdlgxaXuLx" text="{LOCATION} yakınlarında bizim taraftan {VICTIM}’e karşı zafer kazandın. Bakalım bu galibiyet serisini sürdürebilecek misin?" />
+		<string id="blcdlg3KBkh4" text="{LOCATION}’da {VICTIM}’i yenmen etkileyiciydi, ama tek bir savaş bir savaşçıyı tanımlamaz. Bana yeteneğini göster." />
+		<string id="blcdlgX3Z5XO" text="{LOCATION} yakınlarında {AGAINST}’tan {VICTIM}’i ezdin. Bugün şanslıydın ama şans sonsuza kadar sürmez. Benimle yüzleş bakalım." />
+		<string id="blcdlgXsDBzv" text="{LOCATION}’da {AGAINST}’tan {VICTIM} sana yenildi ha? Çok rahat olma—beni yenmek o kadar kolay değil." />
+		<string id="blcdlg0bFr5J" text="Duyduğuma göre {LOCATION} yakınlarında {AGAINST}’tan {VICTIM}’i mağlup etmişsin. Çetin bir savaş olmuş olmalı. Şimdi becerilerimizi test edelim mi?" />
+		<string id="blcdlgly6YAE" text="{LOCATION}’da {AGAINST}’tan {VICTIM}’e karşı kazandığın zafer gücünü kanıtlıyor. Sıradaki rakibin olmaktan onur duyarım." />
+		<string id="blcdlgitQTTm" text="{LOCATION} yakınlarında {AGAINST}’tan {VICTIM}’e karşı zafer kazandın. Gerçek bir savaşçı asla dinlenmez—yeni bir meydan okumaya hazır mısın?" />
+		<string id="blcdlgiBgi9Z" text="{LOCATION}’da {VICTIM}’i yendin ama bir savaşçının yolu hiç bitmez. Bakalım gerçekten kılıcını bilemiş misin?" />
+	</strings>
+</base>

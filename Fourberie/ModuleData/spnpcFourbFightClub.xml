@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+<!--Encounters-->
+  <NPCCharacter id="fb_fighter4_aserai"
+                default_group="Infantry"
+                level="26"
+                name="{=TBCtxt}Aserai Champion"
+                culture="Culture.aserai"
+                is_hidden_encyclopedia="true">
+                
+    <face>
+      <!-- <face_key_template value="BodyProperty.fighter_aserai" /> -->
+            <BodyProperties version="4"
+                      weight="1"
+                      build="1"
+                      key="0039500E402C3487284768569843676A7697CAB69D4277B88B32E6885C8C68C200FEE6030F57649600000000000000000000000000000000000000004FFC8082" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="250" />
+      <skill id="Riding"
+             value="70" />
+      <skill id="OneHanded"
+             value="200" />
+      <skill id="TwoHanded"
+             value="200" />
+      <skill id="Polearm"
+             value="200" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.armored_baggy_trunks" />
+      <equipment slot="Gloves"
+                 id="Item.guarded_padded_vambrace" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter4_empire"
+                default_group="Infantry"
+                level="26"
+                name="{=TBCtxt}Imperial Champion"
+                culture="Culture.empire"
+                is_hidden_encyclopedia="true">
+    <face>
+      <!-- <face_key_template value="BodyProperty.fighter_empire" /> -->
+            <BodyProperties version="4"
+                      weight="0.0131"
+                      build="0.5"
+                      key="001BB808D000378D1D7664876753888A7577866254C69643C4B647398C95A03700C706030CA7497300000000000000000000000000000000000000003B947002" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="250" />
+      <skill id="Riding"
+             value="70" />
+      <skill id="OneHanded"
+             value="200" />
+      <skill id="TwoHanded"
+             value="200" />
+      <skill id="Polearm"
+             value="200" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.armored_baggy_trunks" />
+      <equipment slot="Gloves"
+                 id="Item.guarded_padded_vambrace" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter4_khuzait"
+                default_group="Infantry"
+                level="26"
+                name="{=TBCtxt}Khuzait Champion"
+                culture="Culture.khuzait"
+                is_hidden_encyclopedia="true">
+    <face>
+      <!-- <face_key_template value="BodyProperty.fighter_khuzait" /> -->
+            <BodyProperties version="4"
+                      weight="0.0217"
+                      build="0.6124"
+                      key="000DE00FD0FC25407D777D68ADDDC24B984A5ABE70FF0B9B5994488A3546A7A700F906030F781A9800000000000000000000000000000000000000002DFC9002" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="250" />
+      <skill id="Riding"
+             value="70" />
+      <skill id="OneHanded"
+             value="200" />
+      <skill id="TwoHanded"
+             value="200" />
+      <skill id="Polearm"
+             value="200" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.armored_baggy_trunks" />
+      <equipment slot="Gloves"
+                 id="Item.guarded_padded_vambrace" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter4_sturgia"
+                default_group="Infantry"
+                level="26"
+                name="{=TBCtxt}Sturgian Champion"
+                culture="Culture.sturgia"
+                is_hidden_encyclopedia="true">
+    <face>
+      <!-- <face_key_template value="BodyProperty.fighter_sturgia" /> -->
+            <BodyProperties version="4"
+                      weight="0.4926"
+                      build="0.6935"
+                      key="000A380408B429C93899B7794B6A695665699AA77787CB9838A86A7287414A8600BA76030BBDA48700000000000000000000000000000000000000005D7C60C2" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="250" />
+      <skill id="Riding"
+             value="70" />
+      <skill id="OneHanded"
+             value="200" />
+      <skill id="TwoHanded"
+             value="200" />
+      <skill id="Polearm"
+             value="200" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.fur_skirt" />
+      <equipment slot="Gloves"
+                 id="Item.guarded_padded_vambrace" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter4_vlandia"
+                default_group="Infantry"
+                level="26"
+                name="{=TBCtxt}Vlandian Champion"
+                culture="Culture.vlandia"
+                is_hidden_encyclopedia="true">
+    <face>
+      <!-- <face_key_template value="BodyProperty.fighter_vlandia" /> -->
+            <BodyProperties version="4"
+                      weight="0.349"
+                      build="0.4573"
+                      key="000594081DB4270C8A4A69D79AB55433284869976A84897DA5A6D65B4741488800A756030AA5878C0000000000000000000000000000000000000000675430C2" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="250" />
+      <skill id="Riding"
+             value="70" />
+      <skill id="OneHanded"
+             value="200" />
+      <skill id="TwoHanded"
+             value="200" />
+      <skill id="Polearm"
+             value="200" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.armored_baggy_trunks" />
+      <equipment slot="Gloves"
+                 id="Item.guarded_padded_vambrace" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter4_battania"
+                default_group="Infantry"
+                level="26"
+                name="{=TBCtxt}Battanian Champion"
+                culture="Culture.battania"
+                is_hidden_encyclopedia="true">
+    <face>
+      <!-- <face_key_template value="BodyProperty.fighter_battania" /> -->
+            <BodyProperties version="4"
+                      weight="0.1588"
+                      build="0.8348"
+                      key="000AC004D1000A030147856A1775D9A78A6BC781688A4A0D96698A97874D487600BD26030B71876500000000000000000000000000000000000000003B7C30C2" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="250" />
+      <skill id="Riding"
+             value="70" />
+      <skill id="OneHanded"
+             value="200" />
+      <skill id="TwoHanded"
+             value="200" />
+      <skill id="Polearm"
+             value="200" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.battania_light_armor_e" />
+      <equipment slot="Gloves"
+                 id="Item.guarded_padded_vambrace" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  
+
+
+  <NPCCharacter id="fb_fighter3_aserai"
+                default_group="Infantry"
+                level="21"
+                name="{=TBCtxt}Aserai Warrior"
+                culture="Culture.aserai"
+                is_hidden_encyclopedia="true">
+                
+    <face>
+      <face_key_template value="BodyProperty.fighter_aserai" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="150" />
+      <skill id="Riding"
+             value="70" />
+      <skill id="OneHanded"
+             value="150" />
+      <skill id="TwoHanded"
+             value="150" />
+      <skill id="Polearm"
+             value="150" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.baggy_trunks" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter3_empire"
+                default_group="Infantry"
+                level="21"
+                name="{=TBCtxt}Imperial Warrior"
+                culture="Culture.empire"
+                is_hidden_encyclopedia="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="150" />
+      <skill id="Riding"
+             value="70" />
+      <skill id="OneHanded"
+             value="150" />
+      <skill id="TwoHanded"
+             value="150" />
+      <skill id="Polearm"
+             value="150" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.baggy_trunks" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter3_khuzait"
+                default_group="Infantry"
+                level="21"
+                name="{=TBCtxt}Khuzait Warrior"
+                culture="Culture.khuzait"
+                is_hidden_encyclopedia="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="150" />
+      <skill id="Riding"
+             value="70" />
+      <skill id="OneHanded"
+             value="150" />
+      <skill id="TwoHanded"
+             value="150" />
+      <skill id="Polearm"
+             value="150" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.baggy_trunks" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter3_sturgia"
+                default_group="Infantry"
+                level="21"
+                name="{=TBCtxt}Sturgian Warrior"
+                culture="Culture.sturgia"
+                is_hidden_encyclopedia="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="150" />
+      <skill id="Riding"
+             value="70" />
+      <skill id="OneHanded"
+             value="150" />
+      <skill id="TwoHanded"
+             value="150" />
+      <skill id="Polearm"
+             value="150" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.baggy_trunks" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter3_vlandia"
+                default_group="Infantry"
+                level="21"
+                name="{=TBCtxt}Vlandian Warrior"
+                culture="Culture.vlandia"
+                is_hidden_encyclopedia="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="150" />
+      <skill id="Riding"
+             value="70" />
+      <skill id="OneHanded"
+             value="150" />
+      <skill id="TwoHanded"
+             value="150" />
+      <skill id="Polearm"
+             value="150" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.baggy_trunks" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter3_battania"
+                default_group="Infantry"
+                level="21"
+                name="{=TBCtxt}Battanian Warrior"
+                culture="Culture.battania"
+                is_hidden_encyclopedia="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_battania" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="150" />
+      <skill id="Riding"
+             value="70" />
+      <skill id="OneHanded"
+             value="150" />
+      <skill id="TwoHanded"
+             value="150" />
+      <skill id="Polearm"
+             value="150" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.baggy_trunks" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+
+
+
+  <NPCCharacter id="fb_fighter2_aserai"
+                default_group="Infantry"
+                level="16"
+                name="{=TBCtxt}Aserai Survivor"
+                culture="Culture.aserai"
+                is_hidden_encyclopedia="true">
+                
+    <face>
+      <face_key_template value="BodyProperty.fighter_aserai" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="100" />
+      <skill id="Riding"
+             value="70" />
+      <skill id="OneHanded"
+             value="100" />
+      <skill id="TwoHanded"
+             value="100" />
+      <skill id="Polearm"
+             value="100" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.baggy_trunks" />
+      <equipment slot="Gloves"
+                 id="Item.eastern_wrapped_armguards" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter2_empire"
+                default_group="Infantry"
+                level="16"
+                name="{=TBCtxt}Imperial Survivor"
+                culture="Culture.empire"
+                is_hidden_encyclopedia="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="100" />
+      <skill id="Riding"
+             value="70" />
+      <skill id="OneHanded"
+             value="100" />
+      <skill id="TwoHanded"
+             value="100" />
+      <skill id="Polearm"
+             value="100" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.baggy_trunks" />
+      <equipment slot="Gloves"
+                 id="Item.eastern_wrapped_armguards" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter2_khuzait"
+                default_group="Infantry"
+                level="16"
+                name="{=TBCtxt}Khuzait Survivor"
+                culture="Culture.khuzait"
+                is_hidden_encyclopedia="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_khuzait" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="100" />
+      <skill id="Riding"
+             value="70" />
+      <skill id="OneHanded"
+             value="100" />
+      <skill id="TwoHanded"
+             value="100" />
+      <skill id="Polearm"
+             value="100" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.baggy_trunks" />
+      <equipment slot="Gloves"
+                 id="Item.eastern_wrapped_armguards" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter2_sturgia"
+                default_group="Infantry"
+                level="16"
+                name="{=TBCtxt}Sturgian Survivor"
+                culture="Culture.sturgia"
+                is_hidden_encyclopedia="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_sturgia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="100" />
+      <skill id="Riding"
+             value="70" />
+      <skill id="OneHanded"
+             value="100" />
+      <skill id="TwoHanded"
+             value="100" />
+      <skill id="Polearm"
+             value="100" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.baggy_trunks" />
+      <equipment slot="Gloves"
+                 id="Item.eastern_wrapped_armguards" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter2_vlandia"
+                default_group="Infantry"
+                level="16"
+                name="{=TBCtxt}Vlandian Survivor"
+                culture="Culture.vlandia"
+                is_hidden_encyclopedia="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="100" />
+      <skill id="Riding"
+             value="70" />
+      <skill id="OneHanded"
+             value="100" />
+      <skill id="TwoHanded"
+             value="100" />
+      <skill id="Polearm"
+             value="100" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.baggy_trunks" />
+      <equipment slot="Gloves"
+                 id="Item.eastern_wrapped_armguards" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter2_battania"
+                default_group="Infantry"
+                level="16"
+                name="{=TBCtxt}Battanian Survivor"
+                culture="Culture.battania"
+                is_hidden_encyclopedia="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_battania" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="100" />
+      <skill id="Riding"
+             value="70" />
+      <skill id="OneHanded"
+             value="100" />
+      <skill id="TwoHanded"
+             value="100" />
+      <skill id="Polearm"
+             value="100" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.baggy_trunks" />
+      <equipment slot="Gloves"
+                 id="Item.ragged_armwraps" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+
+
+
+  <NPCCharacter id="fb_fighter1_aserai"
+                default_group="Infantry"
+                level="11"
+                name="{=TBCtxt}Aserai Maggot"
+                culture="Culture.aserai"
+                is_hidden_encyclopedia="true">
+                
+    <face>
+      <!-- <BodyProperties version="4"
+                      age="33.18"
+                      weight="0.0126"
+                      build="0.2767"
+                      key="0005040006001413000000000005001000000000000000000000000000000000000A5BA5010000000000000000000000000000000000000000000000007800C1" />
+      <BodyPropertiesMax version="4"
+                         age="66.47"
+                         weight="0.333"
+                         build="0.3767"
+                         key="001CFC0FD50034D4FFFFFFFFFFFAFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFF000AABAA01FFFFFF000000000000000000000000000000000000000001408101" /> -->
+       <face_key_template
+		value="BodyProperty.villager_aserai" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="50" />
+      <skill id="Riding"
+             value="10" />
+      <skill id="OneHanded"
+             value="50" />
+      <skill id="TwoHanded"
+             value="50" />
+      <skill id="Polearm"
+             value="50" />
+      <skill id="Bow"
+             value="10" />
+      <skill id="Crossbow"
+             value="10" />
+      <skill id="Throwing"
+             value="10" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.baggy_trunks" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter1_empire"
+                default_group="Infantry"
+                level="11"
+                name="{=TBCtxt}Imperial Maggot"
+                culture="Culture.empire"
+                is_hidden_encyclopedia="true">
+    <face>
+      <!-- <BodyProperties version="4"
+                      age="39.19"
+                      weight="0.1661"
+                      build="0.0462"
+                      key="000504000600141300000000000200100000000000000000000000000000000000012BA6010000000000000000000000000000000000000000000000000000C1" />
+      <BodyPropertiesMax version="4"
+                         age="64.26"
+                         weight="0.6145"
+                         build="0.6767"
+                         key="001CFC0FD50034D4FFFFFFFFFFF9FFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFF000A9BA90AFFFFFF000000000000000000000000000000000000000000F08101" /> -->
+       <face_key_template
+		value="BodyProperty.villager_empire" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="50" />
+      <skill id="Riding"
+             value="10" />
+      <skill id="OneHanded"
+             value="50" />
+      <skill id="TwoHanded"
+             value="50" />
+      <skill id="Polearm"
+             value="50" />
+      <skill id="Bow"
+             value="10" />
+      <skill id="Crossbow"
+             value="10" />
+      <skill id="Throwing"
+             value="10" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.baggy_trunks" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter1_khuzait"
+                default_group="Infantry"
+                level="11"
+                name="{=TBCtxt}Khuzait Maggot"
+                culture="Culture.khuzait"
+                is_hidden_encyclopedia="true">
+    <face>
+      <!-- <BodyProperties version="4"
+                      age="35.93"
+                      weight="0.1323"
+                      build="0.1794"
+                      key="000504000600141300000000000900100000000000000000000000000000000000039BA9030000000000000000000000000000000000000000000000007800C1" />
+      <BodyPropertiesMax version="4"
+                         age="66.44"
+                         weight="0.3564"
+                         build="0.2794"
+                         key="001CFC0FD50034D4FFFFFFFFFFFEFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFF0003EBAE01FFFFFF000000000000000000000000000000000000000000008101" /> -->
+       <face_key_template
+		value="BodyProperty.villager_khuzait" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="50" />
+      <skill id="Riding"
+             value="10" />
+      <skill id="OneHanded"
+             value="50" />
+      <skill id="TwoHanded"
+             value="50" />
+      <skill id="Polearm"
+             value="50" />
+      <skill id="Bow"
+             value="10" />
+      <skill id="Crossbow"
+             value="10" />
+      <skill id="Throwing"
+             value="10" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.baggy_trunks" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter1_sturgia"
+                default_group="Infantry"
+                level="11"
+                name="{=TBCtxt}Sturgian Maggot"
+                culture="Culture.sturgia"
+                is_hidden_encyclopedia="true">
+    <face>
+      <!-- <BodyProperties version="4"
+                      age="31.47"
+                      weight="0"
+                      build="0.1767"
+                      key="0005040006001413000000000000001000000000000000000000000000000000000A0BAB010000000000000000000000000000000000000000000000000000C1" />
+      <BodyPropertiesMax version="4"
+                         age="68.73"
+                         weight="0.357"
+                         build="0.3767"
+                         key="001CFC0FD50034D4FFFFFFFFFFF5FFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFF000A5BA601FFFFFF000000000000000000000000000000000000000000788101" /> -->
+       <face_key_template
+		value="BodyProperty.villager_sturgia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="50" />
+      <skill id="Riding"
+             value="10" />
+      <skill id="OneHanded"
+             value="50" />
+      <skill id="TwoHanded"
+             value="50" />
+      <skill id="Polearm"
+             value="50" />
+      <skill id="Bow"
+             value="10" />
+      <skill id="Crossbow"
+             value="10" />
+      <skill id="Throwing"
+             value="10" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.baggy_trunks" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter1_vlandia"
+                default_group="Infantry"
+                level="11"
+                name="{=TBCtxt}Vlandian Maggot"
+                culture="Culture.vlandia"
+                is_hidden_encyclopedia="true">
+    <face>
+      <!-- <BodyProperties version="4"
+                      age="32.61"
+                      weight="0.1413"
+                      build="0.1767"
+                      key="0005040006001413000000000007001000000000000000000000000000000000000A7BA701000000000000000000000000000000000000000000000000C800C1" />
+      <BodyPropertiesMax version="4"
+                         age="65.95"
+                         weight="0.3769"
+                         build="0.3767"
+                         key="001CFC0FD50034D4FFFFFFFFFFF7FFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFF000A7BA701FFFFFF000000000000000000000000000000000000000000C88101" /> -->
+       <face_key_template
+		value="BodyProperty.villager_vlandia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="50" />
+      <skill id="Riding"
+             value="10" />
+      <skill id="OneHanded"
+             value="50" />
+      <skill id="TwoHanded"
+             value="50" />
+      <skill id="Polearm"
+             value="50" />
+      <skill id="Bow"
+             value="10" />
+      <skill id="Crossbow"
+             value="10" />
+      <skill id="Throwing"
+             value="10" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.baggy_trunks" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter1_battania"
+                default_group="Infantry"
+                level="11"
+                name="{=TBCtxt}Battanian Maggot"
+                culture="Culture.battania"
+                is_hidden_encyclopedia="true">
+    <face>
+      <!-- <BodyProperties version="4"
+                      age="39.28"
+                      weight="0.1502"
+                      build="0.1767"
+                      key="0005040006001413000000000007001000000000000000000000000000000000000A7BA701000000000000000000000000000000000000000000000000F000C1" />
+      <BodyPropertiesMax version="4"
+                         age="64.25"
+                         weight="0.3234"
+                         build="0.3767"
+                         key="001CFC0FD50034D4FFFFFFFFFFF9FFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFF000A9BAA01FFFFFF000000000000000000000000000000000000000000C88101" /> -->
+       <face_key_template
+		value="BodyProperty.villager_battania" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="50" />
+      <skill id="Riding"
+             value="10" />
+      <skill id="OneHanded"
+             value="50" />
+      <skill id="TwoHanded"
+             value="50" />
+      <skill id="Polearm"
+             value="50" />
+      <skill id="Bow"
+             value="10" />
+      <skill id="Crossbow"
+             value="10" />
+      <skill id="Throwing"
+             value="10" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.baggy_trunks" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+
+  <NPCCharacter id="fb_fighter_dummy"
+                default_group="Infantry"
+                level="26"
+                name="{=TBCtxt}Pit Fighter"
+                culture="Culture.empire"
+                is_hidden_encyclopedia="true">
+                
+    <face>
+       <face_key_template value="BodyProperty.villager_empire" />
+    </face>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+        <equipment slot="Leg" id="Item.leather_shoes" />                
+      </EquipmentRoster>
+       <EquipmentRoster>
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+        <equipment slot="Leg" id="Item.leather_shoes" />                
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="fb_fighter_dummy_shield"
+                default_group="Infantry"
+                level="26"
+                name="{=TBCtxt}Dummy Fighter"
+                culture="Culture.aserai"
+                is_hidden_encyclopedia="true">
+                
+    <face>
+      <face_key_template value="BodyProperty.fighter_aserai" />
+    </face>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+        <equipment slot="Item0" id="Item.aserai_axe_2_t2_blunt" />                      
+        <equipment slot="Item1" id="Item.adarga" />                                    
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+
+ </NPCCharacters>

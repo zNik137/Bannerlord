@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/20...Schema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Français" />
+  </tags>
+  <strings>
+
+ <!--Common-->
+    <string id="FoCom01" text="D'accord" />
+    <string id="FoCom02" text="Oui" />
+    <string id="FoCom03" text="Non, c'est bon" />
+    <string id="FoCom06" text="C'est votre jour de chance" />
+
+
+    <string id="FoCom09" text="Partir" />
+    <string id="FoCom10" text="Pas vraiment" />
+
+    <string id="FoCom12" text="Arrêter et partir" />
+    <string id="FoCom13" text="Précédent" />
+
+
+    <string id="FoCom16" text="Vous devez patienter {WAITCHCK} jour(s)." />
+    <string id="FoCom17" text="En réalité..." />
+
+    <string id="FoCom19" text="Il vous faut au moins {LIMITREL} en relation avec {GANGLEAD}." />
+    <string id="FoCom20" text="Arrêtez tout !" />
+    <string id="FoCom21" text="Bien" />
+    <string id="FoCom22" text="Attaquer !" />
+    <string id="FoCom23" text="La ville est assiégée." />
+    <string id="FoCom24" text="Merde !" />
+    <string id="FoCom25" text="Pas maintenant" />
+    <string id="FoCom26" text="Attendez une seconde !" />
+    <string id="FoCom27" text="Bien sûr" />
+    <string id="FoCom28" text="Génial !" />
+    <string id="FoCom29" text="C'est parti !" />
+    <string id="FoCom30" text="Qu'est-ce que..." />
+    <string id="FoCom31" text="Deniers insuffisants" />
+    <string id="FoCom32" text="Revenez quand vous aurez l'argent." />  
+
+    <string id="FoCom34" text="Combattre !" />
+    <string id="FoCom35" text="Vous pouvez engager des agents pour vous aider dans votre projet. Jusqu'ici tout semble bien se passer... " />
+    <string id="FoCom36" text="Il est temps de partir..." />
+
+    <string id="FoCom38" text="Votre tentative a été découverte et a échoué. Vous décidez de quitter la ville avant d'avoir de sérieux problèmes..." />
+    <string id="FoCom39" text="Un proche..." />
+    <string id="FoCom40" text="Maintenant il est vraiment temps de quitter cette ville." />
+
+    <string id="FoCom43" text="C'est parti pour le gros" />   
+
+    <string id="FoCom45" text="Retour au centre ville" />   
+  
+    <string id="FoCom47" text="Uniquement disponible dans les villes neutres et ennemies." /> 
+ 
+    <string id="FoCom49" text="Vous créez de la rancoeur avec le clan {CLAN} !" />   
+
+    <string id="FoCom52" text="Vous n'êtes pas vraiment connu ici... (augmenter votre taux de criminalité, vos compétences en Roublardise ou votre réseau criminel)" />    
+    <string id="FoCom53" text="Appelez des gars pour vous faire entrer. " />  
+    <string id="FoCom54" text="Cachez vous ici un moment" />    
+    <string id="FoCom55" text="Le chef local a accepté de vous laisser rester... Ce n'est pas le meilleur endroit de Calradia mais c'est parfait pour se cacher ou même tendre une embuscade... " />  
+    <string id="FoCom56" text="Vous avez assignez {COMPA} à un nouveau rôle." />    
+    <string id="FoCom57" text="Choisir un compagnon" />  
+    <string id="FoCom58" text="Continuer" />    
+    <string id="FoCom59" text="Pas applicable" />   
+    <string id="FoCom60" text="Coûts en points: " />    
+    <string id="FoCom61" text="S'installer !" />  
+    <string id="FoCom62" text="Souhaitez vous emménager dans cette ville ?" />    
+    <string id="FoCom63" text="Nouveau Territoire" />  
+    
+    <string id="FoCom65" text="Pas disponible dans une armée." />  
+    <string id="FoCom66" text="Vous êtes blessé." />    
+    <string id="FoCom67" text="Opportunité de Guerre" />  
+    <string id="FoCom68" text="Abandonner la mission de Fourberie." />    
+    <string id="FoCom69" text="Les rues sont à moi !" />  
+    <string id="FoCom70" text="Vous n'avez pas assez de deniers pour conclure le marché" />    
+
+    <string id="FoCom72" text="Indisponible dans les villes rebelles" />    
+  
+    <string id="FoCom75" text="Vous n'avez toujours pas fini le boulot ! " />  
+    <string id="FoCom76" text="Vous disposez déjà d'un partenariat dans cette ville." />    
+
+    <string id="FoCom78" text="Clan de niveau 2 requis." />  
+    <string id="FoCom79" text="Confirmer" />    
+    <string id="FoCom80" text="Pas utile" />  
+    <string id="FoCom81" text="Oui" />    
+    <string id="FoCom82" text="Non" />  
+    <string id="FoCom83" text=" tentative(s) de " />      
+    <string id="FoCom84" text="Clan de niveau 2 requis !" />  
+    <string id="FoCom85" text="Vous avez besoin d'un repaire de malfrats !" />  
+    <string id="FoCom86" text="Vous avez besoin d'un exécutant !" />  
+    <string id="FoCom87" text="Votre exécutant a besoin de rester dans votre base de malfrats !" />  
+    <string id="FoCom88" text="Pas assez d'or, il faut au minimum {COST}{GOLD_ICON} pour débuter cet accord" />          
+    <string id="FoCom89" text="Dépossédez les chefs de gangs de leurs territoires pour vous y installer." />      
+    <string id="FoCom90" text="Vous n'avez toujours pas terminé l'activité criminelle {JOB}: {TYPE}" />     
+    <string id="FoCom91" text="Activités criminelles" />       
+    <string id="FoCom92" text="Vous avez besoin de 40+ relation avec au moins un chef de gang dans cette ville." />        
+    <string id="FoCom93" text="Les revenus de cette ville sont bas. Vous avez besoin de 40+ relation avec le PLUS puissant chef de gang de cette ville pour maximiser vos profits." />   
+
+<!--Criminal Ent-->
+
+    <string id="FoCrimEnt01" text="Obtenu {GAIN}{GOLD_ICON} grâce à votre entreprise criminelle." />  
+    <string id="FoCrimEnt02" text="Vous n'avez pas pu payer le bonus de mise à niveau !" />    
+    <string id="FoCrimEnt03" text="Vous payez {INV}{GOLD_ICON} pour le bonus d'amélioration !" />  
+    <string id="FoCrimEnt04" text="L'exécutant a collecté {TOTVIL} points." />    
+    <string id="FoCrimEnt05" text="Pas de compagnon" />  
+    <string id="FoCrimEnt06" text="Vous devez laisser un compagnon dans la ville où vous avez emménagé, {BASE}." />    
+    <string id="FoCrimEnt07" text="Disponible uniquement dans votre base principale à {BASE}." />  
+    <string id="FoCrimEnt08" text="Pas de bonus" />    
+    <string id="FoCrimEnt09" text="+ {INV}    coût hebdomadaires  -{COST}" />  
+    <string id="FoCrimEnt10" text="Bonus d'amélioration hebdomadaire" />      
+    <string id="FoCrimEnt11" text="Le Bonus de Sélection sera annulé si vous ne pouvez pas payer !" />  
+    <string id="FoCrimEnt12" text="Nouvelle affaire" />    
+    <string id="FoCrimEnt13" text="Voulez-vous démarrer une entreprise de contrebande ? " />  
+    <string id="FoCrimEnt14" text="Souhaitez vous investir {COST} deniers dans cette nouvelle affaire ?" />   
+    <string id="FoCrimEnt15" text="Voulez-vous demander à tous ces gars de partir ?" />  
+    <string id="FoCrimEnt16" text="Notre territoire" />    
+    <string id="FoCrimEnt17" text="Voulez vous dépenser {LIMITVIL} points d'infamie afin d'ordonner à vos gars de reconquérir la ou les zones perdues ? Ou vous pouvez vous en occuper personnellement si vous préférez." />  
+    <string id="FoCrimEnt18" text="Uniquement disponible dans les villes dans lesquelles vous avez emmenagé." />    
+    <string id="FoCrimEnt19" text="Vos compagnons" />  
+    <string id="FoCrimEnt20" text="Réinitialiser les avantages " />      
+    <string id="FoCrimEnt21" text="Vous avez réinitialiser les avantages de {COMPA}." />  
+    <string id="FoCrimEnt22" text="+3 contrebandiers par partenariat.{newline}Les contrebandiers augmentent considérablement votre profit.{newline}La logistique augmente légèrement votre profit et la capacité maximale de l'entrepôt.{newline}Recevez des marchandises gratuites dans votre entrepôt tous les jours. " />    
+    <string id="FoCrimEnt23" text="Ouvrez les routes de contrebande.{newline}Votre trésorier collectera des deniers sur votre territoire et vos partenariats.{newline}Recevez des marchandises gratuites dans votre entrepôt tous les jours. " />  
+    <string id="FoCrimEnt24" text="+1 ouvrier tous les 5 points en niveau de confort.{newline}Le coût de (Révéler votre bonne fortune) est divisé par deux.{newline}+1 pour les recrutements au sein du repaire par pallier de 10 ouvriers.{newline}Le confort augmentera la capacité maximale du repaire." />   
+    <string id="FoCrimEnt25" text="Ouvrez un lieu de divertissement.{newline}Le profit est basé sur la prospérité de la ville où se situe la base principale.{newline}Débloquez des bonus supplémentaires. " />  
+    <string id="FoCrimEnt26" text="+1 serviteur tous les 5 points en niveau de confort.{newline}Le coût des soins est réduit de moitié.{newline}Recevez un boost de moral lorsque vous entrez dans votre base.{newline}+1 recrutement au sein du repaire par pallier de 10 serviteurs.{newline}Le confort augmentera la capacité maximale du repaire." />    
+    <string id="FoCrimEnt27" text="Ouvrez un lieu de plaisir.{newline}Le profit est basé sur la prospérité de la ville où se situe la base principale.{newline}Débloquez des bonus supplémentaires."  />  
+    <string id="FoCrimEnt28" text="Le niveau de compétence en Roublardise de votre trésorier aura un impact sur le bénéfice global de votre entreprise. Plus c'est haut, mieux c'est !"  />    
+    <string id="FoCrimEnt29" text="Recruter de nouveaux gars chaque semaine.{newline}Basé sur votre territoire + bonus des ouvriers/serviteurs.{newline}S'arrêtera une fois la capacité maximale atteinte.{newline}Le taux hebdomadaire actuel est de +" />  
+    <string id="FoCrimEnt30" text="Le repaire et l'entrepôt seront prêt dans {DAYS} jours" />      
+    <string id="FoCrimEnt31" text="Collecter des marchandises tous les jours.{newline}Influencé par le nombre de partenariats et votre territoire.{newline}S'arrêtera une fois la capacité maximale atteinte.{newline}Le tarif maximal quotidien actuel est de + " />  
+    <string id="FoCrimEnt32" text="Votre exécutant collectera des points d'infamie toutes les semaines.{newline}+1 par partenariat.{newline}+1 par zones communes " />    
+    <string id="FoCrimEnt33" text="Réduira l'impact de la corruption sur votre entreprise pour plus de profit, mais épuisera vos points d'infamie" />  
+    <string id="FoCrimEnt34" text="L'impact de la corruption est déterminé par le niveau de sécurité de la ville où vous avez votre base principale. Un niveau de sécurité élevé n'est pas bon pour une entreprise criminelle." />   
+    <string id="FoCrimEnt35" text="Impossible d'abandonner une ville où vous avez votre base principale." />  
+    <string id="FoCrimEnt36" text="Faites votre base principale" />    
+    <string id="FoCrimEnt37" text="Activé" />  
+    <string id="FoCrimEnt38" text="Desactivé" />    
+    <string id="FoCrimEnt39" text="Entreprise Criminelle" />  
+    <string id="FoCrimEnt40" text="Assigner" />      
+    <string id="FoCrimEnt41" text="Supprimer" />  
+    <string id="FoCrimEnt42" text="Points d'infamie" />    
+    <string id="FoCrimEnt43" text="Le trésorier " />  
+    <string id="FoCrimEnt44" text="Points d'amélioration" />   
+    <string id="FoCrimEnt45" text="Contrebande" />  
+    <string id="FoCrimEnt46" text="Passeur +" />    
+    <string id="FoCrimEnt47" text="Logistique +" />  
+    <string id="FoCrimEnt48" text="Maison de jeux" />    
+    <string id="FoCrimEnt49" text="Ouvrier +" />  
+    <string id="FoCrimEnt50" text="Confort +" />      
+    <string id="FoCrimEnt51" text="Maison close" />  
+    <string id="FoCrimEnt52" text="Serviteur +" />    
+    <string id="FoCrimEnt53" text="Base Principale" />  
+    <string id="FoCrimEnt54" text="L'exécutant" />   
+    <string id="FoCrimEnt55" text="Partenariats" />  
+    <string id="FoCrimEnt56" text="Zones possédées" />    
+    <string id="FoCrimEnt57" text="Reprendre" />  
+    <string id="FoCrimEnt58" text="Points hebdomadaires" />    
+    <string id="FoCrimEnt59x" text="Taux de corruption" />  
+    <string id="FoCrimEnt60" text="Repaire" />      
+    <string id="FoCrimEnt61" text="Entrepôt" />  
+    <string id="FoCrimEnt62" text="Gérer vos compagnons" />    
+    <string id="FoCrimEnt63" text="Territoire" />  
+    <string id="FoCrimEnt64" text="Voir" />   
+    <string id="FoCrimEnt65" text="Revenus estimés" />  
+    <string id="FoCrimEnt66" text="Améliorations" />    
+    <string id="FoCrimEnt67" text="Effets de la corruption" />  
+    <string id="FoCrimEnt68" text="Salaires (Capacité dépassée)" />    
+    <string id="FoCrimEnt69" text="Profit estimé" />  
+    <string id="FoCrimEnt70" text="(Hebdomadaire)" />          
+    <string id="FoCrimEnt71" text="Salle des intrigues" />    
+    <string id="FoCrimEnt72" text="Chefs de gangs" />  
+    <string id="FoCrimEnt73" text="Emissaires" />    
+    <string id="FoCrimEnt74" text="Réseau total" />  
+    <string id="FoCrimEnt75" text="Exécutant total" />              
+    <string id="FoCrimEnt76" text="Registre des rancunes" />             
+    <string id="FoCrimEnt77" text="Le plus puissant" />              
+    <string id="FoCrimEnt78" text="PAS le plus puissant" />     
+    <string id="FoCrimEnt79" text="Obtenu {GAIN}{GOLD_ICON} de vos associés" />  
+    <string id="FoCrimEnt80" text="Obtenu {GAIN}{GOLD_ICON} de vos territoires" />  
+    <string id="FoCrimEnt81" text="Notables" />    
+    <string id="FoCrimEnt82" text="Roublardise: {ROG}  " />         
+    <string id="FoCrimEnt83" text="Tactique: {TAC}" />        
+    <string id="FoCrimEnt84" text="Roublardise: {ROG}  Tactique: {TAC}" />         
+    <string id="FoCrimEnt85" text="Cette ville fait partie de votre territoire" />      
+    <string id="FoCrimEnt86" text="Assignez un membre du clan pour gérer cette ville" />  
+    <string id="FoCrimEnt87" text="Retirez le membre du clan actuel" />      
+    <string id="FoCrimEnt88" text="Voulez-vous ordonner à vos hommes de reconquérir le(s) territoire(s) perdu(s) ? Ou vous pouvez vous en charger personnellement si vous préférez." />       
+    <string id="FoCrimEnt89" text="Niveau de corruption" />   
+    <string id="FoCrimEnt90" text="Réglez le niveau de corruption afin de limiter ce que vous payer aux autorités locales (impact de la corruption).{newline}Le niveau le plus élevé va décroître votre taux de criminalité, les autres niveaux l'augmenteront (hebdomadaire)." />   
+    <string id="FoCrimEnt91" text="Moyen" />   
+    <string id="FoCrimEnt92" text="Faible" />   
+    <string id="FoCrimEnt93" text="Aucun paiement" />   
+    <string id="FoCrimEnt94" text="Elevé" />   
+    <string id="FoCrimEnt95" text="Cette ville fait partie de votre territoire" />   
+    <string id="FoCrimEnt96" text="Vous avez quelques amis à l'intérieur" />   
+
+<!--Scheme Room-->
+
+    <string id="FoSchRm01" text="Choisir une intrigue" />  
+    <string id="FoSchRm01x" text="Choisir une victime" />  
+    <string id="FoSchRm02" text="Pot-de-vin" />    
+    <string id="FoSchRm03" text="Scandale" />  
+    <string id="FoSchRm04" text="Chantage" />    
+    <string id="FoSchRm05" text="Assassinat" />  
+    <string id="FoSchRm06" text="Chef de clan uniquement" />    
+    <string id="FoSchRm07" text="L'influence du clan doit être supérieure à 200 " />  
+    <string id="FoSchRm08" text="{ICON}Vérifiez le résultat de votre intrigue !" />    
+    <string id="FoSchRm09" text="Chantage {GAIN}{GOLD_ICON} de {VICTIM}" />  
+    <string id="FoSchRm10" text="{VICTIM} a accepté la proposition de pot-de-vin et vous demande {AMOUNT} deniers." />      
+    <string id="FoSchRm11" text="Assassiné" />  
+    <string id="FoSchRm12" text="Votre compagnon {HERO} a été assassiné à {SET}! Vos informateurs soupçonnent l'auteur d'appartenir au clan de {KING}..." />    
+    <string id="FoSchRm13" text="Ils vont payer !" />  
+    <string id="FoSchRm14" text="Vous devez affecter un nouveau compagnon au rôle de trésorier !" />    
+    <string id="FoSchRm15" text="Vous devez affecter un nouveau compagnon au rôle d'exécutant !" />  
+    <string id="FoSchRm16" text="Survivant" />    
+    <string id="FoSchRm17" text="Vous avez été la cible d'une tentative d'assassinat. Vous vous êtes bien battu et avez survécu, mais vous avez été gravement blessé ! Vos informateurs soupçonnent l'auteur d'appartenir au clan de  {KING}..." />  
+    <string id="FoSchRm18" text="Votre clan a déjoué un stratagème ! Vos informateurs ont rapporté que le clan {CLAN} est le commanditaire..." />    
+    <string id="FoSchRm19" text="Tentative d'assassinat" />  
+    <string id="FoSchRm20" text="Tentative de chantage" />  
+    <string id="FoSchRm21" text="Faire chanter" />    
+    <string id="FoSchRm22" text="Votre clan est victime de chantage. Vous devez payer {AMOUNT} deniers pour éviter de sérieuses conséquences. Vos informateurs soupçonnent l'auteur d'appartenir au clan de {KING}..." />  
+    <string id="FoSchRm23" text="Ces bâtards !" />  
+    <string id="FoSchRm24" text="Pas question !" />    
+    <string id="FoSchRm25" text="Scandale !" />  
+    <string id="FoSchRm26" text="Votre clan a été touché par un scandale monté de toute pièce, augmentant votre taux de criminalité !" />  
+    <string id="FoSchRm27" text="Votre clan a été touché par un scandale monté de toute pièce et a dû user de son influence pour éviter des conséquences fâcheuses ! Vos informateurs soupçonnent l'auteur d'appartenir au clan de {KING}..." />    
+    <string id="FoSchRm28" text="Tentative de scandale" />  
+    <string id="FoSchRm29" text="Vous devez être ami avec {GANGLEAD}." />  
+    <string id="FoSchRm30" text="Annuler la combine" />    
+    <string id="FoSchRm31" text="Procéder" />  
+    <string id="FoSchRm32" text="Annuler" />  
+    <string id="FoSchRm33" text="Terminer" />    
+    <string id="FoSchRm34" text="Succès {SUCC}% (Covered {COV}%)" />  
+    <string id="FoSchRm35" text="Pénalité de Rancoeur: -{GRU}%" />  
+    <string id="FoSchRm36" text="Votre cible a perdu toute son influence et elle a obtenu -10 loyauté dans les villes qu'elle possède " />    
+    <string id="FoSchRm37" text="Cible perdue " />  
+    <string id="FoSchRm38" text=" Votre cible est morte!" />  
+    <string id="FoSchRm39" text=" Vous n'avez pas payé le montant demandé pour conclure la transaction " />    
+    <string id="FoSchRm40" text=" Vous avez payé " />  
+    <string id="FoSchRm41" text=" et augmenté votre relation avec votre cible " />  
+    <string id="FoSchRm42" text=" Échoué et découvert... " />    
+    <string id="FoSchRm43" text=" Échoué mais pas découvert" />  
+    <string id="FoSchRm44" text=" En cours depuis  {DAYS} jours" />  
+    <string id="FoSchRm45" text="+1% par fief{newline}+5%: Marrié, Enfants, Impulsif{newline}-5%: Prudent" />  
+    <string id="FoSchRm46" text="+1% par fief{newline}+5%: Marrié, Enfants, Impulsif{newline}-5%: Closefisted{newline}-15%: Chef{newline}-20%: Souverain" />    
+    <string id="FoSchRm47" text="+5%: Impulsif{newline}-5%: Prudent, Calculateur{newline}-15%: Chef{newline}-20%: Souverain" />  
+    <string id="FoSchRm48" text="+20%: Or du clan en dessous de 15K{newline}+10%: Or du clan en dessous de 30K{newline}-20%: Honnête{newline}-10%: Or du clan au dessus 30K{newline}-20%: Or du clan au dessus 45K{newline}-40%: Or du clan au dessus 60K" />  
+    <string id="FoSchRm49" text="Développez votre réseau de +20% dans ce royaume pour collecter plus d'informations " />    
+    <string id="FoSchRm50" text="Clans nobles: {NOB}{newline}Mercenaires: {MERC}" />  
+    <string id="FoSchRm51" text="+3% par chef de gang ami.{newline}+5% par partenariat.{newline}+15% par territoire avec un compagnon.{newline}+3% par membre du clan, un par ville. (Territoire exclu)" />  
+    <string id="FoSchRm52" text="Sacrifier la couverture pour une meilleure chance de succès." />    
+    <string id="FoSchRm53" text="Choisissez votre victime" />  
+    <string id="FoSchRm54" text="    Rel: " />  
+    <string id="FoSchRm55" text="Rester " />   
+    <string id="FoSchRm55x" text="{VAL} dans " />  
+    <string id="FoSchRm56" text="Chefs de gangs amis à " />      
+    <string id="FoSchRm57" text="a {EMI} membre(s) du clan" />  
+    <string id="FoSchRm58" text="Vous pouvez laisser un membre du clan dans cette ville pour le bonus d'émissaire " />    
+    <string id="FoSchRm59" text="Partenariats à " />  
+    <string id="FoSchRm60" text="A {COM} companion(s)" />  
+    <string id="FoSchRm61" text="Vous devez laisser un compagnon dans cette ville pour gérer le territoire !" />    
+    <string id="FoSchRm62" text="Votre territoire à " />  
+    <string id="FoSchRm63" text="A un emissaire" />  
+    <string id="FoSchRm64" text="Vous avez {EMI} membres du clan ici mais le bonus d'émissaire est limité à 1 par ville " />    
+    <string id="FoSchRm65" text="Emissaires à " />  
+    <string id="FoSchRm66" text="A {CLAN} clans" />  
+    <string id="FoSchRm67" text="Choisir un Royaume" />    
+    <string id="FoSchRm68" text="Niveau de rancune par clan " />   
+    <string id="FoSchRm69" text="L'échec des intrigues, les raids sur les villages et les caravanes etc. augmenteront le niveau de rancune. Les clans avec une grande rancune peuvent prendre des mesures hostiles contre votre clan. " />       
+    <string id="FoSchRm70" text="Choisir un clan" />  
+    <string id="FoSchRm71" text="Votre territoire" />    
+    <string id="FoSchRm72" text="Abandonner cette ville" />  
+    <string id="FoSchRm73" text="Liste de l'armée" />  
+    <string id="FoSchRm74" text="Détails du propriétaire de l'armée " />    
+    <string id="FoSchRm75" text="Liste des groupes de guerre" />  
+    <string id="FoSchRm76" text="Détails du propriétaire du groupe" />  
+    <string id="FoSchRm77" text="Roublardise: +" />    
+    <string id="FoSchRm78" text="%    Tactique: +" />   
+    <string id="FoSchRm79" text="Déviant: +5%   " />       
+    <string id="FoSchRm80" text="Honnête: -5%   " />  
+    <string id="FoSchRm81" text="Calculateur: +5%   " />    
+    <string id="FoSchRm82" text="Prudent: +5%   " />  
+    <string id="FoSchRm83" text="Audacieux: +5%   " />  
+    <string id="FoSchRm84" text="Cruel: +5%" />    
+    <string id="FoSchRm85" text="Clément: -5%" />  
+    <string id="FoSchRm86" text=" ans      " />  
+    <string id="FoSchRm87" text="Souverain:        " />    
+    <string id="FoSchRm88" text="    Chef:     " />   
+    <string id="FoSchRm89" text="Marié:    " />       
+    <string id="FoSchRm90" text="    Enfants:    " />  
+    <string id="FoSchRm91" text="Calculateur   " />    
+    <string id="FoSchRm92" text="Impulsif   " />  
+    <string id="FoSchRm93" text="Avare   " />  
+    <string id="FoSchRm94" text="Honnête   " />    
+    <string id="FoSchRm95" text="Prudent" />  
+    <string id="FoSchRm96" text="Groupes de guerre: " />  
+    <string id="FoSchRm97" text="Armées: " />    
+    <string id="FoSchRm98" text="Châteaux: " />   
+    <string id="FoSchRm99" text="Villes: " />       
+    <string id="FoSchRm100" text="Clans: " />    
+    <string id="FoSchRm101" text="Sélectionner un clan" />  
+    <string id="FoSchRm102" text="Membres: " />  
+    <string id="FoSchRm103" text="Haut" />    
+    <string id="FoSchRm104" text="Modéré" />  
+    <string id="FoSchRm105" text="Bas" />      	
+    <string id="FoSchRm106" text="Augmente votre relation avec la cible en payant la somme de deniers requise." />       
+    <string id="FoSchRm107" text="L'influence du clan ciblé passe à zéro.{newline}Baisse de -10 loyauté dans toutes leurs villes." />    
+    <string id="FoSchRm108" text="Les deniers de la cible passent à zéro. (seulement la moitié si chef de clan).{newline}Vous allez recevoir une partie de la somme extorquée." />      
+    <string id="FoSchRm109" text="Empoisonné" />    
+    <string id="FoSchRm110" text="La nourriture de votre groupe a été empoisonnée. Vos hommes ont besoin de récupérer et vous avez dû jeter une bonne partie de la nourriture... Vous suspectez {KING}..." />  
+    <string id="FoSchRm111" text="Tentative d'empoisonnement" />  
+    <string id="FoSchRm112" text="Vos hommes ont arrêtés des agents hostiles. Ils essayaient d'empoisonner la nourriture. Le {CLAN} clan semble être derrière cette manigance..." />    
+    <string id="FoSchRm113" text="Saccagé !" />  
+    <string id="FoSchRm114" text="Votre base principale a été mise à sac par un grand groupe de voyous... On raconte que l'assaut a été soutenu par vos ennemis dans {KING}..." />      
+    <string id="FoSchRm115" text="Tentative de mise à sac" />       
+    <string id="FoSchRm116" text="Vos hommes ont réussi à défendre votre base d'un grand groupe de voyous. Le {CLAN} clan semble être derrière cette attaque..." />    
+    <string id="FoSchRm117" text="Empoisonner la nourriture" />    
+    <string id="FoSchRm118" text="50% des troupes du groupe ciblé seront blessées.{newline}50% de la nourriture sera détruite." />    
+    <string id="FoSchRm119" text="La cible doit diriger un groupe" />  
+    <string id="FoSchRm120" text="Le groupe ciblé a été empoisonné" />  
+    <string id="FoSchRm121" text="Réseau des villes" />  
+    <string id="FoSchRm122" text="Votre compagnon {HERO} a été assassiné ! Vos informateurs soupçonnent que l'ordre vient d'un clan de {KING}..." />  
+    <string id="FoSchRm123" text="Les deniers du clan ciblé sont réduits de moitié.{newline}Vous recevrez une partie de la somme extorquée." />        
+
+<!--Main-->
+    <string id="FoMa01" text="Fourberie" />
+    <string id="FoMa02" text="Choisir une fourberie." />
+    <string id="FoMa03" text="Révéler votre bonne fortune." />
+    <string id="FoMa04" text="Soigner vos blessures." />
+    <string id="FoMa05" text="Recruter des bandits." />
+    <string id="FoMa06" text="Avez vous fini de selectionner vos nouvelles troupes ?" />
+    <string id="FoMa07" text="Vous avez engagés beaucoup trop de recrues ! La pègre locale ne vous laissera partir qu'avec {LIMITREC} salopards." />
+    <string id="FoMa08" text="Recruter des bandits" />
+    <string id="FoMa09" text="Recruter des unités de type faction mineure. " />
+    <string id="FoMa10" text="Recruter des unités de type faction mineure." />
+    <string id="FoMa11" text="Vous avez engagés beaucoup trop de recrues ! L'accord se limite à seulement {LIMITREC} troupes." />    
+    <string id="FoMa12" text="Faire un accord criminel. (1 point pour 5 prisonniers donnés)" />    
+    <string id="FoMa13" text="Acceptez vous cet accord ?" />    
+    <string id="FoMa14" text="Les prisonniers de haut rangs ne sont pas acceptés." />    
+    <string id="FoMa15" text="Il vous faut un minimum de 5 prisonnier pour proposer un accord. Les nobles ne sont pas acceptés." />
+    <string id="FoMa16" text="Vous avez gagné {VILLAINY} points" />    
+    <string id="FoMa17" text="Non attendez, oubliez ça." />        
+    <string id="FoMa18" text="Vous recevez +{UP} points d'infamie (a actuellement {CUR} / {LIM} pts)" />        
+
+<!--Scam-->
+    <string id="FoSca01" text="Escroquerie" />
+    <string id="FoSca02" text="Vous arnaquez des locaux." />
+    <string id="FoSca03" text="Vous avez décidé de mettre à un terme à votre action, évitant ainsi la moindre conséquence." />
+    <string id="FoSca04" text="Votre arnaque a été un succès, vous obtenez quelques deniers et améliorez votre compétence Roublardise." />
+    <string id="FoSca05" text="Votre tentative fut un échec total. Les gardes vous ont battu et jetté hors de la ville. Vous perdez également quelques deniers..." />
+    <string id="FoSca06" text="Votre arnaque a été un succès, vous obtenez quleques deniers (ou nourriture) et améliorez vos compétences de roublardise et de charme." />  
+    <string id="FoSca07" text="Votre tentative fut un échec total... Il est temps d'essayer ailleurs..." />      
+
+<!--Tribute-->
+    <string id="FoTri01" text="Imposer un tribut" />
+    <string id="FoTri02" text="Le temps de la récolte" />
+    <string id="FoTri03" text="Le chef de gang {GANGLEAD} a un boulot pour vous. Vous devrez simplement collecter des fonds pour une noble cause... et serez payé en conséquence." />
+    <string id="FoTri04" text="Aimable concours" />
+    <string id="FoTri05" text="{GANGLEAD} se demande si vous pouvez gérer cela vous-même. Peut-être avez-vous besoin d'aide ? Naturellement, le salaire sera divisé par deux !" />
+    <string id="FoTri06" text="Vous arrivez au point de rencontre..." />
+    <string id="FoTri07" text="Vous avez pillé les mercenaires et avez pu trouver les fonds promis... Vous avez tout apporté au chef de gang et reçu votre salaire." />
+    <string id="FoTri08" text="Vous ne voyez pas votre contact mais seulement un groupe de mercenaires !" />
+
+<!--Extortion-->
+    <string id="FoEx01" text="Extorsion de notables" />
+    <string id="FoEx02" text="Le boulot n'est pas fini." />
+    <string id="FoEx03" text="Vous devez aller à {EXTOVILL} et donner une leçon aux locaux." />
+    <string id="FoEx04" text="Le chef de gang {GANGLEAD} souhaite que vous alliez au village voisin de {EXTOVILL}. Les notables locaux sont toujours en retard dans leurs paiements et ont besoin d'apprendre la discipline. Vous pouvez conserver tous les deniers que les notables vous donneront. " />
+    <string id="FoEx05" text="Rencontrez les notables locaux et faites votre travail" />
+    <string id="FoEx06" text="Comme une milice" />
+    <string id="FoEx07" text="Attaquer un village sera considéré comme une déclaration de guerre. Vous avez soudoyé des hommes de la milice pour vous aider. Ils vous ont donné du matériel pour vous déguiser et rester incognito." />
+    <string id="FoEx08" text="L'assaut sera lancé à la nuit tombée..." />
+    <string id="FoEx09" text="Ce fut un dur combat mais les notables ont appris à ne pas gâcher leurs argent..." />
+    <string id="FoEx10" text="Apparemment les notables ont entendu parler de votre visite et ils ont décidé de vous accueillir en conséquence !" />
+    <string id="FoEx11" text="Le village est en train de se faire piller." />
+    <string id="FoEx12" text="Les notables ne vous trouvent aucune utilité, et ont décidé de vous laisser partir. Ils ont pris quelques deniers en compensation. " />
+    <string id="FoEx13" text="Rappel amical" />   
+    <string id="FoEx14" text="Vous étiez censé donner une leçon à ces villageois... pas réduire le village en cendres..." /> 
+    <string id="FoEx15" text="Extorsion de notables terminée." /> 
+    <string id="FoEx16" text="Vous êtes en guerre avec la faction de ce village. Les forcer à vous donner des provisions et des volontaires serait aussi l'occasion de leur donner une bonne leçon." /> 
+    <string id="FoEx17" text="Attaquer un village peut être considéré comme une déclaration de guerre.{newline}Vous laissez vos troupes en réserve et décidez d'une approche de nuit pour rester discret.{newline}En chemin vous convainquez quelques miliciens de vous soutenir (100 deniers chacun, à payer par la suite)..." />      
+    <string id="FoEx18" text="Un de vos amis m’envoie ici pour vous rappeler un accord que vous avez tendance à ne pas respecter..." /> 
+    <string id="FoEx19" text="Un accord unilatéral, vous voulez dire... Écoutez, vous faites partie de ce royaume, ce qui est une honte si vous voulez mon avis, vous devriez plutôt vous concentrer sur la protection de nos intérêts que ceux de ces foutus chefs de gang...[ib:agressive][if:convo_furious]" />          
+    <string id="FoEx20" text="En effet... Mais même si je décide de ne pas réclamer l’argent que vous leur devez, quelqu’un d’autre viendra et ils ne seront probablement pas aussi aimables que je le suis maintenant..." /> 
+    <string id="FoEx21" text="Bien... Vous marqué un point... Mais je ne paierai que la moitié du montant demandé ![ib:agressive][if:convo_furious]" /> 
+    <string id="FoEx22" text="D’accord, j’accepte cela comme preuve de ma... appelons ça de la gentillesse... J’espère que vous l’apprécierez..." /> 
+    <string id="FoEx23" text="Pas d’accord... Payez-moi la totalité du montant maintenant et nous en aurons terminé." /> 
+    <string id="FoEx24" text="Ouais, c'est ça ! Maintenant, vous allez me payer la totalité du montant et vous allez me donner un supplément !" /> 
+    <string id="FoEx25" text="Marché conclu ! Maintenant, si ça ne vous dérange pas, j’ai plus important à faire et vous aussi probablement !" /> 
+    <string id="FoEx26" text="D'accord, voilà l’argent... Ce chef de gang devrait rôtir en enfer ![ib:agressive][if:convo_furious]" /> 
+    <string id="FoEx27" text="Vous le regretterez ![ib:agressive][if:convo_furious]" />  
+    <string id="FoEx28" text="Recevoir {VAL} deniers, relation avec les notables de ce village +2, relation avec le chef de gang -2, pas de pénalité au taux de criminalité" />   
+    <string id="FoEx29" text="Recevoir {VAL} deniers, relation avec les notables de ce village -1, relation avec le chef de gang +4, taux de criminalité +5" />   
+    <string id="FoEx30" text="Recevoir {VAL} deniers et +10 {VAL2}, relation avec les notables de ce village -3, relation avec le chef de gang +4, taux de criminalité +10" />   
+    <string id="FoEx31" text="Comme convenu, vous payer les miliciens qui vous ont soutenus ({INV} survivants...)" />   
+    <string id="FoEx32" text="Un accord unilatéral, vous voulez dire... Pourquoi vous souciez-vous des intérêts de ces putains de chefs de gang... Vous pourriez juste oublier ça et nous laisser tranquille...[ib:agressive][if:convo_furious]" />   
+
+<!--Grand heist-->
+    <string id="FoGrHe01" text="Grand casse" />
+    <string id="FoGrHe02" text="Organiser un casse" />
+    <string id="FoGrHe03" text="Vous discutez avec le chef de gang {GANGLEAD} et estimez ensemble les gains autour de {ESTIPROF} deniers. L'attaque est prévue pour cette nuit !" />
+    <string id="FoGrHe04" text="Rien n'est gratuit en ce bas monde" />
+    <string id="FoGrHe05" text="{GANGLEAD} a ordonné à des voyous de vous épauler... Si toutefois, vous avez besoin de plus de soutien, on vous propose de payer à l'avance {HIREMERC} deniers... Au cas où vous l'auriez oublié, l'estimation était de {ESTIPROF} deniers..." />
+    <string id="FoGrHe06" text="Vous et vos hommes avez trouvé l'endroit parfait pour une embuscade..." />
+    <string id="FoGrHe07" text="Prenez l'argent !" />
+    <string id="FoGrHe08" text="Ils approchent !" />
+
+<!--Gang trial-->
+    <string id="FoGaTr01" text="L'épreuve du gang" />
+    <string id="FoGaTr02" text="Le défi" />
+    <string id="FoGaTr03" text="Le chef de gang {GANGRELA} vous connait assez bien maintenant et accepte le duel. Le combat commencera avant l'aube." />
+    <string id="FoGaTr04" text="Le duel va bientôt commencer." />
+    <string id="FoGaTr05" text="C'était un combat difficile mais vous l'avez fait. Il est maintenant temps de gagner de l'argent facilement... Laissez un compagnon dans la taverne pour récupérer votre argent hebdomadaire. " />
+    <string id="FoGaTr06" text="Il est maintenant temps de faire vos preuves." />
+    <string id="FoGaTr07" text="L'opportunité" />
+    <string id="FoGaTr08" text="{GANGRELA} est impressionné et vous propose de devenir associé. Vous pouvez accepter... Ou imposer votre autorité et établir votre gang dans cette ville. " />
+    <string id="FoGaTr09" text="La relation est importante." />
+    <string id="FoGaTr10" text="Il n'y que l'argent qui compte." />
+    <string id="FoGaTr11" text="Vous obtenez {GAIN} deniers provenant de votre partenariat avec {SETLLE}" />
+    <string id="FoGaTr12" text="Recevez un tribut de {GAIN} deniers d'un chef de gang à {SETTLE}" />
+    <string id="FoGaTr13" text="Vous avez quitté {SETTLE} sans compagnons depuis trop longtemps et perdu votre droit à percevoir un tribut" />
+
+<!--Rebellion-->
+    <string id="FoPlot01" text="Organiser une rébellion" />
+    <string id="FoPlot02" text="Restriction de loyauté" />
+    <string id="FoPlot03" text="La loyauté de la ville doit être inférieure ou égale à {LIMITLOY}" />
+    <string id="FoPlot04" text="Souhaitez vous dépenser {PLOTFEE} points pour organiser un complot (vous disposez de {VILLAINY})? Vous resterez en ville pendant {PROSPERO} jour(s)." />
+    <string id="FoPlot05" text="Arrêter tout, mais n'espérez pas le moindre remboursement." />
+    <string id="FoPlot06" text="Votre complot a été un succès. Les habitants de la ville deviennent agressifs et montrent leur mécontentement contre le propriétaire actuel. Certains d'entre eux rejoignent la milice." />
+    <string id="FoPlot07" text="Emeute en ville" />
+    <string id="FoPlot08" text="En sortant par la porte, vous rencontrez une petite foule de gens en colère. Des gardes bien armés arrivent pour les arrêter définitivement..." />
+    <string id="FoPlot09" text="Rejoindre l'émeute" />
+    <string id="FoPlot10" text="Dégage de là" />
+    <string id="FoPlot11" text="Un rude combat" />
+    <string id="FoPlot12" text="Les quelques survivants vous ont remercié pour votre aide et vous ont récompensé. La nouvelle à propos de ce combat se répandra parmi la population... " />
+    <string id="FoPlot13" text="Bain de sang" />
+    <string id="FoPlot14" text="Vous avez survécu mais vous n'avez pas pu éviter ce carnage..." />
+    <string id="FoPlot15" text="Voulez-vous dépenser {COST}{GOLD_ICON} pour inciter à une rébellion ? Vous resterez en ville pour {PROSPERO} jour(s)." />
+    <string id="FoPlot16" text="Vous avez besoin de {COST}{GOLD_ICON} pour soutenir votre projet." />
+
+<!--Sabotage-->
+    <string id="FoSabo01" text="Sabotage des stocks alimentaires" /> 
+    <string id="FoSabo02" text="Organiser un sabotage" /> 
+    <string id="FoSabo03" text="Voulez-vous dépenser {SABOFEE} points pour organiser un sabotage (vous disposez de {VILLAINY} points)? Cela vous prendra {PROSPERO} jour(s)." /> 
+    <string id="FoSabo04" text="Saper le mur" /> 
+    <string id="FoSabo05" text="Empoisonner l'eau" /> 
+    <string id="FoSabo06" text="Votre sabotage est un succès. Dorénavant la ville est  plus faible." /> 
+    <string id="FoSabo07" text="Souhaitez-vous dépenser {VILFEE} points pour organiser un sabotage (Vous disposez de {VILLAINY} points)? Votre cible est {SABTARG} et cela vous prendra {PROSPERO} jour(s)." /> 
+    <string id="FoSabo08" text="Retourner à votre camp" />    
+    <string id="FoSabo09" text="Vous êtes dans votre camp près du village. À partir de là, vous pouvez planifier votre ou vos sabotages. Qu'est-ce que vous envisagez de faire ?" />        
+    <string id="FoSabo10" text="Vous avez affecté certains de vos hommes à ce plan et ils sont maintenant en action. Jusqu'ici tout semble bien se passer... " />    
+    <string id="FoSabo11" text="Aller au village" />    
+    <string id="FoSabo12" text="Envoyer des pillards" />    
+    <string id="FoSabo13" text="Utiliser {VILFEE} points (vous disposez de {VILLAINY} points) pour appeler des bandits afin commencer le pillage ce village ?" />    
+    <string id="FoSabo14" text="Bandits sont trop faibles" />    
+    <string id="FoSabo15" text="Les factions de bandits proches sont trop faibles. Trouver un de leurs repaires pour les soutenir et augmenter leurs forces au-dessus de {STR}." />        
+
+<!--Robbery-->
+    <string id="FoRob01" text="Cambriolage" /> 
+    <string id="FoRob02" text="Cambriolage à Calradia" /> 
+    <string id="FoRob03" text="Aller à {ROBCAST} et rencontrer votre contact dans les ruelles." /> 
+    <string id="FoRob04" text="Voler jusqu'au sommet" /> 
+    <string id="FoRob05" text="Le chef de gang {GANGLEAD} a un ami à {ROBCAST} qui aurait besoin de soutien. Aller là-bas et rencontrer votre contact dans les ruelles." /> 
+    <string id="FoRob06" text="Rencontrer votre contact" /> 
+    <string id="FoRob07" text="Vous ne voyez pas d'autres gardes venir et commencez à chercher du butin ..." /> 
+    <string id="FoRob08" text="Il est temps de piller" /> 
+    <string id="FoRob09" text="Vous avez trouvé 2 coffres, un petit contenant vraisemblablement des deniers et un plus grand contenant de l'équipement. Cependant vous n'avez le temps d'en crocheter qu'un seul." /> 
+    <string id="FoRob10" text="Votre contact vous a donné une tenue de paysan. Vous ferez semblant de livrer de la nourriture à la cuisine afin de vous faufiler dans le donjon." /> 
+    <string id="FoRob11" text="Comme un paysan" /> 
+    <string id="FoRob12" text="Apparemment, des gardes ont été repérés dans la salle du Seigneur. Votre contact prétend pouvoir créer une diversion qui libérera la voie pour 3000 deniers, à payer maintenant !" /> 
+    <string id="FoRob13" text="Vous avez réussi à entrer dans le donjon et vous vous dirigez maintenant vers la salle du Seigneur ..." /> 
+    <string id="FoRob14" text="Vous avez atteint la salle du Seigneur mais il semble que votre contact n'ait pas réussi à rendre l'endroit complètement vide... " />     
+    <string id="FoRob15" text="La pièce semble dégagée ! Vous commencez à chercher du butin..." /> 
+	
+   <!--Scandal-->
+    <string id="FoScan01" text="Planifier un scandale" /> 
+    <string id="FoScan02" text="Scandale aristocrate" /> 
+    <string id="FoScan03" text="Vous envisagez de déstabiliser le clan {CLANSCAN}, régent de cette ville. Vous vous déguiserez en garde et vous infiltrerez dans le donjon pour trouver des indices compromettants. {LIMITVIL} points d'infamie sont requis." /> 
+    <string id="FoScan04" text="Comme un garde" /> 
+    <string id="FoScan05" text="Vous avez dû soudoyer un garde pour avoir l'uniforme. Il accepte de créer une diversion pour réduire le nombre d'ennemis dans le donjon pour 3000 deniers, à payer maintenant." /> 
+    <string id="FoScan06" text="Vous attendez le bon moment pour entrer dans le donjon..." /> 
+    <string id="FoScan07" text="Succès! Vous quittez les lieux avec suffisamment de preuves pour mettre le clan propriétaire de la ville dans de sérieux ennuis ! Et vous avez également pillé des deniers ! " /> 
+    <string id="FoScan08" text="Vous avez atteint la salle du seigneur, mais comme prévu, l'endroit n'est pas vide..." /> 
+    <string id="FoScan09" text="Scandale à Calradia" /> 
+    <string id="FoScan10" text="Le clan de {CLANSCAN} a été gravement touché par un scandale récent et a dû user de toute son influence pour éviter un bannissement." /> 
+    <string id="FoScan11" text="Le proprétaire de cette ville n'est pas influent (200+)." /> 
+    <string id="FoScan12" text="Le clan propriétaire perdra toute son influence et la loyauté de cette ville subira une pénalité de -20" />     
+	
+	<!--Insurance-->
+    <string id="FoInsu01" text="Arnaque à l'assurance" /> 
+    <string id="FoInsu02" text="Allez-y et assurez-vous de ne laisser aucun bandit s'échapper !" /> 
+    <string id="FoInsu03" text="Ce n'est pas ce que vous deviez faire ! Détruisez maintenant la caravane avant qu'elle n'atteigne sa destination !" /> 
+    <string id="FoInsu04" text="Détruisez simplement cette bande de pillards..." /> 
+    <string id="FoInsu05" text="{GANGLEAD} a investi dans une caravane de {MERCH}... et ne réalise aucun profit ! Heureusement, il y a un contrat d'assurance en cours ... mais la caravane doit disparaître accidentellement avant de recevoir une indemnité..." /> 
+    <string id="FoInsu06" text="Vous êtes en guerre avec la faction de cette ville... Allez simplement détruire la caravane, c'est de l'argent facile ! Assurez-vous de le faire assez loin de la ville." /> 
+    <string id="FoInsu07" text="Fausse embuscade" /> 
+    <string id="FoInsu08" text="{GANGLEAD} vous a demandé d'escorter la caravane. Un groupe de bandits a été engagé pour l'attaquer et la détruire. Une fois le sale boulot terminé, attaquez le groupe de bandits pour lever tout soupçon." /> 
+    <string id="FoInsu09" text="Il vous faut un groupe d'au moins 20 combattants en bonne santé." /> 
+
+   <!--Dialog-->
+    <string id="FoDiaFl01" text="Vous dérangez la mauvaise personne ..." /> 
+    <string id="FoDiaFl02" text="Nous avons entendu parler de vous... Quel genre d'affaires vous amène ici ? A la recherche de nouveaux gars peut-être ? [if:idle_angry][ib:normal]" /> 
+    <string id="FoDiaFl03" text="Arrêtes de me faire perdre mon temps et occupe toi de ton ... " /> 
+    <string id="FoDiaFl04" text="Maintenant que vous demandez, vous pouvez être utile... " /> 
+    <string id="FoDiaFl05" text="Je cherche des nouveaux gars, parlons-en... " /> 
+    <string id="FoDiaFl06" text="Nous nous débrouillons très bien ici. Mais j'aimerais développer un peu mon...notre affaire... Avez-vous des amis dans une autre ville qui seraient intéressés ? " /> 
+    <string id="FoDiaFl07" text="Je vois... Je connais des gens ici et là. Tu devrais parler de notre bonne relation et je suis sûr que ça te faciliteras les choses. Et n'oublies pas que nous sommes désormais associés ! [rf:trivial_hi][rb:very_positive]" /> 
+    <string id="FoDiaFl08" text="Génial ! Soyez-sûr que nous gagnerons plus d'argent en un rien de temps ! " /> 
+    <string id="FoDiaFl09" text="Nous avons un ami commun et il m'a dit que vous aimeriez le savoir... " /> 
+    <string id="FoDiaFl10" text="En effet ! Les bons amis font les bons profits, n'est-ce pas ? [rf:trivial_hi][rb:very_positive]" /> 
+    <string id="FoDiaFl11" text="Oui, je suis on ne peut plus d'accord !" /> 
+    <string id="FoDiaFl12" text="En fait, je dois encore y penser... " /> 
+    <string id="FoDiaFl13" text="On dirait que certaines personnes influentes veulent votre mort {PLAYER.NAME}! ...Et c'est moi qui va rendre cela possible." /> 
+    <string id="FoDiaFl14" text="Qu'est-ce que tu veux soldat ?" /> 
+    <string id="FoDiaFl15" text="Mes excuses, {?CONVERSATION_NPC.GENDER}ma dame{?}mon seigneur{\?}. Je m’assure juste que tout est sûr ici..." /> 
+    <string id="FoDiaFl16" text="Qui a donné cet ordre ? Quelle est votre unité ?[ib:agressive]" /> 
+    <string id="FoDiaFl17" text="Première compagnie, {?CONVERSATION_NPC.GENDER}ma dame{?}mon seigneur{\?}..." /> 
+    <string id="FoDiaFl18" text="Deuxième compagnie, {?CONVERSATION_NPC.GENDER}ma dame{?}mon seigneur{\?}..." /> 
+    <string id="FoDiaFl19" text="Troisième compagnie, {?CONVERSATION_NPC.GENDER}ma dame{?}mon seigneur{\?}..." /> 
+    <string id="FoDiaFl20" text="Quatrième compagnie, {?CONVERSATION_NPC.GENDER}ma dame{?}mon seigneur{\?}..." /> 
+    <string id="FoDiaFl21" text="Cinquième compagnie, {?CONVERSATION_NPC.GENDER}ma dame{?}mon seigneur{\?}..." /> 
+    <string id="FoDiaFl22" text="Je veux juste t’aider à embrasser la mort..." /> 
+    <string id="FoDiaFl23" text="A votre service, {?CONVERSATION_NPC.GENDER}ma dame{?} mon seigneur{\?}..." /> 
+    <string id="FoDiaFl24" text="Oh vraiment, c'est gravé GRD.{SCORE} sur votre armure personnelle, soldat... Vous êtes un imposteur ! Gardes ![ib:agressive][if:convo_furious]" /> 
+    <string id="FoDiaFl25" text="Je vois... Continuez alors, j'ai des choses plus importantes à faire de toute façon...[if:idle_angry][ib:normal]" /> 
+    <string id="FoDiaFl26" text="On a entendu parler de vous... Quel genre d’affaires vous amène ?[if:idle_angry][ib:normal]" /> 
+
+   <!--Outlaw-->
+    <string id="FoOutlaw01" text="Devenir un hors-la-loi" />  
+    <string id="FoOutlaw02" text="Quitter le repaire" />    
+    <string id="FoOutlaw03" text="Aucune règle" />  
+    <string id="FoOutlaw04" text="Devenir un hors-la-loi a des conséquences... Votre taux de criminalité va fortement augmenter et toutes les factions vont déclarer la guerre à votre clan !" />    
+    <string id="FoOutlaw05" text="Cessez d’être un hors-la-loi" />  
+    <string id="FoOutlaw06" text="Accepter les règles" />    
+    <string id="FoOutlaw07" text="Etes-vous sûr de vouloir mettre fin à votre vie de hors-la-loi ? Sans votre soutien les factions bandits perdront leur puissance !" />  
+    <string id="FoOutlaw08" text="{UP} se renforcent !" />    
+    <string id="FoOutlaw09" text="{DOWN} s'affaiblissent !" />  
+    <string id="FoOutlaw10" text="Soudoyez les gardes pour vous laisser entrer." />    
+    <string id="FoOutlaw11" text="Force de {CULT}: {VAL}" />    
+    <string id="FoOutlaw12" text="Recruter de nouveaux gars" />  
+    <string id="FoOutlaw13" text="Pas assez fort" />    
+    <string id="FoOutlaw14" text="La force de {CULT} est trop faible. Vous devrez utiliser vos points d'infamie pour obtenir de nouveaux gars." />    
+    <string id="FoOutlaw15" text="Donner des prisonniers" />    
+    <string id="FoOutlaw16" text="Marché noir" />   
+    <string id="FoOutlaw17" text="Suivez-moi les gars !" />   
+    <string id="FoOutlaw18" text="{CULT} groupe vous suit avec {COUNT} hommes" />           
+    <string id="FoOutlaw19" text="{CULT} faction est trop faible pour vous rejoindre !" />   
+    <string id="FoOutlaw20" text="Il n'y a pas de groupes de bandits disponible aux alentours." />   
+    <string id="FoOutlaw21" text="Demander aux bandits des environs de vous suivre" />   
+    <string id="FoOutlaw22" text="Libérez les groupes qui vous suivent" />   
+    <string id="FoOutlaw23" text="Coût salarial pour repaire au delà de sa capacité -{GAIN}{GOLD_ICON}" />   
+    <string id="FoOutlaw24" text="Recherché !" />   
+    <string id="FoOutlaw25" text="Votre notoriété dans les contrées de {KING} a augmenté ainsi que votre taux de criminalité..." />   
+    <string id="FoOutlaw26" text="{CULT} groupe vous a rejoint avec {COUNT} hommes" />   
+    <string id="FoOutlaw27" text="Ajoutez vos partisans à votre groupe!" />   
+    <string id="FoOutlaw28" text="Demander aux bandits de se joindre à vous" />   
+    <string id="FoOutlaw29" text="Soutenir cette faction bandit" />   
+    <string id="FoOutlaw30" text="Demander à ce groupe et aux bandits à proximité de vous suivre" />   
+    <string id="FoOutlaw31" text="Cette faction bandit n'est pas assez forte (indisponible avec les pillards)" />               
+    <string id="FoOutlaw32" text="Ce repaire se trouve dans le royaume de {KING} et votre taux de criminalité est de {RATE}" />   
+    <string id="FoOutlaw33" text="Soutenir la {FAC}" />   
+    <string id="FoOutlaw34" text="Donner de l'équipement" />  
+    <string id="FoOutlaw35" text="Force augmentée: {UP}" />       
+    <string id="FoOutlaw36" text="La force de {CULT} est trop basse." />   
+
+   <!--Larceny and others-->
+    <string id="FoDiagm01" text="Il semble que vous perdez de votre pouvoir en ville, je suis là pour changer ça !" />    
+    <string id="FoDiagm02" text="Excellent ! Reprenez n’importe quelle allée au chef de gang le plus puissant. Ou vous pourriez rendre visite à ce salaud si vous vous moquez de votre taux de criminalité.[rb:very_positive]" />  
+    <string id="FoDiagm03" text="Laissez-moi être clair, soit vous apprenez qui commande ici, soit je vous montre comment je suis doué pour convaincre les gens..." /> 
+    <string id="FoDiagm04" text="Qui crois-tu menacer comme ça... Je vais te montrer qui va recevoir une bonne leçon ![ib:agressive][if:convo_furious]" />    
+    <string id="FoDiagm05" text="Je voudrais mettre à profit mes compétences..." />  
+    <string id="FoDiagm06" text="Certes, qu'est-ce que vous suggérez ?[rb:very_positive][rf:trivial_hi]" />  
+    <string id="FoDiagm07" text="Eh bien, je peux faire les poches de certains habitants..." />    
+    <string id="FoDiagm08" text="Je peux m’occuper d’un garde. Ces pions ne sont pas bons pour les affaires n'est-ce pas ?" />   
+    <string id="FoDiagm09" text="Je n'ai pas peur de l'autorité. Et je cours vite aussi !" />   
+    <string id="FoDiagm10" text="Je suis robuste, je peux gagner n'importe quel combat !" />        
+    <string id="FoDiagm11" text="En effet.. N'oubliez pas que vous devez le faire de nuit !" />    
+    <string id="FoDiagm12" text="Très bien, allez voir n’importe quel marchand en ville, prenez tout ce que vous pouvez et sortez par la porte !" />  
+    <string id="FoDiagm13" text="Je vois... Peut-être que tu pourrais déclencher une bagarre dans la taverne... Et gagner ce combat avec tes poings uniquement !" />  
+    <string id="FoDiagm14" text="C'est du gâteau !" />    
+    <string id="FoDiagm15" text="Vous obtenez de la nourriture{FOOD}" />  
+    <string id="FoDiagm16" text="Hmm ?![if:convo_astonished]" />  
+    <string id="FoDiagm17" text="Mes excuses, je ne voulais pas être une nuisance..." />    
+    <string id="FoDiagm18" text="Je vois... Maintenant si ça ne vous dérange pas, j’ai des choses à faire.[if:convo_annoyed]" />   
+    <string id="FoDiagm19" text="Vous n'avez pas l’air d'une personne honnête...Laissez-moi maintenant.[ib:agressive][if:convo_furious]" />         
+    <string id="FoDiagm20" text="Bien sûr...j'implore votre pardon" />        
+    <string id="FoDiagm21" text="Maintenant donnez-moi tout votre argent !" />    
+    <string id="FoDiagm22" text="Quoi ?!...attendez... A l'aide ![if:convo_astonished][ib:nervous]" />  
+    <string id="FoDiagm23" text="Dommage, vous êtes seul..." />  
+    <string id="FoDiagm24" text="On dirait que ce n’est pas votre jour..." />    
+    <string id="FoDiagm25" text="Mais qu'est-ce que vous fabriquez ? Je représente l'autorité ici ! A moi ![ib:agressive][if:convo_furious]" />  
+    <string id="FoDiagm26" text="[Attraper quelque chose et s'enfuir !]" />  
+    <string id="FoDiagm27" text="Hé ! patron, tout va bien ici !" />    
+    <string id="FoDiagm28" text="Bien, faites tout ce qui est nécessaire pour tenir cette zone !" />   
+    <string id="FoDiagm29" text="Votre tête ne me revient pas et vous feriez mieux de dégager de mon chemin !" />       
+    <string id="FoDiagm30" text="Quoi ?!...pour qui vous prenez-vous ![if:convo_astonished][ib:agressive][if:convo_furious]" />        
+    <string id="FoDiagm31" text="Amenez-vous, je suis prêt..." />    
+    <string id="FoDiagm32" text="Vous avez attrapé {GRAB}" />  
+    <string id="FoDiagm33" text="Marché conclu ! Je veux que vous réussissiez {SCORE} fois en une journée ![rf:trivial_hi][rb:very_positive]" />  
+    <string id="FoDiagm34" text="Qu’est-ce que vous transportez là ? Je peux vous prêtez main forte si vous voulez... [vous vous rapprochez]" />    
+    <string id="FoDiagm35" text="Votre sac à dos semble lourd... Qu'est-ce que vous avez dedans ? [vous vous rapprochez]" />  
+    <string id="FoDiagm36" text="[Vous feignez de perdre l’équilibre et tomber sur votre victime]" />  
+    <string id="FoDiagm37" text="Oh, regardez, il y a quelque chose sur votre épaule... [vous vous rapprocher]" />    
+    <string id="FoDiagm38" text="Quelle tenue intéressante vous avez... S'agit-il de laine de mouton ? [vous vous rapprochez]" />   
+    <string id="FoDiagm39" text="Déjà fait avec cette personne" />       
+    <string id="FoDiagm40" text="Vous devez faire les poches de {ATT} de personnes de plus" />        
+    <string id="FoDiagm41" text="Un garde vous surveille..." />    
+    <string id="FoDiagm42" text="Impossible à dos de cheval" />  
+    <string id="FoDiagm43" text="Vous devez attendre {WAITCHCK} heure(s)" />  
+    <string id="FoDiagm44" text="Uniquement possible durant la nuit" />    
+    <string id="FoDiagm45" text="Essayez de trouver une victime plus isolée" />     
+    <string id="FoDiagm46" text="Nous sommes ici pour vous arrêter et vous faire payer pour vos crimes !" />  
+    <string id="FoDiagm47" text="Oh vraiment ?" />    
+    <string id="FoDiagm48" text="Qu'est-ce que nous avons là... Dégagez de notre chemin si vous ne voulez pas finir en prison ou mieux encore, mourir !" />   
+    <string id="FoDiagm49" text="Voici donc notre grand défenseur ! Qu'est-ce que je peux faire pour vous, {PLAYER.NAME}?[rb:very_positive]" />         
+    <string id="FoDiagm50" text="Eh bien, c'est très simple. J'ai besoin d'un endroit sûr et discret pour moi et mes hommes." />        
+    <string id="FoDiagm51" text="Je vois... Tant mieux pour vous, c'est pas l'espace qu'il manque ici. Vérifiez par vous-même et trouvez ce qui vous convient le mieux ![rb:very_positive]" />    
+    <string id="FoDiagm52" text="C'est tout ce que je voulais entendre !" />  
+    <string id="FoDiagm53" text="Ce fut un bon combat ! Bien joué partenaire ![rb:very_positive]" />      
+    <string id="FoDiagm54" text="Vous ne vous cachez plus" />    
+    <string id="FoDiagm55" text="Points d'infamie restants: {VAL}" />  
+    <string id="FoDiagm56" text="Le type de terrain actuel ({VAL}) n'est pas approprié pour se cacher" />  
+    <string id="FoDiagm57" text="Impossible quand vous avez des partisans" />    
+    <string id="FoDiagm58" text="Pas vraiment, vous êtes repéré et poursuivi par {VAL}" />   
+    <string id="FoDiagm59" text="Discrétion" />         
+    <string id="FoDiagm60" text="Voulez-vous vous cacher ici ? Cela coûtera 1 point d'infamie par heure" />        
+    <string id="FoDiagm61" text="Le type de terrain actuel est {VAL}" />     
+    <string id="FoDiagm62" text="{ICON}La cible est surprise et vulnérable{ICON}" />  
+    <string id="FoDiagm63" text="{ICON}Nombre total de tués {GRAB}" />      
+    <string id="FoDiagm64" text="Sécurité diminue de: -{GRAB}" />    
+    <string id="FoDiagm65" text="Je veux parler affaires avec vous..." />  
+    <string id="FoDiagm66" text="Bien sûr, je ne sais pas à quoi m’attendre mais je ne peux pas refuser une demande directe de sa {?PLAYER.GENDER}Seigneurie{?}Seigneurie{\?}.[rf:trivial_hi]" />  
+    <string id="FoDiagm67" text="Bien. Faisons simple. Je peux ordonner à mes hommes de ne pas trop s'intéresser à vos activités et, en échange, vous partagerez avec moi une partie de l'argent que vous vous faites..." />    
+    <string id="FoDiagm68" text="Bien... C'est une proposition intéressante, votre {?PLAYER.GENDER}Seigneurie{?}Seigneurie{\?}. Mais je doute que les marchands et les artisans seront ravis d'un tel arrangement...[rb:very_positive]" />   
+    <string id="FoDiagm69" text="Je m'occuperai de leurs plaintes, aussi longtemps que l'argent rentrera..." />         
+    <string id="FoDiagm70" text="Actuellement, je pense que vous pouvez faire mieux qu’un garde... Considérant que vous êtes en guerre avec notre faction, je suis sûr que ça ne vous dérange pas d'en prendre au moins 4...[rf:trivial_hi][rb:very_positive]" />        
+    <string id="FoDiagm71" text="Seulement disponible avec le chef de gang le plus puissant" />        
+    <string id="FoDiagm72" text="Pickpocket" />  
+    <string id="FoDiagm73" text="Assassiner un garde" />      
+    <string id="FoDiagm74" text="Voler et courir" />    
+    <string id="FoDiagm75" text="Bagarre de taverne" />  
+    <string id="FoDiagm76" text="{GL} vous déteste, recommendation impossible..." />  
+    <string id="FoDiagm77" text="Recevez +10 relation bonus avec {GL}" />    
+    <string id="FoDiagm78" text="Une recommendation permet un bonus de +10 relation avec un chef de gang de votre choix dans une autre ville. (une seule utilisation)" />   
+    <string id="FoDiagm79" text="Evasion de prison" />         
+    <string id="FoDiagm80" text="Voulez-vous entrer dans le donjon et libérer les prisonniers retenus à l'intérieur ? Vous devez tuer tous les gardes à l'intérieur pour réussir !" />        
+    <string id="FoDiagm81" text="L'évasion de la prison a été un succès ! Il est temps de quitter la ville..." />        
+    <string id="FoDiagm82" text="{HERO} de {CLAN} s'est échappé de prison !" />         
+    <string id="FoDiagm83" text="Vous êtes grièvement blessé , à l'agonie..." />        
+    <string id="FoDiagm84" text="Vous avez fini ?" />       
+    <string id="FoDiagm85" text="Les autorités locales ont intensifié le niveau de surveillance. Les choses devraient revenir à la normale dans {WAITCHCK} jour(s)." />         
+    <string id="FoDiagm86" text="Prenez les preuves et quitter cet endroit." />        
+    <string id="FoDiagm87" text="La zone n'est pas dégagée..." />   
+    <string id="FoDiagm88" text="Intrusion" />         
+    <string id="FoDiagm89" text="Vous entrerez dans la salle du Seigneur, déguisé en garde (vous avez remarqué une inscription gravée sur l'armure que vous portez: GRD.{SECT}).{NWL} Soyez discret et ne sortez aucune arme à l'intérieur... Ou vous devrez vous battre pour sortir !" />        
+    <string id="FoDiagm90" text="Courez pour votre vie !" />   
+    <string id="FoDiagm91" text="Tous les gardes de la ville sont en état d'alerte. Votre seule chance est d'atteindre la porte extéieure." />         
+    <string id="FoDiagm92" text="Une rencontre fatale" />        
+    <string id="FoDiagm93" text="En cours de route, vous êtes mis au défi par un messager suspect..." />   
+    <string id="FoDiagm94" text="Votre cible est morte et la ville est en état d’alerte, tous les gardes sont à la recherche de l'assassin..." />         
+    <string id="FoDiagm95" text="Vous vous effondrez et perdez lentement connaissance... Au moins votre cible est morte..." />        
+    <string id="FoDiagm96" text="Déguisez-vous en garde" />  
+    <string id="FoDiagm97" text="Votre ami {GLD}" />         
+    <string id="FoDiagm98" text="Votre associé{GLD}" />        
+    <string id="FoDiagm99" text="{FWHO} peut vous fournir un véritable équipement de la garde de la ville...{newline}Vous pouvez l'emprunter pour {PRICE}{GOLD_ICON}..." />          
+    <string id="FoDiagm100" text="Certains de vos gars ont visités récemment la caserne de la ville et ont pris un équipement complet de garde, voulez-vous l'utiliser ?" />  
+    <string id="FoDiagm101" text="Déguisez-vous en garde et infiltrer le donjon ou la prison plus facilement" />         
+    <string id="FoDiagm102" text="Vous avez besoin d'une relation positive avec au moins un chef de gang{newline}Or{newline}La ville doit faire partie de votre territoire" />        
+    <string id="FoDiagm103" text="[Abandonner votre activité criminelle en cours: Tuer un garde]" /> 
+    <string id="FoDiagm104" text="Vous avez pris {WK} de {GL}" />  
+    <string id="FoDiagm105" text="Vous coûtera {COST}{GOLD_ICON}" />         
+    <string id="FoDiagm106" text="Le moral est trop bas." />        
+    <string id="FoDiagm107" text="Le moral doit être d'au moins 10 pour pouvoir se cacher." />      
+    <string id="FoDiagm108" text="Voulez-vous vous cacher ici ? Cela coûtera 1 de moral par heure" />        
+    <string id="FoDiagm109" text="Pourcentage d'échec " />    
+    <string id="FoDiagm110" text="Quelques pièces" />   
+    <string id="FoDiagm111" text="Une poignée de pièces" />   
+    <string id="FoDiagm112" text="La bourse" />   
+    <string id="FoDiagm113" text="L'arme" />   
+    <string id="FoDiagm114" text="Vous vous sentez assez confiant pour essayer de saisir..." />   
+    <string id="FoDiagm115" text="Vous échouez, mais vous n'êtes pas pris sur le fait... " />       
+    <string id="FoDiagm116" text="Vous attirez l'attention sur vous..." />   
+    <string id="FoDiagm117" text="Quelle course ! Vous obtenez " />   
+    <string id="FoDiagm118" text="Vous ne pouvez pas utiliser votre arme contre un adversaire désarmé !" />     
+
+<!--Safe House-->
+    <string id="FoSafHou01" text="Planque" />    
+    <string id="FoSafHou02" text="Construire une planque" />  
+    <string id="FoSafHou03" text="Vous attendez dans votre planque..." />  
+    <string id="FoSafHou04" text="Etes-vous sûr de vouloir étendre votre territoire ici ?" />    
+    <string id="FoSafHou05" text="Obtenu {GAIN}{GOLD_ICON} de votre planque" />  
+    <string id="FoSafHou06" text="La puissance de la faction bandit doit être d'au moins {VAL}" />  
+    <string id="FoSafHou07" text="Vous dominez les rues de cette ville, en possédant les 3 zones" />    
+    <string id="FoSafHou08" text="Evasions par jour: {VAL} à " />   
+    <string id="FoSafHou09" text="Décès par jour: {VAL} à " />       
+    <string id="FoSafHou10" text="Blessés par jour: 0 à " />       
+    <string id="FoSafHou11" text="Soignés par jour: 0 à " />    
+    <string id="FoSafHou12" text="Actuel: " />  
+    <string id="FoSafHou13" text="Blessé: " />  
+    <string id="FoSafHou14" text="Profit: " />    
+    <string id="FoSafHou15" text="Richesse de la région: " />  
+    <string id="FoSafHou16" text="Salaire: " />  
+    <string id="FoSafHou17" text="Abandonner l'endroit" />    
+    <string id="FoSafHou18" text="Etes-vous sûr ? Vous conservez vos gars et votre réserve, mais vous donnez les esclaves à la faction bandit. Toute intrigue en cours sera abandonnée." />   
+    <string id="FoSafHou19" text="{HID} repaire(s) localisé(s)" />       
+    <string id="FoSafHou20" text="Faction bandit" />        
+    <string id="FoSafHou21" text="Protection" />    
+    <string id="FoSafHou22" text="Brigandage" />  
+    <string id="FoSafHou23" text="Vos gars" />  
+    <string id="FoSafHou24" text="Asservir" />    
+    <string id="FoSafHou25" text="Service" />  
+    <string id="FoSafHou26" text="Extraction" />  
+    <string id="FoSafHou27" text="Réserve" />    
+    <string id="FoSafHou28" text="Force +" />   
+    <string id="FoSafHou29" text="-La protection réduit le nombre d’esclaves qui s’échappent." />       
+    <string id="FoSafHou30" text="-Le brigandage génère des profits et de l'expérience pour vos gars. (et pour votre groupe lorsqu'il est caché dans ce repaire)." />        
+    <string id="FoSafHou31" text="-Le service augmente le taux de guérison par jour de vos gars. (et pour votre groupe lorsqu'il est caché dans ce repaire)." />    
+    <string id="FoSafHou32" text="-L'extraction génère des profits et donne un bonus de force au repaire de cette faction bandit." />  
+    <string id="FoSafHou33" text="Un choix difficile" />  
+    <string id="FoSafHou34" text="Voulez-vous abandonner votre base dans {BASE}? Vous garderez vos troupes et vos affaires dans l'entrepôt mais perdrez toutes vos améliorations." />    
+    <string id="FoSafHou35" text="Perdue" />      
+    <string id="FoSafHou36" text="Votre planque a été détruite !" />  
+    <string id="FoSafHou37" text="Convertissez vos prisonniers en esclaves. Vous les priverez de leur équipement (recevez un butin aléatoire dans votre inventaire). Les prisonniers réduits en esclavage ne peuvent pas être reconvertis." />  
+    <string id="FoSafHou38" text="La force de la faction bandit doit être d'au moins 500 str. Chaque repaire détecté de cette faction accordera +3% à votre réseau d'intrigues (déterminé par la colonie du plus proche royaume)" />  
+    <string id="FoSafHou39" text="Vous avez déjà une planque dans un autre repaire. Abandonner d'abord celle-ci avant d'en construire une nouvelle ici." />  
+    <string id="FoSafHou40" text="Fief(s) de ce clan" />        
+    <string id="FoSafHou41" text="Oubliez les salutations d’usage. Vous connaissez déjà l'objet de ma visite..." />    
+    <string id="FoSafHou42" text="Certainement... Dites-m'en plus..." />  
+    <string id="FoSafHou43" text="Je vois... Et combien offrez-vous ?" />  
+    <string id="FoSafHou44" text="Considérez le travail comme accompli. Préparez vos deniers !" />    
+    <string id="FoSafHou45" text="Non, je ne suis pas intéressé." />  
+    <string id="FoSafHou46" text="Tuer n'importe quel membre du clan {CLAN} de {KING} (votre relation avec ce clan est de {REL})" />  
+    <string id="FoSafHou47" text="Déstabiliser le clan {CLAN} de {KING} (votre relation avec ce clan est de {REL})" />    
+    <string id="FoSafHou48" text="Contrat terminé!" />   
+    <string id="FoSafHou49" text="Sale besogne" />  
+    <string id="FoSafHou50" text="Un messager de {KING} est arrivé. Son royaume recherche des services discrets..." />        
+    <string id="FoSafHou51" text="Nous voulons que vous apportiez la mort au clan {CLAN} de {KING}." />    
+    <string id="FoSafHou52" text="Nous voulons que vous déstabilisiez le clan {CLAN} de {KING}. Créez un scandale, faites-les chanter ou inciter à une rébellion, le choix vous appartient." />  
+    <string id="FoSafHou53" text="Nous vous payerons {PAY}{GOLD_ICON} à la fin." />  
+    <string id="FoSafHou54" text="Rechercher des contrats" />    
+    <string id="FoSafHou55" text="Voulez-vous recevoir des propositions de contrat ? Seuls les royaumes où vous avez un réseau entendront parler de vos services. Ils ne vous contacteront pas si vous êtes en guerre avec eux et si le dirigeant vous hait..." />  
+    <string id="FoSafHou56" text="Pas de contrat" />  
+    <string id="FoSafHou57" text="Vous n'avez actuellement aucun contrat en cours. Etendez votre réseau pour recevoir plus de propositions." />    
+    <string id="FoSafHou58" text="Vous avez actuellement un contrat en cours avec {GIV}. Vous devez tuer n'importe quel membre du clan {CLAN} de {KING}. Vous recevrez {PAY}{GOLD_ICON} à la fin." />   
+    <string id="FoSafHou59" text="Vous avez actuellement un contrat en cours avec {GIV}. Vous devez déstabiliser le clan {CLAN} de {KING}. (Créez un scandale, faites-les chanter ou inciter à une rébellion dans leur ville). Vous recevrez {PAY}{GOLD_ICON} à la fin." />  
+    <string id="FoSafHou60" text="Contrat actuel" />        
+    <string id="FoSafHou61" text="Annuler ce contrat" />    
+    <string id="FoSafHou62" text="Arrêtez de recevoir" />  
+    <string id="FoSafHou63" text="Contrat" />  
+    <string id="FoSafHou64" text="{KING} a envoyé un messager... On a besoin de vos services..." />    
+    <string id="FoSafHou65" text="Nouveau groupe de bandit" />  
+    <string id="FoSafHou66" text="Doit être un groupe de 5 unités" />  
+    <string id="FoSafHou67" text="Vous avez besoin d'un minimum de 5 bandits" />    
+    <string id="FoSafHou68" text="Ajouter tous vos partisans: " />   
+    <string id="FoSafHou69" text="Ajouter dans votre groupe tous les groupes vous accompagnant.{newline}Vous recevrez tous leurs prisonniers." />  
+    <string id="FoSafHou70" text="Sélectionnez et cliquez sur Continuer pour ajouter ces bandits à votre groupe.{newline}Vous recevrez tous leurs prisonniers." />  
+    <string id="FoSafHou71" text="Choississez une action" />  
+    <string id="FoSafHou72" text="Ajouter {VAL} prisonniers{HER}" />    
+    <string id="FoSafHou73" text="Vous êtes poursuivi !" />   
+    <string id="FoSafHou74" text="Utiliser vos troupes de type bandit pour créer un nouveau groupe qui vous suivra" />  
+    <string id="FoSafHou75" text="Réclamer les prisonniers" />  
+    <string id="FoSafHou76" text="Demander à tous vos groupes vous suivant de vous donner leurs prisonniers" />  
+    <string id="FoSafHou77" text="Sélectionnez et cliquez sur Continuer pour libérer ce groupe qui vous suit" />    
+    <string id="FoSafHou78" text="Sacrifier quelques bandits pour faire une diversion et tenter de les ralentir " />   
+    <string id="FoSafHou79" text="Arrêtez de me suivre et rejoignez mon groupe." />  
+
+<!--Agents-->
+    <string id="FoAgeOp01" text="Voulez-vous établir votre base d'opération ici ? Vous pouvez la transférer dans n'importe lequel de vos fiefs à tout moment." />    
+    <string id="FoAgeOp02" text="Construire une base d'opérations criminelles va automatiquement changer la position de la salle des intrigues.{newline}Votre maître-espion va devenir un exécutant et le bonus des émissaires va diminuer grandement." />  
+    <string id="FoAgeOp03" text="Rester dans cet établissement" />  
+    <string id="FoAgeOp04" text="Espion" />    
+    <string id="FoAgeOp05" text="Assassin" />  
+    <string id="FoAgeOp06" text="Vous avez besoin de saboteurs" />  
+    <string id="FoAgeOp07" text="Vous avez besoin de {COST} saboteurs pour ce projet." />    
+    <string id="FoAgeOp08" text="Voulez-vous envoyer {COST} saboteurs pour ce projet (vous avez {SAB}) ? Votre cible est {SABTARG} et cela va prendre {PROSPERO} heure(s) pour se terminer." />   
+    <string id="FoAgeOp09" text="{MAX} agents maximum" />       
+    <string id="FoAgeOp10" text="Seulement disponible dans la base d'opération de {BASE}." />       
+    <string id="FoAgeOp11" text="Enrôler et entraîner des agents" />    
+    <string id="FoAgeOp12" text="Les unités de niveau 1-2 deviendront des saboteurs (1 par jour){newline}Les unités de niveau 3-4 deviendront des espions (1 par jour){newline}Les unités de niveau 5-6 deviendront des assassins (1 par semaine)" />  
+    <string id="FoAgeOp13" text="Créer un groupe de saboteurs" />  
+    <string id="FoAgeOp14" text="Dissoudre un groupe de saboteurs" />    
+    <string id="FoAgeOp15" text="Vous récupérerez les saboteurs et d’autres troupes seront ajoutées à la file d’attente d’entraînement." />  
+    <string id="FoAgeOp16" text="Ajouter des agents au groupe de saboteurs" />  
+    <string id="FoAgeOp17" text="Saboteur" />    
+    <string id="FoAgeOp18" text="Agent utilisé pour les intrigues de type tactique." />   
+    <string id="FoAgeOp19" text="Agent utilisé pour les intrigues visant à déstabiliser." />       
+    <string id="FoAgeOp20" text="Agent utilisé pour les intrigues de type assassinat." />        
+    <string id="FoAgeOp21" text="Vous enverrez à l'entraînement un total de {A} troupes ({B} saboteurs, {C} espions et {D} assassins)" />    
+    <string id="FoAgeOp22" text="Vos agents" />  
+    <string id="FoAgeOp23" text="Pas d'agents" />  
+    <string id="FoAgeOp24" text="Agent nécessaire pour ce projet: {AGT}" />    
+    <string id="FoAgeOp25" text="+2% par notable amical.{newline}+5% par clan amical.{newline}+15% par émissaire. (membre du clan laissé en ville, un par ville)." />  
+    <string id="FoAgeOp26" text="Clans amicaux" />  
+    <string id="FoAgeOp27" text="Le maître-espion" />    
+    <string id="FoAgeOp28" text="Bonus de l'exécutant" />   
+    <string id="FoAgeOp29" text="Bonus du maître-espion" />       
+    <string id="FoAgeOp30" text="Vous avez besoin d'assigner un membre du clan au rôle d'exécutant/maître-espion !" />   
+    <string id="FoAgeOp31" text="Entraîner quelques saboteurs" />       
+
+ <!--Version 101v9000-->
+    <string id="Fov90xx01" text="Vous connaissez le réglement soldat, on ne parle pas pendant le service !" />    
+    <string id="Fov90xx02" text="(Vous avez besoin de tuer tous les gardes pour libérer les prisonniers)" />  
+    <string id="Fov90xx03" text="Quel dommage, je pensais que l'on pouvait éviter toute forme de violence..." />  
+    <string id="Fov90xx04" text="On dirait que vous essayé d'embêter la mauvaise personne..." />    
+    <string id="Fov90xx05" text="(rot)...Qu'est-ce que vous voulez ?" />  
+    <string id="Fov90xx06" text="Votre patron avait raison, vous n'avez pas l'air d'une personne fiable... Plutôt une sorte d'animal, clairement.." />  
+    <string id="Fov90xx07" text="En fait, je veux maintenir un bon niveau de relation dans cette ville. Que diriez-vous de rembourser la moitié ? Je m'occupe de l'autre moitié." />    
+    <string id="Fov90xx08" text="Remboursez la totalité de la somme et nous en avons fini. Plutôt simple..." />   
+    <string id="Fov90xx09" text="Je peux être un messager persuasif..." />       
+    <string id="Fov90xx10" text="Vous manquez votre cible, mais vous parvenez à vous en sortir." />       
+    <string id="Fov90xx11" text="Le marchand de chevaux m'a vendu une monture boiteuse pour le prix d'un bon destrier... Récupérez mon argent ! Je vous donnerai une partie de cette somme en guise de salaire.[ib:agressive][if:convo_furious]" />    
+    <string id="Fov90xx12" text="La barbier est une crapule incompétente... Regardez mon visage... Assurez vous de lui faire savoir à quel point il est inutile...[ib:agressive][if:convo_furious]" />  
+    <string id="Fov90xx13" text="J'ai un problème avec le forgeron... J'ai payé un montant respectable pour une fine lame et elle est déjà complétement émoussée et rouillée. Récupérez mon argent ! Je vous donnerai une partie de cette somme en guise de salaire.[ib:agressive][if:convo_furious]" />  
+    <string id="Fov90xx14" text="J'ai envoyé un de mes gardes du corps récupérer les arréages de l'aubergiste , et j'attends toujours... Je suis sûr que cette racaille dépense mon argent à la taverne... Allez à sa recherche immédiatement ![ib:agressive][if:convo_furious]" />    
+    <string id="Fov90xx15" text="Nous refusons de payer quoi que ce soit à ce chef de gang, maintenant laissez-nous tranquille ![ib:agressive][if:convo_furious]" />  
+    <string id="Fov90xx16" text="Quoi ? Oh... Ecoutez, je ne veux pas d'ennuis... Pas bon pour les affaires. Peut-être pouvons nous trouver quelque chose qui rendra tout le monde heureux ?[ib:agressive][if:convo_furious]" />  
+    <string id="Fov90xx17" text="Je n'arrive pas à croire que ce chef de gang m'envoie un messager. Quel lâche... Et que prévoyer-vous de faire ?[ib:agressive][if:convo_furious]" />    
+    <string id="Fov90xx18" text="Comment osez-vous ? Je suis un véritable artiste et ce chef de gang devrait être honoré d’être ajouté à ma longue liste de chefs d'œuvres ![ib:agressive][if:convo_furious]" />   
+    <string id="Fov90xx19" text="J'effacerai ce sourire en coin de ton visage ![ib:agressive][if:convo_furious]" />       
+    <string id="Fov90xx20" text="Quelle coïncidence. Je suis aussi un artiste, mais mon art est probablement trop brutal pour vous... Laissez-moi vous montrer." />        
+    <string id="Fov90xx21" text="marchands" />    
+    <string id="Fov90xx22" text="artisans" />  
+    <string id="Fov90xx23" text="Vous payer -{VAL}{GOLD_ICON}" />  
+    <string id="Fov90xx24" text="Pas de pénalité au taux de criminalité" />    
+    <string id="Fov90xx25" text="{PAYGET}, relation avec le {TYPE} de cette ville {NOTREL}, relation avec le chef de gang {GANGREL}, {CRIME}" />  
+    <string id="Fov90xx26" text="Recevoir {VAL}{GOLD_ICON}" />  
+    <string id="Fov90xx27" text="taux de criminalité {CRIMERATE}" />    
+    <string id="Fov90xx28" text="{CULT} la faction perdra {STRC} str" />   
+    <string id="Fov90xx29" text="Les objets sont choisis aléatoirement dans le marché de la ville.{newline}Le coût est basé sur la prospérité et la sécurité.{newline}Le coût est réduit de moitié dans la ville où vous possédez votre base criminelle. (nécessite une maison de jeux)" />       
+    <string id="Fov90xx30" text="Vous avez besoin de 5 emplacements disponibles pour commencer à recruter." />   
+    <string id="Fov90xx31" text="Les bandits n'ont pas besoin de nourriture..." />  
+    <string id="Fov90xx32" text="Vous avez ordonné à vos gars de reprendre le territoire..." />  
+    <string id="Fov90xx33" text="Abandonner le travail" />    
+    <string id="Fov90xx34" text="Entretien de vos partisans: {COST}{GOLD_ICON}" />   
+    <string id="Fov90xx35" text="Vous êtes brisé... Les bandits ont décidés d'arrêter de vous suivre ..." />       
+    <string id="Fov90xx36" text="Votre base est à cours de nourriture !" />       
+    <string id="Fov90xx37" text="Votre plan a été découvert. Vous avez dû utiliser une partie de votre influence pour limiter les conséquences de cette trahison envers les membres du royaume." />  
+    <string id="Fov90xx38" text="Votre clan a été banni pour avoir trahi le clan de {VICTIM}" />  
+    <string id="Fov90xx39" text="garde du corps (dans la taverne)" />    
+    <string id="Fov90xx40" text="Parler avec le {VIC}" />   
+    <string id="Fov90xx41" text="Marquer l'endroit" />       
+    <string id="Fov90xx42" text="Membre de " />     
+    <string id="Fov90xx43" text="dans {SET}" />       
+    <string id="Fov90xx44" text="Prisonniers repérés" />     
+    <string id="Fov90xx45" text="Vos agents ont signalé que les personnages suivants sont détenus dans la prison d’une ville.{newline}Seulement les villes d’un royaume où vous avez un réseau de min. {VAL}% sont listées." />      
+    <string id="Fov90xx46" text="Prisonniers" />     
+    <string id="Fov90xx47" text="Vous avez besoin d'une base d'opération (à activer depuis le menu de votre donjon ou de n'importe lequel de vos fiefs) ou à partir d'une base criminelle." />      
+    <string id="Fov90xx48" text="Ce groupe de bandit est trop loin pour rejoindre votre groupe" />     
+    <string id="Fov90xx49" text="Partisans actuels: " />      
+    <string id="Fov90xx50" text="Entretien de vos partisans: {COST}{GOLD_ICON}" />   
+    <string id="Fov90xx51" text="Trop loin pour rejoindre une bataille: {FAR} groupe(s)" />     
+
+<!--Safe House from mod version v11-->
+    <string id="Fov11xx01" text="Eh bien, patron, j'espère que vous êtes prêt à vous battre, parce que je ne vous laisserai aucune chance ! Vous voulez un défi plus difficile peut-être ?" />
+    <string id="Fov11xx02" text="Non, restons raisonnable." />   
+    <string id="Fov11xx03" text="La santé de l'adversaire est normale." />
+    <string id="Fov11xx04" text="Gagner ce duel pour donner +{QTY}X xp bonus à votre adversaire (arme de mêlée et compétences d'athlétisme)" />   
+    <string id="Fov11xx05" text="{TRY} essai(s) par {TIME}" />
+    <string id="Fov11xx06" text="Essai(s) restant(s): {ATT}" />   
+    <string id="Fov11xx07" text="{HLT}{newline}{RWD}{newline}{COND}{newline}{RES}" />
+    <string id="Fov11xx08" text="Oui, j'ai envie de défi aujourd'hui !" />   
+    <string id="Fov11xx09" text="Santé de l'adversaire +{CHL}" />   
+    <string id="Fov11xx10" text="Montre-moi ce que tu sais faire !" />
+    <string id="Fov11xx11" text="Je suis ici pour vous proposez un défi... et aussi améliorer mes compétences martiales ! Il sera bénéfique pour la formation de vos agents. Plus la difficulté est élevée, mieux c'est..." />
+    <string id="Fov11xx12" text="+{QTY} assassin(s) formé(s)" />   
+    <string id="Fov11xx13" text="{HLT}{newline}{RWD}{newline}{COND}" />
+    <string id="Fov11xx14" text="Bonjour à vous ! Je vois que vous avez une activité intéressante en fonctionnement..." />   
+    <string id="Fov11xx15" text="Je pense que nous en avons terminé pour le moment..." />
+    <string id="Fov11xx16" text="Qui sait... Vous avez pris des risques en venant ici, que voulez-vous ?" />   
+    <string id="Fov11xx17" text="Commercer bien entendu ! Écoutez, j'ai un besoin urgent de main d'œuvre, que pouvez-vous offrir ?" />
+    <string id="Fov11xx18" text="Eh bien, je peux vous en vendre quelques-uns." />   
+    <string id="Fov11xx19" text="Esclaves" />   
+    <string id="Fov11xx20" text="Vendre {QTY} {TYPE} pour {VAL}{GOLD_ICON}" />
+    <string id="Fov11xx21" text="Je peux vous vendre plus que nécessaire." />
+    <string id="Fov11xx22" text="Marché conclu ! Voici votre argent, je vais emballer ce qui est à moi maintenant..." />   
+    <string id="Fov11xx23" text="Je n'ai rien à vous proposer pour le moment..." />
+    <string id="Fov11xx24" text="Un autre marchand reviendra dans quelque temps..." />   
+    <string id="Fov11xx25" text="Je vois. C'est dommage. Peut-être une autre fois alors..." />
+    <string id="Fov11xx26" text="Payez-moi une redevance maintenant, pour que vous puissiez sortir d'ici en vie !" />   
+    <string id="Fov11xx27" text="Vous prenez {VAL}{GOLD_ICON} au marchand, mais cette action peut avoir de graves conséquences." />
+    <string id="Fov11xx28" text="Comme vous le souhaitez..." />   
+    <string id="Fov11xx29" text="Peu de temps pour parler... beaucoup de travail à faire..." />   
+    <string id="Fov11xx30" text="Parlez-moi des futures améliorations prévues pour ce lieu !" />
+    <string id="Fov11xx31" text="Laissez moi voir mon inventaire." />
+    <string id="Fov11xx32" text="Parlez moi de l'activité minière." />   
+    <string id="Fov11xx33" text="Y'a t-il un autre moyen de faire des affaires ?" />
+    <string id="Fov11xx34" text="La demande de pierre est stable et il semble que le marché ne soit pas vraiment sensible à une quelconque éthique... La guerre, et en particulier les sièges sont bons pour nos affaires..." />   
+    <string id="Fov11xx35" text="Nous recevons parfois la visite de marchands véreux qui ont des besoins spécifiques. Je n'ai ni le temps, ni les compétences pour m'en occuper, alors je m'en remets à vous patron." />
+    <string id="Fov11xx36" text="Peu importe." />   
+    <string id="Fov11xx37" text="On dit que le crime ne paie pas, mais vous semblez prouver le contraire..." />
+    <string id="Fov11xx38" text="J'ai des choses qui pourraient vous intéresser…" />   
+    <string id="Fov11xx39" text="J'ai quelques prisonniers à donner…" />  
+    <string id="Fov11xx40" text="Notre force ne signifierait pas grand-chose sans votre soutien…" />
+    <string id="Fov11xx41" text="C'est une situation gagnant-gagnant..." />
+    <string id="Fov11xx42" text="Je n'ai rien à vous proposer pour le moment..." />   
+    <string id="Fov11xx43" text="Dois-je me considérer comme un esclave ou comme un être libre, cela ne dépend que de moi, je suppose..." />
+    <string id="Fov11xx44" text="Je ne crois pas." />   
+    <string id="Fov11xx45" text="Hé, patron, je fais de mon mieux !" />
+    <string id="Fov11xx46" text="Je constate..." />   
+    <string id="Fov11xx47" text="Rien de tel qu'un bon repas après une bonne journée de crime, n'est-ce pas patron ? Ravi de vous voir parmi nous !" />
+    <string id="Fov11xx48" text="Hé patron, il y a assez de place là-bas pour faire un terrain d'entraînement. J'ai hâte de croiser le fer avec vous !" />   
+    <string id="Fov11xx49" text="Cela semble excellent !" />  
+    <string id="Fov11xx50" text="Il est parfois bon de s'asseoir et de prendre le temps de réfléchir à ce qu'il faut faire..." />
+    <string id="Fov11xx51" text="En effet, discutons-en..." />
+    <string id="Fov11xx52" text="Vous devez avoir raison, mais pas maintenant." />   
+    <string id="Fov11xx53" text="Gérer" />
+    <string id="Fov11xx54" text="Se promener" />   
+    <string id="Fov11xx55" text="Intrus !" />
+    <string id="Fov11xx56" text="Une petite armée a été repérée dans les environs. Il est trop tard pour rassembler les hommes (la plupart d'entre eux sont ivres de toute façon). Vous devez défendre l'endroit avec vos propres hommes !" />   
+    <string id="Fov11xx57" text="Suspect" />
+    <string id="Fov11xx58" text="Vous et vos hommes avez réussi à contrer l'attaque. Il ne reste plus aucun survivant et vous n'avez pas pu identifier qui a pu engager ces mercenaires et comment ils ont trouvé le chemin de votre planque..." />   
+    <string id="Fov11xx59" text="Confusion" />  
+    <string id="Fov11xx60" text="Heureusement vos gars et quelques bandits des environs ont réussi à vaincre les mercenaires restants. Les esclaves, eux, n'ont pas manqué l'occasion de s'échapper..." />
+    <string id="Fov11xx61" text="Vous avez perdu {QTY} esclaves" />
+    <string id="Fov11xx62" text="Jadis, un fort fut construit en haut d'un col, il protégeait la haute vallée et la route commerciale qui cheminait en son sein. Mais la route perdit peu à peu sa fréquentation et il ne resta plus que de rares voyageurs. Le site fut dès lors abandonné, les puissantes fortifications laissèrent place à des ruines. Durant des décennies l'endroit resta inoccupé, jusqu'à ce que un groupe de brigands s'y installa. Le lieu offrait une protection idéale : la rivière assurait l'accès à l'eau potable tandis que le relief accidenté et les grottes qui parsemaient la montagne procuraient un abri naturel facilement défendable." />   
+    <string id="Fov11xx63" text="{LVLXP} / {NEXT} xp" />
+
+ <!--From v12.1.1.0 and above WORK IN PROGRESS-->    
+    <string id="Fov12xx01" text="Vous avez pris une ruelle et perdu votre partenariat dans cette ville !" />   
+    <string id="Fov12xx02" text="{MISSION} achevée !" />
+    <string id="Fov12xx03" text="Salut patron, les affaires marchent bien par ici.[rb:very_positive]" />   
+    <string id="Fov12xx04" text="Bonjour {PLAYER.NAME}... C'est un plaisir de vous revoir. Vous aviez vos raisons d'abandonner ce territoire, mais nous pouvons encore gagner de l'argent, vous savez..." />
+    <string id="Fov12xx05" text="Merci d'être venu {PLAYER.NAME} J'étais le bras droit de celui que vous avez mis à la tête de cette ville. Enfin, nous nous rencontrons ![rb:very_positive]" />   
+    <string id="Fov12xx06" text="{PLAYER.NAME}... Que puis-je faire pour vous ?" />
+    <string id="Fov12xx07" text="Bien, je sais que je peux compter sur vous !" />   
+    <string id="Fov12xx08" text="Vous avez raison. J'ai changé d'avis et je veux que cette ville reprenne ses activités !" />
+    <string id="Fov12xx09" text="Épargnez-moi mon temps et dites-moi ce qui est arrivé à mon affranchi !" />   
+    <string id="Fov12xx10" text="Je n'en sais rien. Nous étions censés faire notre visite habituelle des commerçants de la ville... Je ne comprends pas ce qui s'est passé..." />
+    <string id="Fov12xx11" text="Probablement l'un de ces commerçants... Et qui est responsable de l'affaire aujourd'hui ? Il semble que vous prétendiez l'être..." />   
+    <string id="Fov12xx12" text="J'ai beaucoup appris de mon patron. Et je suis prêt à vous prouver mes compétences !" />
+    <string id="Fov12xx13" text="Vous avez l'air confiant, j'aime ça !" />   
+    <string id="Fov12xx14" text="Indisponible tant que vous contrôlez une ruelle dans cette ville." />
+    <string id="Fov12xx15" text="{GANGL} deviendra votre nouvel affranchi et gérera cette ville à votre place !" />   
+    <string id="Fov12xx16" text="Alors... Vous avez capturé les ruelles et maintenant vous osez me défier en duel ? Cela ne me dérange pas de vous montrer qui est le vrai patron de la ville[ib:agressive][if:convo_furious]" />
+    <string id="Fov12xx17" text="Quitter la ville avant d'avoir terminé réinitialisera cette tâche." />   
+    <string id="Fov12xx18" text="Oi, toi, qui t'es... Attendez une seconde, vous êtes le grand patron ! Tout va bien ici..." />
+    <string id="Fov12xx19" text="Tu as de la chance, mon affranchi a besoin de toi dans cette ruelle..." />   
+    <string id="Fov12xx20" text="Je suis ici pour te faire mordre la poussière, espèce d'ordure !" />
+    <string id="Fov12xx21" text="Vous fouillez les mercenaires et trouvé les fonds promis..." />   
+    <string id="Fov12xx22" text="Pas dans votre groupe" />
+    <string id="Fov12xx23" text="Assigner un nouveau rôle à un membre de clan." />   
+    <string id="Fov12xx24" text="Doit rester dans votre base principale pour gérer l'entreprise." />
+    <string id="Fov12xx25" text="{ROLE} est le rôle clé de la {OPT}.{newline}{COND}" />   
+    <string id="Fov12xx26" text="Doit rester dans votre groupe pour coordonner vos intrigues." />
+    <string id="Fov12xx27" text="Déjà assigné au rôle de {VAL}" />   
+    <string id="Fov12xx28" text="Le compagnon est blessé" />
+    <string id="Fov12xx29" text="Relation à {REL} ou supérieur {RELCK}{newline}Roublardise à {ROG} ou supérieur {ROGCK}{newline}Trait {MERCY} à 0 ou inférieur {MERCYCK}{newline}Trait {HONOR} à 0 ou inférieur {HONORCK}" />   
+    <string id="Fov12xx30" text="Choississez un compagnon" />
+    <string id="Fov12xx31" text="Vous allez convertir l'un de vos compagnons en chef de gang pour gérer cette ville. Cette action est irréversible, alors choisissez judicieusement.{newline}Il faudra quelques jours avant que le nouveau chef de gang ne devienne actif." />   
+    <string id="Fov12xx32" text="Vous avez promu {COMPA} en chef de gang." />
+    <string id="Fov12xx33" text="Promouvoir un compagnon" />   
+    <string id="Fov12xx34" text="Faites-vous des amis parmi les chefs de gangs pour qu'ils puissent vous aider... Ou allez en ville pour obtenir une tenue de garde de n'importe quel garde que vous aurez vaincu (Alt gauche + clic droit en vous tenant sur leur corps)." />
+    <string id="Fov12xx35" text="{GANGLEAD} a besoin de collecter des fonds et se demande si vous voulez vous en occuper ? Vous êtes le patron mais vous voulez peut-être continuer à améliorer vos compétences..." />   
+    <string id="Fov12xx36" text="{GANGLEAD} à ses hommes prêts à vous aider si cela s'avère nécessaire." />
+    <string id="Fov12xx37" text="La caravane se déplace vers {SET}" />   
+    <string id="Fov12xx38" text="{GANGLEAD} et vous avez tous deux estimé un gain possible de {ESTIPROF} deniers.{newline}L'attaque est prévue pour ce soir !" />
+    <string id="Fov12xx39" text="{GANGLEAD} à ses hommes prêts à vous aider si cela s'avère nécessaire." />   
+    <string id="Fov12xx40" text="Vous avez prouvé vos compétences en battant {GANGRELA}, le chef de gang le plus puissant de cette ville..." />
+    <string id="Fov12xx41" text="Vous avez terrassé le chef de gang le plus puissant et avez fait de cette ville une partie de votre territoire. L'endroit est parfait pour établir votre base." />   
+    <string id="Fov12xx42" text="Vous avez étendu votre territoire. Vous pouvez changer votre base principale de {CRIMEBASE} à cette ville à tout moment dans le menu de l'Entreprise Criminelle." />
+    <string id="Fov12xx43" text="Vous avez fait de cette ville une partie de votre territoire. Vous devez promouvoir un compagnon pour gérer le lieu." />   
+    <string id="Fov12xx44" text="Votre planque est maintenant au niveau {VAL}" />
+    <!-- <string id="Fov12xx45" text="@Promote a companion to gang leader to manage this territory" />    -->
+    <string id="Fov12xx46" text="Évasion discrète" />
+    <string id="Fov12xx47" text="Vous avez réussi à vous libérer de vos chaînes. Essayez d'atteindre la bordure de la zone pour échapper à vos ravisseurs. Attention aux gardes qui n'hésiteront pas à vous attaquer à vue!" />   
+    <string id="Fov12xx48" text="Beau travail, vous êtes libre de partir !" />
+    <string id="Fov12xx49" text="Vous avez récupéré les clés !" />   
+    <string id="Fov12xx50" text="Vous avez trouvé les clés mais vous n'avez pas pu les prendre..." />
+    <string id="Fov12xx51" text="Clés de la prison" />   
+    <string id="Fov12xx52" text="Vous devez être déguisé en garde pour entrer." />
+    <string id="Fov12xx53" text="Vous avez quitté la zone de duel" />   
+    <string id="Fov12xx54" text="Bravo, vous avez gagné le duel !" />
+    <string id="Fov12xx55" text="+{QTY} assassin(s) formés" />   
+    <string id="Fov12xx56" text="Vous avez perdu le duel..." />   
+    <string id="Fov12xx57" text="Vous devez récupérer les clés de la prison auprès de l'un des gardes." />
+    <string id="Fov12xx58" text="Vous devez atteindre la limite extérieure de la zone sans être poursuivi par des gardes..." />   
+    <string id="Fov12xx59" text="Vous avez tué tous les gardes et vous êtes libre de partir." />
+    <string id="Fov12xx60" text="+1% par notable amical (Chef de gang +3%).{newline}+5% par partenariat.{newline}+15% par territoire.{newline}+5% par ruelle.{newline}+3% par repaire découvert." />  
+    <string id="Fov12xx61" text="Vous devez disposer d'un réseau d'au moins {FOG}% pour recueillir plus d'informations sur ce clan." />   
+    <string id="Fov12xx62" text="Ruelles détenues" />
+    <string id="Fov12xx63" text="Une ville où vous avez promu un compagnon en chef de gang est considérée comme faisant partie de votre territoire. Vous recevez plus de revenus que les ruelles et les partenariats, mais vous augmentez aussi considérablement votre taux de criminalité." />   
+    <string id="Fov12xx64" text="Géré par " />
+    <string id="Fov12xx65" text="Vous devez promouvoir un compagnon en chef de gang pour gérer ce territoire." />   
+    <string id="Fov12xx66" text="{SUC} aimerais discuter avec vous de votre bon ami qui a soudainement disparu..." />
+    <string id="Fov12xx67" text="Brigandage: +{UP}" />   
+    <string id="Fov12xx68" text="Petite ferme: +{UP}" />
+    <string id="Fov12xx69" text="Consomme: {DWN}" />   
+    <string id="Fov12xx70" text="Ruelles" />
+    <string id="Fov12xx71" text="Niveau actuel: {VAL}" />   
+    <string id="Fov12xx72" text="Le service donne des points d'expérience quotidiens pour l'amélioration de votre base (1 esclave en service = +{XP}xp par jour)" />
+    <string id="Fov12xx73" text="S'évader" />   
+    <string id="Fov12xx75" text="Attendez la tombée de la nuit avant d'essayer de vous évader..." />   
+    <string id="Fov12xx76" text="Une tentative tous les {DAY} jour(s) de captivité (-1 jour par 100 en Roublardise)" />   
+    <string id="Fov12xx77" text="Les gardes ont reçu l'ordre de vous surveiller de près (le groupe de ravisseurs doit être composé de plus de 50 soldats)" />
+    <string id="Fov12xx78" text="Attendez la tombée de la nuit avant d'essayer de vous évader..." />   
+    <string id="Fov12xx79" text="Vos ravisseurs vous attaqueront à vue, même si vous pillez leur corps et vous déguisez.{newline}Recevez un bonus d'xp massif en Roublardise si vous parvenez à vous échapper sans tuer un seul ennemi.{newline}{TOG}" />
+    <string id="Fov12xx80" text="Vous n'êtes pas déguisé, les gardes vous attaqueront à vue !{newline}{CANDO}{newline}{GET}" />  
+    <string id="Fov12xx81" text="Tuez tous les gardes si vous voulez libérer les prisonniers." />   
+    <string id="Fov12xx82" text="Prenez les clés de la prison à l'un des gardes pour vous évader." />
+    <string id="Fov12xx83" text="Vous portez une tenue de garde, vous pouvez entrer dans le donjon et la prison." />   
+    <string id="Fov12xx84" text="Cherchez des preuves autour du trône (scandale)... Ou peut-être êtes-vous ici pour un funeste dessein..." />
+    <string id="Fov12xx85" text="Tuez tous les gardes si vous voulez libérer les prisonniers." />   
+    <string id="Fov12xx86" text="Vous êtes déguisé, les gardes attaqueront à vue si une arme est dégainée.{newline}{CANDO}{newline}{GET}" />
+    <string id="Fov12xx87" text="Vous êtes à {DIST} mètres de la liberté..." />   
+    <string id="Fov12xx88" text="La planque a 3 niveaux. Les xp quotidiens sont basés sur le nombre d'esclaves affectés au service (1 esclave au service = +{XP}xp par jour)." />
+
+    <!--From v1.2.3 and above WIP--> 
+
+    <string id="Fov123x01" text="+ {INV}    coût  -{COST}" />   
+    <string id="Fov123x02" text="Bonus des améliorations" />
+    <string id="Fov123x03" text="Parler avec le chef de gang" />   
+    <string id="Fov123x04" text="Réglez le niveau de corruption afin de limiter ce que vous payer aux autorités locales (impact de la corruption).{newline}Le niveau le plus élevé va décroître votre taux de criminalité, les autres niveaux l'augmenteront (quotidien)." />
+    <string id="Fov123x05" text="Disponible uniquement dans une ville que vous possédez ou dans une ville de votre territoire." />   
+    <string id="Fov123x06" text="Groupe de saboteurs créé (Alt Gauche + Clic Droit pour gérer)" />   
+    <string id="Fov123x07" text="Ruelles que vous possédez et contrôlez dans les villes.{newline}*Exclues les villes où vous avez un partenariat ou faisant partie de votre territoire." />
+    <string id="Fov123x08" text="Seuls les royaumes où vous disposez d'un réseau sont disponibles pour la sélection." />   
+    <string id="Fov123x09" text="Améliorations" />
+    <string id="Fov123x10" text="Stratégie de la Salle des intrigues" /> 
+    <string id="Fov123x11" text="Revenu" />   
+    <string id="Fov123x12" text="Prisonniers: +0 à " />
+    <string id="Fov123x13" text="Les revenus du brigandage sont basés sur la richesse de la région et la moyenne des niveaux de vos gars." />   
+    <string id="Fov123x14" text=" et domaines familiaux" />
+    <string id="Fov123x15" text="Le calcul du réseau est basé sur votre réseau criminel (ruelles, territoires, partenariats, factions bandits).{newline}Les territoires{HMST} ayant le plus d'impact." />   
+    <string id="Fov123x16" text="Le calcul du réseau est basé sur vos relations avec les notables, clans.{newline}Les émissaires{HMST} ayant le plus d'impact." />   
+    <string id="Fov123x17" text="Stratégie actuelle: {VAL}" />
+    <string id="Fov123x18" text="Choississez la stratégie actuelle de votre salle des intrigues.{newline}Chaque stratégie a un calcul de réseau différent.{newline}Le changement de stratégie annulera tout projet en cours sans aucun remboursement." />   
+    <string id="Fov123x19" text="Domaines familiaux" />
+    <string id="Fov123x20" text="Vous avez besoin d'une base d'opérations (à activer depuis le menu du donjon ou de n'importe lequel de vos fiefs) ou d'une base criminelle ou d'un domaine familial." /> 
+    <string id="Fov123x21" text="Vous avez besoin d'au moins un saboteur pour permettre à d'autres unités d'être entraînées." />   
+    <string id="Fov123x22" text="Entraîner des saboteurs en chemin (+1 par jour). Vous avez besoin d'au moins un saboteur pour permettre à d'autres unités d'être entraînées." />
+    <string id="Fov123x23" text="+{VAL}% par domaine familial (+{TIER}% par niveau)." />   
+    <string id="Fov123x24" text="+{VAL}% par notable amical (Chef de gang +{VAL2}%)" />
+    <string id="Fov123x25" text="+{VAL}% par partenariat" />   
+    <string id="Fov123x26" text="+{VAL}% par territoire" />   
+    <string id="Fov123x27" text="+{VAL}% par ruelle" />
+    <string id="Fov123x28" text="+{VAL}% par repaire découvert" />   
+    <string id="Fov123x29" text="+{VAL}% par notable amical" />
+    <string id="Fov123x30" text="+{VAL}% par clan amical" />   
+    <string id="Fov123x31" text="+{VAL}% par émissaire (membre de clan laissé en ville, un par ville" />   
+    <string id="Fov123x32" text="Appuyez sur la touche (Alt Gauche) pour plus d'informations" />
+    <string id="Fov123x33" text="(F) Partenariats" />   
+    <string id="Fov123x34" text="(F) Territoires" />
+    <string id="Fov123x35" text="(F) Entreprise criminelle" />   
+    <string id="Fov123x36" text="(F) Repaire au-delà de sa capacité" />   
+    <string id="Fov123x37" text="(F) Coût d'amélioration" />
+    <string id="Fov123x38" text="(F) La Horde" />   
+    <string id="Fov123x39" text="(F) Corruption de base" />
+    <string id="Fov123x40" text="(F) Salaire des gars" /> 
+    <string id="Fov123x41" text="(F) Revenu du brigandage" />   
+    <string id="Fov123x42" text="(F) Bénéfice minier" />
+    <string id="Fov123x43" text="(F) Combattant de la Fosse" />   
+    <string id="Fov123x44" text="(F) Ecurie de la Fosse de combat" />
+    <string id="Fov123x45" text="(F) Base Corruption" />   
+    <string id="Fov123x46" text="(F) Force des bandits" />   
+    <string id="Fov123x47" text="L'intrigue est annulée parce que la cible est décédée." />
+    <string id="Fov123x48" text="Le contrat est annulé car le client est mort." />   
+    <string id="Fov123x49" text="Je vous paierai suffisamment, je peux payer {VAL}{GOLD_ICON}. C'est une somme importante...[ib:nervous]" />
+    <string id="Fov123x50" text="Le salaire actuel du contrat est de {PAY}{GOLD_ICON}. L'acceptation de la contre-offre de votre victime annulera ce contrat et vous subirez une pénalité de relation. (-{REL}) avec {CLAN} de {KING}" /> 
+    <string id="Fov123x51" text="Vous n'avez aucun contrat en cours" />   
+    <string id="Fov123x52" text="Vous n'avez aucun contrat d'assassinat en cours d'exécution" />
+    <string id="Fov123x53" text="Essayez de négocier la vie ou la mort de votre victime." />   
+    <string id="Fov123x54" text="Votre contrat d'assassinat n'est pas contre le clan de cette victime" />
+    <string id="Fov123x55" text="Un dernier mot avant de vous trancher la gorge ?" />   
+    <string id="Fov123x56" text="Qui... qui êtes-vous ? Qui vous a envoyé ? Attendez, s'il vous plaît ! Je ne veux pas mourir...[if:convo_astonished][ib:nervous]" />   
+    <string id="Fov123x57" text="Quelle valeur accordez-vous à votre vie ? Vous avez intérêt à être généreux..." />
+    <string id="Fov123x58" text="Nous avons conclu un accord, maintenant je vais vous laisser gentiment, continuez à faire ce que vous faisiez..." />   
+    <string id="Fov123x59" text="Vous êtes un cas désespéré... Aucun espoir pour vous !" />
+    <string id="Fov123x60" text="Je me demandais si vous aviez besoin d'aide pour libérer les ruelles appartenant à vos rivaux..." /> 
+    <string id="Fov123x61" text="Je pourrais dire à mes hommes de s'en occuper. Mais cela pourrait être porté à la connaissance des plus hautes autorités et je pourrais être accusé de semer le trouble en ville..." />   
+    <string id="Fov123x62" text="C'est pourquoi je vous propose mes services. Personne ne sera au courant de cette discussion. Ce sera fait en toute discrétion..." />
+    <string id="Fov123x63" text="Oh oh, j'aime votre façon de penser. Nous avons un accord ! Mais ne pensez même pas à prendre la ruelle pour vous ![rb:very_positive][rf:trivial_hi]" />   
+    <string id="Fov123x64" text="Bien sûr, vous avez ma parole..." />
+    <string id="Fov123x65" text="Sélectionnez et cliquez sur continuer pour demander à ce groupe de vous suivre." />   
+    <string id="Fov123x66" text="Pression constante" />   
+    <string id="Fov123x67" text="Tactiques de sabotage" />
+    <string id="Fov123x68" text="À partir de là, vous pouvez planifier votre sabotage(s). Que comptez-vous faire ?" />   
+    <string id="Fov123x69" text="Vous avez perdu {VAL} saboteur(s)" />
+    <string id="Fov123x70" text="Votre groupe de saboteurs est perdu" /> 
+    <string id="Fov123x71" text="Nouvelles recrues" />   
+    <string id="Fov123x72" text="Allez en ville et libérez les ruelles appartenant au rival de {GNL}." />
+    <string id="Fov123x73" text="{GNL} pas besoin de ce genre de service pour l'instant." />   
+    <string id="Fov123x74" text="Cela coûtera {COST} saboteurs et durera {DUR} heure(s)." />
+    <string id="Fov123x75" text="Le niveau des stocks alimentaires est déjà bas." />   
+    <string id="Fov123x76" text="Les murs ont déjà une brèche." />   
+    <string id="Fov123x77" text="Les unités bandits sont imspirées par la Marque de Bulla (points de vie de base +{VAL}%)" />
+    <string id="Fov123x78" text="J'ai entendu les bandits parler d'une sorte de vieille relique, savez-vous quelque chose à ce sujet ?" />   
+    <string id="Fov123x79" text="Peut-être font-ils référence à la Marque de Bulla. Bulla Felix était un célèbre brigand, une véritable légende parmi les bandits. On dit que celui qui détient la relique les inspire au combat. Et apparemment, la relique est cachée quelque part ici... Une belle perte de temps, si vous voulez mon avis..." />
+    <string id="Fov123x80" text="A propos de la Marque de Bulla..." /> 
+    <string id="Fov123x81" text="Je n'arrive pas à croire que la légende était vraie. Vous détenez une puissante relique. Avec cet objet, l'esprit de Bulla Felix inspirera les bandits qui se battront à vos côtés." />   
+    <string id="Fov123x82" text="La Marque de Bulla" />
+    <string id="Fov123x83" text="Alors que vous vous approchez de ce qui semble être une simple pierre, vous vous rendez compte de la complexité de sa forme. Il s'agit d'une statue ancienne, représentant la tête d'un méchant. Les lettres BULLA FELIX sont gravées sous le socle." />   
+    <string id="Fov123x84" text="La Marque de Bulla a été ajoutée à votre inventaire" />
+    <string id="Fov123x85" text="Intéressant..." />   
+    <string id="Fov123x86" text="Vous ne faites plus partie d'aucune écurie." />   
+    <string id="Fov123x87" text="Vous n'avez plus de mécène." />
+    <string id="Fov123x88" text="{VAL} est mort. Vous ne faites plus partie d'aucune écurie." />   
+    <string id="Fov123x89" text="Votre mécène est mort." />
+    <string id="Fov123x90" text="Vous n'êtes plus champion et vous avez perdu votre mécène." /> 
+    <string id="Fov123x91" text="{GL} n'est plus le chef de gang le plus puissant de {TOWN}. Vous ne faites plus partie d'aucune écurie." />   
+    <string id="Fov123x92" text="A propos de la fosse de combat..." />
+    <string id="Fov123x93" text="Je ne sais pas trop quoi vous dire... Mais nous sommes toujours à la recherche de nouvelles victi... Je veux dire de futurs champions, comme vous... Allez à la taverne, commencez une bagarre et convainquez-moi de rejoindre mon écurie.[if:convo_huge_smile]" />   
+    <string id="Fov123x94" text="Très bien ! Je vais vous montrer à quel point je suis bon." />
+    <string id="Fov123x95" text="Moins de parlotte, plus de combats. La fosse n'attend jamais ses champions... et ses victimes ![if:convo_huge_smile]" />   
+    <string id="Fov123x96" text="C'est certain..." />   
+    <string id="Fov123x97" text="Vous êtes donc un combattant... Peut-être voulez-vous rejoindre mon écurie et faire tomber quelques têtes pour moi ?[if:convo_huge_smile]" />
+    <string id="Fov123x98" text="J'en suis !" />   
+    <string id="Fov123x99" text="Vous avez votre propre écurie, moi aussi.{newline}Contrairement à ces tournois ennuyeux, la fosse ne me déçoit jamais, tellement elle est divertissante...[if:convo_huge_smile]" />
+    <string id="Fov123x100" text="Les combats de la Fosse sont tellement excitants. Le sang, la souffrance... et les deniers que j'ai perdus..." /> 
+    <string id="Fov123x101" text="Vous prétendez donc être un champion...{newline}Faites vos preuves et vous serez récompensé en conséquence..." />   
+    <string id="Fov123x102" text="Je suis prêt !" />
+    <string id="Fov123x103" text="Je suis ici pour le spectacle et mon écurie s'assurera que les choses se passent bien ce soir !" />   
+    <string id="Fov123x104" text="Je vois..." />
+    <string id="Fov123x105" text="Se rendre aux fosses de combat" />   
+    <string id="Fov123x106" text="Combats de la Fosse" />   
+    <string id="Fov123x107" text="Entraînement" />
+    <string id="Fov123x108" text="Votre carrière" />   
+    <string id="Fov123x109" text="Défi du mécène" />
+    <string id="Fov123x110" text="Mécénat" /> 
+    <string id="Fov123x111" text="Votre écurie" />   
+    <string id="Fov123x112" text="Convertir des troupes en combattants" />
+    <string id="Fov123x113" text="Nombre de combattants : {VAL} / {MAX}" />   
+    <string id="Fov123x114" text="Votre écurie a votre culture {CUL}" />
+    <string id="Fov123x115" text="*Le revenu est déterminé par le nombre de combattants." />   
+    <string id="Fov123x116" text="*Certains de vos combattants peuvent mourir au fil du temps." />   
+    <string id="Fov123x117" text="Revenu quotidien {VAL}{GOLD_ICON}" />
+    <string id="Fov123x118" text="Vous allez quitter l'écurie de {OLD} (-{REL} pénalite de relation)" />   
+    <string id="Fov123x119" text="Voulez-vous créer votre écurie ?{newline}Convertissez les troupes de bas niveau en combattants pour faire du profit.{newline}{VAL}" />
+    <string id="Fov123x120" text="Le nombre maximum de nouvelles recrues est de {LIMITREC}" /> 
+    <string id="Fov123x121" text="Bonus de gloire après chaque victoire.{newline}Idéal pour améliorer ses compétences en athlétisme." />   
+    <string id="Fov123x122" text="Vous ne pouvez pas choisir le type d'arme" />
+    <string id="Fov123x123" text="Laissez votre adversaire choisir" />   
+    <string id="Fov123x124" text="Choississez le type d'arme" />
+    <string id="Fov123x125" text="Seuls les combattants de niveau -Champion- ont une arme dans les combats de groupe." />   
+    <string id="Fov123x126" text="L'adversaire sera toujours à votre niveau." />   
+    <string id="Fov123x127" text="Le niveau de l'adversaire augmente après chaque round. Offre la plus haute récompense en Gloire." />
+    <string id="Fov123x128" text="Combat de groupe 3 contre 3." />   
+    <string id="Fov123x129" text="Combat de groupe 5 contre 5." />
+    <string id="Fov123x130" text="Uniquement à mains nues" /> 
+    <string id="Fov123x131" text="Duel" />   
+    <string id="Fov123x132" text="4 à la suite" />
+    <string id="Fov123x133" text="3 contre 3" />   
+    <string id="Fov123x134" text="5 contre 5" />
+    <string id="Fov123x135" text="Armes seulement" />   
+    <string id="Fov123x136" text="Choississez un type de combat" />   
+    <string id="Fov123x137" text="La fosse valorise la bravoure de ses combattants. Terminez les 4 combats pour obtenir des récompenses supplémentaires (deniers, relation, renommée...)." />
+    <string id="Fov123x138" text="Le trait de {VAL} " />   
+    <string id="Fov123x139" text="{VAL} pour les dons" />
+    <string id="Fov123x140" text="Gagner un {TYPE} ({VAL})" />    
+    <string id="Fov123x141" text="La relation actuelle est de {VAL}" />   
+    <string id="Fov123x142" text="Mettre fin au mécénat (-{REL} relation)" />
+    <string id="Fov123x143" text="Vous êtes le favori de {VAL} du {CLAN}, clan de {KING}" />   
+    <string id="Fov123x144" text="*Gagnez des combats dans les conditions données et recevez un don de votre mécène." />
+    <string id="Fov123x145" text="*Si vous perdez votre titre de champion, vous perdrez votre mécène." />   
+    <string id="Fov123x146" text="Le don de base par victoire s'élève à {VAL}{GOLD_ICON} (sans bonus ni pénalités)" />   
+    <string id="Fov123x147" text="Voulez-vous devenir le favori de {VAL} de {CLAN}, clan de {KING}, souverain de cette ville ? Vous devrez d'abord prouver votre valeur lors d'un défi." />
+    <string id="Fov123x148" text="Rechercher un mécène" />   
+    <string id="Fov123x149" text="Vermisseau" />
+    <string id="Fov123x150" text="Survivant" /> 
+    <string id="Fov123x151" text="Guerrier" />   
+    <string id="Fov123x152" text="Champion" />
+    <string id="Fov123x153" text="Prochain niveau: " />   
+    <string id="Fov123x154" text="*Les dégâts à mains nues sont augmentés avec l'athlétisme." />
+    <string id="Fov123x155" text="*La gloire diminue de {VAL} chaque semaine.{newline}*Votre carrière prendra fin si vous restez à 0 de gloire pendant plus de {VAL2} semaines." />   
+    <string id="Fov123x156" text="(le prochain niveau est {NEXT})" />   
+    <string id="Fov123x157" text="Le niveau actuel est {CUR}" />
+    <string id="Fov123x158" text="Gloire: {FAME} / {TRESH}  {CURNEXT}" />   
+    <string id="Fov123x159" text="{BONUS}Peut s'entraîner dans n'importe quelle ville" />
+    <string id="Fov123x160" text="{BONUS}Peut combattre dans n'importe quelle ville" /> 
+    <string id="Fov123x161" text="{BONUS}Prend la tête des combats de groupe" />   
+    <string id="Fov123x162" text="{BONUS}Peut avoir un mécène" />
+    <string id="Fov123x163" text="Vous avez votre propre écurie." />   
+    <string id="Fov123x164" text="Les revenus de votre écurie sont d'environ {VAL}{GOLD_ICON}" />
+    <string id="Fov123x165" text="Vous êtes dans l'écurie de {VAL} (culture {CUL})" />   
+    <string id="Fov123x166" text="{BONUS}Peut s'entraîner dans les autres villes de la même culture" />   
+    <string id="Fov123x167" text="{BONUS}Peut combattre dans les autres villes de la même culture" />
+    <string id="Fov123x168" text="{BONUS}nouveau salaire {PAY}{GOLD_ICON}" />   
+    <string id="Fov123x169" text="Votre salaire quotidien est d'environ {VAL}{GOLD_ICON}" />
+    <string id="Fov123x170" text="Carrière de Combattant" />   
+    <string id="Fov123x171" text="La gloire est de 0" />   
+    <string id="Fov123x172" text=" (Bonus à mains nues +{VAL})" />
+    <string id="Fov123x173" text="Maximum de gloire atteint" />   
+    <string id="Fov123x174" text="Mécénat +{VAL}{GOLD_ICON}" />
+    <string id="Fov123x175" text="Vous devez faire partie d'une écurie, vous pouvez créer votre propre écurie" />   
+    <string id="Fov123x176" text="Vous devez faire partie d'une écurie, parler avec le chef de gang qui possède l'endroit" />   
+    <string id="Fov123x177" text="La ville n'a pas de propriétaire" />
+    <string id="Fov123x178" text="Le souverain de la ville n'a aucun intérêt dans les combats de la fosse. (trait Clément)" />   
+    <string id="Fov123x179" text="Le souverain de la ville vous déteste" />
+    <string id="Fov123x180" text="Vous êtes en guerre avec cette faction" />   
+    <string id="Fov123x181" text="Seulement possible l'après-midi." />   
+    <string id="Fov123x182" text="Le propriétaire de la fosse de combat, {GANGLEAD}, vous déteste." />
+    <string id="Fov123x183" text="Le niveau du combattant de fosse est trop bas" />   
+    <string id="Fov123x184" text="Entraînement impossible cette nuit !" />
+    <string id="Fov123x185" text="Accessible uniquement la nuit." />   
+    <string id="Fov123x186" text="Les prochains combats sont prévus le {VAL2} {VAL} (En fin de soirée)" />   
+    <string id="Fov123x187" text="Plus de combats pour cette nuit !" />
+    <string id="Fov123x188" text="L'endroit sent la sueur et le sang. L'enthousiasme de la foule contraste avec la violence du spectacle..." />   
+    <string id="Fov123x189" text="Le souverain de la ville {VAL} n'est pas disposé à permettre ce type d'événement." />
+    <string id="Fov123x190" text="Le souverain de la ville {VAL} autorise ce type d'événement." />   
+    <string id="Fov123x191" text="Vous possédez l'endroit." />   
+    <string id="Fov123x192" text="{VAL} possède cet endroit. La culture est {CULT}. Vous êtes un combattant de son écurie." />
+    <string id="Fov123x193" text="{VAL} possède l'endroit. La culture est {CULT}." />   
+    <string id="Fov123x194" text="Votre écurie est l'invitée de ce soir." />
+    <string id="Fov123x195" text="Vous faites partie de l'écurie des visiteurs de ce soir." />   
+    <string id="Fov123x196" text="L'invité de ce soir est l'écurie de {GL} de {VAL}." />   
+    <string id="Fov123x197" text="Il n'y a pas d'invité ce soir." />
+    <string id="Fov123x198" text="Round {VAL}" />   
+    <string id="Fov123x199" text="Vous serez toujours victorieux si vous n'entrez jamais dans une compétition dont l'enjeu ne dépend pas entièrement de vous." />
+    <string id="Fov123x200" text="Un véritable combattant" />   
+    <string id="Fov123x201" text="Survivez et faites autant de KO que possible, telles sont les règles..." />   
+    <string id="Fov123x202" text="Coup à la tête" />
+    <string id="Fov123x203" text="Le KO est pour vous !" />   
+    <string id="Fov123x204" text="Se préparer pour le prochain round !" />
+    <string id="Fov123x205" text="Vous avez survécu !" />   
+    <string id="Fov123x206" text="La foule semble apprécier votre style et a jeté quelques pièces dans la fosse !" />   
+    <string id="Fov123x207" text="Toujours debout !" />
+    <string id="Fov123x208" text="Défi réussi !" />   
+    <string id="Fov123x209" text="Vous avez vaincu le chef de gang." />
+    <string id="Fov123x210" text="Vous êtes à terre" /> 
+    <string id="Fov123x211" text="Vous vous effondrez et perdez connaissance pendant un court instant." />   
+    <string id="Fov123x212" text="Vous avez survécu mais n'avez pas fait un seul KO.{newline}Le public n'est pas convaincu par votre prestation..." />
+    <string id="Fov123x213" text="La foule semble apprécier votre style et a jeté quelques pièces dans la fosse !{newline}Nombre de KO: {VAL}" />   
+    <string id="Fov123x214" text="Nul n'est libre s'il n'est pas maître de lui-même" />
+    <string id="Fov123x215" text="Nous nous dirigeons vers {VAL}, restez un peu en arrière et soyez prêts !" />
+    <string id="Fov123x216" text="Embuscade de caravane" />
+    <string id="Fov123x217" text="Dague" />
+    <string id="Fov123x218" text="Hache et bouclier" />
+    <string id="Fov123x219" text="Masse à deux mains" />
+    <string id="Fov123x220" text="Etoile du matin" /> 
+    <string id="Fov123x221" text="A mains nues" />
+    <string id="Fov123x222" text="Gloire" />
+    <string id="Fov123x223" text="Il est trop tôt pour essayer... Vos ravisseurs vous surveillent de près." />
+    <string id="Fov123x224" text="Extraction de pierre" />
+    <string id="Fov123x225" text="L'extraction permet d'obtenir un revenu de base quotidien. Assigner plus d'esclaves permet d'augmenter les revenus. Les bénéfices sont également influencés par toutes les guerres." />
+    <string id="Fov123x226" text="Emissaires des factions bandits" />
+    <string id="Fov123x227" text="Toute faction bandit avec une force de 500 laissera un émissaire dans votre planque." />
+    <string id="Fov123x228" text="Niveau {VAL}" />
+    <string id="Fov123x229" text="Dortoir des esclaves" />
+    <string id="Fov123x230" text="Réduit légèrement le taux d'évasion et de mortalité des esclaves." />
+    <string id="Fov123x231" text="Petite ferme" />
+    <string id="Fov123x232" text="-Service- permet une petite production alimentaire." />
+    <string id="Fov123x233" text="Terrain d'entraînement" />
+    <string id="Fov123x234" text="Permet d'affronter vos compagnons en duel pour gagner de l'xp et s'amuser." />
+    <string id="Fov123x235" text="Défi de l'assassin" />    
+    <string id="Fov123x236" text="Le Maître Assassin apparaît la nuit (Clan de niveau 2 requis). Défiez-le si vous l'osez." />
+    <string id="Fov123x237" text="Dortoir amélioré" />
+    <string id="Fov123x238" text="Infirmerie" />
+    <string id="Fov123x239" text="Augmente le taux de guérison maximum de vos gars, le coût de -Soins des blessures- est divisé par deux." />
+    <string id="Fov123x240" text="Grues" />
+    <string id="Fov123x241" text="Améliore l'efficacité de l'extraction." />
+    <string id="Fov123x242" text="Points de vie à 100%" />
+    <string id="Fov123x243" text="La capacité maximale du groupe est {LIMITREC} unités." />
+    <string id="Fov123x244" text="Nombre de combats effectués: {VAL}" />
+    <string id="Fov123x245" text="Gagné {VAL}" />
+    <string id="Fov123x246" text="Perdu {VAL}" />
+    <string id="Fov123x247" text="KO {VAL}" />
+    <string id="Fov123x248" text="Rejoindre une nouvelle écurie." />
+    <string id="Fov123x249" text="La tentative a échoué." />   
+    <string id="Fov123x250" text="Fief(s) de ce clan" />        
+    <string id="Fov123x251" text="Vous avez pris la ruelle... {GNL} n'a pas à apprécié la trahison." />  
+    <string id="Fov123x252" text="Maître Assassin" />       
+    <string id="Fov123x253" text="Maximum disponible: {VAL} gars{VAL2}" />
+    <string id="Fov123x254" text=" (+{VAL} par niveau de votre planque)" />
+    <string id="Fov123x255" text="+{VAL} nouvelles recrues par jour, la valeur augmente en fonction de la force des bandits." />
+    <string id="Fov123x256" text="La horde vous coûtera de l'argent chaque jour.{nexline}Cela augmentera aussi le taux de criminalité avec la faction qui détient le fief le plus proche (depuis votre postion actuelle sur la carte)" />
+    <string id="Fov123x257" text="Augmentation du taux de criminalité par heure: +{VAL}" />  
+    <string id="Fov123x258" text="La faction la plus proche est {VAL} (taux de criminalité: {VAL2}{VAL3})" />
+
+<!--From v1.2.8--> 
+
+    <string id="Fov128x001" text="Le partenariat est inactif. Vous avez besoin de {VAL}+ relation avec le plus puissant chef de gang de cette ville." />   
+    <string id="Fov128x002" text="(F) Trêve des bandits" />   
+    <string id="Fov128x003" text="(F) Brigandage" />   
+    <string id="Fov128x004" text="{VAL} ne vous suivent plus." />  
+    <string id="Fov128x005" text="La relation avec {UP} augmente" />   
+    <string id="Fov128x006" text="Trop de pilleurs dans ce groupe..." />   
+    <string id="Fov128x007" text="Ce groupe ne vous suivra pas, vous avez besoin d'être neutre avec {VAL}" />   
+    <!--<string id="Fov128x008" text="@This party will not follow you, you have to be neutral with the bandit faction {VAL}" />--> 
+    <string id="Fov128x009" text="Vous n'êtes pas vriament connu ici... (augmentez votre taux de criminalité, votre compétence de roublardise, votre réseau criminel ou votre relation avec cette faction bandit)" />   
+    <string id="Fov128x010" text="Gain de +{VAL} relation par donation équivalente à +{VAL2} de force augmentée." />   
+    <string id="Fov128x011" text="Vous avez résolu le problème en utilisant votre lien avec la faction des bandits, {VAL}." />   
+    <string id="Fov128x012" text="Vous avez fait la paix avec une faction de bandits. Votre accord avec {QUEST_GIVER.LINK} est annulé." /> 
+    <string id="Fov128x013" text="Vous avez résolu le problème en tirant parti de vos relations avec la faction des bandits, {VAL}." />   
+    <string id="Fov128x014" text="Bien ! Je suppose qu'il est plus sage pour moi de ne pas m'opposer au chef de la ville...[ib:agressive][if:convo_furious]" />   
+    <string id="Fov128x015" text="Je savais que vous seriez une personne raisonnable..." />   
+    <string id="Fov128x016" text="Bonne journée à vous, soldat ! La voie est libre,, il est bon de vous avoir dans les parages pour assurer la sécurité." /> 
+    <string id="Fov128x017" text="Vous avez un partenariat actif dans cette ville." />   
+    <string id="Fov128x018" text="Le chef de gang n'a pas d'activité illégale à proposer au souverain de la ville." />   
+    <string id="Fov128x019" text="Attaquer le territoire d'un chef de gang rival pour augmenter votre relation et obtenir des deniers." />   
+    <string id="Fov128x020" text="Il n'y a pas de fosse de combat dans cette ville." />  
+    <string id="Fov128x021" text="Appuyer sur '{EXTEND_KEY}' pour quitter." />   
+    <string id="Fov128x022" text="Les bandits semblent ne plus tolérer votre présence autour de leur repaire. Préparez-vous à vous défendre !" />   
+    <string id="Fov128x023" text="Vous et vos hommes avez réussi à contrer l'attaque. La sécurité de votre planque est vraiment compromise... Les bandits n'abandonneront pas si facilement..." />   
+    <string id="Fov128x024" text="Sélectionnez et cliquez sur continuer pour gérer ce groupe de bandits." /> 
+    <string id="Fov128x025" text="Trop loin pour interagir" />   
+    <string id="Fov128x026" text="Vous pouvez prendre un maximum de {VAL} unité(s)" />   
+    <string id="Fov128x027" text="Besoin d'un minimum de {VAL}{GOLD_ICON}" />   
+    <string id="Fov128x028" text="Vous devez attendre {VAL} heure(s)" /> 
+    <string id="Fov128x029" text="Votre groupe est complet" />   
+    <string id="Fov128x030" text="Déclarer la guerre à cette faction de bandits. Ils n'apprécieront pas votre décision..." />   
+    <string id="Fov128x031" text="Vous devez être neutre avec {VAL}" />   
+    <string id="Fov128x032" text="Votre compagnon {HERO} a été enlevé ! Vos informateurs soupçonnent que l'ordre émane d'un clan de {KING}..." /> 
+    <string id="Fov128x033" text="Force maximale atteinte: {VAL}" />   
+    <string id="Fov128x034" text=" (F) Trêve avec {VAL}" />   
+    <string id="Fov128x035" text="Vous avez besoin d'une relation de {LIMITREL}+ avec {GANGLEAD}{newline}OR{newline}Dépouiller le(s) chef(s) de gang de leur(s) ruelle(s)" />
+	<string id="Fov128x036" text="La relation avec {UP} diminue" />
+	<string id="Fov129x037" text="Enlèvement" />
+	<string id="Fov129x038" text="Votre cible est maintenant votre prisonnier" />
+	<string id="Fov129x039" text="{MISSION} a échoué !" />
+	<string id="Fov129x040" text="Votre cible sera ajoutée à votre groupe en tant que prisonnier.{newline}Cela impactera la rancune et les relations en cas d'échec ET de succès  " />
+	<string id="Fov129x041" text="Vous devez être ne guerre." />
+	<string id="Fov129x042" text="Déguisez-vous en pèlerin" />
+	<string id="Fov129x043" text="Vos actes sont devenus le casus belli d'une nouvelle guerre." />
+	<string id="Fov129x044" text="{VAL} n'approuve pas vos actes et a mis fin à votre contrat de mercenaire." />
+	<string id="Fov129x045" text="{VAL} n'approuve pas vos actes à l'encontre d'un clan ami." />
+	<string id="Fov129x046" text="Tentative d'enlèvement" />
+	<string id="Fov129x047" text="Activez le mode d'infiltration dans les villes neutres. {newline}Vous risquez de subir de graves conséquences si vous êtes pris." />
+	<string id="Fov129x048" text="Utilisez la porte pour quitter la place..." />
+	<string id="Fov129x049" text="Parler au propriétaire de la fosse de combat" />
+	<string id="Fov129x050" text="Allez à la taverne et gagnez un combat au corps à corps." />
+	<string id="Fov129x051" text="{VAL} civil(s) a été témoin de vos actes.{newline}Un malus a été ajouté à la jauge de suspicion." />
+	<string id="Fov129x052" text="Esclave" />
+	<string id="Fov129x053" text="Dégâts totaux pour gagner: Vous {VAL} - Adversaire {VAL2}" />
+	<string id="Fov129x054" text="Lames payées" />
+	<string id="Fov129x055" text="@Ce sera fait." />
+	<string id="Fov129x056" text="@Chaque domaine accordera un bonus à votre réseau d'intrigues (augmentant considérablement avec le niveau).{newline}La colonie la plus proche déterminera le royaume où le bonus s'applique." />
+	<string id="Fov129x057" text="@" />
+	<string id="Fov129x058" text="@" />
+	<string id="Fov129x059" text="@" />
+	<string id="Fov129x060" text="@" />
+  </strings>
+</base>

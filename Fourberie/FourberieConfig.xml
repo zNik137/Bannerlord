@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- This config system is based on the method used in the mod "Immersive Battlefields" by ShutUpMalfoy-->
+
+<!-- COPY this file in the \Mount & Blade II Bannerlord\Modules folder and RENAME it FourberieConfig_perso to keep your settings after each update-->
+
+<Fourberie.Settings>
+
+<!-- Keybind -->
+
+<!-- Pickpocket -->
+<PickPocketHoldButton>LeftAlt</PickPocketHoldButton>                <!-- default is LeftAlt -->
+<PickPocketQuickButton>RightMouseButton</PickPocketQuickButton>     <!-- default is RightMouseButton -->
+
+<!-- Loot corpses -->
+<LootCorpsesHoldButton>LeftAlt</LootCorpsesHoldButton>              <!-- default is LeftAlt -->
+<LootCorpsesOneButton>false</LootCorpsesOneButton>                  <!-- default is    false    set to    true    to use only one button-->
+<LootCorpsesButton>RightMouseButton</LootCorpsesButton>             <!-- default is RightMouseButton --> <!-- Can be bound alone if above condition is set to    true -->
+
+<!-- Criminal Enterprise, Safe House, Scheme room quick access -->
+<BaseMenuHoldButton>LeftControl</BaseMenuHoldButton>                <!-- default is LeftControl -->
+<BaseMenuOneButton>false</BaseMenuOneButton>                        <!-- default is    false    set to    true    to use only one button-->
+<BaseMenuButton>F</BaseMenuButton>                                  <!-- default is F --> <!-- Can be bound alone if above condition is set to    true -->
+
+<!-- Horde, Create a bandit party, Saboteurs -->
+<HordeMenuHoldButton>LeftControl</HordeMenuHoldButton>              <!-- default is LeftControl -->
+<HordeMenuOneButton>false</HordeMenuOneButton>                      <!-- default is    false    set to    true    to use only one button-->
+<HordeMenuButton>RightMouseButton</HordeMenuButton>                 <!-- default is RightMouseButton --> <!-- Can be bound alone if above condition is set to    true -->
+
+<!-- Hide, send a distraction when chased -->
+<TacticsMenuHoldButton>LeftShift</TacticsMenuHoldButton>            <!-- default is LeftShift -->
+<TacticsMenuOneButton>false</TacticsMenuOneButton>                  <!-- default is    false    set to    true    to use only one button-->
+<TacticsMenuButton>RightMouseButton</TacticsMenuButton>             <!-- default is RightMouseButton --> <!-- Can be bound alone if above condition is set to    true -->
+
+</Fourberie.Settings>
+
+<!-- Short list of mouse related buttons
+X1MouseButton
+X2MouseButton
+LeftMouseButton
+MiddleMouseButton
+MouseScrollDown
+MouseScrollUp
+
+-->
+
+
+<!--Full list of the base game keybinds (QWERTY keyboard), Fourberie mod has been tested with the default values only!!
+D1
+A
+Apostrophe
+B
+BackSlash
+BackSpace
+C
+CapsLock
+CloseBraces
+Comma
+ControllerLBumper
+ControllerLDown
+ControllerLLeft
+ControllerLOption
+ControllerLOptionTap
+ControllerLRight
+ControllerLStick
+ControllerLStickDown
+ControllerLStickLeft
+ControllerLStickRight
+ControllerLStickUp
+ControllerLThumb
+ControllerLTrigger
+ControllerLUp
+ControllerRBumper
+ControllerRDown
+ControllerRLeft
+ControllerROption
+ControllerRRight
+ControllerRStick
+ControllerRStickDown
+ControllerRStickLeft
+ControllerRStickRight
+ControllerRStickUp
+ControllerRThumb
+ControllerRTrigger
+ControllerRUp
+D
+D0
+D2
+D3
+D4
+D5
+D6
+D7
+D8
+D9
+Delete
+Down
+E
+End
+Enter
+Equals
+Escape
+Extended
+F
+F1
+F10
+F11
+F12
+F13
+F14
+F15
+F16
+F17
+F18
+F19
+F2
+F20
+F21
+F22
+F23
+F24
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+G
+H
+Home
+I
+Insert
+J
+K
+L
+Left
+LeftAlt
+LeftControl
+LeftMouseButton
+LeftShift
+M
+MiddleMouseButton
+Minus
+MouseScrollDown
+MouseScrollUp
+N
+NumLock
+Numpad0
+Numpad1
+Numpad2
+Numpad3
+Numpad4
+Numpad5
+Numpad6
+Numpad7
+Numpad8
+Numpad9
+NumpadEnter
+NumpadMinus
+NumpadMultiply
+NumpadPeriod
+NumpadPlus
+NumpadSlash
+O
+OpenBraces
+P
+PageDown
+PageUp
+Period
+Q
+R
+Right
+RightAlt
+RightControl
+RightMouseButton
+RightShift
+S
+SemiColon
+Slash
+Space
+T
+Tab
+Tilde
+U
+Up
+V
+W
+X
+X1MouseButton
+X2MouseButton
+Y
+Z
+-->

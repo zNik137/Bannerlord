@@ -1,0 +1,1141 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+ <tags>
+  <tag language="简体中文"/>
+ </tags>
+ <strings>
+  <string id="FoCom01" text="好的"/>
+  <string id="FoCom02" text="好耶"/>
+  <string id="FoCom03" text="不用了"/>
+  <string id="FoCom06" text="真是走运的一天"/>
+  <string id="FoCom09" text="离开"/>
+  <string id="FoCom10" text="并不"/>
+  <string id="FoCom12" text="停下并离开"/>
+  <string id="FoCom13" text="返回上一菜单"/>
+  <string id="FoCom16" text="你需要等待{WAITCHCK}天"/>
+  <string id="FoCom17" text="好吧..."/>
+  <string id="FoCom19" text="你需要和{GANGLEAD}至少{LIMITREL}的关系"/>
+  <string id="FoCom20" text="停止行动"/>
+  <string id="FoCom21" text="真棒！"/>
+  <string id="FoCom22" text="进攻！"/>
+  <string id="FoCom23" text="这个城镇正在被围攻"/>
+  <string id="FoCom24" text="我屌！"/>
+  <string id="FoCom25" text="现在还不行"/>
+  <string id="FoCom26" text="等等！"/>
+  <string id="FoCom27" text="当然"/>
+  <string id="FoCom28" text="太棒了！"/>
+  <string id="FoCom29" text="开干吧！"/>
+  <string id="FoCom30" text="这。。。"/>
+  <string id="FoCom31" text="不够钱了"/>
+  <string id="FoCom32" text="等你有钱了再回来"/>
+  <string id="FoCom34" text="开打！"/>
+  <string id="FoCom35" text="你可以雇佣一些帮手来实施你的计划。目前为止进展似乎还算顺利..."/>
+  <string id="FoCom36" text="是时候走了"/>
+  <string id="FoCom38" text="你的行动被发现所以失败了。你决定在惹上更大的麻烦之前离开城镇"/>
+  <string id="FoCom39" text="就差一点了..."/>
+  <string id="FoCom40" text="是时候离开这里了"/>
+  <string id="FoCom43" text="大箱子！"/>
+  <string id="FoCom45" text="回到镇中心"/>
+  <string id="FoCom47" text="只可以在中立或敌对城镇执行"/>
+  <string id="FoCom49" text="你正在与{CLAN}家族之间缔结怨恨！"/>
+  <string id="FoCom52" text="你在这里并不出名。。。（增加犯罪等级、流氓习气或犯罪网络）"/>
+  <string id="FoCom53" text="叫兄弟们帮你混进城里。"/>
+  <string id="FoCom54" text="在这里躲一会儿"/>
+  <string id="FoCom55" text="当地头目同意让你留下来…这里不是卡拉迪亚最好的地方，但非常适合躲藏或伏击…"/>
+  <string id="FoCom56" text="你已经将{COMPA}分配给一个新角色。"/>
+  <string id="FoCom57" text="选择一个同伴"/>
+  <string id="FoCom58" text="继续"/>
+  <string id="FoCom59" text="不适用"/>
+  <string id="FoCom60" text="点数花费："/>
+  <string id="FoCom61" text="入驻！"/>
+  <string id="FoCom62" text="你想入驻这个城镇吗？"/>
+  <string id="FoCom63" text="新地盘"/>
+  <string id="FoCom65" text="在部队里时不可执行。"/>
+  <string id="FoCom66" text="你受伤了。"/>
+  <string id="FoCom67" text="战争机会"/>
+  <string id="FoCom68" text="放弃诡计任务。"/>
+  <string id="FoCom69" text="街道是你的了！"/>
+  <string id="FoCom70" text="你没有足够的第纳尔来完成交易！"/>
+  <string id="FoCom72" text="在反叛城镇不可执行..."/>
+  <string id="FoCom75" text="你还没把工作做完！"/>
+  <string id="FoCom76" text="你在这个城镇已经有合伙人了。"/>
+  <string id="FoCom78" text="需要家族等级2。"/>
+  <string id="FoCom79" text="确认"/>
+  <string id="FoCom80" text="没有使用"/>
+  <string id="FoCom81" text="是"/>
+  <string id="FoCom82" text="否"/>
+  <string id="FoCom83" text="参与者（对于）"/>
+  <string id="FoCom88" text="钱不够，至少需要{COST}{GOLD_ICON}才能开始交易"/>
+  <string id="FoCom90" text="你还没有完成偷窃工作 {JOB}：{TYPE}"/>
+  <string id="FoCom91" text="小偷小摸"/>
+  <string id="FoCom93" text="@这个城镇的收入很低。您需要与最强大的帮派头目建立40+的关系，以实现利润最大化"/>
+  <string id="FoCrimEnt01" text="从你的犯罪生意中赚到了{GAIN}{GOLD_ICON}。"/>
+  <string id="FoCrimEnt02" text="你无法支付升级所需的奖金"/>
+  <string id="FoCrimEnt03" text="你为升级妓院的升级支付了 {INV}{GOLD_ICON} 奖金"/>
+  <string id="FoCrimEnt07" text="只可以在你的主基地{BASE}执行。"/>
+  <string id="FoCrimEnt08" text="不设置奖金"/>
+  <string id="FoCrimEnt09" text="+ {INV}    每周花费  -{COST}"/>
+  <string id="FoCrimEnt10" text="每周升级奖金"/>
+  <string id="FoCrimEnt11" text="如果你无法支付的话奖金设置会被取消"/>
+  <string id="FoCrimEnt12" text="新生意"/>
+  <string id="FoCrimEnt13" text="你想做走私生意吗？"/>
+  <string id="FoCrimEnt14" text="你想在这个新生意上投资{COST}第纳尔吗？"/>
+  <string id="FoCrimEnt15" text="你想要求所有的小伙子都离开吗？"/>
+  <string id="FoCrimEnt19" text="你的同伴"/>
+  <string id="FoCrimEnt20" text="重置天赋"/>
+  <string id="FoCrimEnt22" text="每个合作伙伴+3个走私者{newline}走私者大大增加了你的利润{newline}物流略微增加你的利润和仓库最大容量{newline}你的仓库每天都有免费的货物。"/>
+  <string id="FoCrimEnt23" text="开放走私通道。{newline}你的财务官将从你的地盘和合伙人那里收取第纳尔。{newline}你的仓库每天都有免费的货物。"/>
+  <string id="FoCrimEnt24" text="每5个舒适等级+1个工人{newline}(透露你的好运)的费用减半。{newline}每10个工人 +1住所的招募。{newline}舒适将增加住所的最大容量。"/>
+  <string id="FoCrimEnt25" text="开放一个娱乐场所。{newline}利润基于主基地城镇的繁荣度。{newline}解锁额外的奖励。"/>
+  <string id="FoCrimEnt26" text="每5个舒适等级+1个仆人{newline}治疗费用减半{newline}在进入你的基地时获得士气提升{newline}每10个仆人 + 1住所的招募。{newline}舒适将增加住所的最大容量。"/>
+  <string id="FoCrimEnt27" text="开通一个娱乐场所。{newline}利润基于主基地城镇的繁荣度。{newline}解锁额外的奖励。"/>
+  <string id="FoCrimEnt28" text="你的出纳员的流氓气息等级将影响你事业的全面利润。越高越好！"/>
+  <string id="FoCrimEnt29" text="每周招募新人。{newline}基于你的地盘+工人/仆人的奖金。{newline}一旦达到最大容量将停止。{newline}目前每周的招募加成为 +"/>
+  <string id="FoCrimEnt30" text="住所和仓库大约{DAYS}天后就会准备好"/>
+  <string id="FoCrimEnt31" text="每天收集物品。{newline}受合作伙伴数量和你的地盘的影响。{newline}一旦达到最大容量将停止。{newline}当前每日最高利率 +"/>
+  <string id="FoCrimEnt32" text="你的执行者将每周收集恶名点数。{newline}+1 /每个黑帮合作伙伴 {newline}+5 /每个占领的城市区域{newline}+1 /每个发现的藏身地{newline}"/>
+  <string id="FoCrimEnt33" text="会减少贪污对你的生意的影响，以获得更多的利润，但将耗尽你的恶名点数"/>
+  <string id="FoCrimEnt34" text="贪污影响是由你的主基地所在城镇的安全级别决定的。高安全级别对犯罪行业是不利的"/>
+  <string id="FoCrimEnt36" text="设为你的主基地"/>
+  <string id="FoCrimEnt39" text="犯罪集团"/>
+  <string id="FoCrimEnt40" text="分配"/>
+  <string id="FoCrimEnt41" text="移除"/>
+  <string id="FoCrimEnt42" text="恶名点数"/>
+  <string id="FoCrimEnt43" text="出纳员"/>
+  <string id="FoCrimEnt44" text="可用升级"/>
+  <string id="FoCrimEnt45" text="走私"/>
+  <string id="FoCrimEnt46" text="走私犯 +"/>
+  <string id="FoCrimEnt47" text="物流 +"/>
+  <string id="FoCrimEnt48" text="赌场"/>
+  <string id="FoCrimEnt49" text="工人 +"/>
+  <string id="FoCrimEnt50" text="舒适 +"/>
+  <string id="FoCrimEnt51" text="妓院"/>
+  <string id="FoCrimEnt52" text="仆人 +"/>
+  <string id="FoCrimEnt53" text="主基地"/>
+  <string id="FoCrimEnt54" text="执行者"/>
+  <string id="FoCrimEnt55" text="伙伴关系"/>
+  <string id="FoCrimEnt56" text="所拥有区域"/>
+  <string id="FoCrimEnt57" text="收回"/>
+  <string id="FoCrimEnt60" text="住所"/>
+  <string id="FoCrimEnt61" text="仓库"/>
+  <string id="FoCrimEnt62" text="管理你的同伴"/>
+  <string id="FoCrimEnt63" text="地盘"/>
+  <string id="FoCrimEnt64" text="查看"/>
+  <string id="FoCrimEnt65" text="估计收入"/>
+  <string id="FoCrimEnt66" text="每周升级"/>
+  <string id="FoCrimEnt67" text="贪污影响"/>
+  <string id="FoCrimEnt68" text="工资（超过上限）"/>
+  <string id="FoCrimEnt69" text="估计利润"/>
+  <string id="FoCrimEnt70" text="（每周）"/>
+  <string id="FoCrimEnt71" text="方案室"/>
+  <string id="FoCrimEnt72" text="帮派头目"/>
+  <string id="FoCrimEnt73" text="间谍"/>
+  <string id="FoCrimEnt74" text="全部的关系网"/>
+  <string id="FoCrimEnt76" text="怨恨总账"/>
+  <string id="FoCrimEnt77" text="最强大的"/>
+  <string id="FoCrimEnt78" text="并不是最强大的"/>
+  <string id="FoCrimEnt79" text="从合作帮派那获得了 {GAIN}{GOLD_ICON}"/>
+  <string id="FoCrimEnt80" text="从你拥有的领地获得了 {GAIN}{GOLD_ICON}"/>
+  <string id="FoCrimEnt81" text="要人"/>
+  <string id="FoCrimEnt82" text="流氓气息：+ {ROG}"/>
+  <string id="FoCrimEnt83" text="战术: + {TAC}"/>
+  <string id="FoCrimEnt89" text="贪腐程度"/>
+  <string id="FoCrimEnt90" text="设置贪腐等级以限制你支付给当局的供奉（腐败影响）。{newline}满级时将降低犯罪率，其他情况将增加犯罪等级（每周）。"/>
+  <string id="FoCrimEnt93" text="无需支付"/>
+  <string id="FoCrimEnt95" text="这个城镇是你的领地的一部分了"/>
+  <string id="FoCrimEnt96" text="@你有一些朋友在里面"/>
+  <string id="FoSchRm01" text="选择一个方案"/>
+  <string id="FoSchRm02" text="贿赂"/>
+  <string id="FoSchRm03" text="丑闻"/>
+  <string id="FoSchRm04" text="勒索"/>
+  <string id="FoSchRm05" text="谋杀"/>
+  <string id="FoSchRm06" text="只限家族首领"/>
+  <string id="FoSchRm07" text="家族影响力必须在200以上"/>
+  <string id="FoSchRm08" text="{ICON}检查您的方案结果！"/>
+  <string id="FoSchRm09" text="从{VICTIM}勒索{GAIN}{GOLD_ICON}"/>
+  <string id="FoSchRm10" text="{VICTIM}接受贿赂建议，并索要{AMOUNT}第纳尔。"/>
+  <string id="FoSchRm11" text="被谋杀"/>
+  <string id="FoSchRm12" text="你的同伴{HERO}在{SET}被谋杀了！你的线人怀疑凶手是来自{KING}家族…"/>
+  <string id="FoSchRm13" text="他们会为此付出代价的！"/>
+  <string id="FoSchRm14" text="你需要将一个新的同伴分配为出纳员！"/>
+  <string id="FoSchRm15" text="你需要将一个新的同伴分配为执行者！"/>
+  <string id="FoSchRm16" text="幸存者"/>
+  <string id="FoSchRm17" text="你是暗杀的目标。你打得很好并活了下来，但身受重伤！你的线人怀疑凶手来自{KING}家族…"/>
+  <string id="FoSchRm18" text="你的家族阻止了一个阴谋！你的线人报告说{CLAN}家族是幕后主使…"/>
+  <string id="FoSchRm19" text="谋杀尝试"/>
+  <string id="FoSchRm20" text="勒索尝试"/>
+  <string id="FoSchRm21" text="勒索"/>
+  <string id="FoSchRm22" text="你的家族被勒索了。你必须支付{AMOUNT}第纳尔以避免任何严重的后果。你的线人怀疑凶手是来自{KING}家族…"/>
+  <string id="FoSchRm23" text="那些混蛋！"/>
+  <string id="FoSchRm24" text="不可能！"/>
+  <string id="FoSchRm25" text="丑闻！"/>
+  <string id="FoSchRm26" text="你的家族被一个阴谋丑闻打击，这使得你的犯罪等级增加了！"/>
+  <string id="FoSchRm27" text="你的家族被一个阴谋丑闻打击，你不得不利用家族影响力来限制任何严重的后果！你的线人怀疑凶手是来自{KING}家族…"/>
+  <string id="FoSchRm28" text="丑闻尝试"/>
+  <string id="FoSchRm29" text="你需要与{GANGLEAD}友好。"/>
+  <string id="FoSchRm30" text="中止这项计划"/>
+  <string id="FoSchRm31" text="进行"/>
+  <string id="FoSchRm32" text="中止"/>
+  <string id="FoSchRm33" text="完成"/>
+  <string id="FoSchRm34" text="成功{SUCC}%（隐藏{COV}%）"/>
+  <string id="FoSchRm35" text="怨恨处罚：-{GRU}%"/>
+  <string id="FoSchRm36" text="你的目标在其城镇失去了所有的影响力和 -10的忠诚"/>
+  <string id="FoSchRm37" text="你的目标失败了"/>
+  <string id="FoSchRm38" text="你的目标死亡了！"/>
+  <string id="FoSchRm39" text="你没有支付要求的金额来完成交易"/>
+  <string id="FoSchRm40" text="你付钱了"/>
+  <string id="FoSchRm41" text="并增进了你和目标的关系"/>
+  <string id="FoSchRm42" text="失败并被发现..."/>
+  <string id="FoSchRm43" text="失败但未被发现"/>
+  <string id="FoSchRm44" text="{DAYS}天以来一直在进行"/>
+  <string id="FoSchRm45" text="+ 1% 每个领地{newline}+ 5%：已婚，子女，冲动{newline}- 5%：谨慎"/>
+  <string id="FoSchRm46" text="+ 1% 每个领地{newline}+5%：已婚，子女，冲动{newline}-5%：吝啬的{newline}-15%：领袖{newline}-20%：统治者"/>
+  <string id="FoSchRm47" text="+ 5%：冲动{newline}-5%：谨慎，理性{newline}-15%：领袖{newline}-20%：统治者"/>
+  <string id="FoSchRm48" text="+20%：15K以下的家族金钱{newline}+10%：30K以下的家族金钱{newline}-20%：诚实{newline}-10%：30K以上的家族金钱{newline}-20%：45K以上的家族金钱{newline}-40%：60K以上的家族金钱"/>
+  <string id="FoSchRm49" text="将你的关系网扩展到这个王国的20%来收集更多的信息"/>
+  <string id="FoSchRm50" text="贵族：{NOB}{newline}雇佣兵：{MERC}"/>
+  <string id="FoSchRm52" text="为了更高的成功机会而牺牲掩护"/>
+  <string id="FoSchRm53" text="选择你的受害者"/>
+  <string id="FoSchRm54" text="关系:"/>
+  <string id="FoSchRm55" text="待在"/>
+  <string id="FoSchRm56" text="友好帮派头目在"/>
+  <string id="FoSchRm59" text="伙伴关系在"/>
+  <string id="FoSchRm63" text="有一个密使"/>
+  <string id="FoSchRm64" text="你在这里有{EMI}个家族成员，但是每个城镇只能获得 1 个密使加成"/>
+  <string id="FoSchRm65" text="间谍在"/>
+  <string id="FoSchRm66" text="有{CLAN}个家族"/>
+  <string id="FoSchRm67" text="选择一个王国"/>
+  <string id="FoSchRm68" text="每个家族的怨恨等级"/>
+  <string id="FoSchRm69" text="计划失败，掠夺村庄和商队等都会增加怨恨等级。怨恨深重的家族可能会对你的家族采取敌对行动。"/>
+  <string id="FoSchRm70" text="选择一个家族"/>
+  <string id="FoSchRm71" text="你的地盘"/>
+  <string id="FoSchRm72" text="放弃这个城镇"/>
+  <string id="FoSchRm73" text="部队限制"/>
+  <string id="FoSchRm75" text="战争部队名单"/>
+  <string id="FoSchRm76" text="队伍所有者的细节"/>
+  <string id="FoSchRm77" text="流氓气息：+"/>
+  <string id="FoSchRm78" text="%    战术: +"/>
+  <string id="FoSchRm79" text="邪恶：+5%"/>
+  <string id="FoSchRm80" text="诚实：-5%"/>
+  <string id="FoSchRm81" text="理性：+5%"/>
+  <string id="FoSchRm82" text="谨慎：+5%"/>
+  <string id="FoSchRm83" text="大胆：+5%"/>
+  <string id="FoSchRm84" text="残忍：+5%"/>
+  <string id="FoSchRm85" text="仁慈：-5%"/>
+  <string id="FoSchRm86" text="岁"/>
+  <string id="FoSchRm87" text="统治者："/>
+  <string id="FoSchRm88" text="领袖："/>
+  <string id="FoSchRm89" text="已婚的："/>
+  <string id="FoSchRm90" text="子女："/>
+  <string id="FoSchRm91" text="理性"/>
+  <string id="FoSchRm92" text="冲动的"/>
+  <string id="FoSchRm93" text="吝啬的"/>
+  <string id="FoSchRm94" text="诚实的"/>
+  <string id="FoSchRm95" text="谨慎的"/>
+  <string id="FoSchRm96" text="战争队伍："/>
+  <string id="FoSchRm97" text="部队："/>
+  <string id="FoSchRm98" text="城堡："/>
+  <string id="FoSchRm99" text="城镇："/>
+  <string id="FoSchRm100" text="家族："/>
+  <string id="FoSchRm101" text="选择一个家族"/>
+  <string id="FoSchRm102" text="成员："/>
+  <string id="FoSchRm103" text="高"/>
+  <string id="FoSchRm104" text="中等"/>
+  <string id="FoSchRm105" text="低"/>
+  <string id="FoSchRm106" text="在支付要求的第纳尔之后，增加你与目标的关系"/>
+  <string id="FoSchRm107" text="目标的家族的影响力将变为零，{newline}并在所有所属城镇的忠诚度 -10"/>
+  <string id="FoSchRm109" text="中毒！"/>
+  <string id="FoSchRm110" text="你们队伍的食物被下毒了。你的人需要时间恢复，你不得不扔掉大量的食物… 你怀疑凶手来自{KING}…"/>
+  <string id="FoSchRm111" text="下毒行动"/>
+  <string id="FoSchRm112" text="你的人逮捕了敌对特务。他们正试图在食物里下毒。{CLAN}家族似乎是幕后主使…"/>
+  <string id="FoSchRm113" text="洗劫一空！"/>
+  <string id="FoSchRm114" text="你的主基地被一群暴徒洗劫了……据说这次袭击得到了你来自{KING}敌人的支持…"/>
+  <string id="FoSchRm115" text="洗劫行动"/>
+  <string id="FoSchRm116" text="你的人成功地保护了你的主基地免受一群暴徒的袭击。{CLAN}家族似乎是这次袭击的幕后主使…"/>
+  <string id="FoSchRm117" text="食物中毒"/>
+  <string id="FoSchRm118" text="目标部队50%的人将受伤，{newline}以及50%的食物将被摧毁"/>
+  <string id="FoSchRm119" text="必须领导一个队伍"/>
+  <string id="FoSchRm120" text="你的目标队伍中毒了"/>
+  <string id="FoSchRm121" text="城镇网络"/>
+  <string id="FoSchRm122" text="你的同伴{HERO}被谋杀了！你的线人怀疑是{KING}下达的命令"/>
+  <string id="FoSchRm123" text="目标家族第纳尔减半。{newline}你将从敲诈赃款中获利一部分"/>
+  <string id="FoMa01" text="诡计"/>
+  <string id="FoMa02" text="选择一个诡计"/>
+  <string id="FoMa03" text="试试你的运气"/>
+  <string id="FoMa04" text="治疗你的伤口"/>
+  <string id="FoMa05" text="招聘强盗"/>
+  <string id="FoMa09" text="招募小阵营士兵"/>
+  <string id="FoMa11" text="你带走太多新兵了！你只能挑选{LIMITREC}个。"/>
+  <string id="FoMa15" text="你需要至少5个俘虏，贵族人质是不行的。"/>
+  <string id="FoMa17" text="噢不，算了"/>
+  <string id="FoSca01" text="诈骗"/>
+  <string id="FoSca02" text="你准备诈骗当地老百姓"/>
+  <string id="FoSca03" text="你决定放弃你的计划，以避免任何不幸的结果。"/>
+  <string id="FoSca05" text="你的诈骗行径彻底失败了。你被当地守卫胖揍了一顿而且被撵出了城镇。你还丢了一些第纳尔..."/>
+  <string id="FoSca06" text="你的骗局成功了，你得到了一些第纳尔（或食物），并提高了你的流氓习气和魅力技能。"/>
+  <string id="FoSca07" text="你的尝试完全失败了。是时候去别的地方试试了…"/>
+  <string id="FoTri01" text="收取保护费"/>
+  <string id="FoTri02" text="收租子的时间"/>
+  <string id="FoTri03" text="当地匪帮头目{GANGLEAD}有一个工作交给你。你需要帮他从贵族手里取回一笔钱。事成之后会给一笔第纳尔作为奖赏。"/>
+  <string id="FoTri04" text="伸出援手"/>
+  <string id="FoTri05" text="{GANGLEAD}担心你没办法一个人搞定。或许你需要它的一些帮助？不过你的奖励也会减半！"/>
+  <string id="FoTri06" text="你来到了会面地点..."/>
+  <string id="FoTri07" text="你把雇佣兵搜刮了一顿并且发现了提及的资金...你把它带给匪帮头目并且领取了属于你的奖赏。"/>
+  <string id="FoTri08" text="你没有看到约定的接头人不过却撞上了一群雇佣兵！"/>
+  <string id="FoEx01" text="敲诈要人"/>
+  <string id="FoEx03" text="你需要去{EXTOVILL}给当地人上一课"/>
+  <string id="FoEx04" text="匪帮头目{GANGLEAD}希望你去附近的村庄{EXTOVILL}。当地人总是不按时交保护费，你是时候给他们上一课了。 你可以保留你收到的所有保护费。"/>
+  <string id="FoEx05" text="会见当地要人以开展你的工作"/>
+  <string id="FoEx06" text="打扮成一个民兵"/>
+  <string id="FoEx08" text="这场突袭将在夜晚展开..."/>
+  <string id="FoEx09" text="这是一场恶战，不过这些要人学会了不要拖欠保护费..."/>
+  <string id="FoEx10" text="显然当地要人听说了你的到来，所以决定好好地“欢迎”你"/>
+  <string id="FoEx11" text="这个村庄被掠夺了。"/>
+  <string id="FoEx12" text="当地要人留你也没用，所以决定把你放回去。他们拿走了你的一些第纳尔作为赎金。"/>
+  <string id="FoEx13" text="善意提醒"/>
+  <string id="FoEx14" text="你只是应该给那些村民一点教训… 而不是摧毁整个村庄…"/>
+  <string id="FoEx15" text="敲诈要人完成"/>
+  <string id="FoEx16" text="你正在和这个村庄所属的派系处于战争。强迫他们给你提供补给或志愿者也可能是一个很好的教训…"/>
+  <string id="FoEx17" text="攻击一个村庄可被视为宣战。{newline}为了慎重起见，你留下了你的部队并决定在晚上接近。{newline}路上你可以收买一些民兵来支援你（每个民兵100块，事后再付钱）…"/>
+  <string id="FoEx18" text="你的一位朋友派我来提醒你，有一项约定你没有遵守。"/>
+  <string id="FoEx19" text="单边协议，你是说......。听着，你是这个王国的一部分，如果你问我，这是一个耻辱，你应该更多地关注保护我们的利益，而不是那些该死的帮派领袖的利益。[ib:agressive][if:convo_furious]"/>
+  <string id="FoEx20" text="的确如此......。但即使我决定不索要你欠他们的钱，也会有其他人出现，他们可能不会像我现在这样善良......"/>
+  <string id="FoEx21" text="好吧... 你说的很有道理... 但我只会支付所要求的一半金额！[ib:agressive][if:convo_furious]"/>
+  <string id="FoEx22" text="很公平，我将接受这个作为我的证明......让我们称之为仁慈......。我希望你会欣赏它..."/>
+  <string id="FoEx23" text="没门儿！把全部的钱给我我们就一笔勾销。"/>
+  <string id="FoEx24" text="是的，没错! 现在你要付给我全额款项，并且你要给我一些物资作为额外的报酬!"/>
+  <string id="FoEx25" text="成交! 现在，如果你不介意的话，我有更重要的事情要做，你可能也一样！"/>
+  <string id="FoEx26" text="好了，钱来了......。那个团伙头目应该下地狱！[ib:agressive][if:convo_furious]"/>
+  <string id="FoEx27" text="你会后悔的！[ib:agressive][if:convo_furious]"/>
+  <string id="FoEx28" text="获得{VAL}第纳尔，与本村知名人士的关系+2，与帮派领袖的关系-2，无犯罪等级处罚"/>
+  <string id="FoEx29" text="获得{VAL}第纳尔，与本村知名人士的关系-1，与帮派首领的关系+4，犯罪等级+5"/>
+  <string id="FoEx30" text="获得{VAL}第纳尔和+10 {VAL2}，与本村知名人士的关系-3，与帮派领袖的关系+4，犯罪等级+10"/>
+  <string id="FoEx31" text="按照约定，你向支持你的民兵们支付了报酬（{INV}幸存下来......）。"/>
+  <string id="FoGrHe01" text="大劫案"/>
+  <string id="FoGrHe02" text="计划一场抢劫"/>
+  <string id="FoGrHe03" text="你和当地匪帮头目{GANGLEAD}讨论了一些，预估这次抢劫可以获得{ESTIPROF}第纳尔。你们计划在夜晚进行！"/>
+  <string id="FoGrHe04" text="天下没有免费的午餐"/>
+  <string id="FoGrHe05" text="{GANGLEAD} 叫了一些小混混来支援你。不过他说如果你还想要更多帮手，需要支付{HIREMERC}第纳尔...假如你忘记了，你这次抢劫有可能获得{ESTIPROF}第纳尔..."/>
+  <string id="FoGrHe06" text="你和你的团伙发现了一个完美的伏击地点..."/>
+  <string id="FoGrHe07" text="把钱抢走！"/>
+  <string id="FoGrHe08" text="他们来了！"/>
+  <string id="FoGaTr01" text="匪帮决斗"/>
+  <string id="FoGaTr02" text="挑战"/>
+  <string id="FoGaTr03" text="匪帮头目{GANGRELA}对你早有耳闻，他接受了你的决斗。这场对决将在黄昏时刻开始。"/>
+  <string id="FoGaTr04" text="决斗准备开始了。"/>
+  <string id="FoGaTr06" text="是时候证明自己了。"/>
+  <string id="FoGaTr07" text="机会"/>
+  <string id="FoGaTr08" text="{GANGRELA}对你印象深刻，并提议跟你合作。你可以接受... 或者展示你的权威并在这个镇上建立你自己的帮派！"/>
+  <string id="FoGaTr09" text="关系很重要"/>
+  <string id="FoGaTr10" text="只有钱最重要"/>
+  <string id="FoPlot01" text="发动一场叛变"/>
+  <string id="FoPlot03" text="这个城镇的忠诚度需要低于{LIMITLOY}"/>
+  <string id="FoPlot05" text="中止行动，而且无法收回投入的资金"/>
+  <string id="FoPlot06" text="你的阴谋很成功。镇上的居民在你的煽动之下大胆地表达了对当前的管理者的不满，其中一些人甚至准备参加起义。"/>
+  <string id="FoPlot07" text="城镇暴动"/>
+  <string id="FoPlot08" text="在你前往城门的路上，你遇到了一群愤怒的民众。全副武装的士兵正在赶来扑灭他们的怒火。"/>
+  <string id="FoPlot09" text="加入暴动"/>
+  <string id="FoPlot10" text="离开这里"/>
+  <string id="FoPlot11" text="一场恶战"/>
+  <string id="FoPlot12" text="剩下的人用言语和财物表达了对你的感激。这次胜利的消息一定会传到其他人耳中..."/>
+  <string id="FoPlot13" text="浴血奋战"/>
+  <string id="FoPlot14" text="你活下来了但是没有阻止这场屠杀"/>
+  <string id="FoPlot15" text="你想要花费{COST}{GOLD_ICON}来煽动一场叛乱吗？你将在该城镇停留{PROSPERO}天"/>
+  <string id="FoPlot16" text="你需要{COST}{GOLD_ICON}以支持你的方案"/>
+  <string id="FoSabo01" text="破坏粮食仓储"/>
+  <string id="FoSabo04" text="破坏城墙"/>
+  <string id="FoSabo05" text="给水源下毒"/>
+  <string id="FoSabo06" text="你的破坏成功了，这个居住点遭到了削弱。"/>
+  <string id="FoSabo08" text="前往你的营地"/>
+  <string id="FoSabo10" text="你排了一些人来准备这场破坏。目前一切进展顺利..."/>
+  <string id="FoSabo12" text="派出强盗"/>
+  <string id="FoSabo14" text="强盗太弱了"/>
+  <string id="FoSabo15" text="附近的土匪太弱了。找到他们的任意一个藏身处，并将他们的力量提升至{STR}以上。"/>
+  <string id="FoRob01" text="抢劫"/>
+  <string id="FoRob03" text="去{ROBCAST}的后巷找到你的联络人"/>
+  <string id="FoRob04" text="打劫“高质量男性”"/>
+  <string id="FoRob05" text="当地匪帮头目{GANGLEAD}在{ROBCAST}有一个朋友需要一些帮助。去那儿的后巷找到你的联络人。"/>
+  <string id="FoRob06" text="会晤联络人"/>
+  <string id="FoRob08" text="搜刮战利品的时候到了"/>
+  <string id="FoRob09" text="你找到了两个箱子，小箱子里明显装着一些第纳尔，而另一个大箱子则不知道装了什么。你只有时间撬开一个箱子。"/>
+  <string id="FoRob10" text="你的联络人给了你一套平民装扮。你要假装运送食物到厨房，借机溜进城堡。"/>
+  <string id="FoRob11" text="像一个农民"/>
+  <string id="FoRob12" text="显然有人在领主大厅里发现了一些守卫。你的线人能够引发事件来分散注意力，需要花费2000第纳尔让这个地方清场，现在就付钱！"/>
+  <string id="FoRob13" text="你成功地进入了城堡，现在你正朝着领主大厅前进…"/>
+  <string id="FoRob14" text="你到达了领主大厅，但看起来你的线人并没有让这个地方的守卫完全清空…"/>
+  <string id="FoRob15" text="这地方看起来没人！你开始检查一些战利品…"/>
+  <string id="FoScan02" text="领主丑闻"/>
+  <string id="FoScan04" text="打扮得像一个守卫"/>
+  <string id="FoScan07" text="成功了！你带着足够的撼动这个家族声誉的证据离开了！ 而且你还顺手偷了一些第纳尔！"/>
+  <string id="FoScan08" text="你来到了领主的大厅，但是正如你所预料的，这里并不是空无一人。"/>
+  <string id="FoScan09" text="卡拉迪亚的丑闻"/>
+  <string id="FoScan10" text="{CLANSCAN}家族最近被一桩丑闻影响，不得不耗费自己所有的影响力了以避免被放逐的下场。"/>
+  <string id="FoInsu01" text="保险诈骗"/>
+  <string id="FoInsu02" text="去吧，别让强盗跑了！"/>
+  <string id="FoInsu03" text="这不是你现在应该做的！在商队到达目的地之前摧毁它！"/>
+  <string id="FoInsu04" text="摧毁这个强盗部队…"/>
+  <string id="FoInsu05" text="{GANGLEAD}投资了{MERCH}商队…但是它没有利润！幸好咱们买了保险… 但在获得任何赔偿之前，商队需要意外消失…"/>
+  <string id="FoInsu06" text="你正在和这个城镇的派系交战… 快去毁了商队，这很简单！但请确保在远离小镇的地方做这事。"/>
+  <string id="FoInsu07" text="虚假伏击"/>
+  <string id="FoInsu08" text="{GANGLEAD}要求你护送商队。会有一群强盗被雇来攻击并摧毁它。一旦勾当完成，再攻击强盗来消除别人的怀疑。"/>
+  <string id="FoInsu09" text="你需要一组至少拥有20个健康战士的队伍。"/>
+  <string id="FoDiaFl01" text="你找错人了…"/>
+  <string id="FoDiaFl03" text="别浪费我的时间了，滚回你自己的地方去…"/>
+  <string id="FoDiaFl05" text="我在找一些新人，我们谈谈吧..."/>
+  <string id="FoDiaFl06" text="我们在这里做得很好。但我想扩展一下我的… 我是说我们的业务… 你其他城市的朋友对此有感兴趣的吗？"/>
+  <string id="FoDiaFl07" text="我明白了… 我到处都认识一些人。你可以报我的名号，我很肯定这会使你的事情变得容易些。别忘了我们现在是一伙的！[rf:trivial_hi][rb:very_positive]"/>
+  <string id="FoDiaFl08" text="太好了，确保我们很快就能赚更多的钱！"/>
+  <string id="FoDiaFl09" text="我们有一个共同的朋友，他告诉我你会很乐意知道这些…"/>
+  <string id="FoDiaFl10" text="确实！好的关系才能带来好的利润，对吧？[rf:trivial_hi][rb:very_positive]"/>
+  <string id="FoDiaFl11" text="是，我完全同意！"/>
+  <string id="FoDiaFl12" text="事实上，我还得考虑一下…"/>
+  <string id="FoDiaFl13" text="看来有些有影响力的人想要你死 {PLAYER.NAME}! ... 而我就是那个要让它发生的人。"/>
+  <string id="FoDiaFl14" text="你想要什么，士兵？"/>
+  <string id="FoDiaFl15" text="我很抱歉，{?CONVERSATION_NPC.GENDER}我的女士{?}我的大人{\?}。我只是在确保这里的一切都很安全......"/>
+  <string id="FoDiaFl16" text="谁下的这个命令？你的单位是什么？[ib:agressive]"/>
+  <string id="FoDiaFl17" text="第一守卫，{?CONVERSATION_NPC.GENDER}我的女士{?}我的大人{\?}"/>
+  <string id="FoDiaFl18" text="第二守卫，{?CONVERSATION_NPC.GENDER}我的女士{?}我的大人{\?}"/>
+  <string id="FoDiaFl19" text="第三守卫，{?CONVERSATION_NPC.GENDER}我的女士{?}我的大人{\?}"/>
+  <string id="FoDiaFl20" text="第四守卫，{?CONVERSATION_NPC.GENDER}我的女士{?}我的大人{\?}"/>
+  <string id="FoDiaFl21" text="第五守卫，{?CONVERSATION_NPC.GENDER}我的女士{?}我的大人{\?}"/>
+  <string id="FoDiaFl22" text="我只想帮助你拥抱死亡......"/>
+  <string id="FoDiaFl23" text="为您效劳，{?CONVERSATION_NPC.GENDER}我的女士{?}我的大人{\?}"/>
+  <string id="FoDiaFl24" text="哦，真的，你的个人盔甲上刻着 GRD。{GRADE}，士兵......你是个冒牌货! 卫兵！[ib:agressive][if:convo_furious]"/>
+  <string id="FoDiaFl25" text="我明白了... 那就去吧，反正我有更重要的事情要做.......[if:idle_angry][ib:normal]"/>
+  <string id="FoDiaFl26" text="我听过你，是什么风把你吹来了？[if:idle_angry][ib:normal]"/>
+  <string id="FoOutlaw02" text="离开藏身处"/>
+  <string id="FoOutlaw08" text="{UP}越来越强大！"/>
+  <string id="FoOutlaw09" text="{DOWN}越来越虚弱！"/>
+  <string id="FoOutlaw10" text="贿赂守卫让你进去。"/>
+  <string id="FoOutlaw11" text="{CULT}：{VAL}的力量"/>
+  <string id="FoOutlaw12" text="招募新人"/>
+  <string id="FoOutlaw13" text="不够强大"/>
+  <string id="FoOutlaw15" text="赠送囚犯"/>
+  <string id="FoOutlaw16" text="黑市"/>
+  <string id="FoOutlaw17" text="跟着我，小伙子们！"/>
+  <string id="FoOutlaw18" text="{CULT}队伍带着{COUNT}个人跟着你"/>
+  <string id="FoOutlaw19" text="{CULT}派系太弱了，不能加入你！"/>
+  <string id="FoOutlaw20" text="这附近没有强盗团伙。"/>
+  <string id="FoOutlaw21" text="请求附近的强盗跟随你"/>
+  <string id="FoOutlaw22" text="解散你的随从"/>
+  <string id="FoOutlaw23" text="住所过剩的工资开支 -{GAIN}{GOLD_ICON}"/>
+  <string id="FoOutlaw24" text="被通缉！"/>
+  <string id="FoOutlaw25" text="你在{KING}区域的恶名随着你的犯罪等级而增加……"/>
+  <string id="FoOutlaw27" text="添加你所有的随从到你的队伍！"/>
+  <string id="FoOutlaw28" text="请求附近的强盗加入你的队伍"/>
+  <string id="FoOutlaw30" text="请求这伙人和附近的强盗跟着你"/>
+  <string id="FoOutlaw31" text="这个土匪帮派不够强大（不能使用掠夺者）"/>
+  <string id="FoOutlaw32" text="这个藏身处位于{KING}王国，你的犯罪等级为{RATE}"/>
+  <string id="FoOutlaw33" text="支持{FAC}"/>
+  <string id="FoOutlaw34" text="赠送物品"/>
+  <string id="FoOutlaw35" text="力量提升：{UP}"/>
+  <string id="FoOutlaw36" text="{CULT}的势力过低。"/>
+  <string id="FoDiagm01" text="看起来你在镇上的权力正在丧失，而我来改变这个状况！"/>
+  <string id="FoDiagm02" text="太好了！从最有权势的黑帮头目手中夺回任何一条巷子。或者你可以去找那个混蛋，如果你不介意你的犯罪等级的话……"/>
+  <string id="FoDiagm03" text="我就直说了，要么你自己想清楚这里应该由谁来统治，要么我就让你看看我有多擅长”说服”别人…"/>
+  <string id="FoDiagm04" text="你以为你是谁，竟敢那样骂我… 我会让你知道这里谁才有资格教训别人！[ib:agressive][if:convo_furious]"/>
+  <string id="FoDiagm05" text="我想证明我的能力…"/>
+  <string id="FoDiagm06" text="有道理，你有什么建议？[rb:very_positive][rf:trivial_hi]"/>
+  <string id="FoDiagm07" text="我可以扒窃一些镇民..."/>
+  <string id="FoDiagm08" text="我能搞定一个守卫。那些人对生意没好处的，对吧？"/>
+  <string id="FoDiagm09" text="我不怕权威。而且我溜得很快！"/>
+  <string id="FoDiagm10" text="我很强韧，我可以赢得任何战斗！"/>
+  <string id="FoDiagm11" text="的确… 别忘了你得在晚上干这事儿！"/>
+  <string id="FoDiagm12" text="好吧，去城里随便找个商人，拿起他的东西就跑，然后冲出城门跑得越远越好！"/>
+  <string id="FoDiagm13" text="我明白了… 也许你可以在酒馆里挑事决斗… 但只可以用拳头证明自己！"/>
+  <string id="FoDiagm14" text="小菜一碟！"/>
+  <string id="FoDiagm15" text="你得到了一些食物{FOOD}"/>
+  <string id="FoDiagm16" text="唔？！[if:convo_astonished]"/>
+  <string id="FoDiagm17" text="我很抱歉，我不是有意打扰的..."/>
+  <string id="FoDiagm19" text="你看起来不像个老实人... 快走开[ib:agressive][if:convo_furious]"/>
+  <string id="FoDiagm20" text="当然… 请原谅我"/>
+  <string id="FoDiagm21" text="现在把你所有的钱都给我！"/>
+  <string id="FoDiagm22" text="什么？！… 等等 … 救救我！！[if:convo_astonished][ib:nervous]"/>
+  <string id="FoDiagm23" text="太糟糕了，你只有自己一个人..."/>
+  <string id="FoDiagm24" text="看来今天不是你的好日子…"/>
+  <string id="FoDiagm25" text="你以为呢？我代表这里的权威！是我！！[ib:agressive][if:convo_furious]"/>
+  <string id="FoDiagm26" text="[拿点东西就跑！]"/>
+  <string id="FoDiagm28" text="很好，尽你所能来守住这里！"/>
+  <string id="FoDiagm29" text="我不想看见你，你最好给我滚开！"/>
+  <string id="FoDiagm30" text="什么？！... 你以为你是谁！！[if:convo_astonished][ib:agressive][if:convo_furious]"/>
+  <string id="FoDiagm31" text="过来吧，我准备好了..."/>
+  <string id="FoDiagm32" text="你拿走了{GRAB}"/>
+  <string id="FoDiagm33" text="成交！我希望你今天能成功扒窃{SCORE}次！[rf:trivial_hi][rb:very_positive]"/>
+  <string id="FoDiagm34" text="你拿着什么？如果你需要的话，我可以帮你... [你凑近了些]"/>
+  <string id="FoDiagm35" text="你的袋子似乎很重… 里面装了什么呢？[你凑近了些]"/>
+  <string id="FoDiagm36" text="[你假装失去了平衡撞到了受害者身上]"/>
+  <string id="FoDiagm37" text="哦，看，你肩膀上有东西… [你凑近了些]"/>
+  <string id="FoDiagm38" text="你的衣服真不错… 是羊毛做的吗？[你凑近了些]"/>
+  <string id="FoDiagm39" text="已经和这个人结束了"/>
+  <string id="FoDiagm40" text="你需要扒窃{ATT}个更多的人"/>
+  <string id="FoDiagm41" text="有个守卫在监视你…"/>
+  <string id="FoDiagm42" text="骑行状态下不可执行"/>
+  <string id="FoDiagm43" text="你需要等待{WAITCHCK}小时"/>
+  <string id="FoDiagm44" text="只可以在晚上执行"/>
+  <string id="FoDiagm45" text="试着找到一个更孤立的受害者"/>
+  <string id="FoDiagm46" text="我们来这里阻止你，让你为你的罪行付出代价!"/>
+  <string id="FoDiagm47" text="真的吗？"/>
+  <string id="FoDiagm48" text="我们这里有什么... 如果你不想在监狱里度过余生或者直接死去，就别挡着我们的路!"/>
+  <string id="FoDiagm49" text="这是我们伟大的支持者! 我能为你做什么。{PLAYER.NAME}?[rb:very_positive]"/>
+  <string id="FoDiagm50" text="嗯，这很简单。我需要为我和我的人提供一个安全而不显眼的地方。"/>
+  <string id="FoDiagm51" text="我明白了... 好消息是我们这里有足够的空间。只要自己检查一下，找到最适合你的东西就可以了 [rb:very_positive]"/>
+  <string id="FoDiagm52" text="这就是我想知道的!"/>
+  <string id="FoDiagm53" text="这真是一场精彩的战斗! 干得好，伙伴![rb:very_positive]"/>
+  <string id="FoDiagm54" text="你不再处于隐藏状态"/>
+  <string id="FoDiagm56" text="目前地形({VAL}) 不适于躲藏"/>
+  <string id="FoDiagm57" text="当你有随从时不可操作"/>
+  <string id="FoDiagm58" text="并非如此，你已经被{VAL}发现并追赶"/>
+  <string id="FoDiagm59" text="小心翼翼"/>
+  <string id="FoDiagm61" text="当前地形为：{VAL}"/>
+  <string id="FoDiagm62" text="{ICON}目标被吓到了，变得有机可趁 {ICON}"/>
+  <string id="FoDiagm63" text="{ICON} 总击杀 {GRAB}"/>
+  <string id="FoDiagm64" text="治安下降： - {GRAB}"/>
+  <string id="FoDiagm65" text="我想和你谈谈生意"/>
+  <string id="FoDiagm66" text="当然，虽然我难以料及后果，但我怎么能拒绝来自{?PLAYER.GENDER}女士{?}大人{\?}您的请求呢.[rf:trivial_hi]"/>
+  <string id="FoDiagm67" text="好的，那我们开门见山吧。我会让我的人对你的行为睁只眼闭只眼，作为交换，你需要把你挣得钱分我一部分。"/>
+  <string id="FoDiagm68" text="好吧... 这个提议听着有点意思,{?PLAYER.GENDER}女士{?}大人{\?}. 但我不确定城里的商人和工匠会赞同对这个提议...[rb:very_positive]"/>
+  <string id="FoDiagm69" text="我会处理他们的投诉，只要我们谈好的分成不变就行..."/>
+  <string id="FoDiagm70" text="事实上，我觉得你可以打败不止一个守卫。考虑到你和我们阵营正在交战，你应该不介意至少干掉四个小兵吧？"/>
+  <string id="FoDiagm71" text="只对最强大的帮派首领生效"/>
+  <string id="FoDiagm72" text="扒窃"/>
+  <string id="FoDiagm73" text="杀害守卫"/>
+  <string id="FoDiagm74" text="夺走物品"/>
+  <string id="FoDiagm75" text="酒店乱斗"/>
+  <string id="FoDiagm76" text="{GL} 讨厌你，举荐无法生效"/>
+  <string id="FoDiagm77" text="获得对{GL}的关系+10"/>
+  <string id="FoDiagm78" text="举荐可以让你和另一个城镇的帮派头领关系+10 （一次使用）"/>
+  <string id="FoDiagm79" text="越狱"/>
+  <string id="FoDiagm80" text="你想要尝试进入地牢并且解放里面的任一囚犯吗？你需要击杀所有的守卫才可以成功。"/>
+  <string id="FoDiagm81" text="越狱计划很成功！现在是时候逃离了！"/>
+  <string id="FoDiagm82" text="{CLAN}的{HERO}已经逃离了监狱"/>
+  <string id="FoDiagm83" text="你被严刑拷打，受了重伤"/>
+  <string id="FoDiagm85" text="当地权贵加强了警备，这里还需要{WAITCHCK}天后才回到常态"/>
+  <string id="FoDiagm86" text="带走证据离开此地"/>
+  <string id="FoDiagm88" text="入侵"/>
+  <string id="FoDiagm89" text="你将会进入领主大厅，伪装成一位守卫（你发现盔甲上刻着名字：守卫.{SECT}）{NWL}小心翼翼并且不要在里面拿起武器，否则你就要自己杀出一条血路了"/>
+  <string id="FoDiagm90" text="快逃命吧！"/>
+  <string id="FoDiagm91" text="所有城中的守卫都被惊动了，你唯一的出路就是逃到大门外"/>
+  <string id="FoDiagm92" text="致命遭遇"/>
+  <string id="FoDiagm93" text="路上你被一个可疑的信使挑战了"/>
+  <string id="FoDiagm94" text="你的目标已经阵亡而且这个城镇进入了高度戒备，所有的守卫都在寻找那位刺客。"/>
+  <string id="FoDiagm96" text="把自己伪装成守卫"/>
+  <string id="FoDiagm97" text="你的朋友 {GLD}"/>
+  <string id="FoDiagm98" text="你的同伴{GLD}"/>
+  <string id="FoDiagm99" text="{FWHO}能为你提供一套如假包换的城镇守卫装备...{newline}你可以花{PRICE}{GOLD_ICON}钱借用他们。"/>
+  <string id="FoDiagm100" text="你的手下最近光顾了这座城镇的警卫，并且弄到了一整套警卫服，你想要装备它吗？"/>
+  <string id="FoDiagm101" text="@伪装成守卫更容易潜入要塞或监狱"/>
+  <string id="FoDiagm102" text="你需要与至少这几位首领{newline}保持良好的关系，或者将这座城镇{newline}变为你的领地"/>
+  <string id="FoDiagm103" text="【中止进行中的偷盗任务：杀死一名守卫】"/>
+  <string id="FoDiagm104" text="你从{GL}得到了{WK}"/>
+  <string id="FoDiagm105" text="将花费你{COST}{GOLD_ICON}"/>
+  <string id="FoDiagm106" text="士气过低"/>
+  <string id="FoDiagm107" text="士气必须达到10才可隐藏"/>
+  <string id="FoSafHou01" text="安全屋"/>
+  <string id="FoSafHou02" text="建立安全屋"/>
+  <string id="FoSafHou03" text="你正在安全屋中等待"/>
+  <string id="FoSafHou05" text="从安全屋获得{GAIN}{GOLD_ICON}"/>
+  <string id="FoSafHou06" text="强盗阵营的势力一定要大于 {VAL}"/>
+  <string id="FoSafHou08" text="每天逃跑人数：{VAL}"/>
+  <string id="FoSafHou09" text="每天死亡人数：{VAL}"/>
+  <string id="FoSafHou10" text="每天受伤人数 ：0"/>
+  <string id="FoSafHou11" text="每天治愈人数：0"/>
+  <string id="FoSafHou12" text="当前："/>
+  <string id="FoSafHou13" text="受伤："/>
+  <string id="FoSafHou14" text="利润："/>
+  <string id="FoSafHou15" text="区域财富"/>
+  <string id="FoSafHou16" text="工资"/>
+  <string id="FoSafHou17" text="抛弃此地"/>
+  <string id="FoSafHou18" text="你确定吗？你留着你的队伍成员和物品，但是把奴隶留给强盗阵营。任何当前进行中的诡计都会被中止。"/>
+  <string id="FoSafHou19" text="{HID} 个被发现的营地"/>
+  <string id="FoSafHou20" text="强盗阵营"/>
+  <string id="FoSafHou21" text="守卫"/>
+  <string id="FoSafHou22" text="强盗行径"/>
+  <string id="FoSafHou23" text="你的帮派成员"/>
+  <string id="FoSafHou24" text="奴役"/>
+  <string id="FoSafHou25" text="侍奉"/>
+  <string id="FoSafHou26" text="采矿"/>
+  <string id="FoSafHou27" text="物资"/>
+  <string id="FoSafHou28" text="力量 +"/>
+  <string id="FoSafHou29" text="守卫可以降低逃跑的奴隶数量"/>
+  <string id="FoSafHou30" text="强盗行径会为你的队伍带来收入以及经验（当你队伍待在藏身处的时候），为当前藏身的强盗派系提供势力奖励，并收获战利品。"/>
+  <string id="FoSafHou31" text="侍奉会提高队伍每日治愈的人数（当你的队伍待在藏身处时）"/>
+  <string id="FoSafHou32" text="采矿会带来收入并且为当前藏身处增强实力"/>
+  <string id="FoSafHou33" text="艰难抉择"/>
+  <string id="FoSafHou34" text="你希望放弃你在{BASE}的基地吗？你可以保留你的部队以及仓库里的所有物品，但是会失去所有升级。"/>
+  <string id="FoSafHou35" text="毁于一旦"/>
+  <string id="FoSafHou36" text="你的安全屋被摧毁了"/>
+  <string id="FoSafHou37" text="将你的战俘转换为努力。你可以剥削他们的装备（在物品栏里获得随机的战利品），被奴役的奴隶不可以被转换为战俘"/>
+  <string id="FoSafHou38" text="强盗阵营的势力必须高于500点。该强盗阵营每一个被发现的藏身处都可以带来 +3% 犯罪网络（由最近的城镇决定）"/>
+  <string id="FoSafHou39" text="你在其他藏身处已经有安全屋了。你得先抛弃那个才可以在这里建议一个新的安全屋"/>
+  <string id="FoSafHou40" text="家族封地"/>
+  <string id="FoSafHou41" text="让我们直入主题，你知道我来这的目的..."/>
+  <string id="FoSafHou42" text="当然可以，给我详细讲讲"/>
+  <string id="FoSafHou43" text="了解...那么你愿意拿出多少钱？"/>
+  <string id="FoSafHou44" text="包在我身上，把你的第纳尔给我准备好！"/>
+  <string id="FoSafHou45" text="我不感兴趣。"/>
+  <string id="FoSafHou46" text="杀死{KING}的{CLAN}家族中的任意成员（你与这个家族的关系{REL}）"/>
+  <string id="FoSafHou47" text="让这个{KING}的{CLAN}氏族动摇决心（你和这个氏族的关系为{REL}）"/>
+  <string id="FoSafHou48" text="契约已完成！"/>
+  <string id="FoSafHou49" text="肮脏的交易"/>
+  <string id="FoSafHou50" text="一位来自{KING}的信使到了。他的国家正在寻找一些（独立的？）服务..."/>
+  <string id="FoSafHou51" text="我们想让你消灭{KING}的{CLAN}家族"/>
+  <string id="FoSafHou52" text="我们想让你对{KING}的{CLAN}家族搞点破坏。散布谣言，勒索他们或者煽动一场叛乱，你来决定。"/>
+  <string id="FoSafHou53" text="完事后我们会付给你{PAY}{GOLD_ICON}。"/>
+  <string id="FoSafHou54" text="联系寻觅者"/>
+  <string id="FoSafHou55" text="你接受这项提案吗？（？）如果你与他们处于战争之中或者统治者厌恶你，那么他们将不会履约..."/>
+  <string id="FoSafHou56" text="无任务"/>
+  <string id="FoSafHou57" text="你目前没有正在执行的任务。拓展你的关系以接受更多提案。"/>
+  <string id="FoSafHou58" text="你目前正在执行{GIV}任务。你必须杀死{KING}的{CLAN}的任意成员。完事后你将获得{PAY}{GOLD_ICON}。"/>
+  <string id="FoSafHou59" text="你目前正在进行{GIV}任务。你得对{KING}的{CLAN}家族搞点破坏。（散布谣言，勒索他们或者在他们的城镇煽动一场叛乱）。完事后你将获得{PAY}{GOLD_ICON}。"/>
+  <string id="FoSafHou60" text="当前任务"/>
+  <string id="FoSafHou61" text="取消任务"/>
+  <string id="FoSafHou62" text="停止接受"/>
+  <string id="FoSafHou63" text="任务"/>
+  <string id="FoSafHou64" text="{KING}派出了一个信使，他需要你的服务"/>
+  <string id="FoSafHou65" text="新的土匪团伙"/>
+  <string id="FoSafHou66" text="至少需要一个5人小队"/>
+  <string id="FoSafHou67" text="你需要至少5个土匪"/>
+  <string id="FoSafHou68" text="添加你全部的随从"/>
+  <string id="FoSafHou69" text="把你所有的随从加入你的队伍{newline}同时你会收留他们的囚犯"/>
+  <string id="FoSafHou70" text="选择并点击继续以添加那些土匪加入你的队伍{newline}同时你将接收他们的囚犯"/>
+  <string id="FoSafHou71" text="选择一个行动"/>
+  <string id="FoSafHou72" text="添加{VAL}囚犯{HER}"/>
+  <string id="FoSafHou73" text="你被抓住了！"/>
+  <string id="FoSafHou74" text="让你的强盗士兵组成一队跟随你的军队"/>
+  <string id="FoSafHou75" text="索要囚犯"/>
+  <string id="FoSafHou76" text="要求你所有的随从给予你他们的囚犯"/>
+  <string id="FoSafHou77" text="选择并点击继续以解散你的随从"/>
+  <string id="FoSafHou78" text="舍弃一些土匪以分散敌人的注意并尝试逃走"/>
+  <string id="FoSafHou79" text="停止跟随我并加入我的队伍"/>
+  <string id="FoAgeOp03" text="待在这个定居点"/>
+  <string id="FoAgeOp04" text="间谍"/>
+  <string id="FoAgeOp05" text="刺客"/>
+  <string id="FoAgeOp06" text="你需要一些掠夺者"/>
+  <string id="FoAgeOp07" text="执行该方案你需要{COST}掠夺者。"/>
+  <string id="FoAgeOp08" text="你想为该计划派遣{COST}掠夺者吗（你有{SAB}）？你的目标是{SABTARG}，它将花费你{PROSPERO}小时。"/>
+  <string id="FoAgeOp09" text="{MAX}最大代理量"/>
+  <string id="FoAgeOp11" text="招募并训练间谍"/>
+  <string id="FoAgeOp12" text="1-2级的单位会变成破坏者（每天1个）{newline}3-4级的单位会变为间谍（每天1个）{newline}3-4级的单位会变为刺客（每周1个）"/>
+  <string id="FoAgeOp13" text="组建一支掠夺者分队"/>
+  <string id="FoAgeOp14" text="解散这支掠夺者团队"/>
+  <string id="FoAgeOp15" text="你的破坏者会恢复，并且其他士兵会被添加到训练的队列里"/>
+  <string id="FoAgeOp16" text="已经排了使者到破坏者队伍里"/>
+  <string id="FoAgeOp17" text="掠夺者"/>
+  <string id="FoAgeOp18" text="已经派出使者策划战略性的计谋"/>
+  <string id="FoAgeOp19" text="已经派出使者进行扰乱计谋"/>
+  <string id="FoAgeOp20" text="已经派出使者进行谋杀计谋"/>
+  <string id="FoAgeOp21" text="你要求训练总共{A}人的队伍，包括{B}个破坏者，{C}个间谍，以及{D}个刺客"/>
+  <string id="FoAgeOp22" text="你的使者"/>
+  <string id="FoAgeOp23" text="没有使者"/>
+  <string id="FoAgeOp24" text="这个计谋需要的使者：{AGT}"/>
+  <string id="FoAgeOp25" text="每个友善的贵族添加+5%。{newline}每个友善的氏族添加+5%。{newline}每个帮派密使添加+15%（帮派大使是你留在城镇中的同伴，每个城镇可以留1个。巴黎流浪汉的提醒：进入城镇中通过屏幕右上角的+号选择入驻一位同伴）"/>
+  <string id="FoAgeOp26" text="友好家族"/>
+  <string id="FoAgeOp27" text="间谍首脑"/>
+  <string id="FoAgeOp28" text="执行加成"/>
+  <string id="FoAgeOp29" text="间谍加成"/>
+  <string id="FoAgeOp31" text="训练一些掠夺者"/>
+  <string id="FoEx32" text="单边协议，你是说.....为什么你会关心那些该死的帮派领袖的利益……你可否忘了这事情，然后滚远点……[ib:agressive][if:convo_furious]"/>
+  <string id="FoDiagm108" text="你想要藏在这里吗？每一小时将花费你{VAL}点士气"/>
+  <string id="FoDiagm109" text="需要掷筛最少."/>
+  <string id="FoDiagm110" text="一小笔钱"/>
+  <string id="FoDiagm111" text="一大笔钱"/>
+  <string id="FoDiagm112" text="钱包"/>
+  <string id="FoDiagm113" text="武器"/>
+  <string id="FoDiagm114" text="你有足够的自信尝试去偷..."/>
+  <string id="FoDiagm115" text="你失败了，但你没被抓住……"/>
+  <string id="FoDiagm116" text="别人开始注意到你了……"/>
+  <string id="FoDiagm117" text="你呀，跑得真快！"/>
+  <string id="FoDiagm118" text="你不能对平民动刀！"/>
+  <string id="Fov90xx01" text="士兵，你知道规矩，执勤的时候不得讲话！"/>
+  <string id="Fov90xx02" text="（你需要击杀所有的守卫才能解决囚犯）"/>
+  <string id="Fov90xx03" text="真遗憾，我本以为我们可以避免使用任何暴力……"/>
+  <string id="Fov90xx04" text="看起来你想惹怒一个不该惹的人……"/>
+  <string id="Fov90xx05" text="（打嗝）你想干啥？"/>
+  <string id="Fov90xx06" text="你的老大是对的，你不像一个可靠的人……显然，你更像一个动物……"/>
+  <string id="Fov90xx07" text="老实说，我想在这座城市搞好我的关系。要不还一半？我来应付另一半。"/>
+  <string id="Fov90xx08" text="很简单……还清全额款项，我们一笔勾销。"/>
+  <string id="Fov90xx09" text="我可以成为一个很有说服力的信使……"/>
+  <string id="Fov90xx11" text="这个马贩吞了我一匹宝马的钱，却只卖我一匹跛马……拿回我的钱！当然，我也不会忘记你的辛苦费的。[ib:agressive][if:convo_furious]"/>
+  <string id="Fov90xx12" text="这个理发师简直是个无能的混账！你就看看我的脸……去吧，让他意识到自己是有多么废物……[ib:agressive][if:convo_furious]"/>
+  <string id="Fov90xx13" text="我和铁匠有一些纠纷……我花了相当多的钱，只为求一把好剑，他却给我一个完全钝化生锈的破剑。拿回我的钱！当然，我也不会忘记你的辛苦费的。[ib:agressive][if:convo_furious]"/>
+  <string id="Fov90xx14" text="我派了一个保镖去向酒馆老板讨债，等到了现在……我很确信这个混账还在酒馆，用着我的钱吃香喝辣。把他给我抓回来！"/>
+  <string id="Fov90xx15" text="我拒绝向那个帮派头目给哪怕一个硬币，给我赶紧滚！！！[ib:agressive][if:convo_furious]"/>
+  <string id="Fov90xx16" text="什么？哦……听着，我不想惹任何麻烦……对生意影响不好。也许我们能一起找一些让大伙都开心的东西？[ib:agressive][if:convo_furious]"/>
+  <string id="Fov90xx17" text="我真不管相信那个帮派头目竟然只是派了一个信使。真是懦夫……那你打算干什么？[ib:agressive][if:convo_furious]"/>
+  <string id="Fov90xx18" text="你怎么敢？我是一个纯粹的艺术家，你的头目应该感到非常荣幸，能列入我一长串艺术大作里面！！！[ib:agressive][if:convo_furious]"/>
+  <string id="Fov90xx19" text="我会让你放肆的笑容从脸上消失！[ib:agressive][if:convo_furious]"/>
+  <string id="Fov90xx20" text="真巧啊……我也是一名艺术家，只是我的艺术比你稍微暴力了那么一些……让我给你展示展示。"/>
+  <string id="Fov90xx21" text="商人"/>
+  <string id="Fov90xx22" text="工匠"/>
+  <string id="Fov90xx23" text="你支付 - {VAL}{GOLD_ICON}"/>
+  <string id="Fov90xx24" text="无犯罪等级惩罚"/>
+  <string id="Fov90xx25" text="{PAYGET}，与城镇{TYPE}的好感{NOTREL}，与帮派头目的好感{GANGREL}，{CRIME}"/>
+  <string id="Fov90xx26" text="收到 {VAL}{GOLD_ICON}"/>
+  <string id="Fov90xx27" text="犯罪等级{CRIMERATE}"/>
+  <string id="Fov90xx28" text="{CULT}派系将失去{STRC}str"/>
+  <string id="Fov90xx29" text="物品从城镇市场随机挑选。{newline}花费基于繁荣度和治安度。{newline}如果你在这个城市有个犯罪基地，花费减半（需要一个赌场）。"/>
+  <string id="Fov90xx30" text="你的部队需要至少5个空位才能开始招募。"/>
+  <string id="Fov90xx31" text="强盗们不需要你的食物……"/>
+  <string id="Fov90xx33" text="放弃任务"/>
+  <string id="Fov90xx34" text="维持你的随从：{COST}{GOLD_ICON}"/>
+  <string id="Fov90xx35" text="你破产了……强盗们决定不再跟随你……"/>
+  <string id="Fov90xx36" text="你的基地食物短缺！"/>
+  <string id="Fov90xx37" text="您的计划已被发现。你不得不利用影响力来限制针对自己王国成员阴谋的任何严重后果。"/>
+  <string id="Fov90xx38" text="因背叛家族{VICTIM}，你的家族被流放"/>
+  <string id="Fov90xx39" text="保镖（酒馆）"/>
+  <string id="Fov90xx40" text="与{VIC}交谈"/>
+  <string id="Fov90xx41" text="追踪这个地方"/>
+  <string id="Fov90xx42" text="一员"/>
+  <string id="Fov90xx43" text="在{SET}"/>
+  <string id="Fov90xx44" text="被发现的囚犯"/>
+  <string id="Fov90xx45" text="你的特工汇报说下列英雄被关押在一座城镇的监狱。{newline}仅列出你有至少{VAL}%的关系网的城市。"/>
+  <string id="Fov90xx46" text="囚犯"/>
+  <string id="Fov90xx47" text="你需要一个行动基地（任何领地的菜单中激活）或犯罪基地。"/>
+  <string id="Fov90xx48" text="这个强盗部队距离过远不可加入任何战斗"/>
+  <string id="Fov90xx49" text="当前随从："/>
+  <string id="Fov90xx50" text="维持你的随从：{COST}{GOLD_ICON}"/>
+  <string id="Fov90xx51" text="距离过远不可加入任何战斗：{FAR}部队"/>
+  <string id="Fov11xx01" text="好吧，老大，我希望你已经准备好了，我可不会手下留情的！或许老大还想要难度更高的挑战？"/>
+  <string id="Fov11xx02" text="啊，算了，怎么公平怎么来吧。"/>
+  <string id="Fov11xx03" text="对手生命值为正常数值。"/>
+  <string id="Fov11xx04" text="赢得决斗，你的对手将会获得 +{QTY}X 经验奖励（主要近战武器技能和跑动技能）"/>
+  <string id="Fov11xx05" text="每{TIME}时间{TRY}参与者"/>
+  <string id="Fov11xx06" text="剩余参与者：{ATT}"/>
+  <string id="Fov11xx07" text="{HLT}{newline}{RWD}{newline}{COND}{newline}{RES}"/>
+  <string id="Fov11xx08" text="为何不可？今天我心情很好，给我多上点难度！"/>
+  <string id="Fov11xx09" text="对手生命值+{CHL}"/>
+  <string id="Fov11xx10" text="给我露两手！"/>
+  <string id="Fov11xx11" text="我是来挑战你的......这正好也能提升我的战斗技能！也对你们间谍有很大帮助。难度，越高越好！"/>
+  <string id="Fov11xx12" text="+{QTY}刺客得到特训"/>
+  <string id="Fov11xx13" text="{HLT}{newline}{RWD}{newline}{COND}"/>
+  <string id="Fov11xx14" text="祝你愉快！我刚刚得知你正在做一个很有意思的生意……"/>
+  <string id="Fov11xx15" text="我想我们已经撇清关系了……"/>
+  <string id="Fov11xx16" text="谁知道呢……你冒着风险来到这里，肯定是有求于我吧？"/>
+  <string id="Fov11xx17" text="当然是生意！听着，我需要一些劳动力，急需！你能提供什么？"/>
+  <string id="Fov11xx18" text="好吧，我可以卖给你一些。"/>
+  <string id="Fov11xx19" text="奴隶"/>
+  <string id="Fov11xx20" text="以{VAL}{GOLD_ICON}卖出{QTY}{TYPE}"/>
+  <string id="Fov11xx21" text="如果需要的话，我还有更多。"/>
+  <string id="Fov11xx22" text="成交！钱在这里，我先去打包我的“货物”……"/>
+  <string id="Fov11xx23" text="现在我没有你想要的东西……"/>
+  <string id="Fov11xx24" text="另一个商人不就就会回来的……"/>
+  <string id="Fov11xx25" text="知道了。好吧，真遗憾。下次再说吧……"/>
+  <string id="Fov11xx26" text="给我一点保护费，我能保证你活着的离开这里！"/>
+  <string id="Fov11xx27" text="你从商人那里拿走{VAL}{GOLD_ICON}，但这个行为可能会导致一些严重的后果。"/>
+  <string id="Fov11xx28" text="如你所愿……"/>
+  <string id="Fov11xx29" text="就此打住吧……还有很多活得做……"/>
+  <string id="Fov11xx30" text="跟我说说这个地方未来的升级计划！"/>
+  <string id="Fov11xx31" text="让我检查一下库存。"/>
+  <string id="Fov11xx32" text="告诉我更多关于采矿事务。"/>
+  <string id="Fov11xx33" text="有别的方法交易吗？"/>
+  <string id="Fov11xx34" text="石头的需求稳定，并且没人会在意道德问题……战争，尤其是被围攻的时候，我们的生意会好得不得了……"/>
+  <string id="Fov11xx35" text="有时我们会遇到一些有特殊需求的奸商。我没时间也没能力对付他们，所以我把他们留给老大你。"/>
+  <string id="Fov11xx36" text="没关系。"/>
+  <string id="Fov11xx37" text="常言道“多行不义必自毙”，但你却是一个活生生的反例……"/>
+  <string id="Fov11xx38" text="我有一些东西，你可能会很感兴趣……"/>
+  <string id="Fov11xx39" text="我有几个囚犯急着出手……"/>
+  <string id="Fov11xx40" text="没有你们，我们也不可能如此强大……"/>
+  <string id="Fov11xx41" text="双赢……"/>
+  <string id="Fov11xx42" text="现在我没有你想要的东西……"/>
+  <string id="Fov11xx43" text="我是奴隶还是主人，只由我来选择……吧？"/>
+  <string id="Fov11xx44" text="我不这么认为……"/>
+  <string id="Fov11xx45" text="呦，老大，你看我工作的可努力了！"/>
+  <string id="Fov11xx46" text="嗯嗯，看得出来……"/>
+  <string id="Fov11xx47" text="没有什么比在一天的犯罪之后吃点好东西更重要的事情了，对吧，老板？很高兴看到你和我们在一起！"/>
+  <string id="Fov11xx48" text="嘿，老板，那边有足够的空地可以造一个训练场。我已经等不急跟你过过招了！"/>
+  <string id="Fov11xx49" text="听起来好极了！"/>
+  <string id="Fov11xx50" text="有时，坐下来思考必须要做的事是极好的……"/>
+  <string id="Fov11xx51" text="确实，让我们好好谈谈……"/>
+  <string id="Fov11xx52" text="也许吧，但不是现在。"/>
+  <string id="Fov11xx53" text="管理"/>
+  <string id="Fov11xx54" text="到处走走"/>
+  <string id="Fov11xx55" text="入侵者！"/>
+  <string id="Fov11xx56" text="附近发现一支小型军队。现在召集小伙子们已经太晚了（大多数人早就醉醺醺的了）。你必须和你的士兵保护这个地方！"/>
+  <string id="Fov11xx57" text="可疑"/>
+  <string id="Fov11xx58" text="你和你的士兵成功地反击了。没有放走一个人，你也无法确定是谁雇用的这些人，以及他们是如何找到你的安全屋的……"/>
+  <string id="Fov11xx59" text="混乱"/>
+  <string id="Fov11xx60" text="幸运的是，你的小伙子们和附近的强盗成功地击败了剩余的雇佣兵。不过奴隶们可不会错过这次逃跑的机会……"/>
+  <string id="Fov11xx61" text="你失去了 {QTY} 奴隶"/>
+  <string id="Fov11xx62" text="从前，一个山口的顶部建有一座堡垒，它保护着上游山谷和贯穿其中的贸易路线。但这条路线逐渐荒废，只剩下一些旅行者。因此，这个地方被遗弃了，强大的防御工事化为废墟。几十年来，这个地方一直无人问津，直到一群强盗在此定居。这个地方提供了理想的保护：河流提供饮用水，而崎岖的地形和遍布山间的洞穴则提供了一个易于防御的天然庇护所。"/>
+  <string id="Fov11xx63" text="{LVLXP}{NEXT} xp"/>
+  <string id="Fov12xx01" text="你占领了一条巷子并失去了在这个城镇的合伙人！"/>
+  <string id="Fov12xx02" text="{MISSION} 完成！"/>
+  <string id="Fov12xx03" text="唷老大，这儿生意兴隆啊。[rb:very_positive]"/>
+  <string id="Fov12xx04" text="你好，{PLAYER.NAME}……很高兴看到你在这里。你有你的理由放弃这个地盘，但我们依然可以赚大钱，你也知道......"/>
+  <string id="Fov12xx05" text="欢迎，{PLAYER.NAME}！我是你在这个城镇的副手。我们终于见面了！[rb:very_positive]"/>
+  <string id="Fov12xx06" text="{PLAYER.NAME}…我能为你做些什么吗？"/>
+  <string id="Fov12xx07" text="太好了，我就知道我可以指望你。"/>
+  <string id="Fov12xx08" text="有道理。你是对的，这个镇子我管定了！"/>
+  <string id="Fov12xx09" text="停一下手里的活，告诉我，我的伙计发生什么事情了！"/>
+  <string id="Fov12xx10" text="我也毫无头绪，我们就只是像往常那样拜访了城中的商人……我不清楚发生了什么……"/>
+  <string id="Fov12xx11" text="可能是那些商人中的一个……那现在谁在负责这个生意？好像是你自己说要负责的……"/>
+  <string id="Fov12xx12" text="我从我的老板那学到了很多，并且我已经准备好向你展示我的技能了。"/>
+  <string id="Fov12xx13" text="你看起来很自信，我喜欢这样。"/>
+  <string id="Fov12xx14" text="当你控制这个城市的一个小巷时，不可执行。"/>
+  <string id="Fov12xx15" text="{GANGL}将成为你的新伙计，并为你管理这个镇子！"/>
+  <string id="Fov12xx16" text="那么……你清扫了小巷，还胆敢向我决斗？我不介意让你看看谁才是镇上真正的老大[ib:agressive][if:convo_furious]"/>
+  <string id="Fov12xx17" text="在任务结束前离开将会使其重置。"/>
+  <string id="Fov12xx18" text="喂，你，你谁啊……等一下，老板？！这里一切安好！……"/>
+  <string id="Fov12xx19" text="你很幸运，在这条巷子里，我的伙计需要你……"/>
+  <string id="Fov12xx20" text="我要让你狗啃泥巴，打得你一败涂！"/>
+  <string id="Fov12xx21" text="你洗劫了雇佣兵，并找到了承诺的资金……"/>
+  <string id="Fov12xx22" text="不在你的队伍中"/>
+  <string id="Fov12xx23" text="分配新职位给家族成员"/>
+  <string id="Fov12xx24" text="只由在主基地中才能管理事务。"/>
+  <string id="Fov12xx25" text="{ROLE}是{OPT}的关键角色。{newline}{COND}"/>
+  <string id="Fov12xx26" text="只由在部队中才能统筹计谋。"/>
+  <string id="Fov12xx27" text="已被分配到{VAL}"/>
+  <string id="Fov12xx28" text="同伴受伤了"/>
+  <string id="Fov12xx29" text="好感{REL}或更高{RELCK}{newline}流氓习气技能{ROG}或更高{ROGCK}{newline}{MERCY}特质0或更低{MERCYCK}{newline}{HONOR}特质0或更低{HONORCK}"/>
+  <string id="Fov12xx30" text="选择一位同伴"/>
+  <string id="Fov12xx31" text="你将一个同伴任命为帮派头目来管理这个小镇。此行为不可逆，所以要明智选择。{newline}新的帮派领袖需要适应几天时间才能正式工作。"/>
+  <string id="Fov12xx32" text="你已经将{COMPA}晋升为帮派头目了。"/>
+  <string id="Fov12xx33" text="晋升一位同伴"/>
+  <string id="Fov12xx34" text="帮派头目之中结交一些朋友，这样他们就能帮你……或者到镇上击败守卫获得他们的装备（站在他们的尸体按住 left Alt + 右键 ）。"/>
+  <string id="Fov12xx35" text="{GANGLEAD}需要筹集一些资金，并想知道你是否愿意接下这单？你是老大，但也许你想继续提高你的技能……"/>
+  <string id="Fov12xx36" text="{GANGLEAD}已经做好随时帮助你的准备。"/>
+  <string id="Fov12xx37" text="商队旅行至{SET}"/>
+  <string id="Fov12xx38" text="{GANGLEAD}和你预估可以获得{ESTIPROF}第纳尔。{newline}攻击将在今晚开始！"/>
+  <string id="Fov12xx39" text="{GANGLEAD}已经做好随时帮助你的准备。"/>
+  <string id="Fov12xx40" text="你成功击败镇上最强大的{GANGRELA}，提升了你的技能。"/>
+  <string id="Fov12xx41" text="你做掉了最强大的帮派头目，这个镇归为你领地之一，并且这里非常适合建立你的基地。"/>
+  <string id="Fov12xx42" text="你扩大了你的地盘。你可以在犯罪集团主菜单中随时将你的主基地从{CRIMEBASE}切换到这个城镇。"/>
+  <string id="Fov12xx43" text="这个城镇作为你的地盘，你需要提拔一个同伴来管理。"/>
+  <string id="Fov12xx44" text="你的安全屋现等级{VAL}"/>
+  <string id="Fov12xx46" text="独立逃税（Discrete evasion ？）"/>
+  <string id="Fov12xx47" text="你成功解开锁链逃离出来，试着逃到该地区的边界。小心那些守卫，他们会毫不犹豫地攻击你的！"/>
+  <string id="Fov12xx48" text="干得好，你可以走了！"/>
+  <string id="Fov12xx49" text="你找到了钥匙！"/>
+  <string id="Fov12xx50" text="你找到了钥匙，但拿不走……"/>
+  <string id="Fov12xx51" text="监狱钥匙"/>
+  <string id="Fov12xx52" text="你需要伪装成一个守卫才能进入"/>
+  <string id="Fov12xx53" text="你离开了决斗场"/>
+  <string id="Fov12xx54" text="干得好，你赢得了这场决斗！"/>
+  <string id="Fov12xx55" text="+{QTY}刺客得到特训"/>
+  <string id="Fov12xx56" text="你输掉了决斗…"/>
+  <string id="Fov12xx57" text="你需要从一个守卫那里找到监狱钥匙……"/>
+  <string id="Fov12xx58" text="你需要在不被发现的情况下到达该地区的边界……"/>
+  <string id="Fov12xx59" text="你杀死了所有守卫，可以继续前进了。"/>
+  <string id="Fov12xx60" text="每位高好感要人+1%（帮派头目+3%）。{newline}每位合伙人+5%。{newline}每个地盘+15%。{newline}每条小巷+5%。{newline}每个发现的藏身地+3%。"/>
+  <string id="Fov12xx61" text="你需要最低{FOG}%的情报网来收集这个家族的更多信息。"/>
+  <string id="Fov12xx62" text="已拥有的小巷"/>
+  <string id="Fov12xx63" text="帮派头目是你的同伴的城镇被视为你的地盘。你的收入比小巷和合伙人提供的更多，但这也大大增加了你的犯罪等级。"/>
+  <string id="Fov12xx64" text="管理，由"/>
+  <string id="Fov12xx65" text="提拔一个同伴为帮派头目来管理这个地盘"/>
+  <string id="Fov12xx66" text="{SUC}想和你讨论一下你那突然消失的伙计……"/>
+  <string id="Fov12xx67" text="强盗行径：+{UP}"/>
+  <string id="Fov12xx68" text="小型场地：+{UP}"/>
+  <string id="Fov12xx69" text="花费：{DWN}"/>
+  <string id="Fov12xx70" text="小巷"/>
+  <string id="Fov12xx71" text="当前等级：{VAL}"/>
+  <string id="Fov12xx72" text="-侍奉- 每日提供经验（1个劳动中的奴隶 = 每天+{XP}xp）"/>
+  <string id="Fov12xx73" text="挣脱"/>
+  <string id="Fov12xx75" text="等到夜幕降临再试图挣脱……"/>
+  <string id="Fov12xx76" text="每{DAY}天尝试一次（每100流氓习气-1天）"/>
+  <string id="Fov12xx77" text="看守已被命令紧盯着你（羁押部队必须在50人以上）"/>
+  <string id="Fov12xx78" text="等到夜幕降临再试图挣脱……"/>
+  <string id="Fov12xx79" text="你的看守一见到你就会攻击，即使你洗劫了他们的尸体并伪装好自己{newline}如果你能设法在不杀死任何敌人的情况下逃跑，获得大量流氓习气经验奖励{newline}{TOG}"/>
+  <string id="Fov12xx80" text="你没有伪装，守卫一看到你就会攻击你！{newline}{CANDO}{newline}{GET}"/>
+  <string id="Fov12xx81" text="如果你想释放囚犯，必须先杀死所有的守卫。"/>
+  <string id="Fov12xx82" text="从一个守卫那里拿到监狱钥匙，就可以重获自由。"/>
+  <string id="Fov12xx83" text="你穿的是守卫制服，可以出入要塞和监狱。"/>
+  <string id="Fov12xx84" text="在王座附近寻找一些证据（丑闻）……或者，你有一个致命的目的……"/>
+  <string id="Fov12xx85" text="如果你想释放囚犯，必须先杀死所有的守卫。"/>
+  <string id="Fov12xx86" text="你已乔装打扮，如果你拔出武器，守卫会当场攻击。{newline}{CANDO}{newline}{GET}"/>
+  <string id="Fov12xx87" text="你离自由还有{DIST}米远……"/>
+  <string id="Fov12xx88" text="安全屋有3级。每天的经验基于分配到 -侍奉- 的奴隶数量（侍奉中的奴隶 = 每天+{XP}xp）"/>
+  <string id="FoCrimEnt59x" text="贪腐程度"/>
+  <string id="FoSchRm01x" text="选择一个受害者"/>
+  <string id="FoSchRm55x" text="{VAL} 收到"/>
+  <string id="FoAgeOp32" text="执法者/间谍首脑"/>
+  <string id="Fov123x01" text="+ {INV}    花费 -{COST}"/>
+  <string id="Fov123x02" text="升级奖金"/>
+  <string id="Fov123x03" text="与帮派头目交谈。"/>
+  <string id="Fov123x04" text="设置腐败等级，限制你向地方当局支付的费用（贪污影响）。{newline}最高等级会降低你的犯罪等级，其他等级则会提高（每日）。"/>
+  <string id="Fov123x05" text="只适用于你实控的地盘。"/>
+  <string id="Fov123x06" text="掠夺者团队创建（Left Ctrl + 右键）"/>
+  <string id="Fov123x07" text="城镇中归你掌控的小巷。{newline}*归属于你地盘的城镇和合伙人的城镇不列入计算"/>
+  <string id="Fov123x08" text="仅可选择你关系网覆盖下的王国。"/>
+  <string id="Fov123x09" text="升级"/>
+  <string id="Fov123x10" text="方案室立场"/>
+  <string id="Fov123x11" text="收入"/>
+  <string id="Fov123x12" text="囚犯： +0 到"/>
+  <string id="Fov123x13" text="强盗行径收入基于地区财富和手下士兵平均等级"/>
+  <string id="Fov123x14" text="和营地"/>
+  <string id="Fov123x15" text="使关系网的计算基于你的地下关系网（小巷，地盘，合伙人，强盗势力）。{newline}其中，地盘{HMST}的影响权重最大。"/>
+  <string id="Fov123x16" text="使关系网的计算基于你与要人及家族的关系。{newline}使者{HMST}的影响权重最大。"/>
+  <string id="Fov123x17" text="目前立场：{VAL}"/>
+  <string id="Fov123x18" text="为你的方案室确定立场。{newline}不同的立场，关系网的计算方式不同。{newline}切换立场将立即停止目前正在进行的计划，且不返还任何资源。"/>
+  <string id="Fov123x19" text="营地"/>
+  <string id="Fov123x20" text="你需要一个行动基地（任何领地的菜单中激活）或犯罪基地，或营地。"/>
+  <string id="Fov123x21" text="你需要至少一名掠夺者来训练其他单位。"/>
+  <string id="Fov123x22" text="在旅途中训练破坏者（每天 +1）。你需要至少一名掠夺者来训练其他单位。"/>
+  <string id="Fov123x23" text="每个营地 +{VAL}% （每个等级 +{TIER}%）。"/>
+  <string id="Fov123x24" text="每位高好感要人 +{VAL}% （帮派头目 +{VAL2}%）"/>
+  <string id="Fov123x25" text="每位合伙人 +{VAL}%"/>
+  <string id="Fov123x26" text="每个地盘 +{VAL}%"/>
+  <string id="Fov123x27" text="每条小巷 +{VAL}%"/>
+  <string id="Fov123x28" text="每个发现的藏身地 +{VAL}%"/>
+  <string id="Fov123x29" text="每位高好感要人 +{VAL}%"/>
+  <string id="Fov123x30" text="每个高好感家族 +{VAL}%"/>
+  <string id="Fov123x31" text="每个帮派密使 +{VAL}%（帮派密使是你留在城镇中的同伴，每个城镇可以留1个。巴黎流浪汉的提醒：进入城镇中通过屏幕右上角的+号选择入驻一位同伴）"/>
+  <string id="Fov123x32" text="点击（Left Alt）获取更多信息"/>
+  <string id="Fov123x33" text="伙伴关系"/>
+  <string id="Fov123x34" text="地盘"/>
+  <string id="Fov123x35" text="犯罪集团"/>
+  <string id="Fov123x36" text="住所过剩"/>
+  <string id="Fov123x37" text="升级花费"/>
+  <string id="Fov123x38" text="部落"/>
+  <string id="Fov123x39" text="基础腐败"/>
+  <string id="Fov123x40" text="帮派工资"/>
+  <string id="Fov123x41" text="强盗收入"/>
+  <string id="Fov123x42" text="矿场利润"/>
+  <string id="Fov123x43" text="地下拳击手"/>
+  <string id="Fov123x44" text="地下拳击队"/>
+  <string id="Fov123x46" text="强盗力量"/>
+  <string id="Fov123x47" text="由于目标死亡，计划中止。"/>
+  <string id="Fov123x48" text="由于客户死亡，合同废除。"/>
+  <string id="Fov123x49" text="钱管够，我可以支付 {VAL}{GOLD_ICON}。这是一笔巨款……[ib:nervous]"/>
+  <string id="Fov123x50" text="当前合同报酬为 {PAY}{GOLD_ICON}。接受受害者的还价将取消合约，{KING}的{CLAN}与你的关系将恶化（-{REL}）。"/>
+  <string id="Fov123x51" text="目前没有合同"/>
+  <string id="Fov123x52" text="目前没有暗杀合同"/>
+  <string id="Fov123x53" text="尝试谈判受害者的生死"/>
+  <string id="Fov123x54" text="你的暗杀合同中并不包括受害者的家族"/>
+  <string id="Fov123x55" text="在我割断你的喉咙之前，还有什么遗言吗？"/>
+  <string id="Fov123x56" text="你……你是谁？谁派你来的？求求你等一下！我不想死……[if:convo_astonished][ib:nervous]"/>
+  <string id="Fov123x57" text="你有多重视自己的性命呢？你最好慷慨点……"/>
+  <string id="Fov123x58" text="成交，那么我会悄悄地离开你，你就继续做你的事情吧……"/>
+  <string id="Fov123x59" text="你可真是穷途末路……受死吧！"/>
+  <string id="Fov123x60" text="你是否需要一些帮助，来清理你的对手的小巷……"/>
+  <string id="Fov123x61" text="好吧，我可以让我的人去处理。但这件事可能会闹到最高当局，而我可能会被指控在城里制造麻烦……"/>
+  <string id="Fov123x62" text="这就是为什么我能帮到你。没有第三者会知道这次讨论，我向来言行谨慎……"/>
+  <string id="Fov123x63" text="哦哦，你这法子我可太喜欢了。成交！不过你可别想着趁机夺走小巷！[rb:very_positive][rf:trivial_hi]"/>
+  <string id="Fov123x64" text="当然，我保证……"/>
+  <string id="Fov123x65" text="选择并单击“继续”来要求这支部队跟着你。"/>
+  <string id="Fov123x66" text="无情压力"/>
+  <string id="Fov123x67" text="破坏战术"/>
+  <string id="Fov123x68" text="你可以策划你的破坏行动。你计划做什么？"/>
+  <string id="Fov123x69" text="你失去 {VAL} 掠夺者"/>
+  <string id="Fov123x70" text="你的掠夺者部队已溃败"/>
+  <string id="Fov123x71" text="新兵"/>
+  <string id="Fov123x72" text="进入城镇并清理对手{GNL}的小巷"/>
+  <string id="Fov123x73" text="{GNL}暂时不需要这种服务。"/>
+  <string id="Fov123x74" text="将花费 {COST} 个掠夺者，需要 {DUR} 个小时以完成。"/>
+  <string id="Fov123x75" text="粮食仓储等级已经很低。"/>
+  <string id="Fov123x76" text="城墙已被攻破"/>
+  <string id="Fov123x77" text="强盗部队受到布拉雕像的鼓舞（基础生命值 +{VAL}%）"/>
+  <string id="Fov123x78" text="我听强盗们说过一些古老的遗物，你知道吗？"/>
+  <string id="Fov123x79" text="也许他们指的是布拉雕像。布拉·费利克斯可是赫赫有名，侠盗中的传奇。据说谁能得到这个圣物，谁就能在战斗中受到赐福。很显然，圣物就藏在这里的某个地方……要我说，这可真是浪费时间……"/>
+  <string id="Fov123x80" text="关于布拉雕像……"/>
+  <string id="Fov123x81" text="我真不敢相信，那个传说是真的！你得到了一件强大的圣物。有了它，布拉·费利克斯的精神将激励所有与你并肩作战的侠盗！"/>
+  <string id="Fov123x82" text="布拉雕像"/>
+  <string id="Fov123x83" text="你发现了一个不同寻常的石头，它的形状非常复杂。这是一座古老的雕像，底座下镌刻着“布拉·费利克斯”。"/>
+  <string id="Fov123x84" text="布拉雕像已添加到你的库存中"/>
+  <string id="Fov123x85" text="有趣……"/>
+  <string id="Fov123x86" text="你不再隶属于任何团队。"/>
+  <string id="Fov123x87" text="你不再有赞助人。"/>
+  <string id="Fov123x88" text="{VAL}死了。你不再隶属于任何团队。"/>
+  <string id="Fov123x89" text="你的赞助人死了。"/>
+  <string id="Fov123x90" text="你不再是冠军，也失去了赞助人。"/>
+  <string id="Fov123x91" text="{GL}不再是{TOWN}最强大的帮派头目。你不再隶属于任何团队。"/>
+  <string id="Fov123x92" text="关于地下角斗……"/>
+  <string id="Fov123x93" text="好吧，我不知道从何说起……但我们一直在寻找新的冠军……我是说，未来的冠军，就像你一样……去酒馆吧，打一场证明给我看，说服我，再加入我的团队[if:convo_huge_smile]"/>
+  <string id="Fov123x94" text="好！我就给你开开眼。"/>
+  <string id="Fov123x95" text="少废话，多战斗。角斗场可从来都没有耐心慢慢等来冠军……和受害者！[if:convo_huge_smile]"/>
+  <string id="Fov123x96" text="当然……"/>
+  <string id="Fov123x97" text="所以……你也是一名斗士……想不想为我效力，助我多砍下几颗脑袋？[if:convo_huge_smile]"/>
+  <string id="Fov123x98" text="我进来了！"/>
+  <string id="Fov123x99" text="你有自己的团队，我也是。{newline}普通的竞技赛实在是无聊，只有这种刀刀见血的地下比赛，才能让人感到血脉喷张……[if:convo_huge_smile]"/>
+  <string id="Fov123x100" text="地下角斗场真是太刺激了。到处充斥着鲜血与痛苦……当然还有我逐渐干瘪的钱包……"/>
+  <string id="Fov123x101" text="所以，你冒充冠军……{newline}证明你自己，来赢得相应的奖励……"/>
+  <string id="Fov123x102" text="我准备好了！"/>
+  <string id="Fov123x103" text="我就是为这场演出而来，我保证今晚将万无一失！"/>
+  <string id="Fov123x104" text="我知道了……"/>
+  <string id="Fov123x105" text="前往地下竞技场"/>
+  <string id="Fov123x106" text="地下角斗"/>
+  <string id="Fov123x107" text="训练"/>
+  <string id="Fov123x108" text="你的职业"/>
+  <string id="Fov123x109" text="赞助判定"/>
+  <string id="Fov123x110" text="赞助"/>
+  <string id="Fov123x111" text="你的团队"/>
+  <string id="Fov123x112" text="将士兵转变为斗士"/>
+  <string id="Fov123x113" text="斗士数量：{VAL} / {MAX}"/>
+  <string id="Fov123x114" text="你的团队是你的文化的 {CUL}"/>
+  <string id="Fov123x115" text="*收入基于斗士人数。"/>
+  <string id="Fov123x116" text="*一些战士随时可能会死。"/>
+  <string id="Fov123x117" text="每日收入约为 {VAL}{GOLD_ICON}"/>
+  <string id="Fov123x118" text="你将退出{OLD}的团队（-{REL} 好感）"/>
+  <string id="Fov123x119" text="你想创建自己的团队吗？{newline}将低阶部队训练为斗士，以赚取利润。{newline}{VAL}"/>
+  <string id="Fov123x120" text="最大新人数为 {LIMITREC}"/>
+  <string id="Fov123x121" text="每次胜利后都会为你带来名声奖励。{newline}非常建议提升运动技能。"/>
+  <string id="Fov123x122" text="不能选择该种武器"/>
+  <string id="Fov123x123" text="让对手决定"/>
+  <string id="Fov123x124" text="选择武器类型"/>
+  <string id="Fov123x125" text="仅 -冠军- 级别的战士才能在战斗中使用武器。"/>
+  <string id="Fov123x126" text="对手与你的等级相符。"/>
+  <string id="Fov123x127" text="每轮比赛后，对手的等级都会提高。名气奖励最多。"/>
+  <string id="Fov123x128" text="三对三战斗。"/>
+  <string id="Fov123x129" text="五对五战斗。"/>
+  <string id="Fov123x130" text="仅拳击"/>
+  <string id="Fov123x131" text="决斗"/>
+  <string id="Fov123x132" text="四连胜"/>
+  <string id="Fov123x133" text="三人组"/>
+  <string id="Fov123x134" text="五人组"/>
+  <string id="Fov123x135" text="仅武器"/>
+  <string id="Fov123x136" text="选择战斗类型"/>
+  <string id="Fov123x137" text="角斗场重视战士的勇气。完成 4 场战斗就可获得额外奖励（第纳尔、好感、声望……）。"/>
+  <string id="Fov123x138" text="{VAL}的特质："/>
+  <string id="Fov123x139" text="{VAL} 去打赏"/>
+  <string id="Fov123x140" text="赢得 {TYPE} 类型的战斗（{VAL}）"/>
+  <string id="Fov123x141" text="当前好感是 {VAL}"/>
+  <string id="Fov123x142" text="驳回赞助（-{REL} 好感）"/>
+  <string id="Fov123x143" text="你被{KING}王国{CLAN}家族的{VAL}所赏识。"/>
+  <string id="Fov123x144" text="*在指定条件下赢得比赛，并获得赞助人的打赏。"/>
+  <string id="Fov123x145" text="*失去冠军头衔，你也将失去赞助人。"/>
+  <string id="Fov123x146" text="每次胜利的基本打赏为 {VAL}{GOLD_ICON}（不含奖励和惩罚）"/>
+  <string id="Fov123x147" text="你想受到{KING}王国{CLAN}家族的{VAL}，这个城镇统治者的赏识吗？你必须先在试炼中证明自己的勇气 。"/>
+  <string id="Fov123x148" text="赞助人寻求者"/>
+  <string id="Fov123x149" text="渣滓"/>
+  <string id="Fov123x150" text="幸存者"/>
+  <string id="Fov123x151" text="战士"/>
+  <string id="Fov123x152" text="冠军"/>
+  <string id="Fov123x153" text="下一等级："/>
+  <string id="Fov123x154" text="*拳击伤害与“跑动”技能有关。"/>
+  <string id="Fov123x155" text="*名气是短暂的，每周减少 {VAL}。{newline}*如果超过 {VAL2} 周你的名气为 0 ，你的职业生涯就会结束。"/>
+  <string id="Fov123x156" text="(下一等级是 {NEXT})"/>
+  <string id="Fov123x157" text="当前等级是 {CUR}"/>
+  <string id="Fov123x158" text="名气：{FAME} / {TRESH} {CURNEXT}"/>
+  <string id="Fov123x159" text="{BONUS}可在任何城镇受训"/>
+  <string id="Fov123x160" text="{BONUS}可在任何城镇战斗"/>
+  <string id="Fov123x161" text="{BONUS}在战斗中打头阵"/>
+  <string id="Fov123x162" text="{BONUS}可以有赞助人"/>
+  <string id="Fov123x163" text="你有自己的团队。"/>
+  <string id="Fov123x164" text="你的团队的收入约为 {VAL}{GOLD_ICON}"/>
+  <string id="Fov123x165" text="你是{VAL}团队的成员（文化为{CUL}）"/>
+  <string id="Fov123x166" text="{BONUS}可在相同文化城镇受训"/>
+  <string id="Fov123x167" text="{BONUS}可在相同文化城镇战斗"/>
+  <string id="Fov123x168" text="{BONUS}新工资 {PAY}{GOLD_ICON}"/>
+  <string id="Fov123x169" text="每日工资约为 {VAL}{GOLD_ICON}"/>
+  <string id="Fov123x170" text="地下拳击手职业"/>
+  <string id="Fov123x171" text="名气为 0"/>
+  <string id="Fov123x172" text="（拳击奖励 +{VAL}）"/>
+  <string id="Fov123x173" text="名气已达最大值"/>
+  <string id="Fov123x174" text="赞助 +{VAL}{GOLD_ICON}"/>
+  <string id="Fov123x175" text="需要加入团队，你也可以创建自己的团队。"/>
+  <string id="Fov123x176" text="需要加入团队，与当地帮派头目交谈。"/>
+  <string id="Fov123x177" text="这个城镇没有管理者"/>
+  <string id="Fov123x178" text="城镇管理者对地下拳击没有兴趣（仁慈特质）"/>
+  <string id="Fov123x179" text="城镇管理者憎恨你"/>
+  <string id="Fov123x180" text="你与当前派系交战"/>
+  <string id="Fov123x181" text="只可能在下午。"/>
+  <string id="Fov123x182" text="团队的主人，{GANGLEAD}，憎恨你。"/>
+  <string id="Fov123x183" text="地下拳击手等级太低"/>
+  <string id="Fov123x184" text="今晚无法进行训练！"/>
+  <string id="Fov123x185" text="只有晚上才能进入。"/>
+  <string id="Fov123x186" text="下一场比赛计划在 {VAL2} {VAL} 进行（深夜）"/>
+  <string id="Fov123x187" text="今晚再无赛事！"/>
+  <string id="Fov123x188" text="这里弥漫着汗与血的味道。热情的观众与暴力的表演形成鲜明对比……"/>
+  <string id="Fov123x189" text="城镇管理者{VAL}并不希望举办这样的活动。"/>
+  <string id="Fov123x190" text="城镇管理者{VAL}允许举办这样的活动。"/>
+  <string id="Fov123x191" text="你管理着这个地方。"/>
+  <string id="Fov123x192" text="{VAL} 管理着这个地方。文化为{CULT}。你是{GENDER}团队的一名斗士。"/>
+  <string id="Fov123x193" text="{VAL} 管理着这个地方。文化为{CULT}。"/>
+  <string id="Fov123x194" text="今晚你的团队是客场。"/>
+  <string id="Fov123x195" text="你是客场团队的队员。"/>
+  <string id="Fov123x196" text="今晚客场团队是来自{VAL}的{GL}。"/>
+  <string id="Fov123x197" text="今晚没有客场。"/>
+  <string id="Fov123x198" text="第 {VAL} 回合"/>
+  <string id="Fov123x199" text="如果你从不参加任何你无法掌控的比赛，你就可能永远取得胜利。"/>
+  <string id="Fov123x200" text="一名真正的斗士"/>
+  <string id="Fov123x201" text="活着并尽可能多地造成 KO，这就是规则……"/>
+  <string id="Fov123x202" text="击中头部"/>
+  <string id="Fov123x203" text="这个 KO 是给你的！"/>
+  <string id="Fov123x204" text="准备下一轮！"/>
+  <string id="Fov123x205" text="你活下来了！"/>
+  <string id="Fov123x206" text="观众欣赏你的风格，并不断向你投掷硬币！"/>
+  <string id="Fov123x207" text="屹立不倒！"/>
+  <string id="Fov123x208" text="判定通过！"/>
+  <string id="Fov123x209" text="你打败了帮派头目。"/>
+  <string id="Fov123x210" text="你倒下了"/>
+  <string id="Fov123x211" text="你会在短时间内昏倒并失去知觉。"/>
+  <string id="Fov123x212" text="你活下来了，但没有进行 KO。{newline}观众并不信服你的表现……"/>
+  <string id="Fov123x213" text="观众欣赏你的风格，并不断向你投掷硬币！{newline}KO 数：{VAL}"/>
+  <string id="Fov123x214" text="人若控制不了自己，自由便无从谈起。"/>
+  <string id="Fov123x215" text="我们将前往{VAL}，请跟在后面，做好准备！"/>
+  <string id="Fov123x216" text="商队遭遇伏击"/>
+  <string id="Fov123x217" text="匕首"/>
+  <string id="Fov123x218" text="斧盾"/>
+  <string id="Fov123x219" text="槌头"/>
+  <string id="Fov123x220" text="晨星"/>
+  <string id="Fov123x221" text="拳击"/>
+  <string id="Fov123x222" text="名气"/>
+  <string id="Fov123x223" text="为时过早……你的看守正紧紧盯着你。"/>
+  <string id="Fov123x224" text="采石场"/>
+  <string id="Fov123x225" text="矿场每日都能提供基本收入。分配更多奴隶可获得更多收入。利润也受战争影响。"/>
+  <string id="Fov123x226" text="强盗阵营密使"/>
+  <string id="Fov123x227" text="任何拥有 500 势力的强盗派系都会在你的安全屋中留下一名密使。"/>
+  <string id="Fov123x228" text="等级 {VAL}"/>
+  <string id="Fov123x229" text="奴隶住所"/>
+  <string id="Fov123x230" text="略微降低奴隶逃跑率和死亡率"/>
+  <string id="Fov123x231" text="小型农场"/>
+  <string id="Fov123x232" text="-服务- 允许小规模食品生产"/>
+  <string id="Fov123x233" text="训练场"/>
+  <string id="Fov123x234" text="允许你与同伴决斗，获取 xp 和乐趣。"/>
+  <string id="Fov123x235" text="刺客试炼"/>
+  <string id="Fov123x236" text="刺客大师会在夜间出现（需要家族等级 2）。刺客大舞台，有命你就来。"/>
+  <string id="Fov123x237" text="升级住所"/>
+  <string id="Fov123x238" text="医务室"/>
+  <string id="Fov123x239" text="提高成员的最大治愈率，“治疗你的伤口”花费减半"/>
+  <string id="Fov123x240" text="起重机"/>
+  <string id="Fov123x241" text="提高矿场效率"/>
+  <string id="Fov123x242" text="生命值为 100%"/>
+  <string id="Fov123x243" text="帮派部队最大容量为 {LIMITREC} 个单位。"/>
+  <string id="Fov123x244" text="战斗次数 {VAL}"/>
+  <string id="Fov123x245" text="胜 {VAL}"/>
+  <string id="Fov123x246" text="败 {VAL}"/>
+  <string id="Fov123x247" text="KO数 {VAL}"/>
+  <string id="Fov123x248" text="加入新的团队。"/>
+  <string id="Fov123x249" text="尝试失败。"/>
+  <string id="Fov123x250" text="家族封地"/>
+  <string id="Fov123x251" text="你夺走了小巷……{GNL}并不喜欢你的行为……"/>
+  <string id="Fov123x252" text="刺客大师"/>
+  <string id="Fov123x253" text="最大可用：{VAL} 成员{VAL2}"/>
+  <string id="Fov123x254" text="（+{VAL} 来自安全屋等级）"/>
+  <string id="Fov123x255" text="每天 +{VAL} 新兵，数值随强盗势力增加而增加。"/>
+  <string id="Fov123x256" text="部落每天都会让你损失金钱。{newline}它能提高离你在最近的定居点派系（从你在地图上的当前位置算起）中的犯罪等级。"/>
+  <string id="Fov123x257" text="每小时 +{VAL} 犯罪等级"/>
+  <string id="Fov123x258" text="最近派系是{VAL}（犯罪等级：{VAL2}{VAL3}）。"/>
+  <string id="Fov123x259" text="你的食物吃光了……强盗们决定不再跟着你们了……"/>
+  <string id="Fov123x260" text="匪帮联盟"/>
+  <string id="Fov123x261" text="让我们好好谈谈……"/>
+  <string id="Fov123x262" text="敌人的敌人就是朋友。有什么好计划吗？[if:idle_angry][ib:normal]"/>
+  <string id="Fov123x263" text="那么，计划是什么？[if:idle_angry][ib:normal]"/>
+  <string id="Fov123x264" text="别再跟着我了。"/>
+  <string id="Fov123x265" text="好吧，很简单。我想达成某种协议，这样你就不会危害我的王国。"/>
+  <string id="Fov123x266" text="我明白了……我们可以避免对你的人民采取任何敌对行动，但你们最好为此付出相应代价！[rb:very_positive]"/>
+  <string id="Fov123x267" text="好，好，好……真荣幸有一位真正的统治者在我们中间……你暴露自己的身份，想要做什么？[if:idle_angry][ib:normal]"/>
+  <string id="Fov123x268" text="日安，{PLAYER.NAME}。或者我们是不是该称呼你为{?CONVERSATION_NPC.GENDER}女士{?}先生{\?}？[rb:very_positive]"/>
+  <string id="Fov123x269" text="{VAL}现在是你的囚犯"/>
+  <string id="Fov123x270" text="支持该派系可改善关系，并解锁强盗相关功能。"/>
+  <string id="Fov123x271" text="*与该派系的敌对行动将大大降低关系。一旦关系降至 {VAL} 及以下，你会面临严重后果。"/>
+  <string id="Fov123x272" text="只有王国统治者才能使用。"/>
+  <string id="Fov123x273" text="强盗与你的家族保持中立。如果你已加入某个王国，则无效。"/>
+  <string id="Fov123x274" text="当前支付 {VAL}{GOLD_ICON}"/>
+  <string id="Fov123x275" text="打破停战协定"/>
+  <string id="Fov123x276" text="停战谈判"/>
+  <string id="Fov123x277" text="与{VAL}的关系为 {VAL2}"/>
+  <string id="Fov123x278" text="召集部落"/>
+  <string id="Fov123x279" text="在藏身处等待"/>
+  <string id="Fov123x280" text="{VAL} 关系及以上"/>
+  <string id="Fov123x281" text="与你的家族保持中立"/>
+  <string id="Fov123x282" text="选择此对话框选项来管理该部队"/>
+  <string id="Fov123x283" text="周"/>
+  <string id="Fov123x284" text="你被{VAL}视为真正的敌人。你最好离他们远点（当前关系为 {VAL2}，每 {VAL4} +{VAL3}）。"/>
+  <string id="Fov123x285" text="派遣强盗攻击此定居点（预计兵力损耗：-{VAL} str）"/>
+  <string id="Fov123x286" text="你只能拥有一个基地。如果你想搬进来，请放弃先前的安全屋。"/>
+  <string id="Fov123x287" text="@"/>
+  <string id="Fov123x288" text="@"/>
+  <string id="Fov123x289" text="@"/>
+  <string id="Fov123x290" text="@"/>
+ </strings>
+</base>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CustomBattleScenes>
+<Scene id="safehouse_mountain"
+         name="{=!}safehouse_mountain (Plain)"
+         terrain="Plain"></Scene>
+</CustomBattleScenes>

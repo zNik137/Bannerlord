@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Türkçe" />
+  </tags>
+  <strings>
+
+General
+ <!--Common-->
+    <string id="FoCom01" text="Tamam" />
+    <string id="FoCom02" text="Evet" />
+    <string id="FoCom03" text="Yok, böyle iyiyim" />
+    <string id="FoCom04" text="Daha kötü ol" />
+    <string id="FoCom05" text="Kötü şöhrette en az {LIMITVIL} gerekir. Mevcut oran {VILLAINY} puan." />
+    <string id="FoCom06" text="Şanslı günündesin" />
+    <string id="FoCom07" text="{LIMITVIL} puan harcamak istiyor musun? Şu anda {VILLAINY} kadar kötülüğün var." />
+    <string id="FoCom08" text="Toparlanma vakti !" />
+    <string id="FoCom09" text="Ayrıl" />
+    <string id="FoCom10" text="Pek sayılmaz." />
+    <string id="FoCom11" text="Taze et" />
+    <string id="FoCom12" text="Dur ve çık" />
+    <string id="FoCom13" text="Geriye dön" />
+    <string id="FoCom14" text="Aahh!..." />
+    <string id="FoCom15" text="Fazla açgözlü olma." />
+    <string id="FoCom16" text="{WAITCHCK} gün beklemek zorundasın." />
+    <string id="FoCom17" text="Tamamdır..." />
+    <string id="FoCom18" text="İlişkine çalış" />
+    <string id="FoCom19" text="{LIMITREL} ilişkiye ihtiyacın var + {GANGLEAD} ile." />
+    <string id="FoCom20" text="Her şeyi durdur!" />
+    <string id="FoCom21" text="Tamam" />
+    <string id="FoCom22" text="Saldır!" />
+    <string id="FoCom23" text="Şehir kuşatma altında" />
+    <string id="FoCom24" text="Kahretsin!" />
+    <string id="FoCom25" text="Şimdi değil" />
+    <string id="FoCom26" text="Bekle bi saniye!" />
+    <string id="FoCom27" text="Tabi" />
+    <string id="FoCom28" text="Tamam" />
+    <string id="FoCom29" text="Hadi yapalım!" />
+    <string id="FoCom30" text="Amma da şerefs..." />
+    <string id="FoCom31" text="Yetersiz para" />
+    <string id="FoCom32" text="Parayı bulduğunda geri gel." />  
+    <string id="FoCom33" text="Şehirden ayrıl" />
+    <string id="FoCom34" text="Dövüş!" />
+    <string id="FoCom35" text="Planınızda size yardımcı olması için bazı muhbirler tutabilirsin. Şimdiye kadar işler iyi gidiyor gibi görünüyor..." />
+    <string id="FoCom36" text="Gitme vakti..." />
+    <string id="FoCom37" text="Sokaklara dön" />
+    <string id="FoCom38" text="Girişimin fark edildi ve başarısız oldu. Başını ciddi bir belaya sokmadan önce şehri terk etmeye karar verdin...." />
+    <string id="FoCom39" text="Ucuz atlattım..." />
+    <string id="FoCom40" text="Şimdi gerçekten burayı terketme vakti" />
+    <string id="FoCom41" text="{GAIN} dinar kazandın" />
+    <string id="FoCom42" text="{GAIN} dinar kaybettin" />
+    <string id="FoCom43" text="Hadi yapalım" />   
+    <string id="FoCom44" text="{GANGRELA} tarafından yönetilen çetenin bazı adamlarını görüyorsun. İstersen şehre girmende yardımcı olabilirler" />   
+    <string id="FoCom45" text="Şehir merkezine dön" />   
+    <string id="FoCom46" text="Sadece düşman şehirlerinde geçerli" />   
+    <string id="FoCom47" text="Sadece kayıtsız ve düşman şehirlerinde geçerli" />  
+    <string id="FoCom48" text="{AREA}'yı geri aldın" />    <!--NEW-->
+    <string id="FoCom49" text="{CLAN} klanıyla sürtüşmeye başladın!" />   <!--NEW-->
+    <string id="FoCom50" text="{LIMITVIL} puanı harcadın." />    <!--NEW-->
+    <string id="FoCom51" text="Bu şerefsizleri almak için {LIMITVIL} puan kullanacaksın (şu anda {VILLAINY} puana sahipsin)" />  <!--NEW-->
+    <string id="FoCom52" text="Burada pek tanınmıyorsun... (Suç oranını, suç ağını veya serserilik puanını arttır.)" />    <!--NEW-->
+    <string id="FoCom53" text="Seni içeri alması için birkaç adam getir." />  <!--NEW-->
+    <string id="FoCom54" text="Burada bir süre saklan" />    <!--NEW-->
+    <string id="FoCom55" text="Patron eşraf etrafta kalmana izin vermeyi kabul etti... Kalradya'daki en iyi yer değil ama saklanmak ve hatta pusu kurmak için mükemmel..." />  <!--NEW-->
+    <string id="FoCom56" text="{COMPA}'a yeni bir rol atadın" />    <!--NEW-->
+    <string id="FoCom57" text="Bir yoldaş seç" />  <!--NEW-->
+    <string id="FoCom58" text="Devam et" />    <!--NEW-->
+    <string id="FoCom59" text="Uygulanabilir değil" />   <!--NEW-->
+    <string id="FoCom60" text="Şu kadar puan gereklidir: " />    <!--NEW-->
+    <string id="FoCom61" text="Yerleş" />  <!--NEW-->
+    <string id="FoCom62" text="Bu şehre taşınmak istiyor musun?" />    <!--NEW-->
+    <string id="FoCom63" text="Yeni muhit" />  <!--NEW-->
+    <string id="FoCom64" text="Burada muhitini genişletmek istediğinden emin misin? Ana üssünü {CRIMEBASE}'den bu şehirle değiştirmek istediğin zaman Suç Teşebbüsü menüsünden değiştirebilirsin.." />    <!--NEW-->
+    <string id="FoCom65" text="Bir orduda iken mevcut değildir." />  <!--NEW-->
+    <string id="FoCom66" text="Yaralısın." />    <!--NEW-->
+    <string id="FoCom67" text="Savaş fırsatı" />  <!--NEW-->
+    <string id="FoCom68" text="Fourberie görevini terk et." />    <!--NEW-->
+    <string id="FoCom69" text="Sokaklar bana ait!" />  <!--NEW-->
+    <string id="FoCom70" text="Anlaşmayı bitirmek için yeterli dinara sahip değilsin!" />    <!--NEW-->
+    <string id="FoCom71" text="Kötü şöhret: {VILLAINY} / {LIMITVIL} puan" />  <!--NEW-->
+    <string id="FoCom72" text="İsyancı şehirlerde mevcut değil." />    <!--NEW-->
+    <string id="FoCom73" text="Sahip olduğun şehirlerde mevcut değil..." />  <!--NEW-->
+    <string id="FoCom74" text="Hala şehirdeki bazı bölgelerin kontrolünü eline alman gerekiyor." />    <!--NEW-->
+    <string id="FoCom75" text="Hala işini bitirmedin!" />  <!--NEW-->
+    <string id="FoCom76" text="Bu şehirde zaten bir ortaklığın var." />    <!--NEW-->
+    <string id="FoCom77" text="Kötü şöhret puanı sınırınıza ulaştın. ({VILLAINY} puan)" />  <!--NEW-->
+    <string id="FoCom78" text="2. seviye klan seviyesi gerekli." />  <!--NEW-->
+    <string id="FoCom79" text="Doğrula" />    <!--NEW-->
+    <string id="FoCom80" text="Kullanım dışı" />  <!--NEW-->
+    <string id="FoCom81" text="Evet" />    <!--NEW-->
+    <string id="FoCom82" text="Hayır" />  <!--NEW-->
+    <string id="FoCom83" text=" için denemeler" />  <!--NEW-->    
+    <string id="FoCom84" text="2. seviye klan seviyesi gerekli!" />  <!--NEW-->
+    <string id="FoCom85" text="Bir suç üssüne ihtiyacın var!" />  <!--NEW-->
+    <string id="FoCom86" text="Bir uygulamacıya ihtiyacın var!" />  <!--NEW-->
+    <string id="FoCom87" text="Uygulayıcının suç üssünde kalması gerekiyor!" />  <!--NEW-->
+    <string id="FoCom88" text="Yetersiz altın, göreve başlamak için minimum {COST}{GOLD} gerekiyor" />  <!--NEW-->        
+    <string id="FoCom89" text="Taşınmaları için çete liderlerini bölgelerinden mahrum bırak." /> 
+
+<!--Criminal Ent-->
+
+    <string id="FoCrimEnt01" text="Suç işinden {GAIN}{GOLD} kazandın." />  <!--NEW-->
+    <string id="FoCrimEnt02" text="Yükseltme bonusunu ödeyemedin!" />    <!--NEW-->
+    <string id="FoCrimEnt03" text="Yükseltme bonusu için {INV}{GOLD} ödedin." />  <!--NEW-->
+    <string id="FoCrimEnt04" text="Uygulayıcı {TOTVIL} puan kazandı." />    <!--NEW-->
+    <string id="FoCrimEnt05" text="Yoldaş yok" />  <!--NEW-->
+    <string id="FoCrimEnt06" text="Taşındığınız şehirde bir yoldaş bırakman gerekiyor, {BASE}." />    <!--NEW-->
+    <string id="FoCrimEnt07" text="Yalnızca {BASE} içindeki ana üssünde mevcuttur." />  <!--NEW-->
+    <string id="FoCrimEnt08" text="Bonus yok" />    <!--NEW-->
+    <string id="FoCrimEnt09" text="+ {INV}    haftalık ücret  -{COST}" />  <!--NEW-->
+    <string id="FoCrimEnt10" text="Haftalık yükseltme bonusu" />      <!--NEW-->
+    <string id="FoCrimEnt11" text="Ödeyemezsen bonus seçimi iptal edilir!" /> <!--NEW--> 
+    <string id="FoCrimEnt12" text="Yeni iş" />   <!--NEW--> 
+    <string id="FoCrimEnt13" text="Bir kaçakçılık işine başlamak ister misin?" />  <!--NEW-->
+    <string id="FoCrimEnt14" text="Bu yeni işe {COST} dinar yatırım yapmak istiyor musun?" />  <!--NEW--> 
+    <string id="FoCrimEnt15" text="Bütün adamların gitmesini teklif etmek ister misin?" />  <!--NEW-->
+    <string id="FoCrimEnt16" text="Bizim muhitimiz" />  <!--NEW-->  
+    <string id="FoCrimEnt17" text="Adamlarınıza kayıp bölgeleri yeniden ele geçirmelerini emretmek için {LIMITVIL} kötü şöhret puanı harcamak istiyor musun? Ya da istersen bununla kişisel olarak ilgilenebilirsin." />  <!--NEW-->
+    <string id="FoCrimEnt18" text="Yalnızca taşındığınız kasaba(lar)da mevcuttur." />    <!--NEW-->
+    <string id="FoCrimEnt19" text="Senin yoldaşların" />  <!--NEW-->
+    <string id="FoCrimEnt20" text="Ödemeleri sıfırla" />      <!--NEW-->
+    <string id="FoCrimEnt21" text="{COMPA}'nın ayrıcalıklarını sıfırladın." /> <!--NEW--> 
+    <string id="FoCrimEnt22" text="Ortaklık başına +3 kaçakçı\nKaçakçılar kârını büyük ölçüde artırır\nLojistik, kârını ve maksimum depo kapasiteni biraz artırır\nHer gün depona ücretsiz mal al." />   <!--NEW--> 
+    <string id="FoCrimEnt23" text="Kaçakçılık yollarını aç.\nVeznedarın, muhitinden ve ortaklıklarından dinar toplayacaktır.\nHer gün depona ücretsiz mal al." />  <!--NEW-->
+    <string id="FoCrimEnt24" text="Konfor düzeyinde 5 kişi başına +1 işçi\nMaliyeti (İyi talihini ortaya çıkar) yarıya iner.\n10 işçi başına mekân için +1.\nKonfor, maksimum mekân kapasitesini artıracaktır." />  <!--NEW--> 
+    <string id="FoCrimEnt25" text="Bir eğlence yeri aç.\nKâr, ana üs şehir refahına dayanır.\nEk bonusların kilidini aç." />  <!--NEW-->
+    <string id="FoCrimEnt26" text="Konfor seviyesinde her 5 kişi için +1 hizmetçi.\nİyileşme maliyeti yarıya indi\nÜssüne girerken moral takviyesi al\n10 hizmetçi başına +1'den mekân.\nKonfor, maksimum mekân kapasitesini artıracak." />  <!--NEW-->  
+    <string id="FoCrimEnt27" text="Bir keyif yeri aç.\nKâr, ana üs kasaba refahına dayanır.\nEk bonusların kilidini aç." />  <!--NEW-->
+    <string id="FoCrimEnt28" text="Veznedarın serserilik beceri seviyesi, işletmenin küresel kârını etkileyecektir. Ne kadar yüksek, o kadar iyi!" />    <!--NEW-->
+    <string id="FoCrimEnt29" text="Her hafta yeni adamlar işe al.\nBölgenize göre + işçilerden/hizmetçilerden alınan ikramiye.\nMaksimum kapasiteye ulaşıldığında duracak.\nMevcut haftalık ücret +" />  <!--NEW-->
+    <string id="FoCrimEnt30" text="Mekân ve depo yaklaşık {DAYS} gün içinde hazır olacak" />      <!--NEW-->
+    <string id="FoCrimEnt31" text="Her gün malları topla.\nOrtaklık sayısı ve bölgenden etkilenir.\nMaksimum kapasiteye ulaşıldığında duracak.\nMevcut günlük maksimum oran +" /> <!--NEW--> 
+    <string id="FoCrimEnt32" text="Uygulayıcın her hafta kötü şöhret puanları toplayacaktır.\nOrtaklık başına +1.\nOrtak alan başına +1" />   <!--NEW--> 
+    <string id="FoCrimEnt33" text="Daha fazla kâr için işin üzerindeki yolsuzluğun etkisini azaltacak, ancak kötü şöhret puanlarını tüketecektir." />  <!--NEW-->
+    <string id="FoCrimEnt34" text="Yolsuzluk etkisi, ana üssüne sahip olduğun şehrin güvenlik düzeyine göre belirlenir. Yüksek güvenlik seviyesi bir suç işletmesi için iyi değildir" />  <!--NEW--> 
+    <string id="FoCrimEnt35" text=" Ana üssünüz olan bir şehri terk edemezsin." />  <!--NEW-->
+    <string id="FoCrimEnt36" text="Ana üssünü oluştur" />  <!--NEW-->  
+    <string id="FoCrimEnt37" text="Etkinleştirildi" />  <!--NEW-->
+    <string id="FoCrimEnt38" text="Devre dışı bırakıldı" />    <!--NEW-->
+    <string id="FoCrimEnt39" text="Suç Teşebbüsü" />  <!--NEW-->
+    <string id="FoCrimEnt40" text="Ata" />      <!--NEW-->
+    <string id="FoCrimEnt41" text="Kaldır" /> <!--NEW--> 
+    <string id="FoCrimEnt42" text="Kötü şöhret puanları" />   <!--NEW--> 
+    <string id="FoCrimEnt43" text="Veznedar" />  <!--NEW-->
+    <string id="FoCrimEnt44" text="Mevcut yükseltmeler" />  <!--NEW--> 
+    <string id="FoCrimEnt45" text="Kaçakçılık" />  <!--NEW-->
+    <string id="FoCrimEnt46" text="Kaçakçı +" />  <!--NEW-->  
+    <string id="FoCrimEnt47" text="Lojistik +" />  <!--NEW-->
+    <string id="FoCrimEnt48" text="Batakhane" />    <!--NEW-->
+    <string id="FoCrimEnt49" text="İşçi +" />  <!--NEW-->
+    <string id="FoCrimEnt50" text="Konfor +" />      <!--NEW-->
+    <string id="FoCrimEnt51" text="Genel ev" /> <!--NEW--> 
+    <string id="FoCrimEnt52" text="Hizmetçi +" />   <!--NEW--> 
+    <string id="FoCrimEnt53" text="Ana üs" />  <!--NEW-->
+    <string id="FoCrimEnt54" text="Uygulayıcı" />  <!--NEW--> 
+    <string id="FoCrimEnt55" text="Ortaklıklar" />  <!--NEW-->
+    <string id="FoCrimEnt56" text="Sahip olunan bölgeler" />  <!--NEW-->  
+    <string id="FoCrimEnt57" text="Geri al" />  <!--NEW-->
+    <string id="FoCrimEnt58" text="Haftalık puanlar" />    <!--NEW-->
+    <string id="FoCrimEnt59" text="Yerel yetkilileri etkileyin" />  <!--NEW-->
+    <string id="FoCrimEnt60" text="Mekân" />      <!--NEW-->
+    <string id="FoCrimEnt61" text="Depo" /> <!--NEW--> 
+    <string id="FoCrimEnt62" text="Yoldaşlarını yönet" />   <!--NEW--> 
+    <string id="FoCrimEnt63" text="Muhit" />  <!--NEW-->
+    <string id="FoCrimEnt64" text="Gör" />  <!--NEW--> 
+    <string id="FoCrimEnt65" text="Tahmini gelir" />  <!--NEW-->
+    <string id="FoCrimEnt66" text="Haftalık yükseltmeler" />  <!--NEW-->  
+    <string id="FoCrimEnt67" text="Yolsuzluk etkisi" />  <!--NEW-->
+    <string id="FoCrimEnt68" text="Ücretler (kapasitenin üzerinde)" />    <!--NEW-->
+    <string id="FoCrimEnt69" text="Tahmini kâr" />  <!--NEW-->
+    <string id="FoCrimEnt70" text=" (Haftalık)" />      <!--NEW-->    
+    <string id="FoCrimEnt71" text="Plan odası" />  <!--NEW-->  
+    <string id="FoCrimEnt72" text="Çete liderleri" />  <!--NEW-->
+    <string id="FoCrimEnt73" text="Elçiler" />    <!--NEW-->
+    <string id="FoCrimEnt74" text="Toplam ağ" />  <!--NEW-->
+    <string id="FoCrimEnt75" text="Toplam uygulayıcı" />      <!--NEW-->        
+    <string id="FoCrimEnt76" text="Kin defteri" />      <!--NEW-->       
+
+
+<!--Scheme Room-->
+
+    <string id="FoSchRm01" text="Bir plan seç" />  <!--NEW-->
+    <string id="FoSchRm02" text="Rüşvet" />    <!--NEW-->
+    <string id="FoSchRm03" text="Skandal" />  <!--NEW-->
+    <string id="FoSchRm04" text="Şantaj" />    <!--NEW-->
+    <string id="FoSchRm05" text="Cinayet" />  <!--NEW-->
+    <string id="FoSchRm06" text="Sadece klan lideri" />  <!--NEW-->  
+    <string id="FoSchRm07" text="Klan nüfusu 200'ün üzerinde olmalıdır." /> <!--NEW--> 
+    <string id="FoSchRm08" text="{ICON}Plan sonuçlarını kontrol et!" />    <!--NEW-->
+    <string id="FoSchRm09" text="Şantaj ile {VICTIM}'den {GAIN}{GOLD} alındı" />  <!--NEW-->
+    <string id="FoSchRm10" text="{VICTIM} rüşvet teklifini kabul etti ve {AMOUNT} dinar istiyor." />    <!--NEW-->  
+    <string id="FoSchRm11" text="Öldürüldü" />  <!--NEW-->
+    <string id="FoSchRm12" text="Yoldaşın {HERO}, {SET} içinde öldürüldü! Muhbirlerin, yazarın bir {KING} klanı olduğundan şüpheleniyor...." />    <!--NEW-->
+    <string id="FoSchRm13" text="Bunu ödeyecekler!" />  <!--NEW-->
+    <string id="FoSchRm14" text="Veznedar rolüne yeni bir yoldaş ataman gerekiyor!" />  <!--NEW-->  
+    <string id="FoSchRm15" text="Uygulayıcı rolüne yeni bir yoldaş ataman gerekiyor!" />  <!--NEW-->
+    <string id="FoSchRm16" text="Kurtulan" />    <!--NEW-->
+    <string id="FoSchRm17" text="Bir suikast girişiminin hedefiydin. İyi savaştın ve hayatta kaldın ama ağır yaralandın! Muhbirlerin, yazarın bir {KING} klanı olduğundan şüpheleniyor...." /> <!--NEW--> 
+    <string id="FoSchRm18" text="Klanın bir planı bozdu! Muhbirlerin, yazarın {CLAN} klanının olduğunu bildirdi..." />   <!--NEW--> 
+    <string id="FoSchRm19" text="Cinayet kalkışması" />  <!--NEW-->
+    <string id="FoSchRm20" text="Şantaj kalkışması" /> <!--NEW--> 
+    <string id="FoSchRm21" text="Şantajlandı" />   <!--NEW--> 
+    <string id="FoSchRm22" text="Klanın bir şantaj kurbanı. Ciddi sonuçlardan kaçınmak için {AMOUNT} dinar ödemen gerekiyor. Muhbirlerin, yazarın bir {KING} klanı olduğundan şüpheleniyor...." />  <!--NEW-->
+    <string id="FoSchRm23" text="Piç herifler!" /> <!--NEW--> 
+    <string id="FoSchRm24" text="Olamaz!" />   <!--NEW--> 
+    <string id="FoSchRm25" text="Skandal!" />  <!--NEW-->
+    <string id="FoSchRm26" text="Klanın entrikalı bir skandala çarptı ve suç oranın arttı!" /> <!--NEW--> 
+    <string id="FoSchRm27" text="Klanın planlı bir skandala çarptı ve ciddi sonuçları sınırlamak için etkisini kullanmak zorunda kaldı! Muhbirlerin, yazarın bir {KING} klanı olduğundan şüpheleniyor...." />   <!--NEW--> 
+    <string id="FoSchRm28" text="Skandal kalkışması" />  <!--NEW-->
+    <string id="FoSchRm29" text="{GANGLEAD} ile arkadaşça geçinmen gerekiyor." /> <!--NEW--> 
+    <string id="FoSchRm30" text="Programı iptal et" />   <!--NEW--> 
+    <string id="FoSchRm31" text="Sürdür" />  <!--NEW-->
+    <string id="FoSchRm32" text="İptal et" /> <!--NEW--> 
+    <string id="FoSchRm33" text="Tamamla" />   <!--NEW--> 
+    <string id="FoSchRm34" text="Başarı {SUCC}% ({COV}% saklandı)" />  <!--NEW-->
+    <string id="FoSchRm35" text="Kin cezası: -{GRU}%" /> <!--NEW--> 
+    <string id="FoSchRm36" text="Hedefin sahip olduğu şehirlerdeki tüm nüfuzunu ve -10 sadakatini kaybetti" />   <!--NEW--> 
+    <string id="FoSchRm37" text="Hedefin kayboldu" />  <!--NEW-->
+    <string id="FoSchRm38" text="Hedefin öldü!" /> <!--NEW--> 
+    <string id="FoSchRm39" text="Anlaşmayı kapatmak için istenen tutarı ödemedin" />   <!--NEW--> 
+    <string id="FoSchRm40" text=" Ödedin" />  <!--NEW-->
+    <string id="FoSchRm41" text=" ve hedefinle olan ilişkini artırdı" /> <!--NEW--> 
+    <string id="FoSchRm42" text="Başarısız ve ortaya çıktı..." />   <!--NEW--> 
+    <string id="FoSchRm43" text="Başarısız ama örtpas edildi." />  <!--NEW-->
+    <string id="FoSchRm44" text="  {DAYS} günden beri devam ediyor" />  <!--NEW-->
+    <string id="FoSchRm45" text=" tımar başına +1%\n+5%: Evli, Çocuk, Düşüncesiz\n-5%: Dikkatli" /> <!--NEW--> 
+    <string id="FoSchRm46" text=" tımar başına +1%\n+5%: Evli, Çocuk, Düşüncesiz\n-5%: Cimri\n-15%: Lider\n-20%: Vekil" />   <!--NEW--> 
+    <string id="FoSchRm47" text=" +5%: Düşüncesiz\n-5%: Dikkatli, Çıkarcı\n-15%: Lider\n-20%: Vekil" />  <!--NEW-->
+    <string id="FoSchRm48" text=" +20%: 15K'nın altında klan altını\n+10%: 30K'nın altında klan altını\n-20%: Cömert\n-10%: 30K'nın üzerinde klan altını\n-20%: 45K'nın üzerinde klan altını\n-40%: 60K'nın üzerinde klan altını" /> <!--NEW--> 
+    <string id="FoSchRm49" text="Daha fazla bilgi toplamak için bu krallıkta ağını +%20'ye genişlet" />   <!--NEW--> 
+    <string id="FoSchRm50" text="Asil klanlar: {NOB}\nParalı Askerler: {MERC}" />  <!--NEW-->
+    <string id="FoSchRm51" text="Dost çete lideri başına +%3.\nOrtaklık başına +%4.\nBir yoldaş ile bölge başına +%15.\nKlan üyesi başına +%3, şehir başına bir (muhit hariç)" /> <!--NEW--> 
+    <string id="FoSchRm52" text="Daha yüksek bir başarı şansı için kapsamı feda et" />   <!--NEW--> 
+    <string id="FoSchRm53" text="Kurbanını seç" />  <!--NEW-->
+    <string id="FoSchRm54" text="     Rel: " /> <!--NEW--> 
+    <string id="FoSchRm55" text=" İçerisinde kalıyor " />   <!--NEW--> 
+    <string id="FoSchRm56" text=" Dost çete liderleri içeride " />  <!--NEW-->    
+    <string id="FoSchRm57" text=" {EMI} klan üyeleri var" /> <!--NEW--> 
+    <string id="FoSchRm58" text=" Temsilci bonusu için bu şehirde bir klan üyesi bırakabilirsin." />   <!--NEW--> 
+    <string id="FoSchRm59" text=" Ortaklıklar içinde " />  <!--NEW-->
+    <string id="FoSchRm60" text=" {COM} var" /> <!--NEW--> 
+    <string id="FoSchRm61" text=" Bölgeyi yönetmek için bu şehirde bir yoldaş bırakman gerekiyor!" />   <!--NEW--> 
+    <string id="FoSchRm62" text=" Senin bölgen içinde " />  <!--NEW-->
+    <string id="FoSchRm63" text=" Bir elçisi var" /> <!--NEW--> 
+    <string id="FoSchRm64" text=" Burada {EMI} klan üyen var ama elçi bonusu şehir başına 1 ile sınırlıdır" />   <!--NEW--> 
+    <string id="FoSchRm65" text=" Elçiler içinde " />  <!--NEW-->
+    <string id="FoSchRm66" text=" {CLAN} klanları var" /> <!--NEW--> 
+    <string id="FoSchRm67" text=" Bir krallık seç" />   <!--NEW--> 
+    <string id="FoSchRm68" text=" Klan başına kin seviyesi" />  <!--NEW--> 
+    <string id="FoSchRm69" text=" Başarısız planlar, köylere, kervanlara baskınlar vb. kin seviyesini artıracaktır. Yüksek kin besleyen klanlar, klanına karşı düşmanca eylemlerde bulunabilirler." />  <!--NEW-->     
+    <string id="FoSchRm70" text=" Bir klan seç" /> <!--NEW--> 
+    <string id="FoSchRm71" text=" Senin muhitin" />   <!--NEW--> 
+    <string id="FoSchRm72" text=" Bu şehri terket" />  <!--NEW-->
+    <string id="FoSchRm73" text=" Ordu listesi" /> <!--NEW--> 
+    <string id="FoSchRm74" text=" Ordu liderinin ayrıntıları" />   <!--NEW--> 
+    <string id="FoSchRm75" text=" Savaş ordusunun listesi" />  <!--NEW-->
+    <string id="FoSchRm76" text=" Birlik liderinin ayrıntıları" /> <!--NEW--> 
+    <string id="FoSchRm77" text=" Serserilik: +" />   <!--NEW--> 
+    <string id="FoSchRm78" text=" %    Taktik: +" />  <!--NEW--> 
+    <string id="FoSchRm79" text=" Düzenbaz: +5%   " />  <!--NEW-->     
+    <string id="FoSchRm80" text=" Dürüst: -5%   " /> <!--NEW--> 
+    <string id="FoSchRm81" text=" Çıkarcı: +5%   " />   <!--NEW--> 
+    <string id="FoSchRm82" text=" Dikkatli: +5%   " />  <!--NEW-->
+    <string id="FoSchRm83" text=" Cesur: +5%   " /> <!--NEW--> 
+    <string id="FoSchRm84" text=" Zalim: +5%" />   <!--NEW--> 
+    <string id="FoSchRm85" text=" Merhametli: -5%" />  <!--NEW-->
+    <string id="FoSchRm86" text="  yaşında      " /> <!--NEW--> 
+    <string id="FoSchRm87" text=" Vekil:        " />   <!--NEW--> 
+    <string id="FoSchRm88" text="     Lider:     " />  <!--NEW--> 
+    <string id="FoSchRm89" text=" Evli:    " />  <!--NEW-->     
+    <string id="FoSchRm90" text="     Çocuk:    " /> <!--NEW--> 
+    <string id="FoSchRm91" text=" Vekil   " />   <!--NEW--> 
+    <string id="FoSchRm92" text=" Dikkatsiz   " />  <!--NEW-->
+    <string id="FoSchRm93" text=" Cimri   " /> <!--NEW--> 
+    <string id="FoSchRm94" text=" Dürüst   " />   <!--NEW--> 
+    <string id="FoSchRm95" text=" Dikkatli" />  <!--NEW-->
+    <string id="FoSchRm96" text=" Savaş birlikleri: " /> <!--NEW--> 
+    <string id="FoSchRm97" text=" Ordular: " />   <!--NEW--> 
+    <string id="FoSchRm98" text=" Kaleler: " />  <!--NEW--> 
+    <string id="FoSchRm99" text=" Şehirler: " />  <!--NEW-->     
+    <string id="FoSchRm100" text=" Klanlar: " />   <!--NEW--> 
+    <string id="FoSchRm101" text=" Bir klan seç" />  <!--NEW-->
+    <string id="FoSchRm102" text=" Üyeler: " /> <!--NEW--> 
+    <string id="FoSchRm103" text=" Yüksek" />   <!--NEW--> 
+    <string id="FoSchRm104" text=" Ortalama" />  <!--NEW-->
+    <string id="FoSchRm105" text=" Düşük" /> <!--NEW-->     
+    <string id="FoSchRm106" text="İstenen dinarı ödedikten sonra hedefle ilişkini arttır  " />       
+    <string id="FoSchRm107" text="Hedefin klan nüfuzu sıfırlanacak ve sahip olduğu tüm şehirlerde -10 sadakate maruz kalacak  " />    
+    <string id="FoSchRm108" text="Hedefin dinarı sıfırlanır (klan lideriyse yarıya iner). Zorla alınan miktarın bir kısmını alacaksın  " />      
+
+<!--Main-->
+    <string id="FoMa01" text="Düzenbazlık" />
+    <string id="FoMa02" text="Bir düzenbazlık seç." />
+    <string id="FoMa03" text="Şansını ortaya çıkar" />
+    <string id="FoMa04" text="Yaralarını iyileştir" />
+    <string id="FoMa05" text="Haydut topla" /><!--NEW-->
+    <string id="FoMa06" text="Yeni birliklerini seçmeyi bitirdin mi?" />
+    <string id="FoMa07" text="Çok fazla adam aldın! Yerel haydutlar, yalnızca {LIMITREC} şerefsizlerle gitmene izin vermeyi kabul etti." />
+    <string id="FoMa08" text="Haydutları topla" /><!--NEW-->
+    <string id="FoMa09" text="Küçük gruplar topla" /><!--NEW-->
+    <string id="FoMa10" text="Ufak gruplar topla" /><!--NEW-->
+    <string id="FoMa11" text="Çok fazla adam aldın! Anlaşma yalnızca {LIMITREC} birim ile sınırlıdır." />    
+    <string id="FoMa12" text="Entrikalı bi dolap çevir. (Verilen her 5 mahkûm için 1 puan)" />    
+    <string id="FoMa13" text="Anlaşman bitti mi?" />    
+    <string id="FoMa14" text="Soylu mahkumlar kabul edilmez." />    
+    <string id="FoMa15" text="Anlaşma için en az 5 mahkûma ihtiyacın var. Soylu mahkûmlar kabul edilmez." />
+    <string id="FoMa16" text="{VILLAINY} puanın var" />    
+    <string id="FoMa17" text="Bekle ,boşver." />        
+
+<!--Scam-->
+    <string id="FoSca01" text="Dolandır" />
+    <string id="FoSca02" text="Bazı eşrafları dolandırıyorsun." />
+    <string id="FoSca03" text="Bazı sonuçlardan kaçınmak için denemekten vazgeçtin." />
+    <string id="FoSca04" text="Dolandırman başarılı, Biraz dinar cepledin ve serserilikte puan kazandın." />
+    <string id="FoSca05" text="Denemen tamamen başarısız oldu. Gardiyanlar tarafından tartaklandın ve şehirden atıldın. Ayrıca biraz da dinar kaybettin..." />
+    <string id="FoSca06" text="Dolandırma başarılı oldu, biraz dinar (veya yiyecek) aldın. Ayrıca serserilik ve cazibe becerilerin gelişti." />  
+    <string id="FoSca07" text="Dolandırma kalkışman tamamen fiyaskoydu. Başka yerde şansını deneme vakti..." />      
+
+<!--Tribute-->
+    <string id="FoTri01" text="Zorla haraç" />
+    <string id="FoTri02" text="Hasat vakti" />
+    <string id="FoTri03" text="Yerel çete lideri {GANGLEAD} senin için bir iş buldu. Asil bir amaç için nazikçe biraz para toplaman gerekiyor... ardından ona göre ödenecek." /> <!--NEW-->
+    <string id="FoTri04" text="Nazik destek" />
+    <string id="FoTri05" text="{GANGLEAD}, bunu kendi başına yönetip yönetemeyeceğini merak ediyor. Belki biraz yardıma ihtiyacın vardır. Haliyle maaş çeki yarıya iner!" />
+    <string id="FoTri06" text="Buluşma noktasına geldin..." />
+    <string id="FoTri07" text="Paralı askerleri yağmaladın ve söz verilen parayı buldun... Her şeyi çete liderine getirdin ve maaşını aldın." />
+    <string id="FoTri08" text="Bir grup paralı askerden başka bir şey görmüyorsun." />
+
+<!--Extortion-->
+    <string id="FoEx01" text="Büyük gasp" />
+    <string id="FoEx02" text="İş bitmedi" />
+    <string id="FoEx03" text="{EXTOVILL}'e gitmeli ve yerlilere bir ders vermelisin." />
+    <string id="FoEx04" text="Yerel çete lideri {GANGLEAD}, yakındaki {EXTOVILL} köyüne gitmeni istiyor. Yerel eşraflar ödemelerine hep geç kalıyor ve disiplini öğrenmeleri gerekiyor. Eşrafın sana vereceği dinarı elinde tutabilirsin." />
+    <string id="FoEx05" text="Yerel eşraflarla tanış ve işini yap" />
+    <string id="FoEx06" text="Tıpkı bir milis gibi" />
+    <string id="FoEx07" text="Bir köye saldırmak savaş ilanı olarak kabul edilebilir. Sana yardım etmeleri için milislerden bazı adamlara rüşvet verdin. Kılık değiştirip fark edilmemen için sana bir milis teçhizatı verdiler." />
+    <string id="FoEx08" text="Saldırı gece başlayacak..." />
+    <string id="FoEx09" text="Zor bir mücadeleydi ama eşraflar ödemelerini aksatmamayı öğrendi..." />
+    <string id="FoEx10" text="Görünüşe göre eşraflar ziyaretini duymuş ve seni buna göre ağırlamaya karar vermişler!" />
+    <string id="FoEx11" text="Köy yağmalanıyor." />
+    <string id="FoEx12" text="Eşraflara bi faydan yok ve seni bırakmaya karar verdiler. Tazminat olarak da biraz dinar aldılar." />
+    <string id="FoEx13" text="Nazik hatırlatma" />   
+    <string id="FoEx14" text="O köylülere bir ders vermen gerekiyordu... tüm köyü katletmen değil..." /> <!--NEW-->
+    <string id="FoEx15" text="Büyük gasp tamamlandı" /> <!--NEW-->
+    <string id="FoEx16" text="Bu köy grubuyla savaştasın. Onları size malzeme veya adam vermeye zorlamak da iyi bir ders olabilir...." /> <!--NEW-->
+    <string id="FoEx17" text="Bir köye saldırmak savaş ilanı olarak kabul edilebilir. Birliklerini geride bıraktın ve ihtiyat adına gece yaklaşmaya karar verdin. Yolda sana destek olmaları için bazı milislere rüşvet verdin..." />       
+
+<!--Grand heist-->
+    <string id="FoGrHe01" text="Büyük soygun" />
+    <string id="FoGrHe02" text="Bir soygun planla." />
+    <string id="FoGrHe03" text="Yerel çete lideri {GANGLEAD} ile görüştün ve ikiniz de olası {ESTIPROF} dinar kazancını tahmin ettiniz. Saldırı bu gece için planlandı!" />
+    <string id="FoGrHe04" text="Hiçbir şey beleş değil!" />
+    <string id="FoGrHe05" text="{GANGLEAD} bazı haydutlara seni desteklemelerini emretti... Ve sana daha fazla desteğe ihtiyacın olursa şimdi {HIREMERC} dinar ödemen gerektiğini söyledi... Unuttuysan, tahminin {ESTIPROF} dinardı..." />
+    <string id="FoGrHe06" text="Sen ve adamların pusu için mükemmel yeri buldunuz...." />
+    <string id="FoGrHe07" text="Parayı kap!" />
+    <string id="FoGrHe08" text="Yaklaşıyorlar!" />
+
+<!--Gang trial-->
+    <string id="FoGaTr01" text="Çete girişimi" />
+    <string id="FoGaTr02" text="Meydan okuma" />
+    <string id="FoGaTr03" text="Çete lideri {GANGRELA} artık seni yeterince tanıyor ve düelloyu kabul etti. Dövüş şafaktan önce başlayacak." />
+    <string id="FoGaTr04" text="Düello yakında başlayacak." />
+    <string id="FoGaTr05" text="Zor bir savaştı ama başardın. Şimdi kolay para kazanma zamanı... Haftalık haracını toplaması için handa bir refakatçi bırak." />
+    <string id="FoGaTr06" text="İşte şimdi kendini kanıtlama vakti." />
+    <string id="FoGaTr07" text="Fırsat" />
+    <string id="FoGaTr08" text="{GANGRELA} etkilendi ve ortak olmanı teklif etti. Kabul edebilirsin... Ya da otoriteni göster ve bu şehirde çeteni kur!" /> <!--NEW-->
+    <string id="FoGaTr09" text="İlişki önemli" />
+    <string id="FoGaTr10" text="Sadece para önemli" />
+    <string id="FoGaTr11" text="{SETTLE} içindeki ortaklığınızdan {GAIN} dinar kazandınız" />
+    <string id="FoGaTr12" text="{SETTLE}'da çete liderinden {GAIN} dinar haraç alındı" />
+    <string id="FoGaTr13" text="{SETTLE}'ı çok uzun bir süre yoldaşsız bıraktın ve haraç hakkını kaybettin" />
+
+<!--Rebellion-->
+    <string id="FoPlot01" text="Komplo düzenle" />
+    <string id="FoPlot02" text="Sadakat kısıtlaması" />
+    <string id="FoPlot03" text="Şehrin sadakati {LIMITLOY} değerinden düşük veya buna eşit olmalıdır" />
+    <string id="FoPlot04" text="Bir komplo düzenlemek için {PLOTFEE} puan harcamak istiyor musun ({VILLAINY} var)? {PROSPERO} gün boyunca şehirde kalacaksın." />
+    <string id="FoPlot05" text="İade hariç her şeyi durdur." />
+    <string id="FoPlot06" text="Planın başarılıydı. Şehir sakinleri saldırganlaştı ve mevcut sahibine karşı hoşnutsuzluklarını gösterdi. Bazıları milislere katılıyor." />
+    <string id="FoPlot07" text="Şehri ayaklandır" />
+    <string id="FoPlot08" text="Kapıya giderken küçük bir öfkeli insan kalabalığıyla karşılaşıyorsun. Donanımlı muhafızlar onları kesinlikle durdurmak için geliyorlar...." />
+    <string id="FoPlot09" text="İsyana katıl" />
+    <string id="FoPlot10" text="Buradan uzaklaş" />
+    <string id="FoPlot11" text="Sert bir dövüş" />
+    <string id="FoPlot12" text="Birkaç kişi yardımın için teşekkür etti ve seni ödüllendirdi. Bu kavgayla ilgili sözler halk arasında yayıldı...." />
+    <string id="FoPlot13" text="Can pazarı" />
+    <string id="FoPlot14" text="Hayatta kaldın ama hengâmeden kaçamadın." />
+
+<!--Sabotage-->
+    <string id="FoSabo01" text="Erzak stoğu sabotajı" /> 
+    <string id="FoSabo02" text="Sabodaj planla" /> 
+    <string id="FoSabo03" text="Bir sabotaj planlamak için {VILFEE} puan harcamak istiyor musun ({VILLAINY} var)? Tamamlanması {PROSPERO} gün sürecektir." /> <!--NOT USED-->
+    <string id="FoSabo04" text="Duvarın altından kaz" /> 
+    <string id="FoSabo05" text="Suyu zehirle" /> 
+    <string id="FoSabo06" text="Sabotajın başarılı oldu. Yerleşim artık zayıfladı." /> 
+    <string id="FoSabo07" text="Bir sabotaj planlamak için {VILFEE} puan harcamak istiyor musun ({VILLAINY} var)? Hedefin {SABTARG} ve tamamlanmadan önce {PROSPERO} saat sürecek." /> <!--NEW-->
+    <string id="FoSabo08" text="Kampına dön" />    
+    <string id="FoSabo09" text="Köyün yakınındaki kampındasın. Buradan sabotajlarınızı planlayabilirsin. Ne yapmayı planlıyorsun?" />        
+    <string id="FoSabo10" text="Adamlarından bazılarını bu plan için görevlendirdin ve şimdi harekete geçtiler. Şimdiye kadar işler iyi gidiyor gibi görünüyor..." />    
+    <string id="FoSabo11" text="Köye git" />    
+    <string id="FoSabo12" text="Yağmacıları gönder" />    
+    <string id="FoSabo13" text="Bu köye baskın yapmaya başlamak için bazı haydutları çağırmak için {VILFEE} puanları ({VILLAINY} var) kullanılsın mı?" />    <!--NEW-->
+
+<!--Robbery-->
+    <string id="FoRob01" text="Soygun" /> 
+    <string id="FoRob02" text="Kalradya'da soygun" /> 
+    <string id="FoRob03" text="{ROBCAST}'a git ve ilgili kişiyle arka sokaklarda buluş." /> 
+    <string id="FoRob04" text="Tepeyi soy" /> 
+    <string id="FoRob05" text="Yerel çete lideri {GANGLEAD}, {ROBCAST}'da desteğe ihtiyacı olan bir arkadaşı var. Oraya git ve adamla tanışmak için arka sokakları kontrol et." /> 
+    <string id="FoRob06" text="Adamla buluş" /> 
+    <string id="FoRob07" text="Başka muhafızların geldiğini görmüyorsunuz ve biraz ganimet olup olmadığını kontrol etmeye başlıyorsunuz...." /> 
+    <string id="FoRob08" text="Yağma vakti" /> 
+    <string id="FoRob09" text="2 sandık buldunuz, görünüşe göre biraz dinar bulunan küçük ve bazı şeyler içeren daha büyük bir sandık. Sadece birini maymuncukla açmak için zamanın var." /> 
+    <string id="FoRob10" text="Adam sana bir köylü kıyafeti verdi. Mutfağa yemek götürüyormuş gibi yapıp kaleye gizlice gireceksin." /> 
+    <string id="FoRob11" text="Tıpkı bir köylü gibi" /> <!--NEW-->
+    <string id="FoRob12" text="Görünüşe göre Lord'un salonunda bazı muhafızlar görüldü. Adamınız, bir oyalama yapabileceğini ve böylece 3000 dinar koparabileceğinizi söylüyor, şimdi ödeme vakti!" /> <!--NEW-->
+    <string id="FoRob13" text="Kaleye girmeyi başardınız ve şimdi Lord'un salonuna doğru ilerliyorsunuz...." /> <!--NEW-->
+    <string id="FoRob14" text="Lordun salonuna ulaştınız ama görünüşe göre adamınız yeri tamamen boşaltmayı başaramadı...." /> <!--NEW-->    
+    <string id="FoRob15" text="Mekân temiz görünüyor! Bazı ganimetleri kontrol etmeye başlarsın..." /> <!--NEW-->
+
+   <!--Scandal-->
+    <string id="FoScan01" text="Bir skandal planla" /> 
+    <string id="FoScan02" text="Lord skandalı" /> 
+    <string id="FoScan03" text="Bu şehrin yöneticisi {CLANSCAN} klanını istikrarsızlaştırmayı planlıyorsun. Muhafız kılığına girecek ve bazı taviz verici kanıtlar bulmak için kaleye sızacaksın. {LIMITVIL} kötü şöhret puanına ihtiyacın var." /> 
+    <string id="FoScan04" text="Tıpkı bir muhafız gibi" /> 
+    <string id="FoScan05" text="Üniformayı almak için bir gardiyana rüşvet vermen gerekiyordu. Kaledeki düşmanların sayısını azaltmak için şimdi ödeme yapmak üzere 3000 dinar için bir kargaşa yaratmayı kabul ediyor." /> <!--NEW-->
+    <string id="FoScan06" text="Kaleye girmek için doğru zamanı bekliyorsun..." /> 
+    <string id="FoScan07" text="Başarılı! Şehre borçlu olan klanı ciddi bir belaya sokmak için yeterli kanıt ile burayı terk ediyorsun! Ve ayrıca biraz dinar yağmaladın!" /> 
+    <string id="FoScan08" text="Lordun salonuna ulaştınız ama beklendiği gibi salon boş değil..." /> 
+    <string id="FoScan09" text="Kalradya'da skandal" /> 
+    <string id="FoScan10" text="{CLANSCAN} klanı yakın zamanda bir skandaldan ciddi şekilde etkilendi ve sürgünden kurtulmak için tüm nüfuzunu kullanmak zorunda kaldı" /> 
+    <string id="FoScan11" text="Bu şehrin klan sahibi yeterince etkili değil (200+ gerekli)." />    
+    <string id="FoScan12" text="Sahibinin klanı tüm nüfusunu kaybedecek ve bu şehrin sadakati -20 puan azalacak" />     
+
+   <!--Insurance-->
+    <string id="FoInsu01" text="Koruma dolandırıcılığı" /> <!--NEW-->
+    <string id="FoInsu02" text="Git ve haydutların kaçmasına izin vermediğinden emin ol!" /> <!--NEW-->
+    <string id="FoInsu03" text="Yapman gereken bu değildi! Şimdi kervanı hedefine ulaşmadan yok et!" /> <!--NEW-->
+    <string id="FoInsu04" text="Sadece bu haydut birliğini yok et..." /> <!--NEW-->
+    <string id="FoInsu05" text="{GANGLEAD}, bir {MERCH} kervanına yatırım yaptı... ve kâr etmiyor! Neyse ki devam eden bir sigorta sözleşmesi var... ama herhangi bir tazminat almadan önce kervanın kazara ortadan kaybolması gerekiyor..." /> <!--NEW-->
+    <string id="FoInsu06" text="Bu şehrin grubuyla savaştasın... Sadece git ve kervanı yok et, kolay lokma! Şehirden biraz uzakta hallettiğinden emin ol." /> <!--NEW-->
+    <string id="FoInsu07" text="Sahte pusu" /> <!--NEW-->
+    <string id="FoInsu08" text="{GANGLEAD}, kervana eşlik etmeni istedi. Ona saldırmak ve yok etmek için bir haydut birliği tutulmuş. Kirli iş bittiğinde, herhangi bir şüpheyi ortadan kaldırmak için haydut partisine saldır" /> <!--NEW-->
+    <string id="FoInsu09" text="En az 20 sağlıklı askerin olduğu bir birliğe ihtiyacın var." /> <!--NEW-->
+
+   <!--Dialog-->
+    <string id="FoDiaFl01" text="Yanlış kişiye çattınız beyler..." /> <!--NEW-->
+    <string id="FoDiaFl02" text="Hakkında bir şeyler duyduk. Seni buraya getiren ne tarz bi' iş? Belki de yeni adamlar arıyorsundur.[if:idle_angry][ib:normal]" /> <!--NEW-->
+    <string id="FoDiaFl03" text="Vaktimi boşa harcamayı bırak ve kendi işine dön..." /> <!--NEW-->
+    <string id="FoDiaFl04" text="Madem soruyorsun, işime yarayabilirsin..." /> <!--NEW-->
+    <string id="FoDiaFl05" text="Yeni adamlar arıyorum, hadi konuşalım..." /> <!--NEW-->
+    <string id="FoDiaFl06" text="Buralarda işler tıkırında. Ama işimi- yani işimizi biraz büyütmek istiyorum. Başka şehirlerde ilgilenebilecek bir tanıdığın var mı?" /> <!--NEW-->
+    <string id="FoDiaFl07" text="Anlıyorum... Orada burada birilerini tanıyorum. İyi ilişkimizden bahset ve eminim bu senin için işleri kolaylaştıracaktır. Ve artık ortak olduğumuzu unutma![rf:trivial_hi][rb:very_positive]" /> <!--NEW-->
+    <string id="FoDiaFl08" text="Harika, kısa sürede daha fazla para kazanacağımızdan şüphen olmasın!" /> <!--NEW-->
+    <string id="FoDiaFl09" text="Ortak bir arkadaşımız var ve bana bunu bilmenden memnun olacağını söyledi..." /> <!--NEW-->
+    <string id="FoDiaFl10" text="Kesinlikle! İyi ilişki iyi kazanç sağlar, değil mi?[rf:trivial_hi][rb:very_positive]" /> <!--NEW-->
+    <string id="FoDiaFl11" text="Evet, daha fazla katılmıyorum!" /> <!--NEW-->
+    <string id="FoDiaFl12" text="Aslında, bunu hâlâ düşünmem gerekiyor..." /> <!--NEW-->
+
+   <!--Outlaw-->
+    <string id="FoOutlaw01" text="Kanun kaçağı ol!" />  <!--NEW-->
+    <string id="FoOutlaw02" text="Sığınağı terket" />    <!--NEW-->
+    <string id="FoOutlaw03" text="Kural yok" />  <!--NEW-->
+    <string id="FoOutlaw04" text="Kanun kaçağı olmanın bazı sonuçları vardır... Suç oranın büyük ölçüde artacak ve tüm gruplar klanına savaş ilan edecek!" />    <!--NEW-->
+    <string id="FoOutlaw05" text="Kanun kaçağı olmayı bırak" />  <!--NEW-->
+    <string id="FoOutlaw06" text="Kuralları kabul et" />  <!--NEW-->  
+    <string id="FoOutlaw07" text="Kanun kaçağı hayatına son vermek istediğinden emin misin? Desteğin olmadan haydut grupları güçlerini kaybedecek!" />  <!--NEW-->
+    <string id="FoOutlaw08" text=" {UP} daha da güçleniyor!" />    <!--NEW-->
+    <string id="FoOutlaw09" text=" {DOWN} daha fazla zayıflıyor" />  <!--NEW-->
+    <string id="FoOutlaw10" text="Seni içeri almaları için gardiyanlara rüşvet ver." />  <!--NEW-->  
+    <string id="FoOutlaw11" text="{CULT}'un gücü: {VAL}" />    <!--NEW-->
+    <string id="FoOutlaw12" text="Birkaç adam al" />  <!--NEW-->
+    <string id="FoOutlaw13" text="Yeterince güçlü değil" />  <!--NEW-->  
+    <string id="FoOutlaw14" text="{CULT}'un gücü çok düşük. Yeni adamlar almak için kötü şöhret puanlarını kullanman gerekecek." />  <!--NEW-->  
+    <string id="FoOutlaw15" text="Bazı mahkûmları dağıt" />    <!--NEW-->
+    <string id="FoOutlaw16" text="Kara borsa" />  <!--NEW--> 
+    <string id="FoOutlaw17" text="Beni takip edin beyler!" />  <!--NEW--> 
+    <string id="FoOutlaw18" text="{CULT} partisi, {COUNT} adamlarıyla seni takip ediyor" />  <!--NEW-->         
+    <string id="FoOutlaw19" text="{CULT} grubu sana katılmak için çok zayıf!" />  <!--NEW--> 
+    <string id="FoOutlaw20" text="Etrafta mevcut haydut birliği yok." />  <!--NEW--> 
+    <string id="FoOutlaw21" text="Yakındaki haydutlardan seni takip etmesini iste" />  <!--NEW--> 
+    <string id="FoOutlaw22" text="Takipçilerini serbest bırak" />  <!--NEW--> 
+    <string id="FoOutlaw23" text="Mekân fazlalığı için ücret maliyeti -{GAIN}{GOLD}" />  <!--NEW--> 
+    <string id="FoOutlaw24" text="Aranan!" />  <!--NEW--> 
+    <string id="FoOutlaw25" text="Suç oranınla birlikte {KING} krallığındaki kötü şöhretin artıyor..." />  <!--NEW--> 
+    <string id="FoOutlaw26" text="{CULT} partisi, {COUNT} adamlarıyla sana katıldı" />  <!--NEW--> 
+    <string id="FoOutlaw27" text="Birliğine yakındaki haydutları ekle!" />  <!--NEW--> 
+    <string id="FoOutlaw28" text="Yakındaki haydutlardan tarafına katılmalarını iste" />  <!--NEW--> 
+    <string id="FoOutlaw29" text="Bu haydut grubunu destekle" />  <!--NEW-->     
+    <string id="FoOutlaw30" text="Bu grubun ve yakındaki haydutların seni takip etmesini istey" />   
+    <string id="FoOutlaw31" text="Bu haydut grubu yeterince güçlü değil (yağmacılarda mevcut değil)" />               
+    <string id="FoOutlaw32" text="Bu saklanma yeri {KING} krallığında bulunuyor ve suç oranın {RATE}" />   
+    <string id="FoOutlaw33" text="{FAC}'ı destekle" />   
+    <string id="FoOutlaw34" text="Biraz eşya ver" />   
+
+   <!--Larceny and others-->
+    <string id="FoDiagm01" text="Görünüşe göre şehirdeki gücünü kaybediyorsun ve ben de bunu değiştirmek için buradayım!" />    
+    <string id="FoDiagm02" text="Mükemmel! En güçlü çete liderinden herhangi bir sokağı geri al. Ya da suç oranını dert etmezsen o piçi ziyaret edebilirsin...[rb:very_positive]" />  
+    <string id="FoDiagm03" text="Açık konuşayım, ya buradaki işi kimin yönetmesi gerektiğini öğrenirsin ya da sana insanları ikna etmede ne kadar iyi olduğumu gösteririm..." />  
+    <string id="FoDiagm04" text="Beni böyle tehdit ederek kim olduğunu sanıyorsun... Sana burada bir şeyler öğretecek kişinin kim olduğunu göstereceğim![ib:agressive][if:convo_furious]" />    
+    <string id="FoDiagm05" text="Yeteneklerimi sunmak istiyorum..." />  
+    <string id="FoDiagm06" text="Doğru, ne öneriyorsun[rb:very_positive][rf:trivial_hi]" />  
+    <string id="FoDiagm07" text="Pekala, bazı vatandaşların ilgisini seçebilirim..." />    
+    <string id="FoDiagm08" text="Bir gardiyanla ilgilenebilirim. Bu piyonlar iş için iyi değiller, değil mi?" />   
+    <string id="FoDiagm09" text="Otoriteden korkmuyorum. Ayrıca hızlı koşabilirim!" />   
+    <string id="FoDiagm10" text="Ben bi' yaverim, her dövüşü kazanabilirim!" />        
+    <string id="FoDiagm11" text="Kesinlikle... Bunu gece yapman gerektiğini unutma!" />    
+    <string id="FoDiagm12" text="Pekala, şehirdeki herhangi bir tüccarı ziyaret et, ne bulursanız alın ve kapıdan koş!" />  
+    <string id="FoDiagm13" text="Anlıyorum... Belki meyhanede bir arbede başlatabilirsin... Ve dövüşü sadece çıplak elle kazanabilirsin!" />  
+    <string id="FoDiagm14" text="Çocuk oyuncağı!" />    
+    <string id="FoDiagm15" text="Biraz erzak{FOOD} aldın" />  
+    <string id="FoDiagm16" text="Hmm?![if:convo_astonished]" />  
+    <string id="FoDiagm17" text="Affedersiniz, rahatsızlık vermek istemedim..." />    
+    <string id="FoDiagm18" text="Anlıyorum... Şimdi sakıncası yoksa yapmam gereken işler var.[if:convo_annoyed]" />   
+    <string id="FoDiagm19" text="Dürüst birine benzemiyorsun... Yoluna devam et.[ib:agressive][if:convo_furious]" />         
+    <string id="FoDiagm20" text="Tabi kii... Özür diliyorum" />        
+    <string id="FoDiagm21" text="Sökül bakalım paraları" />    
+    <string id="FoDiagm22" text="Ne?!...bekle... İmdat!![if:convo_astonished][ib:nervous]" />  
+    <string id="FoDiagm23" text="Ne yazık, yapayalnızsın..." />  
+    <string id="FoDiagm24" text="Görünüşe bakılırsa iyi gününde değilsin..." />    
+    <string id="FoDiagm25" text="Aklındaki de ne? Ben buradaki otoriteyi temsil ediyorum! Askerler!![ib:agressive][if:convo_furious]" />  
+    <string id="FoDiagm26" text="[Bir şey kap ve kaç!]" />  
+    <string id="FoDiagm27" text="Merhaba patron, burda işler yolunda!" />    
+    <string id="FoDiagm28" text="Güzel, bölgeyi elinizde tutmak için ne gerekiyorsa yapın!" />   
+    <string id="FoDiagm29" text="Yüzünü sevmedim ve yolumdan çekilsen iyi olur!" />       
+    <string id="FoDiagm30" text="Ne?!... Sen kendini kim zannediyorsun!![if:convo_astonished][ib:agressive][if:convo_furious]" />        
+    <string id="FoDiagm31" text="Buraya gel, ben hazırım..." />    
+    <string id="FoDiagm32" text="{GRAB} kaptın!" />  
+    <string id="FoDiagm33" text="Anlaştık! Bugün içinde {SCORE} kez başarılı olmanı istiyorum![rf:trivial_hi][rb:very_positive]" />  
+    <string id="FoDiagm34" text="Burada ne taşıyorsun? İstersen bir el atabilirim... [yakınlaşırsın]" />    
+    <string id="FoDiagm35" text="Çantan ağır gözüküyor... İçinde neler var? [yakınlaşırsın]" />  
+    <string id="FoDiagm36" text="[Dengeni kaybettiğini hissediyorsun ve kurbanına çarpıyorsun]" />  
+    <string id="FoDiagm37" text="Baksana, omuzunda bir şey var... [yakınlaşırsın]" />    
+    <string id="FoDiagm38" text="Kıyafetin ne de ilginç... Koyun yününden mi yapılma? [yakınlaşırsın]" />   
+    <string id="FoDiagm39" text="Zaten bu kişiyle işin bitti" />       
+    <string id="FoDiagm40" text="{ATT} kişiyi daha yankesicilik yapman gerekiyor" />        
+    <string id="FoDiagm41" text="Bir gardiyan seni izliyor..." />    
+    <string id="FoDiagm42" text="At sırtında mümkün değil" />  
+    <string id="FoDiagm43" text="{WAITCHCK} saat beklemelisin" />  
+    <string id="FoDiagm44" text="Sadece geceleri geçerli" />    
+    <string id="FoDiagm45" text="Daha izole bir kurban bulmaya çalış" />                      
+
+  </strings>
+</base>

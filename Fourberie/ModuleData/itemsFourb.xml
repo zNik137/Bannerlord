@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Item id="fb_bulla_brand"
+        name="{=!}Bulla's Brand"
+        mesh="bd_battania_statue_male_small"
+        is_merchandise="false"
+        weight="1"
+        Type="Goods">
+  </Item>
+</Items>

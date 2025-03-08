@@ -1,0 +1,508 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="日本語" />
+  </tags>
+  <strings>
+    <string id="blcdlgGTExVE" text="よくも私の父{VICTIM}を殺しておいて、私の前に立てるな！お前は名誉の線を越えた。今こそ、その代償を払わせる。覚悟しろ！" />
+    <string id="blcdlggYJ6BH" text="つまり、お前が私の父の命を奪った者か…。{VICTIM}は偉大な人物だった。それなのに、こんなことになってしまった。今、言い訳があるなら言ってみろ。" />
+    <string id="blcdlgps4zkV" text="{VICTIM}は私の父だった。そして、お前は私が二度と父の声を聞けないようにした。お前を許せるかどうかわからないが、今は、お前の言い分を聞こう。" />
+    <string id="blcdlgJXcBWy" text="私たちは戦争中だ。そして、私が父{VICTIM}に何をしたか知っている。忘れたと思わないでくれ。言いたいことがあるなら言え。だが、言葉には気をつけろ。" />
+    <string id="blcdlgjNnxQ6" text="戦争中とはいえ、父{VICTIM}に起きたことを無視することはできない。彼は善良な人だった。なぜこんなことに…？" />
+    <string id="blcdlgjThL0c" text="この戦争は、父{VICTIM}を失ったことには何の影響もない。真実を語ってくれ。聞く必要がある。" />
+    <string id="blcdlgL1txjd" text="父{VICTIM}の仇であるお前の顔を見る日が来るとは思わなかった。忘れたり、許したりしたと思わないでくれ。言い残すことを言ったら、さっさと消えろ。" />
+    <string id="blcdlg9vhQRo" text="こんな形で会うとはな。私の父{VICTIM}はいつも誠実さについて語っていた…だが、お前は彼の命を奪った。何か言うことはあるか？" />
+    <string id="blcdlgqQynS7" text="父{VICTIM}は、お前のせいでいなくなった。私には聞きたいことがある。お前は私に答える義務がある。私の我慢が尽きる前に、話せ。" />
+    <string id="blcdlgRpZmkp" text="お前は私の母{VICTIM}を殺した。お前に慈悲はない。お前が与えたすべての苦痛を味わわせてやる！" />
+    <string id="blcdlgBw8lBI" text="私の母、{VICTIM}は、お前がしたことよりもっと良い人生を送るに値した。簡単だとは言わない…さて、何か言うことはあるか？" />
+    <string id="blcdlgaSCNn4" text="私の母の名前は{VICTIM}と言った。お前は彼女の命を奪った。言葉ではどうにもならないことは、この戦場で決着をつける。" />
+    <string id="blcdlgFQaWzX" text="この戦争は、お前が私の母{VICTIM}にしたことを消し去るものではない。近づくな。さもなくば、ただでは済まさないぞ。" />
+    <string id="blcdlgLBwpGo" text="この戦争中でも、母{VICTIM}のこと、そしてお前のせいで彼女の命が絶たれたことを考えずにいられない。なぜ？" />
+    <string id="blcdlgxhcHdt" text="この戦争は、お前が私の母{VICTIM}にしたことを許すものではない。言い訳をしろ。" />
+    <string id="blcdlglRQSUG" text="お前には{VICTIM}の名前を口にする権利さえない。自分の罪を悔いて苦しむがいい。" />
+    <string id="blcdlgOHejDX" text="私の母{VICTIM}は、お前のせいでいなくなった。なぜ？彼女は、そんな運命をたどるようなことをしたのか？" />
+    <string id="blcdlgVcHQtd" text="母{VICTIM}の命を奪ったのがお前だと知っている。話を聞こう…だが、言葉は慎重に選べ。" />
+    <string id="blcdlgvkh1lR" text="お前は私の息子{VICTIM}を奪った。それに対して、容赦はしない。決着をつけよう！" />
+    <string id="blcdlgssBKg2" text="私の息子、{VICTIM}…。お前のせいでいなくなった。たとえ絆があったとしても、ここで終わりだ。さあ、話せ。" />
+    <string id="blcdlg0VQ72O" text="私の息子の名前は{VICTIM}だ。そして、お前のせいでいなくなった。決着をつけよう。" />
+    <string id="blcdlgp6EVKk" text="この戦いの中でも、お前が息子{VICTIM}にしたことを忘れることはできない。いつか、その報いを受けるだろう。" />
+    <string id="blcdlgCiGPo1" text="戦場にいても、息子{VICTIM}のこと、そしてお前がしたことを考えてしまう。なぜ、私から彼を奪った？" />
+    <string id="blcdlgpUfu24" text="この戦争は、私の喪失には何の影響もない。私の息子{VICTIM}は、お前のせいでいなくなった。話せ。" />
+    <string id="blcdlgDXzJMK" text="お前は私の息子{VICTIM}を殺した。許しや礼儀を期待するな。いつか、この償いをすることになる。" />
+    <string id="blcdlgJcIHFs" text="お前は私の息子{VICTIM}をこの世から奪った。お前とこんな風に対峙する日が来るとは思わなかった。話せ。だが、言葉には気をつけろ。" />
+    <string id="blcdlgjgpXzS" text="私の息子{VICTIM}は、お前のせいでいなくなった。説明しろ。時間を無駄にするな。" />
+    <string id="blcdlgAUsM64" text="お前は私の娘{VICTIM}を奪った。お前にも同じ苦痛を千倍にして味わわせてやる。覚悟しろ！" />
+    <string id="blcdlg1Hq2YA" text="私の娘{VICTIM}は、もっと良い人生を送るべきだった。かつてはお前を信じていたが、今では…彼女の死しか見えない。話せ。" />
+    <string id="blcdlgY016ey" text="お前は私の娘の命を奪った、{VICTIM}。それは決して癒えることのない傷だ。戦が始まる前に、言いたいことがあるなら言え。" />
+    <string id="blcdlg09wKxr" text="この戦で、あなたが私の娘、{VICTIM}にしたことを消すことはできません。いつか、私は正義を手に入れるでしょう。" />
+    <string id="blcdlgVTO4tj" text="戦時下でも、私は娘、{VICTIM}のことを考えずにはいられません。なぜ彼女を私から奪ったのですか？" />
+    <string id="blcdlgcXnTfD" text="戦争は、あなたが私の娘、{VICTIM}にしたことについて何も変えません。彼女が戻ってくることはないでしょうが、あなたの理由を言いなさい。" />
+    <string id="blcdlgUYmtPY" text="あなたは私の娘、{VICTIM}を殺しました。私があなたを許すことは決してないと思ってください。" />
+    <string id="blcdlg8Hwren" text="私の娘、{VICTIM}はあなたによって私から奪われました。なぜ？理解する必要があります。" />
+    <string id="blcdlgGXRdff" text="私の娘、{VICTIM}はあなたのせいでいなくなりました。今すぐ説明してください。" />
+    <string id="blcdlgs24XT9" text="あなたは私の祖父母、{VICTIM}を殺しました。それが最後の一撃でした。もう後戻りはできません—正義に立ち向かう準備をしてください！" />
+    <string id="blcdlgxyGZbq" text="{VICTIM}は私の祖父母であり、私たちの家族の柱でした。そして、あなたは彼らを私たちから奪った。今、あなたは私の前に立っています...何と言うつもりですか？" />
+    <string id="blcdlgbPMcz3" text="あなたは私の祖父母、{VICTIM}の命を奪いました。この出会いは、単なる言葉以上のものを決着させるでしょう。" />
+    <string id="blcdlgCyzEK1" text="戦時下でも、あなたが私の祖父母、{VICTIM}にしたことを忘れることはできません。いつか、あなたはこれに対する答えを出すことになるでしょう。" />
+    <string id="blcdlgl5ESQK" text="戦争は、あなたによって私の祖父母、{VICTIM}を失った痛みを消していません。なぜあなたはそれを行ったのですか？" />
+    <string id="blcdlg8VZzxF" text="私の祖父母、{VICTIM}はあなたのせいでいなくなりました。過去を元に戻すことはできませんが、説明してください。" />
+    <string id="blcdlgKzmAfQ" text="あなたは私の祖父母、{VICTIM}を殺しました。私がこれを許したり忘れたりすることは決してないと思ってください。" />
+    <string id="blcdlgz01Xo0" text="私の祖父母、{VICTIM}はあなたのせいで私から奪われました。なぜ？あなたの理由を聞く必要があります。" />
+    <string id="blcdlgtMoEKK" text="私の祖父母の名前は{VICTIM}でした。あなたは彼らの命を奪い、私にはあなたが答えなければならない質問があります。" />
+    <string id="blcdlgRURg1o" text="あなたは私から孫、{VICTIM}を奪いました。許しはなく、報復のみです。覚悟してください！" />
+    <string id="blcdlgm3yBkK" text="私の孫、{VICTIM}には未来があるはずでした。しかし、あなたはそれを否定しました。あなたの弁明にはならないかもしれませんが、今すぐ話してください。" />
+    <string id="blcdlgNX6oXD" text="あなたは私の孫、{VICTIM}の命を奪いました。そのために、私は正義が果たされるまで休むことはありません。" />
+    <string id="blcdlg7zj6KI" text="私たちは戦争中ですが、私の孫、{VICTIM}はあなたのせいでいなくなりました。これはあなたにとって良い結末にはならないでしょう。" />
+    <string id="blcdlgBdegcI" text="戦争は私の孫、{VICTIM}の記憶を消すことはできません。なぜ彼らを私から奪ったのですか？" />
+    <string id="blcdlgZ1Bphy" text="私の孫の名前は{VICTIM}でした。そして今、彼らはあなたのせいでいなくなりました。真実を語ってください。" />
+    <string id="blcdlgW6LPZ5" text="あなたは私の孫、{VICTIM}を殺しました。同情や理解を期待しないでください—責任を取るだけです。" />
+    <string id="blcdlgbghPaD" text="あなたは私から孫、{VICTIM}を奪いました。なぜ？この無意味な行為を理解させてください。" />
+    <string id="blcdlge5X70Q" text="私の孫、{VICTIM}はあなたのせいでいなくなりました。まだできるうちに説明してください。" />
+    <string id="blcdlg9wvTaG" text="あなたは私の妻、{VICTIM}を私から奪いました。それは許されない犯罪です。さあ、あなたは究極の代償を払うことになるでしょう！" />
+    <string id="blcdlgH9qdyF" text="{VICTIM}は私の妻であり、私のすべてを共にするパートナーでした。そして、あなたは彼女の命を奪いました。このことを元に戻す言葉はないでしょうが、説明してください。" />
+    <string id="blcdlgwJJ9LC" text="私の妻の名前は{VICTIM}でした。彼女はあなたのせいでいなくなりました。この戦いは、単なる言葉以上のものを決めることになるでしょう。" />
+    <string id="blcdlgbkg8CE" text="この戦争の最中でも、私は妻{VICTIM}のこと、そしてあなたが彼女にしたことを考えています。あなたの報いが来るでしょう。" />
+    <string id="blcdlg84DKvo" text="私の妻、{VICTIM}はこれ以上の運命に値しました。なぜ彼女を私から奪ったのですか？" />
+    <string id="blcdlgkr97ZZ" text="戦争は私の喪失について何も変えません—私の妻{VICTIM}はあなたのせいでいなくなりました。話してください。" />
+    <string id="blcdlg1pgS3Z" text="あなたは私の妻{VICTIM}を殺した。何を言っても、私はあなたを許さない。" />
+    <string id="blcdlg0LthHG" text="{VICTIM}は私の妻だった。彼女の命を奪ったのはあなただ。なぜなのか教えてくれ、あなたの答えが満足できるとは思えないが。" />
+    <string id="blcdlgWRzEnv" text="私の妻の名前は{VICTIM}だった。あなたは彼女を私から奪った。答えが必要な質問がある。" />
+    <string id="blcdlg1xavWH" text="あなたは私の夫{VICTIM}を殺した。その報いとして、私が苦しんだのと同じように苦しむがいい！" />
+    <string id="blcdlgFMyB5z" text="私の夫{VICTIM}は私にとってすべてだった。それなのに、あなたのせいでいなくなってしまった。言い訳をしろ、どうでもいいかもしれないが。" />
+    <string id="blcdlgykUzfe" text="私の夫の名前は{VICTIM}だった。あなたは彼の命を終わらせた。許しはない、あるのは裁きのみだ。" />
+    <string id="blcdlgZUyCVW" text="戦時下でも、私は夫{VICTIM}と、あなたが彼にしたことを覚えている。いつか必ず裁きを受けるだろう。" />
+    <string id="blcdlguPFAne" text="私の夫{VICTIM}は、あなたにしたことよりもっと良い扱いを受けるべきだった。なぜそうした？" />
+    <string id="blcdlgvpuEOz" text="この戦争は、私の夫{VICTIM}とその死について何も変えない。言い訳をしろ。" />
+    <string id="blcdlgeIliAI" text="あなたは私の夫{VICTIM}を殺した。それは決して癒えることのない傷であり、許されることもないだろう。" />
+    <string id="blcdlg6zlSDy" text="{VICTIM}は私の夫、私の最も親しい伴侶だった。なぜ彼の命を終わらせた？" />
+    <string id="blcdlgj9jgqN" text="私の夫の名前は{VICTIM}だった。そしてあなたは彼を私から奪った。話せ、どうでもいいかもしれないが。" />
+    <string id="blcdlgRySuod" text="あなたは私の親族{VICTIM}を殺した。その裏切りは忘れられない。裁きを受ける覚悟をしろ！" />
+    <string id="blcdlgFWwpJF" text="{VICTIM}は私の家族の一員だった、あなたに奪われた。なぜ？　事態が悪化する前に言い訳をしろ。" />
+    <string id="blcdlgEuTIiw" text="あなたは私の親族{VICTIM}の命を終わらせた。私は何としても裁きを受ける。" />
+    <string id="blcdlg7Ggycy" text="この戦争の最中でさえ、私が親族{VICTIM}にあなたがしたことを忘れることはない。必ず報いを受けるだろう。" />
+    <string id="blcdlg96dBmm" text="戦争は、私の親族{VICTIM}の死を消し去ることはない。なぜ彼らを私たちから奪ったのか？" />
+    <string id="blcdlg2SDnuP" text="私の親族{VICTIM}は、あなたのせいでいなくなった。今すぐ言い訳をしろ。" />
+    <string id="blcdlgL9JBT1" text="あなたは私の親族{VICTIM}を殺した。あなたのしたことに許しはない。" />
+    <string id="blcdlgfZiQSL" text="{VICTIM}は私の親族だった。彼らの死はあなたのせいだ。なぜこんなことをした？" />
+    <string id="blcdlgNbvJLE" text="私の親族{VICTIM}は、あなたのせいでいなくなった。真実を語れ、それがあなたを救うことにはならないだろうが。" />
+    <string id="blcdlgPQlgOP" text="{KILLER}、お前の親族が、私の父{VICTIM}を殺した。お前は私たちに恥と喪失をもたらした。今こそ裁きを受けるがいい！" />
+    <string id="blcdlgz7zK21" text="私の父{VICTIM}は{KILLER}の手によって奪われた。かつてあなたを信じていた。どうしてこんなことになった？今すぐ話せ。" />
+    <string id="blcdlgj17o47" text="{VICTIM}は私の父だった。{KILLER}は取り返しのつかないことをした。残りは戦場で決めることになるだろう。" />
+    <string id="blcdlg6N69k7" text="あなたの一族{KILLER}が、私の父{VICTIM}を殺した。許しはしないが、言い訳は聞こう。" />
+    <string id="blcdlgV9fZiJ" text="私の父{VICTIM}は、あなたの一族{KILLER}のせいでいなくなった。こんな裏切りは予想外だった。なぜ？" />
+    <string id="blcdlgemu8Wm" text="{KILLER}が私の父{VICTIM}の命を終わらせた。言い訳の機会を与えよう。慎重に話せ。" />
+    <string id="blcdlgx6K9U8" text="あなたの一族{KILLER}が、私の母{VICTIM}の命を終わらせた。私の家族をないがしろにしたことを後悔させてやる。覚悟しろ！" />
+    <string id="blcdlgKs0sFw" text="私の母{VICTIM}は{KILLER}がしたことよりもっと良い扱いを受けるべきだった。あなたを信じていたのに、今度はこれか？今すぐ話せ。" />
+    <string id="blcdlgHvbhEm" text="私の母{VICTIM}は{KILLER}に奪われた。言葉で語れないことはこの戦場で決着をつける。" />
+    <string id="blcdlgrifeQO" text="{VICTIM}、私の母は{KILLER}のせいでいなくなりました。決して許さない。言うべきことを言って、立ち去ってください。" />
+    <string id="blcdlgavneGH" text="{KILLER}が私の母、{VICTIM}を殺しました。あなたの家族にこんなことをされるとは思っていませんでした。なぜこんなことに？" />
+    <string id="blcdlgWRLH4O" text="私の母、{VICTIM}はあなたの親族、{KILLER}に連れて行かれました。理由を言いなさい。その上で、どうするかを決めます。" />
+    <string id="blcdlgbRp8Ck" text="{KILLER}が私の息子、{VICTIM}を奪いました。この戦いが終わる前に、あなたの家族も同じ悲しみを味わうでしょう！" />
+    <string id="blcdlg9Lph5g" text="私の息子、{VICTIM}は{KILLER}のせいでいなくなりました。かつてあなたを味方だと思っていたのに。説明してください。" />
+    <string id="blcdlgO4mKze" text="私の息子、{VICTIM}は{KILLER}に連れて行かれました。この戦場で、彼の喪失に正義をもたらします。" />
+    <string id="blcdlgEfYXdl" text="あなたの親族、{KILLER}が私の息子、{VICTIM}を殺しました。言い訳は聞きたくないですが、今は聞きましょう。" />
+    <string id="blcdlg54ArNa" text="{VICTIM}、私の息子は、あなたの家族の行動、{KILLER}のせいでいなくなりました。なぜこんなことに？" />
+    <string id="blcdlgDg8c3E" text="{KILLER}が私の息子の命を奪いました、{VICTIM}。言い分をどうぞ。しかし、このことは私の心に重くのしかかっていることを知っておいてください。" />
+    <string id="blcdlgaS6M1U" text="あなたの親族、{KILLER}が私の娘、{VICTIM}を奪いました。あなたにも同じ悲しみを味わわせます。戦う覚悟をしてください！" />
+    <string id="blcdlgReoGiB" text="私の娘、{VICTIM}は{KILLER}の手に倒れました。かつてはあなたを尊敬していましたが、今はもうできません。彼らのために何か言うことはありますか？" />
+    <string id="blcdlgHk9Shj" text="{VICTIM}は私の娘で、{KILLER}が彼女の命を奪いました。看過することはできません。終わる前に言うべきことを言ってください。" />
+    <string id="blcdlgvUHzB6" text="あなたの家族、{KILLER}が私の娘、{VICTIM}を殺しました。それは癒えない傷です。言うべきことを言って立ち去ってください。" />
+    <string id="blcdlgMpoIXy" text="{VICTIM}は私の娘でした。{KILLER}は許されないことをしました。それなのに、私たちはここにいます。今、私に何を言いますか？" />
+    <string id="blcdlgA9OK5u" text="私の娘、{VICTIM}は{KILLER}のせいでいなくなりました。あなたは今ここに立っており、私は聞いています。慎重に話してください。" />
+    <string id="blcdlgm8ldjS" text="{KILLER}が私の祖父母、{VICTIM}を殺しました。今日、あなたはその裏切りに対する代償を払うでしょう。正義は血を要求します！" />
+    <string id="blcdlgA34MgY" text="{KILLER}が私の祖父母、{VICTIM}の命を奪いました。彼らは知恵と力の柱でした。どうしてこんなことが起こったのですか？" />
+    <string id="blcdlgmVCAO1" text="私の祖父母、{VICTIM}は死にました。そして、{KILLER}が責任を負います。今日、この戦場が審判となるでしょう。" />
+    <string id="blcdlg0Qj0gd" text="あなたの家族、{KILLER}が私の祖父母、{VICTIM}を奪いました。ここに許しはありません。早く話してください。" />
+    <string id="blcdlggg0AxY" text="{KILLER}が私の家族から{VICTIM}、私の祖父母を奪いました。かつてはあなたを尊敬していました。あなたの話を聞いたことを後悔させないでください。" />
+    <string id="blcdlgpdf13t" text="私の祖父母、{VICTIM}は{KILLER}に連れて行かれました。話してください。聞きますが、時間を無駄にしないでください。" />
+    <string id="blcdlgJeM18g" text="{KILLER}が私の孫、{VICTIM}を殺しました。その痛みは果てしない。今日、あなたの家族も同じ喪失感を味わうでしょう！" />
+    <string id="blcdlgjyYHkA" text="{VICTIM}、私の孫は、{KILLER}のせいでいなくなりました。こんな形であなたと対峙するとは思っていませんでした。今、真実を語ってください。" />
+    <string id="blcdlgFvxgO9" text="私の孫、{VICTIM}はもういません。そして、{KILLER}に責任があります。ここで、戦場で決着をつけます。" />
+    <string id="blcdlgQB1q2B" text="あなたの家族、{KILLER}が私の孫、{VICTIM}を奪いました。許しませんが、あなたの言い分は聞いておきましょう。" />
+    <string id="blcdlgMiuXTF" text="{VICTIM}、私の孫は、{KILLER}のせいでいなくなりました。この傷がいかに深いか知っているはずです。何か言うことはありますか？" />
+    <string id="blcdlgkFZkwH" text="あなたの家族、{KILLER}が私の孫、{VICTIM}を連れて行きました。聞いていますが、私の忍耐を試さないでください。" />
+    <string id="blcdlgMTSOiY" text="{KILLER}が私の親族の一人、{VICTIM}を殺しました。あなたの血によってこぼされた家族の血は、今日、復讐されるでしょう！" />
+    <string id="blcdlgJVqsnG" text="あなたの家族、{KILLER}が私の親族、{VICTIM}の命を奪いました。簡単な話ではありませんが、あなたの言い分をどうぞ。" />
+    <string id="blcdlgbWhdSH" text="あなたはここに立って、{VICTIM}の死について私を侮辱するのか？彼を倒すには、彼の2倍の軍隊が必要だったのだ。哀れだな！今日、あなたは戦場に足を踏み入れたことを後悔するだろう。" />
+    <string id="blcdlgNkoH8q" text="あなたは優勢で、{VICTIM}は勇敢に戦いましたが、それでもあなたは彼を打ち倒しました。それが、得たものではないと知りながらも、満足のいく勝利だったのでしょうか？" />
+    <string id="blcdlgptajGx" text="あなたは圧倒的な戦力を指揮しながら、{VICTIM}を殺すことを誇りに思ったのですか？あなたが行ったことに名誉はありません。" />
+    <string id="blcdlgS1jlaf" text="あなたは圧倒的な戦力を率いて{VICTIM}を打ち負かしました。戦時下であっても、そのような行為に誇りはなく、あるのは不名誉だけです。" />
+    <string id="blcdlgTTtKDO" text="{VICTIM}はあなたの圧倒的な戦力の前に勝ち目がありませんでした。それがあなたの良心に重くのしかかっているのではないかと私は思います。" />
+    <string id="blcdlgwSC9tS" text="あなたの指揮下で、{VICTIM}は大規模な軍隊に敗北しました。その勝利はあなたにとって空虚に感じますか？" />
+    <string id="blcdlgs7UGgG" text="あなたは軍を率いて{VICTIM}を押しつぶし、圧倒的な数で彼を打ち負かしました。そこに栄光はなく、あるのは臆病さだけです。" />
+    <string id="blcdlg6jsd02" text="{VICTIM}が倒れた時、あなたが指揮を執っていたことは知っています。彼はあなたの圧倒的な数の前に勝ち目がありませんでした。それをどう正当化するのですか？" />
+    <string id="blcdlg7Su2U5" text="あなたは指揮官であり、{VICTIM}はあなたの巨大な戦力の前に勝ち目がありませんでした。あなたは彼の死を少しでも後悔していますか？" />
+    <string id="blcdlgsGz46K" text="あなたは{VICTIM}を殺したのですね。圧倒的な数で？ハッ、壊れた時計でも1日に2回は正しい時を刻みます。私が相手ではどうなるか見てみましょう！" />
+    <string id="blcdlgQ5Cpx1" text="つまり、それは本当なのですね。あなたは正々堂々と戦って{VICTIM}を殺すことができたのですね。あなたにそんなことができるとは思っていませんでした。しかし、あなたは少しでも罪悪感を感じていますか？" />
+    <string id="blcdlg0DBqqa" text="{VICTIM}はあなたの手によって死にましたが、あなたが力で圧倒されたわけでもありません。自分を証明するために、あなたはどこまで行くつもりですか？" />
+    <string id="blcdlgUGtqWu" text="あなたは戦いで{VICTIM}を打ち負かしました。圧倒的な優位ではなく、あなたの腕だけで。それで正当化できると思いますか？" />
+    <string id="blcdlgIYEFnm" text="{VICTIM}はあなたの指揮下で倒れました。正々堂々とした戦いでしたが、喪失感を和らげるものではありませんね？" />
+    <string id="blcdlgKjnByr" text="正々堂々とした戦いで、あなたは{VICTIM}を倒しました。その勝利の重さを感じていますか？" />
+    <string id="blcdlggHCG6C" text="あなたが戦いで{VICTIM}を殺したと聞きました。正々堂々とした戦いであろうとなかろうと、それであなたが立派になるわけではありません。ただ危険なだけです。" />
+    <string id="blcdlgwYDsaO" text="{VICTIM}が倒れた時、あなたが指揮を執っていたのですね？彼はもっと良い扱いを受けるべきでした。それは価値のあることでしたか？" />
+    <string id="blcdlgSiqhZ1" text="{VICTIM}はあなたの指揮下で戦い、今では死んでいます。この勝利はそれだけの価値がありましたか？" />
+    <string id="blcdlgWDGqjg" text="あなたの同類である{KILLER}は、戦場で{VICTIM}を臆病者のように殺しました。類は友を呼ぶのでしょう！" />
+    <string id="blcdlgyXVEOl" text="あなたの味方である{KILLER}は、{VICTIM}の死に責任があります。私はそれがあなたが大切にする忠誠心の種類なのかと思っています。つまり、無慈悲に殺すような忠誠心を。" />
+    <string id="blcdlgcRjaoy" text="{KILLER}はあなたの旗の下で{VICTIM}を殺し、圧倒的な戦力で彼を押しつぶしました。あなたはそのような行為を容認するのですか？" />
+    <string id="blcdlgE5fJNr" text="あなたの味方である{KILLER}は、圧倒的な数で{VICTIM}を押しつぶしました。それはあなたについて何を物語っていますか？" />
+    <string id="blcdlgyXk53E" text="{KILLER}が戦いで{VICTIM}を殺したと聞きました。それがあなたが刺激する忠誠心の種類ですか？" />
+    <string id="blcdlgqkOyd4" text="{KILLER}は圧倒的な戦力で{VICTIM}を打ち負かしました。それはあなたの価値観を反映していますか？" />
+    <string id="blcdlgYbJpoW" text="忘れたとは思わないでください。あなたが知っている{KILLER}が、戦場で{VICTIM}を虐殺しました。それはあなたについて何を物語っていますか？" />
+    <string id="blcdlgFUhSfJ" text="{KILLER}のことと、彼らが{VICTIM}にしたことについて聞きました。あなたは彼らをよく知っているはずです。そのような戦術を承認するのですか？" />
+    <string id="blcdlgahcHKP" text="あなたの仲間である{KILLER}は、一方的な戦いで{VICTIM}を殺しました。それはあなたが親しくしている人たちのことをよく反映していません。" />
+    <string id="blcdlgr8vbr3" text="{KILLER}は{VICTIM}を殺しましたが、優勢な戦力でもありませんでした。あなたの仲間の中にいる蛇、そしてあなたはそれ以下です！" />
+    <string id="blcdlgWrCW5G" text="あなたの味方である{KILLER}は、圧倒的な優位なしに{VICTIM}を殺しました。それは彼らの腕でしょうか...それとも彼らの野蛮さでしょうか？" />
+    <string id="blcdlgRLo7Du" text="あなたの友人である{KILLER}は、{VICTIM}を打ち倒しました。公平であろうとなかろうと、それはあなたが周りにいる人たちについて多くを語っています。" />
+    <string id="blcdlgnlEeVj" text="あなたの味方である{KILLER}は、戦いで{VICTIM}を殺しました。たとえ数が揃っていなくても、その行為は残忍でした。" />
+    <string id="blcdlg3OJPYD" text="{KILLER}、信頼していた者が、戦いで{VICTIM}を殺した。それについてどう思う？" />
+    <string id="blcdlgQFdhiC" text="{KILLER}が{VICTIM}を殺した。正々堂々の戦いであっても、その損失はあなたの名に影響する。" />
+    <string id="blcdlgYINJsO" text="私は、あなたの同盟者である{KILLER}が{VICTIM}にしたことを忘れていない。数で劣っていても、彼らの残虐さは比類なきものだった。" />
+    <string id="blcdlgYw6qjB" text="よく知る{KILLER}が{VICTIM}を殺した。私が思っていたあなたという人物と、どう折り合いをつける？" />
+    <string id="blcdlgE645Fj" text="あなたのアソシエイトである{KILLER}が、戦いで{VICTIM}を殺した。公平であろうとなかろうと、彼らの行動はあなたの名に影を落とす。" />
+    <string id="blcdlg17SyKN" text="ハッ！前の戦いではお前が勝ったかもしれないが、それは俺の2倍の兵力があったからだ。豚を見つけるのは質の高い貴族兵と戦うよりも簡単だ。今日、俺たちはお前の豚どもを屠ってやる！" />
+    <string id="blcdlgRybbYw" text="前回は数で圧倒されたが、今日は貴様の豚どもが真の戦士の剣の下に倒れるだろう。" />
+    <string id="blcdlgGWNypo" text="前回は貴様が戦いに勝ったが、それが公平な戦いだったとは言えないだろう。私の2倍の兵力に、より優れた補給—貴様の地位の指揮官なら当然だろう。" />
+    <string id="blcdlg4qt3No" text="前回は貴様が有利だったが、それでも貴様の腕は光っていた。対等な立場で会えるのを楽しみにしている。" />
+    <string id="blcdlgN38LRV" text="{LOCATION}の近くで戦い、貴様が勝った。圧倒的な有利には言い訳できない。次回はそれなしでどうなるか見てみよう。" />
+    <string id="blcdlgi0g1NZ" text="{LOCATION}近くでの我々の衝突は貴様の勝利に終わったが、それほどの有利さでは驚くことではなかった。公平な戦いでどうなるか見てみよう。" />
+    <string id="blcdlgSH2SsJ" text="戦争中ではあるが、今日は敵意を抱く必要はない。確かに、前回は{LOCATION}の近くで貴様が勝ったが、我々のライバル関係はまだ終わったとは言えない。" />
+    <string id="blcdlg72ZdE8" text="{LOCATION}での貴様の勝利は、我々のライバル関係を終わらせてはいない。この戦争にはまだ多くの可能性がある。" />
+    <string id="blcdlgg78gHt" text="今日は戦わないかもしれないが、前回の戦いで貴様がどう対処したか尊敬している。次に会うときも、貴様が同じように鋭敏なままでいるか興味がある。" />
+    <string id="blcdlgHud8Rk" text="前回の戦いにおける貴様の戦略は、私に印象を与えた。再び道が交わったとき、貴様がどのように行動するか楽しみにしている。" />
+    <string id="blcdlgcu0igu" text="{LOCATION}近くでの我々の前回の衝突は、貴様が有利になった。しかし、平和な時間は、再び対峙したときに新たな機会につながるかもしれない。" />
+    <string id="blcdlgs7vKQ2" text="{LOCATION}での戦いは貴様の有利になったが、戦争は驚きに満ちている。次に何が来ても対応できるように準備しておこう。" />
+    <string id="blcdlg0XBR0T" text="{LOCATION}では圧倒的な兵力があったにもかかわらず、まるで貴様の腕で勝ったかのように偉そうにしている。貴様の妄想は勘弁してくれ。" />
+    <string id="blcdlg4XlTtK" text="{LOCATION}での貴様のいわゆる勝利は、単なる数に過ぎない。腕はまだ証明されていない。" />
+    <string id="blcdlgv26JVI" text="{LOCATION}近くでのあの戦い—貴様が有利だったが、それでも貴様が軍を率いたやり方は賞賛に値する。公平な戦いで貴様がどう戦うか見たい。" />
+    <string id="blcdlgvFtuzx" text="貴様は有利だったにもかかわらず、{LOCATION}近くでうまく指揮した。五分五分の状況で貴様と対戦することを願う。" />
+    <string id="blcdlgwL9UmQ" text="{LOCATION}近くでの我々の衝突を覚えている。貴様は勝ったが、味方の数が多かった。再戦はどうなるのだろうか。" />
+    <string id="blcdlgc1QdEC" text="{LOCATION}での戦いは、純粋な数の多さで貴様が有利になった。その幸運が続くかどうか見てみよう。" />
+    <string id="blcdlgGidcMI" text="つまり、以前は私に勝った—かろうじて。増援もなく、圧倒的な有利さもなく、ただの運だ。その運は今日、貴様を救わないだろう。" />
+    <string id="blcdlgkfuosj" text="前回は運が貴様を運んだが、今日は本当の敗北がどのようなものかを知るだろう。" />
+    <string id="blcdlgivsxhd" text="私はまだ、{LOCATION}近くでの貴様の巧妙な戦略を覚えている。貴様は公平に勝った、そして私はそれを尊重する—たとえそれが私に大きな代償を払わせたとしても。" />
+    <string id="blcdlg4OV2Pw" text="{LOCATION}での貴様の戦術は、敗北の中にあっても私の尊敬を集めた。再び貴様の腕を試すのを楽しみにしている。" />
+    <string id="blcdlgfy94cH" text="我々は{LOCATION}近くで剣を交え、貴様が勝利を収めた。それは運ではなかった、認めよう。しかし、貴様の腕は今日持ちこたえるだろうか？" />
+    <string id="blcdlg1R9KNC" text="{LOCATION}では、貴様の腕は明らかだった。しかし、今日その優位性を維持できるだろうか？" />
+    <string id="blcdlgtOxZNE" text="以前は貴様が勝ったかもしれないが、それは次回貴様の弱点を攻撃するのを止めることはできない。我々の戦争はまだ終わっていない。" />
+    <string id="blcdlgMT4JoN" text="我々の戦いは、お前の勝利で決まるものではない。次は、お前が最も予期しない場所を叩くだろう。" />
+    <string id="blcdlgNnlS22" text="お前の勝利は覚えている。結果には満足しなかったが、お前の戦術は尊重する。だが、我々はまだ戦争中だ。潮目は変わるものだ。" />
+    <string id="blcdlgxLFUd3" text="以前の戦術がお前に勝利をもたらしたが、この戦争はまだ続く。どうなるか見届けよう。" />
+    <string id="blcdlg2KIPG4" text="前回の遭遇は私に不利だったが、まだ終わっていない。戦争は続く。何が起こってもおかしくない。" />
+    <string id="blcdlgKtBnMu" text="この戦争は、{LOCATION}での勝利で決着したわけではない。まだ決めることはたくさんある。" />
+    <string id="blcdlgYi0bVc" text="{LOCATION}付近で一度私を倒したかもしれないが、それはまぐれだと常に思っている。次は、そううまくはいかないだろう。" />
+    <string id="blcdlgdms2Rc" text="{LOCATION}付近での勝利はまぐれだ。それ以上でも以下でもない。二度と起こらないだろう。" />
+    <string id="blcdlgPzAebh" text="{LOCATION}付近での勝利は覚えている。激戦だった。それに対して敬意を払おう。次は、私が勝利を掴むかもしれない。" />
+    <string id="blcdlgoplphi" text="{LOCATION}付近で得た勝利には敬意を払う。次は、私自身の勝利を目指す。" />
+    <string id="blcdlgOhPuS2" text="{LOCATION}付近での前回の戦いは、お前の勝利に終わった。公平だったと認めよう。その勢いを維持できるといいね。" />
+    <string id="blcdlg0TZgWs" text="{LOCATION}で、お前は実力を証明した。次の激戦でもそれが通用するか見てみよう。" />
+    <string id="blcdlgx9eH6c" text="お前はあらゆる有利な条件があったにもかかわらず、私に負けたのだ。{LOCATION}付近では、お前の「偉大な指導力」は湿った羊皮紙のように崩れ去った。もう一度屈辱を味わう準備をしておけ。" />
+    <string id="blcdlgSdE3wN" text="圧倒的な戦力にもかかわらず、お前は{LOCATION}で私に敗れた。今日、お前の失敗は繰り返されるだろう。" />
+    <string id="blcdlgsB4o5z" text="{LOCATION}付近では、お前の戦力を考えると、お前に勝つとは思っていなかった。だが、おそらくお前の部下は私を過小評価していたのだろう。今日、彼らが教訓を学んだかどうか見てみよう。" />
+    <string id="blcdlgrU9t2h" text="{LOCATION}付近で、お前はよく戦った。だが、私の勝利は予想外だった。今日、戦況がどう変化するか見てみよう。" />
+    <string id="blcdlgaS4eII" text="不利な状況にもかかわらず、私は{LOCATION}付近で勝利を収めた。ここで、その結果が繰り返されるか見てみよう。" />
+    <string id="blcdlgfNDPkX" text="{LOCATION}には圧倒的な戦力を持ち込んだが、それでも負けた。今回はどうなるか見てみよう。" />
+    <string id="blcdlgyuPZUp" text="お前が優勢だったにもかかわらず、{LOCATION}での私の勝利は否定できないだろう。次に戦うときには、同情は期待するな。" />
+    <string id="blcdlgJq7gtm" text="お前の戦力は大きかった。それでもお前は{LOCATION}で私に敗れた。次はそれを思い出させてやろう。" />
+    <string id="blcdlgUJ1wed" text="お前の軍は{LOCATION}ではより強かった。だがそれでも、私が勝った。運が良かったのか？それとも、私が思っていたより優れているのか？" />
+    <string id="blcdlgQ8dOPw" text="{LOCATION}では、不利な状況にもかかわらずお前に勝って驚いた。また同じ結果になるのだろうか。" />
+    <string id="blcdlgYLsxIT" text="前回の戦いでは、不利な状況にもかかわらず私が勝利した。それは私に強い印象を残した。お前にはどう影響したのだろうか。" />
+    <string id="blcdlgWMPRvT" text="{LOCATION}で勝つとは思っていなかったが、ここにいる。歴史は繰り返されるか見てみよう。" />
+    <string id="blcdlgbtOskL" text="有利な立場にあったにもかかわらず、お前は{LOCATION}で私に勝てなかった。恥ずべき行いだと思うだろう？" />
+    <string id="blcdlg5J9hBF" text="{LOCATION}ではお前の戦力が優勢だった。だがそれでも、私は勝利した。今回はどんな言い訳をするつもりだ？" />
+    <string id="blcdlg1R2fJ7" text="{LOCATION}での君のリーダーシップは、負けたとしても立派だった。それ以来、君がどう成長したのか見るのが楽しみだ。" />
+    <string id="blcdlgHAIahX" text="{LOCATION}で君を倒したが、君のリーダーシップは印象に残った。それについては敬意を表する。" />
+    <string id="blcdlgY2g37n" text="{LOCATION}での我々の衝突は驚きだった。勝つとは思っていなかった。運が良かったのかもしれないが、また起こるのか気になる。" />
+    <string id="blcdlggEbuXQ" text="{LOCATION}では、お前の優位性にもかかわらず私が勝利した。今日は形勢が逆転するか見てみよう。" />
+    <string id="blcdlghVzYDV" text="つまり、互角の立場で戦った{LOCATION}で私はお前に勝ったのだ。今日が違うと思うのか？" />
+    <string id="blcdlgcLA9tB" text="{LOCATION}で、あなたは傲慢の代償を学びました。今日、再びそれを学ぶでしょう。" />
+    <string id="blcdlgKzfwgx" text="{LOCATION}でよく戦いましたが、それでも私は勝利しました。良い戦いでした。今日もまた同じような戦いを期待しています。" />
+    <string id="blcdlgS2e2mj" text="{LOCATION}で、私はあなたを打ち負かしましたが、あなたは記憶に残る戦いを私に与えてくれました。今日もまた、新たな戦いを繰り広げましょう。" />
+    <string id="blcdlggeDoJu" text="{LOCATION}での私たちの衝突は、私の有利な結果に終わりました。あれからあなたがどれだけ成長したか見てみましょう。" />
+    <string id="blcdlgbOMBAF" text="{LOCATION}であなたは私に倒れましたが、戦場は常に予測不可能です。今日何が起こるか見てみましょう。" />
+    <string id="blcdlgkB8GgD" text="{LOCATION}で、私は正々堂々とあなたを打ち負かしました。戦場で再び会うときにそれを思い出してください。" />
+    <string id="blcdlgaoql06" text="{LOCATION}での私たちの戦いは、どちらが強かったかを証明しました。あれから何かを学んだことを願っています。" />
+    <string id="blcdlgh4nuOG" text="{LOCATION}で、私は勝利を収めましたが、あなたの戦術には感銘を受けました。次の出会いが楽しみです。" />
+    <string id="blcdlgzSP2E3" text="{LOCATION}で、あなたは敗北の中にあっても見事な戦いぶりでした。私はあなたを立派な敵として尊敬しています。" />
+    <string id="blcdlgDN28iJ" text="{LOCATION}で私はあなたに勝利しましたが、すべての戦いは学びの経験です。次にどうなるか見てみましょう。" />
+    <string id="blcdlgqV8n22" text="{LOCATION}で、私は勝利を収めました。しかし、戦いにおける私たちの未来がどうなるかは誰にもわかりません。" />
+    <string id="blcdlgUlPSkA" text="{LOCATION}でのあなたの敗北は、特に条件が公平だっただけに、痛手だったはずです。今日、私はあなたにその敗北を思い出させましょう。" />
+    <string id="blcdlgBGom4v" text="{LOCATION}で、私は自分の優位性を示しました。今日、あなたが何か新しいものを戦場に持ち込んでいるか見てみましょう。" />
+    <string id="blcdlgrcT8tZ" text="{LOCATION}でのあなたのパフォーマンスは、敗北の中にあっても称賛に値するものでした。お互いに学び合えることを願っています。" />
+    <string id="blcdlg52EveY" text="{LOCATION}で、私は勝利を収めましたが、あなたの勇気は際立っていました。そのことを尊敬します。" />
+    <string id="blcdlgQexiJR" text="{LOCATION}での私たちの戦いは私の有利な結果に終わりましたが、二度とあなたを過小評価することはないでしょう。" />
+    <string id="blcdlg3FlFM6" text="{LOCATION}で、私は勝利しましたが、あなたはよく戦いました。歴史は繰り返されるでしょうか。" />
+    <string id="blcdlgW8criF" text="ハッ！私があなたに鎖をかけ、犬のように戦場から引きずり出したのを忘れたようだな！心配することはない、今日、あなたはすべてを再び思い出すだろう。もちろん、戦場で犬のように死なない限りな。" />
+    <string id="blcdlgUnEa4x" text="私の鎖の重さを手首に覚えていますか？その屈辱をもう一度思い出させる必要があるようです。" />
+    <string id="blcdlgaZRcKL" text="私の{KILLER}がどのようにあなたを野獣のように鎖で繋いだかを覚えています。永遠に裁きから逃れられると思ったか？鎖で連れ戻してやる！" />
+    <string id="blcdlgsXGI9o" text="私の{KILLER}は、かつてあなたを野獣のように捕らえていました。今日からあなたの監禁生活を再開させましょう。" />
+    <string id="blcdlgR2UHZW" text="{VICTIM}、お前の親族は、かつて私の手に落ちた。お前の家族全員が、一人ずつ私の鎖につながれる運命なのだろう！" />
+    <string id="blcdlgRi724j" text="私はお前の大切な親族である{VICTIM}を捕虜にした。今日、お前も私の捕虜コレクションに加えてやろうか。" />
+    <string id="blcdlgYe7kTi" text="よくも私をただの泥棒のように檻に入れた後で、私に立ち向かってくるな？今度は、お前が自由を懇願することになるだろう！" />
+    <string id="blcdlgphZFUZ" text="捕虜にされた屈辱は今も私の心の中で燃え盛っている。今日、その恥辱に復讐してやる。" />
+    <string id="blcdlgdJyXku" text="{KILLER}はかつて、私を投獄しようとした。戦場で会う時、私の名誉を傷つけたことを後悔するだろう！" />
+    <string id="blcdlg63CySi" text="{KILLER}に捕らわれたことは、お前も知っているはずだ。私のプライドを傷つけた。今日、私の復讐に備えろ。" />
+    <string id="blcdlgepLsaa" text="あなたは私の親族である{VICTIM}を捕虜にした。そのような侮辱は、決して見過ごすことはできない！" />
+    <string id="blcdlg8FGKXz" text="私の家族の{VICTIM}は、お前の捕虜生活で苦しんだ。今日、お前は彼らの苦痛に対する償いをすることになるだろう。" />
+    <string id="blcdlgQ5eXCX" text="また会ったな。かつてお前を捕らえた時のことを思い出さずにはいられない。その屈辱を返すために来たのか？" />
+    <string id="blcdlg7TsPkp" text="あなたを見ると、私があなたを敗北した獣のように鎖で繋いだ時を思い出します。再び私に挑戦しますか、それとも自分の立場をわきまえましたか？" />
+    <string id="blcdlgJlyf5e" text="あなたはかつて私の{KILLER}の手に落ちていました。復讐を求めて来たのか、それとも単に屈辱を味わいたいだけなのか、気になります。" />
+    <string id="blcdlgAfoZGV" text="私の{KILLER}の鎖によるあなたの傷はまだ残っています。あなたが求めているのは復讐ですか、それとも降伏ですか？" />
+    <string id="blcdlgexLykQ" text="あなたの同族である{VICTIM}は、かつて私に敗れました。あなたは家族の名誉を解放しようとしますか、それとも私があなたからもっと奪いますか？" />
+    <string id="blcdlgZosxHf" text="{VICTIM}、あなたの血筋は、私の怒りを味わいました。あなたは彼らの運命をたどりますか、それともあえて彼らの仇を討ちますか？" />
+    <string id="blcdlgnYZi7L" text="なるほど、あなたは私を投獄した者ですか。再び戦争が始まりました。あなたは二度目もそれほど大胆になれるでしょうか？" />
+    <string id="blcdlgKf7q0I" text="私はあなたの牢獄を忘れていません。しかし、戦争は長く、私の復讐は時が来れば果たされるでしょう。" />
+    <string id="blcdlgZQzDSc" text="あなたの{KILLER}は、かつて私を動物のように檻に入れました。今、私たちは再び戦争をしており、私の刃は報復を求めています。" />
+    <string id="blcdlgppp3pS" text="私はあなたの{KILLER}の慈悲に甘んじていました。しかし、この戦争は、私がその決着をつける機会を与えてくれました。" />
+    <string id="blcdlg7t0tuw" text="あなたは私の同族である{VICTIM}を捕虜にする大胆なことをしました。私はその侮辱を見過ごすわけにはいきません。" />
+    <string id="blcdlgu3wget" text="{VICTIM}はあなたのもとで苦しみ、その借りが血で償われるまで、この戦争は終わらないでしょう。" />
+    <string id="blcdlgo79agp" text="あなたを捕虜にした日のことを覚えています。あなたは今、過去を避けて自由に歩いているのですか？" />
+    <string id="blcdlgBLOW4X" text="かつてあなたが私の囚人だったのに、今平和な時に再会するとは奇妙なことです。" />
+    <string id="blcdlgn18KRK" text="あなたはかつて私の{KILLER}に鎖でつながれていました。運命はいたずらをして、剣を交えることなく私たちを会わせているのでしょう。" />
+    <string id="blcdlguOT7Xn" text="今、私たちが平和な時を迎えても、あなたの私の{KILLER}との過去は忘れられていません。あなたは何をしに来たのですか？" />
+    <string id="blcdlg72kW8r" text="あなたの同族である{VICTIM}は、かつて私の囚人でした。彼らはまだ私の慈悲、あるいは私の怒りについて話していますか？" />
+    <string id="blcdlghUIUJ6" text="私はあなたの血筋である{VICTIM}を鎖で繋ぎました。今は平和が続いているかもしれませんが、記憶は残っています。" />
+    <string id="blcdlgnhEv1M" text="あなたはかつて私を捕虜にしました。今は平和が支配していますが、その記憶は私の心に残り続けています。" />
+    <string id="blcdlgz7hDzb" text="私はあなたの牢獄をよく覚えています。なぜ私たちは平和な時に出会ったのですか？私を嘲笑しようとしているのですか？" />
+    <string id="blcdlgbUcm2F" text="あなたの{KILLER}はかつて私を捕虜にしました。今、私たちは剣を交えずに会っています。この世界はなんと奇妙なのでしょう。" />
+    <string id="blcdlgwiGI7C" text="私はまだあなたの{KILLER}の鎖を覚えています。なぜ私たちは今、お互いをのどを掻き切ろうとしないのですか？" />
+    <string id="blcdlgve3MwU" text="私の氏族のメンバーである{VICTIM}は、あなたに捕らえられました。今は平和であるかもしれませんが、傷跡は残っています。" />
+    <string id="blcdlg0jCiIK" text="あなたはかつて私の同族である{VICTIM}を投獄しました。たとえ戦争なしで会うことがあっても、私は忘れていません。" />
+    <string id="blcdlgGux0gh" text="はっ！あなたは{LOCATION}近くで私たちの戦力である{VICTIM}を倒したかもしれませんが、それはあなたが圧倒的な数を持ってきたからにすぎません。臆病者の勝利です。" />
+    <string id="blcdlgvCChc1" text="{LOCATION}での私たちの派閥の{VICTIM}を倒しても何も変わりません。あなたの戦術は必死さを物語っています。" />
+    <string id="blcdlgNLnmsX" text="{LOCATION}近くでの私たちの側の{VICTIM}に対するあなたの勝利について聞きました。印象的ですが、それを頭に乗せないでください。" />
+    <string id="blcdlggee7SM" text="{LOCATION}での私たちの派閥の{VICTIM}に対するあなたの勝利は一見の価値がありました。よくできました。" />
+    <string id="blcdlgz3Tce2" text="なるほど、あなたは{LOCATION}近くで私たちの派閥の{VICTIM}を倒したのですね。私と対戦しても同じようにうまくいくか見てみましょう。" />
+    <string id="blcdlglZZiRE" text="{LOCATION}での私たちの側の{VICTIM}に対するあなたの勝利は注目に値するものでしたが、私はそう簡単には倒せません。" />
+    <string id="blcdlgUO5DtE" text="あなたは{LOCATION}近くで{AGAINST}の{VICTIM}を倒しましたが、それはあまり証明になりません。彼らは私たちほど熟練していません。" />
+    <string id="blcdlgKk15YV" text="{LOCATION} での {AGAINST} の {VICTIM} を倒したことは、大したことではありません。もっと手強い相手を見つけてください。" />
+    <string id="blcdlgcvz6ve" text="{LOCATION} の近くで {AGAINST} の {VICTIM} に勝利したそうですね。素晴らしい偉業ですが、あなたなら当然でしょう。" />
+    <string id="blcdlgwFOU7W" text="{LOCATION} での {AGAINST} の {VICTIM} に対するあなたの勝利は、あなたの腕を示しています。よくやった。" />
+    <string id="blcdlgW2P8U1" text="{LOCATION} の近くで {AGAINST} の {VICTIM} に勝利したことは有名です。その連勝を維持できるか見てみましょう。" />
+    <string id="blcdlgk0RQ7c" text="{LOCATION} での {AGAINST} の {VICTIM} の撃破は見事でした。本当の挑戦にどう対処するか見てみましょう。" />
+    <string id="blcdlg2D5xil" text="{LOCATION} の近くでの我が勢力の {VICTIM} に対するあなたの勝利は、数的優位にもかかわらず、印象的でした。" />
+    <string id="blcdlgU2BRRK" text="{LOCATION} で我が側から {VICTIM} を倒しても、あなたのことをどう思っているかは変わりません。" />
+    <string id="blcdlgu0K9Ek" text="{LOCATION} の近くで我が側から {VICTIM} に勝利したそうですね。よく戦いましたが、状況を考えると少し不公平だったかもしれません。" />
+    <string id="blcdlgEuawg8" text="{LOCATION} での我が勢力の {VICTIM} に対するあなたの成功は注目に値しました。敬意を表します。" />
+    <string id="blcdlgoGn2s3" text="{LOCATION} の近くでの我が勢力の {VICTIM} に対するあなたの勝利は、あなたの数を考えれば予想通りでした。" />
+    <string id="blcdlgGZ0yrM" text="{LOCATION} での我が勢力の {VICTIM} に対するあなたの勝利は、状況を考えると驚くにはあたりません。" />
+    <string id="blcdlgkn1PcM" text="{LOCATION} の近くでの {AGAINST} の {VICTIM} に対するあなたの勝利は、数的優位にもかかわらず、印象的でした。" />
+    <string id="blcdlgfDi7gy" text="{LOCATION} での {AGAINST} の {VICTIM} に対してでさえ、圧倒的な数のおかげで勝てただけです。" />
+    <string id="blcdlgBNznEQ" text="{LOCATION} の近くで {AGAINST} の {VICTIM} に勝利したそうですね。よく戦いましたが、状況を考えると少し不公平だったかもしれません。" />
+    <string id="blcdlgVHMemN" text="{LOCATION} での {AGAINST} の {VICTIM} に対するあなたの勝利は、あなたの腕の素晴らしい見せ場でした。よくやりました。" />
+    <string id="blcdlgpkJEcf" text="{LOCATION} の近くでの {AGAINST} の {VICTIM} に対するあなたの勝利は、あなたの数を考えれば予想通りでした。" />
+    <string id="blcdlgxZptxj" text="{LOCATION} での {AGAINST} の {VICTIM} の撃破は、あなたが持っていた戦力を考えると驚くことではありませんでした。" />
+    <string id="blcdlgQUCfgY" text="{LOCATION} の近くで我が勢力の {VICTIM} に対して運が良かっただけです。その運は今日あなたを救いません。" />
+    <string id="blcdlgYU9BVw" text="{LOCATION} での我が側の {VICTIM} に対するあなたのいわゆる勝利は、私にとってはほとんど意味がありません。異なる結果に備えてください。" />
+    <string id="blcdlg3flROl" text="{LOCATION} の近くで我が側から {VICTIM} に勝利したそうですね。正々堂々と戦って、よくやった。" />
+    <string id="blcdlgMl8z4x" text="{LOCATION} での我が勢力の {VICTIM} に対するあなたの成功は感動的でした。私はあなたに感銘を受けています。" />
+    <string id="blcdlglD1BCb" text="{LOCATION} の近くで我が勢力の {VICTIM} を克服しました。それは簡単なことではありませんでしたが、今あなたは私と対戦します。" />
+    <string id="blcdlgF5CWrL" text="{LOCATION} での我が側の {VICTIM} に対するあなたの勝利は注目に値しますが、これは異なるゲームです。" />
+    <string id="blcdlg0qFhOb" text="{LOCATION} の近くで {AGAINST} の {VICTIM} を倒したそうですね。うぬぼれないでください。私との戦いでは、状況が異なるでしょう。" />
+    <string id="blcdlgvHcq8S" text="{LOCATION} での {AGAINST} の {VICTIM} に対するあなたのいわゆる勝利は、ここでは繰り返されません。" />
+    <string id="blcdlgKRJDPH" text="{LOCATION} の近くでの {AGAINST} の {VICTIM} に対するあなたの勝利は、熟練したものでした。この戦いでどう対処するか見てみましょう。" />
+    <string id="blcdlgKd1gpQ" text="{LOCATION} での {AGAINST} の {VICTIM} に対するあなたの勝利は印象的でした。さらに多くのことを見られることを楽しみにしています。" />
+    <string id="blcdlg30k9LB" text="{LOCATION} の近くで {AGAINST} の {VICTIM} に勝ちました。それは偶然ではありませんでしたが、その偉業を繰り返すことはできますか？" />
+    <string id="blcdlgnMRCuX" text="{LOCATION} での {AGAINST} の {VICTIM} に対するあなたの勝利は、決して小さな成果ではありませんでした。あなたの次の目標は何ですか？" />
+    <string id="blcdlgLkEBky" text="{LOCATION} の近くで我が勢力の {VICTIM} に対して運が良かっただけです。その運は今日あなたを救いません。" />
+    <string id="blcdlg2keNxj" text="{LOCATION}での味方{VICTIM}の敗北はまぐれだ。お前の実力がどれほど弱いか、目に焼き付けさせてやる。" />
+    <string id="blcdlgocNfe4" text="{LOCATION}付近で味方{VICTIM}にお前が勝利したと聞いた。正々堂々とした戦いだった、よくやった。" />
+    <string id="blcdlgWhi3FI" text="{LOCATION}での味方{VICTIM}に対するお前の勝利は、我々全員にとって誇らしい瞬間だった。よくやった。" />
+    <string id="blcdlgd1giqT" text="{LOCATION}付近で味方の{VICTIM}を打ち負かしたな。それは並大抵のことではないが、今度は私が相手だ。" />
+    <string id="blcdlghImsI5" text="{LOCATION}での味方{VICTIM}に対するお前の勝利は印象的だった。もう一度できるのか見ものだな。" />
+    <string id="blcdlgtFnEXr" text="{LOCATION}付近で{AGAINST}の{VICTIM}を打ち負かしたそうだな。調子に乗るなよ、私を相手にするとなると話は別だ。" />
+    <string id="blcdlgghkkVv" text="{LOCATION}での{AGAINST}の{VICTIM}に対する、お前の自称勝利はこれが最後だ。覚悟しろ。" />
+    <string id="blcdlg0JKdZv" text="{LOCATION}付近での{AGAINST}の{VICTIM}に対するお前の勝利は見事だった。この戦いでどう立ち回るか見てみよう。" />
+    <string id="blcdlgiO8LIM" text="{LOCATION}での{AGAINST}の{VICTIM}に対するお前の成功を聞いた。同じ強さを見せてみろ。" />
+    <string id="blcdlgBpNU0u" text="{LOCATION}付近で{AGAINST}の{VICTIM}に勝ったな。それは偶然ではないが、もう一度同じことができるか？" />
+    <string id="blcdlgrrDYLC" text="{LOCATION}での{AGAINST}の{VICTIM}に対するお前の勝利は、並大抵の成果ではなかった。今度は、お前の限界を試させてもらう。" />
+    <string id="blcdlgbgGNxR" text="{LOCATION}付近での味方{VICTIM}に対するお前の勝利は印象的だった。もしかしたら何かを学んだかもしれないな。" />
+    <string id="blcdlgrPIVCo" text="{LOCATION}での味方{VICTIM}に対する勝利でさえ、賞賛に値するものなど何もない。" />
+    <string id="blcdlghkIRrn" text="{LOCATION}付近で味方{VICTIM}にお前が勝利したと聞いた。よく戦った、お前の腕の証だ。" />
+    <string id="blcdlgpRRxhK" text="{LOCATION}での味方{VICTIM}に対するお前の成功は、我々に誇りをもたらした。よくやった、戦士よ。" />
+    <string id="blcdlgC1OIgo" text="{LOCATION}付近での味方{VICTIM}に対するお前の勝利は印象的だった。そのパフォーマンスレベルを維持できるか見てみよう。" />
+    <string id="blcdlgiufCMY" text="{LOCATION}での味方{VICTIM}の撃破は簡単なことではなかった。この勢いを維持しろ。" />
+    <string id="blcdlgBqlLHT" text="{LOCATION}付近での{AGAINST}の{VICTIM}に対するお前の勝利は印象的だった。もしかしたら何かを学んだかもしれないな。" />
+    <string id="blcdlgdG2yb2" text="{LOCATION}で{AGAINST}の{VICTIM}に勝ったとはいえ、かろうじてだったな。次はそんなに運良くはいかないだろう。" />
+    <string id="blcdlga2FA4U" text="{LOCATION}付近で{AGAINST}の{VICTIM}にお前が勝利したと聞いた。よく戦った、お前の腕の証だ。" />
+    <string id="blcdlg8nwuwu" text="{LOCATION}での{AGAINST}の{VICTIM}に対するお前の勝利は、感動的な強さの表れだった。おめでとう。" />
+    <string id="blcdlgWLoJDJ" text="{LOCATION}付近での{AGAINST}の{VICTIM}に対するお前の勝利は印象的だった。そのパフォーマンスレベルを維持できるか見てみよう。" />
+    <string id="blcdlgHzkXuL" text="{LOCATION}での{AGAINST}の{VICTIM}の撃破はいいスタートだった。さあ、他に何ができるか見せてみろ。" />
+    <string id="blcdlgUnXjJj" text="数の優位があったにもかかわらず、{LOCATION} 付近で同じ陣営の {VICTIM} にさえ負けましたね。今ならもっとうまくできると思う根拠は何ですか？" />
+    <string id="blcdlgmAB4kr" text="{LOCATION} での味方 {VICTIM} を倒したのはまぐれです。今日はそんな幸運はないでしょう。" />
+    <string id="blcdlgdXA0Qr" text="{LOCATION} 付近で味方の {VICTIM} に負けたそうですね。恥ずかしいことではありませんが、今日こそは名誉挽回できるかもしれません。" />
+    <string id="blcdlgLILGpg" text="{LOCATION} での味方陣営の {VICTIM} に対するあなたの敗北は残念でした。心配しないでください、またすぐに立ち直れるでしょう。" />
+    <string id="blcdlgZ1JrV1" text="圧倒的な戦力を持ってしても、{LOCATION} 付近で味方陣営の {VICTIM} に負けましたね。この戦いをどう切り抜けるか見てみましょう。" />
+    <string id="blcdlgYuE58v" text="{LOCATION} での味方陣営の {VICTIM} に負けたということは、まだ学ぶべきことが多いということです。成長したかどうか見てみましょう。" />
+    <string id="blcdlgEN60fk" text="有利だったにもかかわらず、{LOCATION} 付近で {AGAINST} の {VICTIM} にさえ勝てませんでしたね。情けないったらありゃしない。" />
+    <string id="blcdlgPluEd2" text="{LOCATION} での {AGAINST} の {VICTIM} を倒せなかったことは、あなたの弱点を露呈しています。今回も同じ結果になるでしょう。" />
+    <string id="blcdlgXka3l4" text="{LOCATION} 付近で {AGAINST} の {VICTIM} に負けたと聞きました。ご心配なく。今日は新しいチャンスです。" />
+    <string id="blcdlgnfeQ2Y" text="{LOCATION} での {AGAINST} の {VICTIM} に負けたということは、最強の者でも倒れることがあるということです。あなたが何を学んだか見せてください。" />
+    <string id="blcdlgXMigSp" text="有利な状況にもかかわらず、{LOCATION} 付近で {AGAINST} の {VICTIM} に負けましたね。そこから学んだことがあるといいのですが。" />
+    <string id="blcdlgcC5tQK" text="{LOCATION} での {AGAINST} の {VICTIM} を倒すのは簡単なことではありませんでしたが、より大きな危険を背負って再び倒すことができますか？" />
+    <string id="blcdlgCGozuc" text="数の有利を考えると、{LOCATION} 付近での味方陣営の {VICTIM} に対するあなたの敗北は予想外でした。" />
+    <string id="blcdlgd6aVwV" text="数的優位があったにもかかわらず、{LOCATION} での味方陣営の {VICTIM} はあなたに貴重な教訓を与えました。あなたにはもっと期待していますよ。" />
+    <string id="blcdlg8zI9zl" text="{LOCATION} 付近での味方への敗北について聞きました。恥じることはありませんが、この経験から学べるといいですね。" />
+    <string id="blcdlgziUj9G" text="{LOCATION} での味方陣営の {VICTIM} に対する敗北は、あなたの価値を損なうものではありません。それは改善への足がかりです。" />
+    <string id="blcdlgKHGZex" text="{LOCATION} 付近での味方陣営の {VICTIM} に対するあなたの敗北は、あなたの人数を考えると驚きでした。" />
+    <string id="blcdlgMAF36t" text="{LOCATION} で味方陣営の {VICTIM} に倒れましたね。今回はどう戦うのか見てみましょう。" />
+    <string id="blcdlgrTMqpb" text="数の優位を考えると、{LOCATION} 付近での {AGAINST} の {VICTIM} に対するあなたの敗北は予想外でした。" />
+    <string id="blcdlgvKazam" text="有利な状況にもかかわらず、{LOCATION} で {AGAINST} の {VICTIM} はあなたを倒しました。今回はさらに酷い結果になるでしょう。" />
+    <string id="blcdlg8zQXoX" text="{LOCATION} 付近での {AGAINST} の {VICTIM} への敗北について聞きました。恥じることはありませんが、この経験から学べるといいですね。" />
+    <string id="blcdlgdp1XE8" text="{LOCATION} での {AGAINST} の {VICTIM} に負けたのは後退でした。そこから何を得たか見てみましょう。" />
+    <string id="blcdlgaMXzsE" text="数の有利を考えると、{LOCATION} 付近での {AGAINST} の {VICTIM} に対するあなたの敗北は驚きでした。" />
+    <string id="blcdlggV5FXW" text="{LOCATION} で {AGAINST} の {VICTIM} に負けましたね。それ以来何かを学んだと信じています。" />
+    <string id="blcdlgkO0i33" text="正々堂々と、{LOCATION} 付近で味方陣営の {VICTIM} があなたを打ち負かしました。今回は言い訳はできませんよ。" />
+    <string id="blcdlgCFVF9t" text="あなたは{LOCATION}で、我々の派閥の{VICTIM}に正々堂々と負けました。もう失敗を言い訳するのはやめましょう。" />
+    <string id="blcdlgyIeigp" text="{LOCATION}の近くで、我々の派閥の{VICTIM}があなたを打ち負かしたと聞きました。正々堂々の戦いで、負けるのは恥ではありません。" />
+    <string id="blcdlguX5ieX" text="{LOCATION}で、我々の派閥の{VICTIM}に負けても、あなたは名誉を示しました。その精神を持ち続けてください。" />
+    <string id="blcdlgSCsBfe" text="あなたは{LOCATION}の近くで、我々の派閥の{VICTIM}に負けました。正当な敗北です。今日はどう戦うか見てみましょう。" />
+    <string id="blcdlg2W0EPz" text="{LOCATION}で、我々の派閥の{VICTIM}に負けたからといって、あなたが弱いわけではありませんが、立ち上がる時です。" />
+    <string id="blcdlgRjCErS" text="{LOCATION}の近くで、{AGAINST}の{VICTIM}に負けましたね。正々堂々とした戦いでした。再び敗北を味わう準備をしましょう。" />
+    <string id="blcdlgK0yAa3" text="{LOCATION}で、{AGAINST}の{VICTIM}に負けたのが最初の過ちでした。もう後戻りはできません。" />
+    <string id="blcdlgTWtLhS" text="{LOCATION}の近くで、{AGAINST}の{VICTIM}に負けたと聞きました。正当な戦いでしたが、今日は新たなチャンスです。" />
+    <string id="blcdlgKWAEuw" text="{LOCATION}で、{AGAINST}の{VICTIM}に負けたことで、あなたは不屈の精神を示しました。それを無駄にしないでください。" />
+    <string id="blcdlgc2BQfV" text="{LOCATION}の近くで、{AGAINST}の{VICTIM}に正々堂々と負けました。それからどれだけ成長したか見てみましょう。" />
+    <string id="blcdlg12oSjU" text="{LOCATION}で、{AGAINST}の{VICTIM}に負けたことは終わりではありません。どれだけ成長したか見てみましょう。" />
+    <string id="blcdlgx1pQM2" text="{LOCATION}の近くで、我々の派閥の{VICTIM}が正々堂々とあなたを打ち負かしました。今回は言い訳はできません。" />
+    <string id="blcdlgx5iQhR" text="{LOCATION}で、我々の派閥の{VICTIM}を倒すことができませんでした。今日はさらに難しくなるでしょう。" />
+    <string id="blcdlgHryLDo" text="{LOCATION}の近くで、我々の派閥の{VICTIM}があなたを打ち負かしたと聞きました。正々堂々の戦いで、負けるのは恥ではありません。" />
+    <string id="blcdlgB9rQcb" text="敗北の中でも、我々の派閥の{VICTIM}は{LOCATION}でその腕前を示しました。あなたの方がうまくやれるか見てみましょう。" />
+    <string id="blcdlg14xEIw" text="あなたは{LOCATION}の近くで、我々の派閥の{VICTIM}に負けました。正当な敗北です。今日はどう戦うか見てみましょう。" />
+    <string id="blcdlgys0R4c" text="{LOCATION}で、{VICTIM}に負けたことは、あなたにとって目を開かされる出来事でした。そこから学んだかどうか見てみましょう。" />
+    <string id="blcdlgaQrQCl" text="{LOCATION}の近くで、{AGAINST}の{VICTIM}に負けましたね。正々堂々とした戦いでした。再び敗北を味わう準備をしましょう。" />
+    <string id="blcdlgszWD5g" text="あなたの全ての力を尽くしても、{LOCATION}で{AGAINST}の{VICTIM}があなたを倒しました。異なる結果は期待しないでください。" />
+    <string id="blcdlg6y4Ieg" text="{LOCATION}の近くで、{AGAINST}の{VICTIM}に負けたと聞きました。正当な戦いでしたが、今日は新たなチャンスです。" />
+    <string id="blcdlgqWccpT" text="{LOCATION}で、{AGAINST}の{VICTIM}に負けたことは簡単なことではありませんでした。しかし、心配しないでください。今日は新たなスタートです。" />
+    <string id="blcdlgHHpN5f" text="{LOCATION}の近くで、{AGAINST}の{VICTIM}に正々堂々と負けました。それからどれだけ成長したか見てみましょう。" />
+    <string id="blcdlgQCu2eA" text="有利な状況にもかかわらず、{LOCATION}で{AGAINST}の{VICTIM}があなたを打ち負かしました。今回はよりうまく戦えるでしょうか？" />
+    <string id="blcdlgFes1xv" text="{LOCATION}の近くで、我々の派閥の{VICTIM}に負けたのは予想外でした。おそらくあなたは彼らを過小評価していたのでしょう。" />
+    <string id="blcdlg4l6zLG" text="{LOCATION}で、我々の派閥の{VICTIM}に負けたのは弱さの表れでした。今回はよりうまく戦えることを信じています。" />
+    <string id="blcdlgaVgnk5" text="{LOCATION}の近くで、我々の側の{VICTIM}に負けたと聞きました。恥ずべきことではありませんが、どのように立ち直るか見てみましょう。" />
+    <string id="blcdlglT08ez" text="{LOCATION}で、{VICTIM}に負けたのは残念でした。しかし、誰でもつまずくものです。回復できるかどうか見てみましょう。" />
+    <string id="blcdlgrrE6B5" text="{LOCATION}の近くで、我々の派閥の{VICTIM}に負けたのは驚きでした。状況を好転させることができるか見てみましょう。" />
+    <string id="blcdlgVt76yX" text="{LOCATION}で、{VICTIM}に不意を突かれましたね。それからどれだけ学んだか見せてください。" />
+    <string id="blcdlgbyxDC3" text="{LOCATION}の近くで、{AGAINST}の{VICTIM}に負けたのは予想外でした。おそらくあなたは彼らを過小評価していたのでしょう。" />
+    <string id="blcdlgwE5pMI" text="{LOCATION}で{AGAINST}の{VICTIM}に負けたのは、さぞかし悔しかったでしょう。今回は結果が変わるとは思わないでください。" />
+    <string id="blcdlgYWaPHD" text="{LOCATION}近くで{AGAINST}の{VICTIM}に負けたと聞きました。恥じることはありませんが、どう立ち直るか見てみましょう。" />
+    <string id="blcdlgpThUjp" text="{LOCATION}で{AGAINST}の{VICTIM}に負けたのは、受け入れがたいことでしたでしょう。しかし、今日は新たなチャンスです。" />
+    <string id="blcdlgsVViAS" text="{LOCATION}近くで{AGAINST}の{VICTIM}に負けたのは、驚きでした。状況を好転させることができるか見てみましょう。" />
+    <string id="blcdlgEwnUbB" text="{LOCATION}で{AGAINST}の{VICTIM}に負けたのは、予想外でした。今日はもっとうまくできますか？" />
+    <string id="blcdlgCeYjyz" text="{LOCATION}近くで、我が勢力の{VICTIM}に負けましたね。そのような失敗は弁解の余地はありません。次は容赦しないでしょう。" />
+    <string id="blcdlgPjvIOk" text="{LOCATION}で、我が勢力の{VICTIM}に負けたのは、単なる敗北ではなく、教訓です。この機会を無駄にしないでください。" />
+    <string id="blcdlg1glltJ" text="{LOCATION}近くで、我が勢力の{VICTIM}に負けたと聞きました。厳しい敗北でしたが、誰にでも調子の悪い日はあります。今日、どのように戦うか見てみましょう。" />
+    <string id="blcdlgRgwIr2" text="チャンピオンでさえ負けることもあります。{LOCATION}で我が勢力の{VICTIM}に負けたことは、あなたが人間であることを示しています。立ち上がる姿を見せてもらいましょう。" />
+    <string id="blcdlg5iD1zn" text="{LOCATION}近くで、我が勢力の{VICTIM}に負けましたね。正々堂々とした戦いでした。次戦はどうなるでしょうね。" />
+    <string id="blcdlg1VkXH8" text="{LOCATION}で、我が勢力の{VICTIM}との正当な敗北でした。次回は、より準備ができているかどうか見てみましょう。" />
+    <string id="blcdlgeR58C3" text="{LOCATION}近くで{AGAINST}の{VICTIM}に負けましたね。そのような負け方は辛いでしょう。次回はもっと良い結果を期待しないでください。" />
+    <string id="blcdlgEaInm3" text="{LOCATION}で{AGAINST}の{VICTIM}に負けたのは、あなたの失墜の始まりに過ぎません。同じようなことがまた起こると思って準備してください。" />
+    <string id="blcdlgSQ7WRM" text="{LOCATION}近くで{AGAINST}の{VICTIM}に負けたと聞きました。残念ですね。それでも、あなたを尊敬しています。今日、状況を好転させることができるか見てみましょう。" />
+    <string id="blcdlgsrXWow" text="{LOCATION}で{AGAINST}の{VICTIM}に負けたことは、あなたを定義づけるものではありません。今、どのように戦うかを楽しみにしています。" />
+    <string id="blcdlg38u0Xs" text="{LOCATION}近くで{AGAINST}の{VICTIM}に負けましたね。厳しい戦いでしたが、今日はより準備ができているかもしれません。" />
+    <string id="blcdlg4bXNI9" text="{LOCATION}で{AGAINST}の{VICTIM}に負けたことは、あなたが無敵ではないことを示しています。状況を好転させることができるか見てみましょう。" />
+    <string id="blcdlg86RMTB" text="圧倒的な有利な状況だったにも関わらず、{LOCATION}近くで{VICTOR}にバカみたいに負けましたね！それなのに今、私の前に立って、違う結果を期待しているのですか？情けない。" />
+    <string id="blcdlguTeUS4" text="{LOCATION}で{VICTOR}に惨めに負けたことは、みんなの記憶に新しいです。それなのに、私に勝てると思っているのですか？馬鹿げています。" />
+    <string id="blcdlgitxTXY" text="{LOCATION}近くで{VICTOR}に負けたと聞きました。有利な状況だったにも関わらず、あなたの日ではありませんでしたね。そこから立ち直ることを願っています。" />
+    <string id="blcdlgCTdCbK" text="{LOCATION}で{VICTOR}に負けたことは、私を含め多くの人を驚かせました。最高の人でさえつまずくことがあります。強くいてください。" />
+    <string id="blcdlg9BVRBe" text="噂はすぐに広まります。圧倒的な戦力を持っていたにも関わらず、{LOCATION}で{VICTOR}に負けましたね。運とは気まぐれなものですね？" />
+    <string id="blcdlgnypV97" text="なるほど、{LOCATION}で{VICTOR}に負けたという話は本当なのですね。運命とは、最強の者にも残酷なことがありますね。" />
+    <string id="blcdlgbL9NcR" text="{LOCATION}で{VICTOR}に負けたことで、あなたは今、脆弱な状態です。もしかしたら、この会合は…啓発的なものになるかもしれません。" />
+    <string id="blcdlg9sVtPz" text="{LOCATION}で{VICTOR}にしたあなたの失態によって、あなたは晒されています。今回は運が変わるかどうか見てみましょう。" />
+    <string id="blcdlgDFLJkO" text="{LOCATION}近くで{VICTOR}に負けたとはいえ、あなたの戦略的な立場は依然として強力です。現在の状況から、私たちがお互いにどのように利益を得られるか話し合いましょう。" />
+    <string id="blcdlgu4VRdF" text="{LOCATION}で{VICTOR}に負けたという挫折にもかかわらず、回復の可能性はまだあります。どのように協力できるか見てみましょう。" />
+    <string id="blcdlgSeiJVz" text="{LOCATION}で{VICTOR}に負けたというニュースはすぐに広まりました。戦時中、運は急速に変化する可能性があります。どのように再編成するつもりですか？" />
+    <string id="blcdlghNGK7r" text="{LOCATION}で{VICTOR}に負けたことについて、誰もが話しています。このような時には、予期せぬ同盟につながることがあります。どうしますか？" />
+    <string id="blcdlgBmQDdl" text="どうしたらそれほど圧倒的な有利な状況で負けられるのですか？{LOCATION}で{VICTOR}に負けたことは、王国中の話題でした。まさに大失態でした。" />
+    <string id="blcdlgK3GvcX" text="{VICTOR}に対する{LOCATION}でのあなたの完全な失敗は、皆を大いに笑わせました。まだ何か言い訳はありますか？" />
+    <string id="blcdlg0JRNJs" text="{LOCATION}で{VICTOR}に負けたのは、特にあなたが有利だったことを考えると、さぞかし痛かったでしょう。最高の者でも失敗はします。私はあなたが再び立ち上がると信じています。" />
+    <string id="blcdlg6KS7Au" text="{VICTOR}に対する{LOCATION}でのあなたの挫折は残念でしたが、最も強い者でもつまずくことがあるということを思い出させます。あなたは回復するでしょう。" />
+    <string id="blcdlgm9Aiyw" text="あらゆる有利な状況にもかかわらず、あなたは{LOCATION}付近で{VICTOR}に負けました。おそらく、いかなる力も無敵ではないという教訓でしょう。" />
+    <string id="blcdlgPvRgY8" text="{VICTOR}に対する{LOCATION}でのあなたの敗北は、誰もが無敵ではないことを示しています。おそらく、あなたの戦略を見直す時でしょう。" />
+    <string id="blcdlgvijBuD" text="{LOCATION}付近で{VICTOR}に対して自分の立場さえ守ることができませんでした。それなのに、私と戦えると思っているのですか？笑止千万です。" />
+    <string id="blcdlgUpubqN" text="{VICTOR}に対する{LOCATION}での恥ずべき敗北の後で、あなたは私に立ち向かおうとするのですか？愚か者め。" />
+    <string id="blcdlgvk6Zhb" text="{LOCATION}付近で{VICTOR}に負けたと聞きました。あなたに有利な状況ではありませんでしたが、それでも戦いましたね。その勇気には敬意を表します。" />
+    <string id="blcdlgulsUQw" text="{VICTOR}に対する{LOCATION}でのあなたの敗北は勝利ではなかったかもしれませんが、あなたの勇気を証明しました。戦い続けてください。" />
+    <string id="blcdlgZNB7EI" text="{LOCATION}で{VICTOR}に負けましたね。数で劣っていたのか、それとも作戦で出し抜かれたのか、偉大な者でも倒れることがあるようです。" />
+    <string id="blcdlgmab0bM" text="{VICTOR}に対する{LOCATION}での敗北は、広く知られています。最も強力な軍隊でも失敗することがあるのです。" />
+    <string id="blcdlgNzgzVT" text="数で劣っていたにもかかわらず、{LOCATION}での{VICTOR}への敗北は、あなたの強さを損なうものではありません。現在の私たちの対立は、私たち両方に機会を提供します。" />
+    <string id="blcdlgLshqJq" text="{VICTOR}によって{LOCATION}で敗北しましたが、私たち自身の問題を解決する機会があると思っています。慎重に。" />
+    <string id="blcdlgnVVaOp" text="{LOCATION}付近での{VICTOR}に対する最近のあなたの挫折は、私たちに有利に働く可能性があります。この流れを変える方法を探ってみましょうか？" />
+    <string id="blcdlgjgrchP" text="{VICTOR}に対する{LOCATION}での敗北は、戦略のための新しい扉を開きます。私たちは一緒ならもっと多くのことを達成できると信じています。" />
+    <string id="blcdlg7ZRgVk" text="{LOCATION}での{VICTOR}への敗北の知らせが私にも届きました。このような不確実な時代には、同盟はすぐに変わることがあります。次の動きは何ですか？" />
+    <string id="blcdlg72qIkL" text="{VICTOR}に対する{LOCATION}での敗北は、この戦争の状況を変えます。今後の計画は何ですか？" />
+    <string id="blcdlgRasuVb" text="たとえ不利な状況にあったとしても、{LOCATION}での{VICTOR}に対するあなたの敗北は不名誉でした。あなたは決して私の腕前に及ばないもう一つの理由です。" />
+    <string id="blcdlgSRI0tz" text="{LOCATION}で{VICTOR}に屈したあなたの様は、あなたが私よりもどれほど劣っているかを証明するだけです。自分の立場をわきまえてください。" />
+    <string id="blcdlgXnCTcJ" text="{LOCATION}付近での{VICTOR}に対するあなたの敗北は残念でした。あなたに有利な状況ではなかったのはわかっていますが、それでも持ち場を守った勇気は示しました。" />
+    <string id="blcdlgbipZNd" text="{VICTOR}に対する{LOCATION}でのあなたの敗北にもかかわらず、私はあなたの努力を尊重します。最も偉大な者でも倒れることがあります。強くあり続けてください。" />
+    <string id="blcdlgzAFx96" text="{LOCATION}付近で{VICTOR}に負けたと言われていますね。残念ですが、優れた力に敗れるのは恥ではありません。" />
+    <string id="blcdlgljAO7x" text="{VICTOR}に対する{LOCATION}でのあなたの敗北を認めます。最も熟練した者でも時には失敗することがあります。" />
+    <string id="blcdlg8SrY7m" text="あらゆる有利な状況にもかかわらず、あなたは汚い盗賊団に負けました！信じられません。本当にそれほど無能なのですか？もしまた会うことがあれば、あなたを叩き潰してやる。" />
+    <string id="blcdlgrkTNaq" text="あなたの方が優勢だったのに、そのような略奪者の集団に負けるとは？状況が簡単でなかったのはわかっていますが、あなたは衰えているのではないかと思わざるを得ません。" />
+    <string id="blcdlgpQ2hMc" text="有利な立場にあったにもかかわらず、下劣な略奪者の集団に負けるとは、どんな気分ですか？偉大な者でも時には倒れますが、その敗北は別格でした。" />
+    <string id="blcdlglJJ5Zs" text="戦争中とはいえ、略奪者に負けるとは恥ずべきことです。すぐに立て直さないと、味方の間で笑いものになりますよ。" />
+    <string id="blcdlgPDX0zn" text="特に戦時中に、あの略奪者に負けたとは驚きです。もしかしたら、あなたはもっと大きなことで気を取られていたのでしょうか？" />
+    <string id="blcdlgxkEVHk" text="特に戦争で資源が不足している状況で、略奪者に負けるのは理想的ではありません。それがあなたのキャンペーン全体に影響しないことを願っています。" />
+    <string id="blcdlg160hHQ" text="あなたは取るに足りないごろつきどもの集団に負けたのですか？全く情けない。あなたは盗賊の寄せ集めさえも扱えなかったのですか。" />
+    <string id="blcdlgBruZap" text="戦力が整っていたにもかかわらず、盗賊に負けたのか？不利な状況だったのは承知しているが、そこから学んでほしい。" />
+    <string id="blcdlgsdpQtj" text="優勢だったにもかかわらず、略奪者の一団に打ちのめされたとは。手痛い敗北だが、きっと立ち直れるだろう。" />
+    <string id="blcdlg0SD76d" text="それで、数で勝るごろつきの集団に負けたのか？それはお前が愚か者だからだ。どれほど恥ずかしい思いをしているか想像もつかない。" />
+    <string id="blcdlglPP5qI" text="圧倒的な不利な状況でなかったにもかかわらず、盗賊に負けたのか？理解に苦しむ。気が散っていたのかもしれないな。お前ならもっとやれるはずだ。" />
+    <string id="blcdlg0FpXU8" text="盗賊に負けたことを自慢する人はいないだろう。だが、時にはどうにもならないこともある。" />
+    <string id="blcdlgpM4u5A" text="戦時中に略奪者に敗北したことは気がかりだ。それは、敵がつけこむかもしれない弱点を示唆している。" />
+    <string id="blcdlgockfDN" text="特に戦時下であることを考えると、略奪者に負けたことが心配だ。防御を強化することに集中しよう。" />
+    <string id="blcdlgFgPBtA" text="略奪者に負けたことは理想的とは言えないが、戦時中は冷静さを保つことが重要だ。戦略を見直す必要がある。" />
+    <string id="blcdlgnrnJ78" text="圧倒的な戦力差がなかったのに、略奪者に負けた？なんと情けない。その敗北は、簡単には消せない弱さの証となるだろう。" />
+    <string id="blcdlglTMZ8v" text="特に状況がそれほど悪くなかった時に、盗賊に負けるとは残念だ。だが、お前にはもっと戦う力があるはずだ。" />
+    <string id="blcdlg4olR5w" text="盗賊が悪いタイミングであなたを捕らえたようだ。きっとそこから学ぶだろうが、受け入れがたい敗北だ。" />
+    <string id="blcdlgtq4Qxk" text="{HERO}は{ME}と{TIMES}回戦い、勝利を収めないだろう。これはもはや名誉の問題だ" />
+    <string id="blcdlgWG8eGb" text="{HERO}は{ME}と{TIMES}回戦い、勝利を収めないだろう。英雄である意味はない！" />
+    <string id="blcdlgM0q5jl" text="富への欲求に突き動かされる性格、生まれつきのものだ。" />
+    <string id="blcdlgEWNWpg" text="{ME}の愛する人が{HERO}によって処刑された。これは見過ごせない。" />
+    <string id="blcdlgCzeMaF" text="注目や認知を求める性格、生まれつきのものだ。" />
+    <string id="blcdlgCi3H6j" text="権力やリーダーシップを目指す性格、生まれつきのものだ。" />
+    <string id="blcdlgdA3El2" text="理由はない" />
+    <string id="blcdlgeIcWoYU" text="裏切りの代償は支払ってもらう。二度と会わないことを祈る。" />
+    <string id="blcdlge9C60MS" text="友情よりも裏切りを選んだか。気が変わって生かしておくのをやめる前に立ち去れ。" />
+    <string id="blcdlgePUFa1Y" text="処刑は重大な行為だ。その結果に立ち向かう覚悟はできているのだろうな。" />
+    <string id="blcdlgeectnIz" text="剣を交えずとも、貴様の裏切りを決して許さない。今すぐ立ち去れ。" />
+    <string id="blcdlgedzuwVq" text="我々は平和を見つけられると思っていたが、貴様の行動がその希望を打ち砕いた。今すぐ立ち去れ。" />
+    <string id="blcdlgeLg5fTY" text="もう何も言うことはない。立ち去れ。" />
+    <string id="blcdlgeidWdXh" text="貴様にはもう我慢ならない。自制心を失う前に立ち去れ。" />
+    <string id="blcdlgeMBMQRO" text="我々は同盟国だと思っていたが、もはやそうではないようだ。さらば。" />
+    <string id="blcdlge2wAIIf" text="この会話は終わりだ。今すぐ行け。" />
+    <string id="blcdlgecCVyIt" text="貴様を軽蔑する。この議論は終わりだ。" />
+    <string id="blcdlgeH64AFR" text="戦争が我々を引き裂くが、それでもより良い日々を願っている。さらば。" />
+    <string id="blcdlgei47DHI" text="我々は境遇によって敵同士となった。この会話はここで終わりにしよう。" />
+    <string id="blcdlgejNtjwE" text="我々の復讐は迅速だろう。今すぐ行け。" />
+    <string id="blcdlgeHZl1iZ" text="貴様の勝利はほろ苦いものだったが、我々の間には何も変わらない。さらば。" />
+    <string id="blcdlgevlKWql" text="我々の条件を考え直す前に立ち去れ。" />
+    <string id="blcdlgeJ0Ratm" text="知っているだろう？たった一度の勝利が貴様の運命を変えるわけではない。この戦争はまだ終わっていない。今すぐ行け。" />
+    <string id="blcdlgeeIXTqn" text="貴様は立派な敵だと証明した。さらば。" />
+    <string id="blcdlgeEVD77g" text="一つの戦いの勝利は、戦争の終わりではない。また会う日まで、私の視界から消えろ。" />
+    <string id="blcdlge7WgiQD" text="貴様の捕虜は長く貴様のものではないだろう。今すぐ行け。" />
+    <string id="blcdlgekV9de8" text="捕虜を丁重に扱うことを願う。今すぐ私から離れろ。" />
+    <string id="blcdlge2mXX1Y" text="捕虜はこの戦争の単なる駒に過ぎない。もう言うことはない。" />
+    <string id="blcdlgeRdTMTG" text="捕虜が貴様に慈悲をもたらすことはないだろう。今すぐ行け。" />
+    <string id="blcdlgeeOA5Nf" text="この戦争は友を捕虜に変える。もう言うことはない。" />
+    <string id="blcdlgeSlMama" text="戦争は捕虜を出すが、誰一人として容赦はしない。今すぐ立ち去れ。" />
+    <string id="blcdlgeKkrH1P" text="残っている土地があるのなら、そこに逃げ帰るがいい。今すぐ私の視界から消えろ。" />
+    <string id="blcdlgeJpetO6" text="勇敢に戦ったが、今日は貴様の日ではない。今すぐ立ち去れ。" />
+    <string id="blcdlgevXavJq" text="この戦いでは貴様が負けた。まだできるうちに立ち去れ。" />
+    <string id="blcdlgeOjz27Z" text="貴様の敗北は何も変えない。また会うだろう。" />
+    <string id="blcdlgek1XuMo" text="敗北は貴様を定義しないが、我々はまだ戦争中だ。さらば。" />
+    <string id="blcdlge2IfqLm" text="貴様は負けたが、戦争は続く。今すぐ立ち去れ。" />
+    <string id="blcdlgesoXB9e" text="これ以上言うことはありません。さようなら。" />
+    <string id="blcdlgFjr23a" text="あなたは{LOCATION}付近で我々の派閥の{VICTIM}を侮辱したが、それで無敵になったと思うな。次は俺に挑戦してみろ。" />
+    <string id="blcdlgE0Bvlk" text="つまり、{LOCATION}で我々の派閥の{VICTIM}を打ち負かしたのか？鈍い剣でも時には切れるものだな。お前の腕前を試してみよう。" />
+    <string id="blcdlgYgHQXh" text="{LOCATION}近くで我々の仲間の{VICTIM}に勝ったと聞いた。立派な戦いだったな。お前が強くなっているのを見るのは良いことだ。" />
+    <string id="blcdlgf4s6Ud" text="{LOCATION}で我々の派閥の{VICTIM}に勝利したのは見事だ。この調子なら、我々の中で伝説になるだろう。" />
+    <string id="blcdlgxaXuLx" text="つまり、{LOCATION}付近で我々の派閥の{VICTIM}を打ち負かしたのか？その連勝を維持できるか、見せてもらおう。" />
+    <string id="blcdlg3KBkh4" text="{LOCATION}で{VICTIM}に勝ったのは見事だが、一戦だけで戦士と決まるわけではない。己の実力を示してみろ。" />
+    <string id="blcdlgX3Z5XO" text="{LOCATION}付近で{AGAINST}の{VICTIM}を打ち負かしたな。運は良かったようだが、運はいつか尽きる。さあ、俺との戦いはどうなるか見せてもらおう。" />
+    <string id="blcdlgXsDBzv" text="つまり、{LOCATION}で{AGAINST}の{VICTIM}が貴様に敗れたのか？あまり安心するな。俺はそんなに簡単には崩れないからな。" />
+    <string id="blcdlg0bFr5J" text="噂によると、{LOCATION}近くで{AGAINST}の{VICTIM}に勝ったそうだ。熾烈な戦いだったに違いない。さて、己の腕前を試してみるか？" />
+    <string id="blcdlgly6YAE" text="{LOCATION}で{AGAINST}の{VICTIM}に勝利したことは、お前の強さを証明している。次にお前と戦えるなら、光栄に思う。" />
+    <string id="blcdlgitQTTm" text="{LOCATION}近くで{AGAINST}の{VICTIM}に勝利したな。本物の戦士は決して休むことはない――次の挑戦に備えているか？" />
+    <string id="blcdlgiBgi9Z" text="{LOCATION}で{VICTIM}を打ち負かした後でも、戦士の道は終わらない。お前が本当に刃を研ぎ澄ましたか、試してみよう。" />
+  </strings>
+</base>

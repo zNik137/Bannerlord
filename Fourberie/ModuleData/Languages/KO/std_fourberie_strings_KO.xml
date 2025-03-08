@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+
+ <!--Common-->
+    <string id="FoCom01" text="좋군" />
+    <string id="FoCom02" text="그래" />
+    <string id="FoCom03" text="아니, 난 충분해" />
+    <string id="FoCom04" text="더 필요하겠는데" />
+    <string id="FoCom05" text="최소 {LIMITVIL} 악행점수가 필요합니다. 현재 점수는 {VILLAINY} 포인트입니다." />
+    <string id="FoCom06" text="오늘 운수는.." />
+    <string id="FoCom07" text=" {LIMITVIL} 포인트를 소모하실겁니까? 현재 {VILLAINY} 악행점수를 보유중입니다." />
+    <string id="FoCom08" text="회복할 시간이군" />
+    <string id="FoCom09" text="떠나기" />
+    <string id="FoCom10" text="이런..." />
+    <string id="FoCom11" text="신참" />
+    <string id="FoCom12" text="멈추고 떠난다" />
+    <string id="FoCom13" text="이전으로 돌아간다" />
+    <string id="FoCom14" text="아이고 나죽네..." />
+    <string id="FoCom15" text="너무 욕심부리지 말라고" />
+    <string id="FoCom16" text=" {WAITCHCK} 일을 기다려야 합니다." />
+    <string id="FoCom17" text="맞는 말이야" />
+    <string id="FoCom18" text="Work you relation" />
+    <string id="FoCom19" text=" {LIMITREL}이상의 우호도가 {GANGLEAD}와 필요합니다." />
+    <string id="FoCom20" text="작업 멈추기" />
+    <string id="FoCom21" text="좋아" />
+    <string id="FoCom22" text="공격!" />
+    <string id="FoCom23" text="도시가 포위 됐습니다" />
+    <string id="FoCom24" text="제기랄!" />
+    <string id="FoCom25" text="지금은 아니야" />
+    <string id="FoCom26" text="잠시 대기한다" />
+    <string id="FoCom27" text="그래야지" />
+    <string id="FoCom28" text="잘됐군!" />
+    <string id="FoCom29" text="괜찮은 제안이야" />
+    <string id="FoCom30" text="필요하긴 하지" />
+    <string id="FoCom31" text="돈이 부족해" />
+    <string id="FoCom32" text="돈이 충분할 때 다시 오라고" />  
+    <string id="FoCom33" text="도시 떠나기" />
+    <string id="FoCom34" text="싸우자!" />
+    <string id="FoCom35" text="작전에 도움을 줄 인원들을 고용할 수 있습니다." />
+    <string id="FoCom36" text="갈 시간이군..." />
+    <string id="FoCom37" text="골목길로 돌아가기" />
+    <string id="FoCom38" text="당신의 시도가 들통나 실패했습니다. 심각한 문제에 처하기 전에 도시를 떠야할겁니다..." />
+    <string id="FoCom39" text="가까이 있는 놈..." />
+    <string id="FoCom40" text="정말로 여길 뜰 시간이군" />
+    <string id="FoCom41" text=" {GAIN} 디나르를 얻었습니다" />
+    <string id="FoCom42" text=" {GAIN} 디나르를 잃었습니다" />
+    <string id="FoCom43" text="대박을 노리기" />   
+    <string id="FoCom44" text="당신의 친구 {GANGRELA} 아래에서 일하고 있는 사내들이 몇 보입니다. 당신이 원한다면 도시에 들어가게 도와줄 것 같습니다." />   
+    <string id="FoCom45" text="도시 중심으로 돌아가기" />   
+    <string id="FoCom46" text="적대 도시에서만 가능합니다." />   
+    <string id="FoCom47" text="적대 혹은 중립 도시에서만 가능합니다." />  
+    <string id="FoCom48" text=" {AREA} 지역을 되찾았습니다" />    <!--NEW-->
+    <string id="FoCom49" text=" {CLAN} 클랜과 원한을 쌓았습니다!" />   <!--NEW-->
+    <string id="FoCom50" text=" {LIMITVIL} 악행점수를 사용했습니다." />    <!--NEW-->
+    <string id="FoCom51" text="이 녀석들을 고용하는데 {LIMITVIL} 포인트가 필요합니다. (현재 보유점수 {VILLAINY})" />  <!--NEW-->
+    <string id="FoCom52" text="네 놈은 못보던 얼굴인데... (범죄율을 높이거나, 속임수 스킬 레벨을 올리거나, 범죄 네트워크를 구축하세요)" />    <!--NEW-->
+    <string id="FoCom53" text="당신을 들여보내줄 동료들을 불러오세요." />  <!--NEW-->
+    <string id="FoCom54" text="잠시간 숨어있는다" />    <!--NEW-->
+    <string id="FoCom55" text="우두머리가 당신이 있는걸 허락했습니다. 칼라디아에서 최고로 안락한 장소는 아니지만 숨거나 기습에는 최적의 장소지요." />  <!--NEW-->
+    <string id="FoCom56" text="동료 {COMPA} 에게 새로운 직책을 임명했습니다." />    <!--NEW-->
+    <string id="FoCom57" text="동료 선택" />  <!--NEW-->
+    <string id="FoCom58" text="계속" />    <!--NEW-->
+    <string id="FoCom59" text="불가능한" />   <!--NEW-->
+    <string id="FoCom60" text="비용: " />    <!--NEW-->
+    <string id="FoCom61" text="접수한다!" />  <!--NEW-->
+    <string id="FoCom62" text="이 도시를 접수하시겠습니까?" />    <!--NEW-->
+    <string id="FoCom63" text="새 영역" />  <!--NEW-->
+    <string id="FoCom64" text="당신의 영역을 여기로 확장할까요? 당신의 범죄왕국의 수도를 {CRIMEBASE} 에서 여기로 기업형 범죄 탭에서 언제든지 변경할 수 있습니다." />    <!--NEW-->
+    <string id="FoCom65" text="군대에 있을 땐 불가능합니다." />  <!--NEW-->
+    <string id="FoCom66" text="당신은 부상당했습니다." />    <!--NEW-->
+    <string id="FoCom67" text="전쟁 가능성" />  <!--NEW-->
+    <string id="FoCom68" text="미션을 포기하고 떠나기" />    <!--NEW-->
+    <string id="FoCom69" text="골목을 접수한다!" />  <!--NEW-->
+    <string id="FoCom70" text="협상을 마무리할 충분한 디나르가 없군!" />    <!--NEW-->
+    <string id="FoCom71" text="악행점수: {VILLAINY} / {LIMITVIL} 포인트" />  <!--NEW-->
+    <string id="FoCom72" text="반란이 일어난 도시에선 불가능해..." />    <!--NEW-->
+    <string id="FoCom73" text="내 영역인 도시에선 불가능해..." />  <!--NEW-->
+    <string id="FoCom74" text="이 도시에 당신의 관리가 필요한 구역이 아직 남아있습니다." />    <!--NEW-->
+    <string id="FoCom75" text="아직 맡은 일을 끝내지 못했습니다!" />  <!--NEW-->
+    <string id="FoCom76" text="이미 동업자인 상태" />    <!--NEW-->
+    <string id="FoCom77" text="보유할 수 있는 최대 포인트에 도달했습니다 ({VILLAINY} 포인트)" />  <!--NEW-->
+    <string id="FoCom78" text="클랜 티어2에 도달해야 합니다." />  <!--NEW-->
+    <string id="FoCom79" text="확인" />    <!--NEW-->
+    <string id="FoCom80" text="쓰지 않음" />  <!--NEW-->
+    <string id="FoCom81" text="그렇다" />    <!--NEW-->
+    <string id="FoCom82" text="아니다" />  <!--NEW-->
+    <string id="FoCom83" text=" 번 하는데 드는 비용 " />  <!--NEW-->    
+
+
+
+<!--Criminal Ent-->
+
+    <string id="FoCrimEnt01" text="범죄 사업을 통해 {GAIN}{GOLD} 디나르를 벌었습니다." />  <!--NEW-->
+    <string id="FoCrimEnt02" text="업그레이드 보너스를 지불 할 수 없는 상태입니다" />    <!--NEW-->
+    <string id="FoCrimEnt03" text="업그레이드 보너스 {INV}{GOLD} 를 지불했습니다" />  <!--NEW-->
+    <string id="FoCrimEnt04" text="집행자가 {TOTVIL} 점수를 모아왔습니다.." />    <!--NEW-->
+    <string id="FoCrimEnt05" text="동료 없음" />  <!--NEW-->
+    <string id="FoCrimEnt06" text="접수하려는 도시에 동료를 남겨두어야 합니다, {BASE}." />    <!--NEW-->
+    <string id="FoCrimEnt07" text="당시 영역의 수도인 {BASE} 에서만 가능합니다." />  <!--NEW-->
+    <string id="FoCrimEnt08" text="보너스 없음" />    <!--NEW-->
+    <string id="FoCrimEnt09" text="+ {INV}    주간 비용 -{COST}" />  <!--NEW-->
+    <string id="FoCrimEnt10" text="주간 업그레이드 비용" />      <!--NEW-->
+    <string id="FoCrimEnt11" text="지불할 능력이 없을 경우 추가 선택지는 불가능합니다!" /> <!--NEW--> 
+    <string id="FoCrimEnt12" text="새 사업" />   <!--NEW--> 
+    <string id="FoCrimEnt13" text="밀수 사업을 하고 싶으십니까?" />  <!--NEW-->
+    <string id="FoCrimEnt14" text="새 사업을 위해 {COST} 디나르를 투자하시겠습니까?" />  <!--NEW--> 
+    <string id="FoCrimEnt15" text="모든 녀석들이 떠나기를 원하십니까?" />  <!--NEW-->
+    <string id="FoCrimEnt16" text="우리의 영역" />  <!--NEW-->  
+    <string id="FoCrimEnt17" text="부하들을 보내 재탈환하기 위해 {LIMITVIL} 포인트를 사용하시겠습니까 ? 원한다면 직접 손을 쓰러갈 수도 있습니다." />  <!--NEW-->
+    <string id="FoCrimEnt18" text="당신이 접수한 도시(들)에서만 가능합니다." />    <!--NEW-->
+    <string id="FoCrimEnt19" text="당신의 동료들" />  <!--NEW-->
+    <string id="FoCrimEnt20" text="퍽 리셋하기" />      <!--NEW-->
+    <string id="FoCrimEnt21" text="당신의 동료 {COMPA} 의 퍽을 리셋했습니다." /> <!--NEW--> 
+    <string id="FoCrimEnt22" text="동업자당 세 명의 밀수업자\n밀수업자는 당신의 수익을 크게 높여줍니다\n수용능력은 당신의 수익과 창고의 수용량을 조금씩 늘려줍니다. \n당신의 창고에 장물들을 채워집니다." />   <!--NEW--> 
+    <string id="FoCrimEnt23" text="밀수항로를 개척하세요.\n당신의 급여 담당자는 당신의 영역과 동업자로부터 돈을 모을 것입니다.\n당신의 창고에 장물들이 채워집니다." />  <!--NEW-->
+    <string id="FoCrimEnt24" text="편안함 레벨5당 1명의 직원.\n비용(도박) 이 절반이 됩니다.\n10명의 직원당 아지트 모집률 1증가.\n편안함은 아지트의 최대 수용량을 늘려줍니다." />  <!--NEW--> 
+    <string id="FoCrimEnt25" text="재미 좀 볼 수 있는 장소를 엽니다.\n도시의 번영도에 따라 수익이 납니다.\n추가적인 보너스 해금" />  <!--NEW-->
+    <string id="FoCrimEnt26" text="편안함 레벨5당 1명의 접대부.\n치료비가 절반이 됩니다\n입장했을 때 사기 보너스를 받습니다\n10명의 접대부당 아지트 모집률 1증가 .\n편안함은 아지트의 최대 수용량을 늘려줍니다." />  <!--NEW-->  
+    <string id="FoCrimEnt27" text="웃음을 파는 장소를 엽니다.\n도시의 번영도에 따라 수익이 납니다.\n추가적인 보너스 해금" />  <!--NEW-->
+    <string id="FoCrimEnt28" text="당신의 급여담당자 동료의 속임수 스킬은 모든 범죄 사업 수익에 전반적인 영향을 끼칩니다. 이왕이면 다홍치마!" />    <!--NEW-->
+    <string id="FoCrimEnt29" text="매주 부하를 모읍니다.\n영역 기반 + 직원과 접대부 영향\n최대치에 도달하면 모집을 멈춥니다\n현재 매주 모집률 +" />  <!--NEW-->
+    <string id="FoCrimEnt30" text="아지트와 창고는 {DAYS} 일 내로 준비됩니다" />      <!--NEW-->
+    <string id="FoCrimEnt31" text="매일 잡동사니를 모읍니다.\n영역내의 동업자 수에 영향을 받습니다..\n최대 수용량에 도달하면 수집을 멈춥니다.\n현재 최대치 + " /> <!--NEW--> 
+    <string id="FoCrimEnt32" text="당신의 집행자는 매주 악행점수를 벌어 들입니다. \n 동업자당+1 \n 확보한 거리당+1" />   <!--NEW--> 
+    <string id="FoCrimEnt33" text="매일 부패수준이 감소하면서 많은 돈을 벌게됩니다. 하지만 이는 당신의 악행 점수를 빨아들일겁니다." />  <!--NEW-->
+    <string id="FoCrimEnt34" text="부패수준은 당신의 범죄수도가 있는 도시의 안보수준에 따라 정해집니다. 높은 안보 수준은 범죄 사업에 좋지 않습니다." />  <!--NEW--> 
+    <string id="FoCrimEnt35" text="당신이 범죄수도로 지정한 도시를 버릴 순 없습니다." />  <!--NEW-->
+    <string id="FoCrimEnt36" text="당신의 범죄수도를 정하세요" />  <!--NEW-->  
+    <string id="FoCrimEnt37" text="사용" />  <!--NEW-->
+    <string id="FoCrimEnt38" text="해제" />    <!--NEW-->
+    <string id="FoCrimEnt39" text="기업형 범죄" />  <!--NEW-->
+    <string id="FoCrimEnt40" text="배정" />      <!--NEW-->
+    <string id="FoCrimEnt41" text="제거" /> <!--NEW--> 
+    <string id="FoCrimEnt42" text="악행점수" />   <!--NEW--> 
+    <string id="FoCrimEnt43" text="급여 담당자" />  <!--NEW-->
+    <string id="FoCrimEnt44" text="가능한 업그레이드" />  <!--NEW--> 
+    <string id="FoCrimEnt45" text="밀수" />  <!--NEW-->
+    <string id="FoCrimEnt46" text="밀수꾼 +" />  <!--NEW-->  
+    <string id="FoCrimEnt47" text="수용능력 +" />  <!--NEW-->
+    <string id="FoCrimEnt48" text="도박장" />    <!--NEW-->
+    <string id="FoCrimEnt49" text="직원 +" />  <!--NEW-->
+    <string id="FoCrimEnt50" text="편안함 +" />      <!--NEW-->
+    <string id="FoCrimEnt51" text="환락가" /> <!--NEW--> 
+    <string id="FoCrimEnt52" text="접대부 +" />   <!--NEW--> 
+    <string id="FoCrimEnt53" text="범죄 수도" />  <!--NEW-->
+    <string id="FoCrimEnt54" text="집행자" />  <!--NEW--> 
+    <string id="FoCrimEnt55" text="동업자" />  <!--NEW-->
+    <string id="FoCrimEnt56" text="소유한 영역" />  <!--NEW-->  
+    <string id="FoCrimEnt57" text="탈환하기" />  <!--NEW-->
+    <string id="FoCrimEnt58" text="주간 점수" />    <!--NEW-->
+    <string id="FoCrimEnt59" text="지역에 대한 영향력" />  <!--NEW-->
+    <string id="FoCrimEnt60" text="아지트" />      <!--NEW-->
+    <string id="FoCrimEnt61" text="창고" /> <!--NEW--> 
+    <string id="FoCrimEnt62" text="동료 관리하기" />   <!--NEW--> 
+    <string id="FoCrimEnt63" text="영역" />  <!--NEW-->
+    <string id="FoCrimEnt64" text="보기" />  <!--NEW--> 
+    <string id="FoCrimEnt65" text="예상되는 수익" />  <!--NEW-->
+    <string id="FoCrimEnt66" text="주간 업그레이드" />  <!--NEW-->  
+    <string id="FoCrimEnt67" text="부패도" />  <!--NEW-->
+    <string id="FoCrimEnt68" text="임금 (한계 초과시)" />    <!--NEW-->
+    <string id="FoCrimEnt69" text="예상되는 수익" />  <!--NEW-->
+    <string id="FoCrimEnt70" text="(매주)" />      <!--NEW-->    
+    <string id="FoCrimEnt71" text="작전실" />  <!--NEW-->  
+    <string id="FoCrimEnt72" text="조직 우두머리" />  <!--NEW-->
+    <string id="FoCrimEnt73" text="사절" />    <!--NEW-->
+    <string id="FoCrimEnt74" text="총 네크워크" />  <!--NEW-->
+    <string id="FoCrimEnt75" text="총 집행자" />      <!--NEW-->        
+    <string id="FoCrimEnt76" text="원한 정리" />      <!--NEW-->       
+
+
+<!--Scheme Room-->
+
+    <string id="FoSchRm01" text="악행 선택" />  <!--NEW-->
+    <string id="FoSchRm02" text="뇌물" />    <!--NEW-->
+    <string id="FoSchRm03" text="루머" />  <!--NEW-->
+    <string id="FoSchRm04" text="협박" />    <!--NEW-->
+    <string id="FoSchRm05" text="살인청부" />  <!--NEW-->
+    <string id="FoSchRm06" text="클랜 리더만 가능" />  <!--NEW-->  
+    <string id="FoSchRm07" text="클랜의 영향력이 200 이상이어야 합니다." /> <!--NEW--> 
+    <string id="FoSchRm08" text="{ICON}당신의 악행 결과를 확인하세요!" />    <!--NEW-->
+    <string id="FoSchRm09" text=" {GAIN}{GOLD} 로 {VICTIM} 를 협박했습니다." />  <!--NEW-->
+    <string id="FoSchRm10" text="{VICTIM} 는 뇌물 제안을 받아들이고 {AMOUNT} 디나르를 요구해 왔습니다." />    <!--NEW-->  
+    <string id="FoSchRm11" text="살해당함" />  <!--NEW-->
+    <string id="FoSchRm12" text="당신의 동료 {HERO} 은(는) {SET}에서 살해당했습니다! 당신의 정보망은 {KING} 아래 클랜에서 이 일을 주도한 걸로 보고있습니다..." />    <!--NEW-->
+    <string id="FoSchRm13" text="그들은 댓가를 치를 것입니다!" />  <!--NEW-->
+    <string id="FoSchRm14" text="당신의 동료를 급여 담당자로 배정해야 합니다!" />  <!--NEW-->  
+    <string id="FoSchRm15" text="당신의 동료를 집행자롤 배정해야 합니다!" />  <!--NEW-->
+    <string id="FoSchRm16" text="생존자" />    <!--NEW-->
+    <string id="FoSchRm17" text="당신은 암살 시도의 목표가 되었습니다. 잘 싸워 어떻게든 살아남았지만 심각한 부상을 입고 말았군요! 당신의 정보망은 {KING} 아래 클랜에서 이 일을 주도한 걸로 보고있습니다..." /> <!--NEW--> 
+    <string id="FoSchRm18" text="당신의 클랜은 작전에 걸려들었습니다! 당신의 정보망은 {CLAN} 클랜이 이 일을 주도했다고 합니다..." />   <!--NEW--> 
+    <string id="FoSchRm19" text="살해 시도" />  <!--NEW-->
+    <string id="FoSchRm20" text="협박 시도" /> <!--NEW--> 
+    <string id="FoSchRm21" text="협박당한" />   <!--NEW--> 
+    <string id="FoSchRm22" text="당신의 클랜은 협박의 피해자입니다. 심각한 결과를 피하기 위해선 {AMOUNT} 디나르를 필요로 합니다 . 당신의 정보망은 {KING} 아래 클랜에서 이 일을 주도한걸로 보고 있습니다..." />  <!--NEW-->
+    <string id="FoSchRm23" text="이 망할놈들!" /> <!--NEW--> 
+    <string id="FoSchRm24" text="어림없는 소리!" />   <!--NEW--> 
+    <string id="FoSchRm25" text="루머!" />  <!--NEW-->
+    <string id="FoSchRm26" text="당신의 클랜은 루머에 휘말렸고 범죄율이 증가했습니다!" /> <!--NEW--> 
+    <string id="FoSchRm27" text="당신의 클랜은 루머에 휘말렸고 더 큰 문제를 모면하기 위해 영향력을 사용했습니다! 당신의 정보망은 {KING} 아래 클랜에서 이 일을 주도한걸고 보고 있습니다..." />   <!--NEW--> 
+    <string id="FoSchRm28" text="루머 퍼트리기 시도" />  <!--NEW-->
+    <string id="FoSchRm29" text="{GANGLEAD} 와 우호적인 관계가 되어야 합니다." /> <!--NEW--> 
+    <string id="FoSchRm30" text="작전을 취소하기" />   <!--NEW--> 
+    <string id="FoSchRm31" text="진행하기" />  <!--NEW-->
+    <string id="FoSchRm32" text="떠나기" /> <!--NEW--> 
+    <string id="FoSchRm33" text="끝내기" />   <!--NEW--> 
+    <string id="FoSchRm34" text="성공률 {SUCC}% (보정 {COV}%)" />  <!--NEW-->
+    <string id="FoSchRm35" text="원한 패널티: -{GRU}%" /> <!--NEW--> 
+    <string id="FoSchRm36" text="당신의 목표가 모든 영향력을 잃고 소유한 도시들이 충성도가 10 하락했습니다." />   <!--NEW--> 
+    <string id="FoSchRm37" text="당신의 목표가 실종되었습니다 " />  <!--NEW-->
+    <string id="FoSchRm38" text="당신의 목표가 죽었습니다!" /> <!--NEW--> 
+    <string id="FoSchRm39" text="계약을 이행하기 위핸 충분한 돈을 지불하지 않았습니다" />   <!--NEW--> 
+    <string id="FoSchRm40" text="지불합니다 " />  <!--NEW-->
+    <string id="FoSchRm41" text="그리고 당신의 목표와 관계가 증가했습니다" /> <!--NEW--> 
+    <string id="FoSchRm42" text="실패한 것이 들통났습니다..." />   <!--NEW--> 
+    <string id="FoSchRm43" text="실패했지만 숨길 수 있었습니다." />  <!--NEW-->
+    <string id="FoSchRm44" text=" {DAYS} 일동한 진행중" />  <!--NEW-->
+    <string id="FoSchRm45" text="영지당 +1%\n+5%: 결혼한, 아이인, 충동적인\n-5%: 의심이 많은" /> <!--NEW--> 
+    <string id="FoSchRm46" text="영지당 +1% \n+5%: 결혼한, 아이인, 충동적인\n-5%: 인색한\n-15%: 수장\n-20%: 지배자" />   <!--NEW--> 
+    <string id="FoSchRm47" text="+5%: 충동적인\n-5%: 의심이 많은, 계산적인\n-15%: 수장\n-20%: 지배자" />  <!--NEW-->
+    <string id="FoSchRm48" text="@+20%: 15K미만 보유한 클랜\n+10%: 30K미만 보유한 클랜\n-20%: 정직함\n-10%: 30K이상 보유한 클랜\n-20%: 45K이상 보유한 클랜\n-40%: 60K이상 보유한 클랜" /> <!--NEW--> 
+    <string id="FoSchRm49" text="정보를 더 얻기 위해선 이 왕국과의 네트워크를 + 20% 이상으로 올려야 합니다" />   <!--NEW--> 
+    <string id="FoSchRm50" text="귀족 클랜: {NOB}\n용병: {MERC}" />  <!--NEW-->
+    <string id="FoSchRm51" text="우호적인 조직 우두머리 당+3% \n동업자 당 +4%\n 동료가 있는 영역당 +15%\n 클랜원이 있는 도시 당+3% (소유한 영역이 있는)" /> <!--NEW--> 
+    <string id="FoSchRm52" text="높은 성공률을 위해 희생합니다" />   <!--NEW--> 
+    <string id="FoSchRm53" text="피해자를 고르세요" />  <!--NEW-->
+    <string id="FoSchRm54" text="우호도: " /> <!--NEW--> 
+    <string id="FoSchRm55" text="에 머무르는 중 " />   <!--NEW--> 
+    <string id="FoSchRm56" text="의 우호적인 조직 우두머리 " />  <!--NEW-->    
+    <string id="FoSchRm57" text=" {EMI} 명의 사절 클랜 멤버" /> <!--NEW--> 
+    <string id="FoSchRm58" text="클랜 멤버를 사절 보너스를 위해 이 도시에 남겨둘 수 있습니다." />   <!--NEW--> 
+    <string id="FoSchRm59" text="의 동업자" />  <!--NEW-->
+    <string id="FoSchRm60" text=" {COM} 명의 동료" /> <!--NEW--> 
+    <string id="FoSchRm61" text="영역 관리를 위해선 당신의 동료를 남겨두어야 합니다!" />   <!--NEW--> 
+    <string id="FoSchRm62" text="내의 당신 영역" />  <!--NEW-->
+    <string id="FoSchRm63" text="사절 보유" /> <!--NEW--> 
+    <string id="FoSchRm64" text="당신은 {EMI} 가 이곳에 있지만, 사절 보너스는 도시별로 1점으로 한정됩니다" />   <!--NEW--> 
+    <string id="FoSchRm65" text="의 사절 " />  <!--NEW-->
+    <string id="FoSchRm66" text=" {CLAN} 클랜 보유" /> <!--NEW--> 
+    <string id="FoSchRm67" text="왕국 선택" />   <!--NEW--> 
+    <string id="FoSchRm68" text="클랜 별 원한 관계" />  <!--NEW--> 
+    <string id="FoSchRm69" text="작전에 실패하거나, 마을과 상단 약탈 등등은 원한 수치를 높이게합니다. 높은 원한 관계에 있는 클랜은 당신의 클랜에게 여러 적대 행위를 시도합니다." />  <!--NEW-->     
+    <string id="FoSchRm70" text="클랜 선택" /> <!--NEW--> 
+    <string id="FoSchRm71" text="당신의 영역" />   <!--NEW--> 
+    <string id="FoSchRm72" text="영업 철수하기" />  <!--NEW-->
+    <string id="FoSchRm73" text="군대 목록" /> <!--NEW--> 
+    <string id="FoSchRm74" text="군대 지휘관 정보" />   <!--NEW--> 
+    <string id="FoSchRm75" text="부대 목록" />  <!--NEW-->
+    <string id="FoSchRm76" text="부대 지휘관 정보" /> <!--NEW--> 
+    <string id="FoSchRm77" text="속임수: +" />   <!--NEW--> 
+    <string id="FoSchRm78" text="%    전술: +" />  <!--NEW--> 
+    <string id="FoSchRm79" text="기만적인: +5%   " />  <!--NEW-->     
+    <string id="FoSchRm80" text="정직한: -5%   " /> <!--NEW--> 
+    <string id="FoSchRm81" text="계산적인: +5%   " />   <!--NEW--> 
+    <string id="FoSchRm82" text="의심이 많은: +5%   " />  <!--NEW-->
+    <string id="FoSchRm83" text="대범한: +5%   " /> <!--NEW--> 
+    <string id="FoSchRm84" text="잔인한: +5%" />   <!--NEW--> 
+    <string id="FoSchRm85" text="자비로운: -5%" />  <!--NEW-->
+    <string id="FoSchRm86" text="살      " /> <!--NEW--> 
+    <string id="FoSchRm87" text="지배자:        " />   <!--NEW--> 
+    <string id="FoSchRm88" text="수장:     " />  <!--NEW--> 
+    <string id="FoSchRm89" text="결혼한:    " />  <!--NEW-->     
+    <string id="FoSchRm90" text="아이:    " /> <!--NEW--> 
+    <string id="FoSchRm91" text="계산적인   " />   <!--NEW--> 
+    <string id="FoSchRm92" text="충동적인   " />  <!--NEW-->
+    <string id="FoSchRm93" text="인색한   " /> <!--NEW--> 
+    <string id="FoSchRm94" text="정직한   " />   <!--NEW--> 
+    <string id="FoSchRm95" text="의심이 많은" />  <!--NEW-->
+    <string id="FoSchRm96" text="군대: " /> <!--NEW--> 
+    <string id="FoSchRm97" text="부대: " />   <!--NEW--> 
+    <string id="FoSchRm98" text="성: " />  <!--NEW--> 
+    <string id="FoSchRm99" text="도시: " />  <!--NEW-->     
+    <string id="FoSchRm100" text="클랜: " />   <!--NEW--> 
+    <string id="FoSchRm101" text="클랜 선택" />  <!--NEW-->
+    <string id="FoSchRm102" text="멤버: " /> <!--NEW--> 
+    <string id="FoSchRm103" text="높음" />   <!--NEW--> 
+    <string id="FoSchRm104" text="적당" />  <!--NEW-->
+    <string id="FoSchRm105" text="낮음" /> <!--NEW-->     
+
+<!--Main-->
+    <string id="FoMa01" text="악행" />
+    <string id="FoMa02" text="악행 고르기" />
+    <string id="FoMa03" text="운을 시험하기" />
+    <string id="FoMa04" text="부상 치료하기" />
+    <string id="FoMa05" text="범죄자 고용하기" /><!--NEW-->
+    <string id="FoMa06" text="신병 고용을 마무리 하시겠습니까?" />
+    <string id="FoMa07" text="너무 많은 사람을 고용하려고 합니다! 이 구역의 강도들은 {LIMITREC} 명만 내어줄 수 있다고 합니다." />
+    <string id="FoMa08" text="범죄자 고용하기" /><!--NEW-->
+    <string id="FoMa09" text="마이너 팩션 병사 고용하기" /><!--NEW-->
+    <string id="FoMa10" text="마이너 팩션 병사 고용하기" /><!--NEW-->
+    <string id="FoMa11" text=" 너무 많은 사람을 고용하려고 합니다! {LIMITREC} 명으로 제한되어 있습니다." />    
+    <string id="FoMa12" text=" 악행점수 정산하기. (최소 5명의 포로당 1점)" />    
+    <string id="FoMa13" text=" 모든 정산은 끝난건가?" />    
+    <string id="FoMa14" text=" 귀족 포로는 받아들이지 않아." />    
+    <string id="FoMa15" text=" 정산을 위해선 최소 5 명의 포로가 필요합니다. 귀족은 포함되지 않습니다" />
+    <string id="FoMa16" text=" {VILLAINY} 포인트를 정산했습니다." />    
+    <string id="FoMa17" text="아니, 취소하도록 하지." />        
+
+<!--Scam-->
+    <string id="FoSca01" text="사기치기" />
+    <string id="FoSca02" text="지역 사람들에게 사기를 치고 있습니다." />
+    <string id="FoSca03" text="위험한 결과를 피하기 위해 작업치던걸 멈췄습니다." />
+    <string id="FoSca04" text="당신의 사기가 먹혀들었습니다. 약간의 디나르와 속임수 경험치를 얻었습니다." />
+    <string id="FoSca05" text="당신의 시도는 완전히 실패했습니다. 경비병에게 붙잡혀 흠씬 두들겨 맞은 당신은 도시 밖으로 그대로 걷어차여 쫓겨났습니다. 주머니도 털렸군요..." />
+
+<!--Tribute-->
+    <string id="FoTri01" text="보호세 상납" />
+    <string id="FoTri02" text="돈 농사" />
+    <string id="FoTri03" text="조직 우두머리 {GANGLEAD}가 당신에게 볼 일이 있답니다. 돈을 '신사답게' 모아오라는군요.. 당신의 몫은 합당하게 지불될거랍니다." /> <!--NEW-->
+    <string id="FoTri04" text="협조하기" />
+    <string id="FoTri05" text="{GANGLEAD} 은 당신이 혼자 해결 할 수 있을지 의문을 가집니다. 도움이 필요하신가요? 당신의 몫은 자연스럽게 절반이 됩니다!" />
+    <string id="FoTri06" text="약속 지점에 도착했습니다..." />
+    <string id="FoTri07" text="용병들을 털어내 받기로 했던 돈을 찾을 수 있었습니다... 돈을 조직 우두머리에게 가져가 당신의 몫을 챙겨낼 수 있었습니다" />
+    <string id="FoTri08" text="당신의 목표는 보이지 않고 몇 명의 용병만 보이는군요...!" />
+
+<!--Extortion-->
+    <string id="FoEx01" text="지역인사 교육하기" />
+    <string id="FoEx02" text="맡은 일이 아직 끝나지 않았습니다" />
+    <string id="FoEx03" text=" {EXTOVILL} 로 가서 그들에게 삶의 교훈을 줬으면 하는군" />
+    <string id="FoEx04" text="조직 우두머리 {GANGLEAD} 가 당신이 {EXTOVILL}로 가길 원합니다. 지역인사들은 상납에 언제나 늦었고 이에 대한 교육이 필요해 보입니다. 상납금 중 몇 푼정도는 챙길 수 있을겁니다." />
+    <string id="FoEx05" text="약속의 중요함에 대해 가르쳐 줄 시간입니다" />
+    <string id="FoEx06" text="민병대인 척하기" />
+    <string id="FoEx07" text="마을을 공격하는 것은 선전포고로 간주되기 때문에 민병대 몇을 회유해 당신을 돕게 만들었습니다. 그들은 당신에게 민병대의 복장을 제공해 정체를 숨기게 도와줬습니다." />
+    <string id="FoEx08" text="싸움은 밤에 시작됩니다" />
+    <string id="FoEx09" text="힘든 싸움이었지만 지역인사들에게 상납은 제 때 해야된다는 교훈을 주었습니다" />
+    <string id="FoEx10" text="지역인사들은 당신이 방문한다는 소식을 듣고 당신을 맞이하기 위해 준비중입니다!" />
+    <string id="FoEx11" text="마을이 약탈당하는 중입니다." />
+    <string id="FoEx12" text="지역 인사들은 당신이 그다지 쓸모 없어 보여서 풀어 주기로 했습니다. 대신 대해 약간의 '합의금'을 요구하는군요..." />
+    <string id="FoEx13" text="'선생님'이 필요해" />   
+    <string id="FoEx14" text="당신은 마을 사람들을 교육하려 했지, 마을 전체를 파괴하려던 건 아니었습니다..." /> <!--NEW-->
+    <string id="FoEx15" text="지역 인사 교육 완료" /> <!--NEW-->
+    <string id="FoEx16" text="당신은 이 마을이 속한 국가와 전쟁 중입니다. 보급이나 사람을 차출해 가는것 또한 그들에겐 좋은 교육이 될겁니다." /> <!--NEW-->
+
+<!--Grand heist-->
+    <string id="FoGrHe01" text="크게 한탕하기" />
+    <string id="FoGrHe02" text="한탕 계획하기" />
+    <string id="FoGrHe03" text="당신은 지역의 조직 우두머리 {GANGLEAD} 와 상의했고 {ESTIPROF} 디나르 정도를 벌어들일 거라 추측했습니다. 습격은 오늘 저녁입니다!" />
+    <string id="FoGrHe04" text="세상에 공짜는 없지" />
+    <string id="FoGrHe05" text="{GANGLEAD} 는 부하들에게 당신을 도와주라 지시했습니다... 그리곤 더 필요하다면 {HIREMERC} 디나르를 내라고 합니다. 혹시 잊었을까봐 말씀드리자면 예상되는 수익은 {ESTIPROF} 디나르입니다..." />
+    <string id="FoGrHe06" text="당신과 당신의 부하들은 기습하기 위한 최고의 장소를 찾았습니다.." />
+    <string id="FoGrHe07" text="돈 챙기고 빨리 자리를 뜨자." />
+    <string id="FoGrHe08" text="녀석들이 오고있군!" />
+
+<!--Gang trial-->
+    <string id="FoGaTr01" text="조직의 시험" />
+    <string id="FoGaTr02" text="도전" />
+    <string id="FoGaTr03" text="조직 우두머리 {GANGRELA} 는 당신을 충분히 인정하고 승부를 받아들였습니다. 싸움은 동이 트기전 시작됩니다." />
+    <string id="FoGaTr04" text="승부가 곧 시작됩니다." />
+    <string id="FoGaTr05" text="힘든 승부였지만 당신은 해냈군요. 이제 파이의 한 조각을 차지할 시간입니다... 매 주 받을 돈을 관리하기 위해 동료 한 명을 여관에 남겨두세요." />
+    <string id="FoGaTr06" text="스스로를 증명할 시간입니다" />
+    <string id="FoGaTr07" text="기회" />
+    <string id="FoGaTr08" text="{GANGRELA} 는 당신에게 감탄했고 동업을 제안했습니다. 당신은 받아들이거나... 승자로서의 권위를 내세워 이 구역에 새로운 조직을 선포하세요!!!" /> <!--NEW-->
+    <string id="FoGaTr09" text="관계가 중요하지" />
+    <string id="FoGaTr10" text="적더라도 확실한 돈" />
+    <string id="FoGaTr11" text=" {GAIN} 디나르를 {SETLLE} 의 동업자로써 수익의 지분을 받았습니다" />
+    <string id="FoGaTr12" text=" {GAIN} 디나르를 {SETTLE} 의 조직 우두머리에게 수금을 요구했습니다 " />
+    <string id="FoGaTr13" text="당신은 {SETTLE} 에 세금을 관리해줄 동료자리를 너무 오랜 기간 비워뒀고 수금에 대한 권한을 잃어버렸습니다" />
+
+<!--Plot-->
+    <string id="FoPlot01" text="음모 꾸미기" />
+    <string id="FoPlot02" text="충성도 제한" />
+    <string id="FoPlot03" text="도시의 충성도는 {LIMITLOY} 이하여야 합니다." />
+    <string id="FoPlot04" text="음모를 꾸미기위해 {PLOTFEE} 포인트를 사용하시겠습니까 (현재보유량 {VILLAINY})? 도시에 {PROSPERO} 일동안 머물러야 합니다" />
+    <string id="FoPlot05" text="모든걸 멈춘다. 보상은 기대 할 수 없겠지만.. " />
+    <string id="FoPlot06" text="당신읜 음모는 성공했습니다. 도시의 거주자들은 공격적으로 변해 도시의 소유자에게 반기를 듭니다. 그들 중 일부는 민병대에 합류합니다." />
+    <string id="FoPlot07" text="도시 내의 폭동" />
+    <string id="FoPlot08" text="문으로 가는 길에 성난 민중 무리를 만났습니다. 멀리 보이는 무장한 경비들은 그들을 멈추게 하기 위해 접근하고 있습니다..." />
+    <string id="FoPlot09" text="폭동에 참가하기" />
+    <string id="FoPlot10" text="여기서 나가기" />
+    <string id="FoPlot11" text="힘든 싸움이었군" />
+    <string id="FoPlot12" text="몇이 남아 당신에게 감사를 전하며 보상을 하기 위해있습니다. 사람들 사이에서 이 싸움에서 보인 당신의 무용은 퍼져나갑니다..." />
+    <string id="FoPlot13" text="피로 목욕하기" />
+    <string id="FoPlot14" text="당신은 살아남았지만 대학살극을 막을 순 없어보입니다." />
+
+<!--Sabotage-->
+    <string id="FoSabo01" text="식량창고 사보타주" /> 
+    <string id="FoSabo02" text="사보타주 계획하기" /> 
+    <string id="FoSabo03" text="  {VILFEE} 포인트를 사용해 ( 현재 보유량 {VILLAINY})? 당신의 목표는 {SABTARG}이고 완료까지 {PROSPERO}시간 걸릴 예정입니다." /> 
+    <string id="FoSabo04" text="성벽 망가뜨리기" /> 
+    <string id="FoSabo05" text="물에 독풀기" /> 
+    <string id="FoSabo06" text="당신의 사보타주는 성공적이었고, 영지는 약해졌습니다." /> 
+    <string id="FoSabo07" text="  {VILFEE} 포인트를 사용해 ( 현재 보유량 {VILLAINY})? 당신의 목표는 {SABTARG}이고 완료까지 {PROSPERO}시간 걸릴 예정입니다." /> 
+    <string id="FoSabo08" text="캠프로 돌아가기" />    
+    <string id="FoSabo09" text="당신은 마을 주변의 캠프에 있습니다. 이곳에서 당신은 사보타주를 계획할 수 있습니다. 무엇을 계획하시겠습니까?" />        
+    <string id="FoSabo10" text="당신은 이 행동을 위해 부하 몇을 배정했습니다. 아직까진 순조롭군요..." />    
+    <string id="FoSabo11" text="마을로 진입하기" />    
+    <string id="FoSabo12" text="약탈자 보내기" />    
+    <string id="FoSabo13" text=" {VILFEE} 포인트를 사용해 (현재 보유량 {VILLAINY}) 이 마을을 약탈하기 위한 강도 무리를 부르시겠습니까?" />    
+
+<!--Robbery-->
+    <string id="FoRob01" text="강도" /> 
+    <string id="FoRob02" text="대륙에서 벌이는 강도짓" /> 
+    <string id="FoRob03" text=" {ROBCAST}에게 가세요. 여관에서 파트너를 만날 수 있습니다." /> 
+    <string id="FoRob04" text="강도짓" /> 
+    <string id="FoRob05" text="지역의 조직 우두머리 {GANGLEAD}는 {ROBCAST}에 도움이 필요하다는군요. 여관으로가서 파트너를 만나세요." /> 
+    <string id="FoRob06" text="파트너 만나기" /> 
+    <string id="FoRob07" text="오는 길에 경비병이 접근하는 기색이 없었다면 털 준비를 하자고..." /> 
+    <string id="FoRob08" text="약탈할 시간이군" /> 
+    <string id="FoRob09" text="2개의 상자를 찾았습니다. 작은 상자는 돈이 들어있고, 큰 녀석은 물건이 들어있는 것 같네요. 주어진 시간이 많지 않아 한 개의 자물쇠만 딸 수 있습니다." /> 
+    <string id="FoRob10" text="당신의 파트너가 농민의 옷을 주었습니다. 주방으로 음식을 배달하는 척하며 잠입을 할 계획입니다." /> 
+    <string id="FoRob11" text="농민인 척 하기" /> <!--NEW-->
+    <string id="FoRob12" text="영주실 주변에 경비병 몇이 보입니다. 당신의 파트너는 이 상황을 정리하게 3000 디나르를 지금 이 자리에서 요구합니다!" /> <!--NEW-->
+    <string id="FoRob13" text="진입에 성공한 당신은 영주실 바로 앞까지 향합니다." /> <!--NEW-->
+    <string id="FoRob14" text="당신은 영주실에 도달했지만 당신의 파트너가 돈을 저기에 사용한 것 같진 않네요..." /> <!--NEW-->    
+    <string id="FoRob15" text="별 문제 없어보이네요. 챙길만한 물건들을 확인 할 시간입니다." /> <!--NEW-->
+
+   <!--Scandal-->
+    <string id="FoScan01" text="루머 퍼트리기" /> 
+    <string id="FoScan02" text="영주 루머 퍼트리기" /> 
+    <string id="FoScan03" text="이 도시를 관리하는 {CLANSCAN} 클랜을 불안정하게 만들기 위해 계획하고 있습니다.. 경비병으로 변장한 후 도시 내로 진입해 쓸만한 증거를 찾으세요. {LIMITVIL} 점수 필요." /> 
+    <string id="FoScan04" text="경비병인 척하기" /> 
+    <string id="FoScan05" text="경비병의 옷을 얻기 위해선 약간의 뇌물이 필요합니다. 그는 당신이 리스크를 줄이기 위해 행한 이 계획을 받아들였고 3000 디나르를 지금 이 자리에서 요구합니다" /> <!--NEW-->
+    <string id="FoScan06" text="잠입하기 위한 최적의 시간을 위해 대기 중입니다." /> 
+    <string id="FoScan07" text="성공! 도시를 지배하는 클랜과 더 큰 문제로 휘말리기 전에 빠져나가세요. 슬쩍 챙기는 용돈도 빼놓을 수 없죠!" /> 
+    <string id="FoScan08" text="영주실에 도착했습니다만, 예상했던 대로 비어있진 않았습니다..." /> 
+    <string id="FoScan09" text="칼라디아의 루머" /> 
+    <string id="FoScan10" text=" {CLANSCAN}의 클랜은 심각한 루머에 휘말렸고 이를 무마하기 위해 가지고 있는 모든 영향력을 사용했습니다." /> 
+    <string id="FoScan11" text="이 도시의 클랜 수장은 충분한 영향력을 가지고 있지 않습니다. (200이상)" />    
+
+   <!--Insurance--> 
+    <string id="FoInsu01" text="보험 사기" /> <!--NEW-->
+    <string id="FoInsu02" text="어떤 강도놈도 탈출하게 해선 안돼!" /> <!--NEW-->
+    <string id="FoInsu03" text="이건 우리가 하려던게 아니라고! 목적지에 상단이 도착하기전에 처리해!" /> <!--NEW-->
+    <string id="FoInsu04" text="이 녀석들은 처리할 수 밖에 없겠군" /> <!--NEW-->
+    <string id="FoInsu05" text="{GANGLEAD} 는 {MERCH} 의 상단에 투자를 했습니다만... 적자를 보고있네요. 다행히 보험 계약은 진행중이니 정산전에 상단은 사고로 사라져야합니다." /> <!--NEW-->
+    <string id="FoInsu06" text="이 도시 세력과 전쟁중이군... 가서 상단을 털기만 하면 되네, 날로 먹는단 말이지! 도시에서 조금 떨어져서 해야 할거야." /> <!--NEW-->
+    <string id="FoInsu07" text="기습하는 척하기" /> <!--NEW-->
+    <string id="FoInsu08" text="{GANGLEAD} 가 상단을 호위해 줄 것을 요청합니다. 강도무리가 이를 약탈하기 위해 고용되었습니다. 일단 상단 처리가 끝나면 증거인멸을 위해 강도무리를 처리하세요." /> <!--NEW-->
+    <string id="FoInsu09" text="20명 이상의 멀쩡한 부대원이 필요합니다." /> <!--NEW-->
+
+   <!--Dialog-->
+    <string id="FoDiaFl01" text="아무 상관없는 사람을 귀찮게 하고있군..." /> <!--NEW-->
+    <string id="FoDiaFl02" text="너에 대해 들었어... 그래서 무슨 목적으로 우릴 찾아온거지? 새로운 일손이 필요하신가?[if:idle_angry][ib:normal]" /> <!--NEW-->
+    <string id="FoDiaFl03" text="시간낭비 그만시키고 가서 네 할 일이나 하시지" /> <!--NEW-->
+    <string id="FoDiaFl04" text="음, 괜찮은 제안인데." /> <!--NEW-->
+    <string id="FoDiaFl05" text="새로운 일손을 찾을 뿐이야. 말로 하자고." /> <!--NEW-->
+    <string id="FoDiaFl06" text="우린 여기서 잘 지내고 있어. 하지만 나의... 아니 우리의 사업을 조금 크게 하고 싶군... 다른 도시에 흥미를 가질만하 친구가 있나?" /> <!--NEW-->
+    <string id="FoDiaFl07" text="그래... 여기저기 아는 사람이야 있지. 우리의 좋은 관계에 대해 얘기해보자고. 자네한테도 도움이 될 테니깐. 그리고 우리가 파트너라는걸 잊지말라고![rf:trivial_hi][rb:very_positive]" /> <!--NEW-->
+    <string id="FoDiaFl08" text="좋아. 우리가 돈을 더 벌수있는게 확실해야 할거야!" /> <!--NEW-->
+    <string id="FoDiaFl09" text="서로 아는 친구가 네가 이 사실을 알게되면 아주 좋아할 거라던데..." /> <!--NEW-->
+    <string id="FoDiaFl10" text="그렇지 그렇지! 좋은 관계가 돈을 부르지. 그렇지 않나?[rf:trivial_hi][rb:very_positive]" /> <!--NEW-->
+    <string id="FoDiaFl11" text="두 말하면 잔소리지" /> <!--NEW-->
+    <string id="FoDiaFl12" text="음.. 사실 조금만 더 생각해보고 싶은데." /> <!--NEW-->
+
+   <!--Outlaw-->
+    <string id="FoOutlaw01" text="무법자의 길을 걷자!" />  <!--NEW-->
+    <string id="FoOutlaw02" text="은신처 떠나기" />    <!--NEW-->
+    <string id="FoOutlaw03" text="역할 없음" />  <!--NEW-->
+    <string id="FoOutlaw04" text="무법자가의 길엔 결과가 따릅니다... 당신의 범죄율이 엄청나게 증가하고 모든 팩션과 전쟁이 걸립니다." />    <!--NEW-->
+    <string id="FoOutlaw05" text="무법자 행위 멈추기" />  <!--NEW-->
+    <string id="FoOutlaw06" text="역할 수락하기" />  <!--NEW-->  
+    <string id="FoOutlaw07" text="무법자 행위를 멈추시겠습니까? 당신의 지원 없이는 도적 세력은 약해질 것입니다!" />  <!--NEW-->
+    <string id="FoOutlaw08" text="{UP} 세력이 강해지고 있습니다!" />    <!--NEW-->
+    <string id="FoOutlaw09" text="{DOWN} 세력이 약해지고 있습니다!" />  <!--NEW-->
+    <string id="FoOutlaw10" text="경비에게 자신을 들여보내도록 돈을 찔러줍니다." />  <!--NEW-->  
+    <string id="FoOutlaw11" text="강력함 {CULT}: {VAL}" />    <!--NEW-->
+    <string id="FoOutlaw12" text="패거리 모집하기" />  <!--NEW-->
+    <string id="FoOutlaw13" text="충분히 강하지 않습니다." />  <!--NEW-->  
+    <string id="FoOutlaw14" text="{CULT} 세력이 너무 약한 상태입니다. 당신은 새로운 패거리를 더 끌어모으기 위해 악행 점수를 소모해야 할겁니다." />  <!--NEW-->  
+    <string id="FoOutlaw15" text="포로들 건네기" />    <!--NEW-->
+    <string id="FoOutlaw16" text="암시장" />  <!--NEW--> 
+
+  </strings>
+</base>

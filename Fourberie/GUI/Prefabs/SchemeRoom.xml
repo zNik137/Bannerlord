@@ -1,0 +1,419 @@
+<Prefab>
+	<Constants>
+		<Constant Name="Encyclopedia.Frame.Width" BrushLayer="Default" BrushName="Encyclopedia.Frame" BrushValueType="Width" />
+		<Constant Name="Encyclopedia.Frame.Height" BrushLayer="Default" BrushName="Encyclopedia.Frame" BrushValueType="Height" />
+
+		<Constant Name="Top.Height" Value="240" />
+		<Constant Name="Top.VerticalDivider.Height" Value="!Top.Height" />
+		<Constant Name="Top.VerticalDivider.Width" Value="15" />
+		<Constant Name="Top.VerticalDivider.Thin.Width" Value="7" />
+
+		<Constant Name="Reference.AlphaFactor" Value="0" />
+	</Constants>
+	<Window>
+		<Widget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Sprite="BlankWhiteSquare_9" Color="#000000CC">
+			<Standard.PopupCloseButton HorizontalAlignment="Center" VerticalAlignment="Center" MarginTop="940" Command.Click="Close" Parameter.ButtonText="Leave" />
+			<Children>
+
+				<!--Background-->
+				<BrushWidget Id="TownManagementPopup" DoNotAcceptEvents="true" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="!Encyclopedia.Frame.Width" SuggestedHeight="!Encyclopedia.Frame.Height" HorizontalAlignment="Center" VerticalAlignment="Center" MarginBottom="35" Brush="Encyclopedia.Frame" ReserveManagementPopup="ReservePopup">
+					<Children>
+						<!--Title-->
+						<Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="590" SuggestedHeight="155" HorizontalAlignment="Center" VerticalAlignment="Top" PositionXOffset="6" PositionYOffset="-18" Sprite="StdAssets\tabbar_popup" IsDisabled="true">
+							<Children>
+								<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Center" PositionYOffset="-25" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="36" IsDisabled="true" Text="@SchemRoomStr" />
+							</Children>
+						</Widget>
+
+						<!-- Crimes -->
+
+						<Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="2565" SuggestedHeight="1350"  PositionXOffset="-533" PositionYOffset="-125" HorizontalAlignment="Left" VerticalAlignment="Top" Sprite="SPGeneral\EscapeMenu\esc_menu_frame_canvas" Command.HoverBegin=""	Command.HoverEnd="">
+						</Widget>
+
+						<Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="200" SuggestedHeight="200"  PositionXOffset="1260" PositionYOffset="225" HorizontalAlignment="Left" VerticalAlignment="Top" Sprite="SPGeneral\Skills\gui_skills_icon_roguery" Command.HoverBegin=""	Command.HoverEnd="">
+						</Widget>
+
+						<Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="1220" SuggestedHeight="550"  PositionXOffset="525" PositionYOffset="60" HorizontalAlignment="Left" VerticalAlignment="Top" Sprite="SPGeneral\EscapeMenu\esc_menu_frame_canvas" Command.HoverBegin=""	Command.HoverEnd="">
+						</Widget>
+
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush4" IsEnabled="@blockEnf" PositionXOffset="960" PositionYOffset="200" Command.Click="SchemeRoomStanceList">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="32" Text="@EnfoStr" />
+							</Children>
+						</ButtonWidget>
+
+
+						<!-- Kingdom -->
+
+						<Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="1400" SuggestedHeight="3"  PositionXOffset="45" PositionYOffset="495" HorizontalAlignment="Left" VerticalAlignment="Top" Sprite="SPGeneral\SPRecruitment\portrait_cart" Command.HoverBegin=""	Command.HoverEnd="">
+						</Widget>
+
+						<Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="1400" SuggestedHeight="3"  PositionXOffset="45" PositionYOffset="720" HorizontalAlignment="Left" VerticalAlignment="Top" Sprite="SPGeneral\SPRecruitment\portrait_cart" Command.HoverBegin=""	Command.HoverEnd="">
+						</Widget>
+
+						<Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="3" SuggestedHeight="650"  PositionXOffset="45" PositionYOffset="240" HorizontalAlignment="Left" VerticalAlignment="Top" Sprite="SPGeneral\SPRecruitment\portrait_cart" Command.HoverBegin=""	Command.HoverEnd="">
+						</Widget>
+
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush4" IsEnabled="@blockEnf" PositionXOffset="65" PositionYOffset="197" Command.Click="KingdomFilter">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="30" Text="@KingNameStr" />
+							</Children>
+						</ButtonWidget>
+
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="65" PositionYOffset="250" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="26" IsDisabled="true" Text="@KingRulerStr" />
+
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="65" PositionYOffset="290" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="26" IsDisabled="true" Text="@KingArmiesStr" />
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockSeeK" PositionXOffset="370" PositionYOffset="290" Command.Click="ListArmiesF">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="@SeeStr" />
+							</Children>
+						</ButtonWidget>
+
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="65" PositionYOffset="330" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="26" IsDisabled="true" Text="@KingPartiesStr" />
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockSeeK" PositionXOffset="370" PositionYOffset="330" Command.Click="ListKPartiesF">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="@SeeStr" />
+							</Children>
+						</ButtonWidget>
+
+						<HintWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="70" SuggestedHeight="120" PositionXOffset="340" PositionYOffset="290" Command.HoverBegin="HintCoverF" Command.HoverEnd="HintEndF" />
+
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="65" PositionYOffset="370" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="26" IsDisabled="true" Text="@KingFiefsStr" />
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="65" PositionYOffset="410" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="26" IsDisabled="true" Text="@KingStrCrimeStr" />
+						<HintWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="100" SuggestedHeight="40" PositionXOffset="225" PositionYOffset="410" Command.HoverBegin="HintClansKF" Command.HoverEnd="HintEndF" />
+
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockSeeK" PositionXOffset="370" PositionYOffset="370" Command.Click="KingFiefsF">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="22" Text="@SeeStr" />
+							</Children>
+						</ButtonWidget>
+
+						<!-- Stance 1 -->
+						<RichTextWidget IsVisible="@homesteadStance1" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="500" PositionYOffset="210" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="26" IsDisabled="true" Text="@TotKingHomesteadStr" />	
+						<ButtonWidget IsVisible="@homesteadStance1" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockEnf" PositionXOffset="580" PositionYOffset="210" Command.Click="ListKingHomestead">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="@HomesteadStr" />
+							</Children>
+						</ButtonWidget>
+
+						<RichTextWidget IsVisible="@schemeRoomStance1" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="500" PositionYOffset="250" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="26" IsDisabled="true" Text="@TotKingFriendStr" />	
+						<ButtonWidget IsVisible="@schemeRoomStance1" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockEnf" PositionXOffset="580" PositionYOffset="250" Command.Click="ListGangFrie">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="@NotablesStr" />
+							</Children>
+						</ButtonWidget>
+						<RichTextWidget IsVisible="@schemeRoomStance1" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="500" PositionYOffset="290" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="26" IsDisabled="true" Text="@TotKingTownStr" />	
+						<ButtonWidget IsVisible="@schemeRoomStance1" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockEnf" PositionXOffset="580" PositionYOffset="290" Command.Click="ListKingTribF">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="@TerrPartnStr" />
+							</Children>
+						</ButtonWidget>
+						<RichTextWidget IsVisible="@schemeRoomStance1" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="500" PositionYOffset="330" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="26" IsDisabled="true" Text="@TotKingAlleyStr" />	
+						<ButtonWidget IsVisible="@schemeRoomStance1" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockEnf" PositionXOffset="580" PositionYOffset="330" Command.Click="ListKingAlleyF">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="@AlleysStr" />
+							</Children>
+						</ButtonWidget>
+						<RichTextWidget IsVisible="@schemeRoomStance1" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="500" PositionYOffset="370" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="26" IsDisabled="true" Text="@TotKingHidStr" />	
+						<ButtonWidget IsVisible="@schemeRoomStance1" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockEnf" PositionXOffset="580" PositionYOffset="370" Command.Click="ListKCrimPactF">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="@BandiFactStr" />
+							</Children>
+						</ButtonWidget>
+
+						<!-- Stance 2 -->
+						<RichTextWidget IsVisible="@homesteadStance2" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="500" PositionYOffset="250" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="26" IsDisabled="true" Text="@TotKingHomesteadStr" />	
+						<ButtonWidget IsVisible="@homesteadStance2" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockEnf" PositionXOffset="580" PositionYOffset="250" Command.Click="ListKingHomestead">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="@HomesteadStr" />
+							</Children>
+						</ButtonWidget>
+
+						<RichTextWidget IsVisible="@schemeRoomStance2" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="500" PositionYOffset="290" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="26" IsDisabled="true" Text="@TotKingFriendStr" />	
+						<ButtonWidget IsVisible="@schemeRoomStance2" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockEnf" PositionXOffset="580" PositionYOffset="290" Command.Click="ListGangFrie">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="@NotablesStr" />
+							</Children>
+						</ButtonWidget>
+						<RichTextWidget IsVisible="@schemeRoomStance2" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="500" PositionYOffset="330" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="26" IsDisabled="true" Text="@TotKingClanFrStr" />	
+						<ButtonWidget IsVisible="@schemeRoomStance2" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockEnf" PositionXOffset="580" PositionYOffset="330" Command.Click="ListKingClanNetF">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="@FrClansStr" />
+							</Children>
+						</ButtonWidget>
+						<RichTextWidget IsVisible="@schemeRoomStance2" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="500" PositionYOffset="370" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="26" IsDisabled="true" Text="@TotKingEmiStr" />	
+						<ButtonWidget IsVisible="@schemeRoomStance2" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockEnf" PositionXOffset="580" PositionYOffset="370" Command.Click="ListKingEmiF">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="@EmissStr" />
+							</Children>
+						</ButtonWidget>
+
+						<HintWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="220" SuggestedHeight="200" PositionXOffset="500" PositionYOffset="250" Command.HoverBegin="HintNetF" Command.HoverEnd="HintEndF" />
+
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="500" PositionYOffset="410" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="26" IsDisabled="true" Text="@KingNetStr" />
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="580" PositionYOffset="410" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="24" IsDisabled="true" Text="@TotNetStr" />
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="500" PositionYOffset="415" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="26" IsDisabled="true" Text="____" />
+
+
+						<!-- Clan -->
+
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush4" IsEnabled="@blockSchem1" PositionXOffset="100" PositionYOffset="480" Command.Click="ClanFilter">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="@ClanNameStr" />
+							</Children>
+						</ButtonWidget>
+
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="100" PositionYOffset="520" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@ClanleadStr" />
+
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="100" PositionYOffset="550" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@ClanPartiesStr" />
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockSee1" PositionXOffset="370" PositionYOffset="550" Command.Click="ClanPartiesF">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="22" Text="@SeeStr" />
+							</Children>
+						</ButtonWidget>
+
+						<HintWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="70" SuggestedHeight="120" PositionXOffset="340" PositionYOffset="555" Command.HoverBegin="HintCoverF" Command.HoverEnd="HintEndF" />
+
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="100" PositionYOffset="580" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@ClanInfoStr" />
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="100" PositionYOffset="610" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@ClanInfo2Str" />
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="100" PositionYOffset="640" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@ClanInfo3Str" />
+
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockSee1" PositionXOffset="370" PositionYOffset="610" Command.Click="ClanFiefsF">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="22" Text="@SeeStr" />
+							</Children>
+						</ButtonWidget>
+
+
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush4" IsEnabled="@blockSchem2" PositionXOffset="100" PositionYOffset="705" Command.Click="ClanFilter2">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="@ClanName2Str" />
+							</Children>
+						</ButtonWidget>
+
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="100" PositionYOffset="745" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@Clanlead2Str" />
+
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="100" PositionYOffset="775" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@ClanParties2Str" />
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockSee2" PositionXOffset="370" PositionYOffset="775" Command.Click="ClanPartiesF2">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="22" Text="@SeeStr" />
+							</Children>
+						</ButtonWidget>
+
+						<HintWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="70" SuggestedHeight="120" PositionXOffset="340" PositionYOffset="780" Command.HoverBegin="HintCoverF" Command.HoverEnd="HintEndF" />
+
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="100" PositionYOffset="805" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@Clan2InfoStr" />
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="100" PositionYOffset="835" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@Clan2Info2Str" />
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="100" PositionYOffset="865" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@Clan2Info3Str" />
+
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockSee2" PositionXOffset="370" PositionYOffset="835" Command.Click="ClanFiefsF2">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="22" Text="@SeeStr" />
+							</Children>
+						</ButtonWidget>
+
+
+
+						<!-- Hero -->
+
+						<Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="120" SuggestedHeight="100"  PositionXOffset="500" PositionYOffset="535" HorizontalAlignment="Left" VerticalAlignment="Top" Sprite="General\InnerFrame1\canvas" Command.HoverBegin=""	Command.HoverEnd="">
+						</Widget>
+						<Panel WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" MarginLeft="505" MarginTop="549" StackLayout.LayoutMethod="VerticalBottomToTop">
+							<Children>
+								<ImageIdentifierWidget Id="ElementImage" DataSource="{Assign7}" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="120" SuggestedHeight="84"  AdditionalArgs="@AdditionalArgs" ImageId="@Id" ImageTypeCode="@ImageTypeCode" />
+								<HintWidget DataSource="{Assign7}" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="120" SuggestedHeight="84" Command.HoverBegin="" Command.HoverEnd="" />
+							</Children>
+						</Panel>
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush4" IsEnabled="@blockSchem1" PositionXOffset="510" PositionYOffset="480" Command.Click="Schemhero1">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="@Assign7NameStr" />
+							</Children>
+						</ButtonWidget>
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="640" PositionYOffset="520" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@Assign7Info1Str" />
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="640" PositionYOffset="550" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@Assign7Info2Str" />
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="640" PositionYOffset="580" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@Assign7Info3Str" />
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="640" PositionYOffset="610" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@Assign7Info4Str" />
+
+
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockSchem1" PositionXOffset="950" PositionYOffset="560" Command.Click="Scheme1Sel">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="26" Text="@SchemeSelStr" />
+							</Children>
+						</ButtonWidget>
+
+
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockSchem1b" PositionXOffset="1420" PositionYOffset="540" Command.Click="SchBonus1Up">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="+" />
+							</Children>
+						</ButtonWidget>
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockSchem1b" PositionXOffset="1420" PositionYOffset="580" Command.Click="SchBonus1Do">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="-" />
+							</Children>
+						</ButtonWidget>
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockSchem1b" PositionXOffset="1420" PositionYOffset="620" Command.Click="SchBonus1Re">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="x" />
+							</Children>
+						</ButtonWidget>
+						<HintWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="40" SuggestedHeight="40" PositionXOffset="1420" PositionYOffset="540" Command.HoverBegin="HintBonSu" Command.HoverEnd="HintEndF" />
+
+
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="1120" PositionYOffset="560" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="24" IsDisabled="true" Text="@SchemeSuccStr" />
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="1120" PositionYOffset="600" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="24" IsDisabled="true" Text="@SchemeGrudStr" />
+						<HintWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="270" SuggestedHeight="40" PositionXOffset="1120" PositionYOffset="565" Command.HoverBegin="HintSchem1" Command.HoverEnd="HintEndF" />
+
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockEnf" PositionXOffset="950" PositionYOffset="610" Command.Click="SchemeAllBut">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="22" Text="@SchemAllButStr" />
+							</Children>
+						</ButtonWidget>
+
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="500" PositionYOffset="650" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="24" IsDisabled="true" Text="@SchemeStatusStr" />
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="500" PositionYOffset="535" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="40" IsDisabled="true" Text="@IconDead1" />
+
+
+
+
+
+
+						<Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="120" SuggestedHeight="100"  PositionXOffset="500" PositionYOffset="760" HorizontalAlignment="Left" VerticalAlignment="Top" Sprite="General\InnerFrame1\canvas" Command.HoverBegin=""	Command.HoverEnd="">
+						</Widget>
+						<Panel WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" MarginLeft="505" MarginTop="774" StackLayout.LayoutMethod="VerticalBottomToTop">
+							<Children>
+								<ImageIdentifierWidget Id="ElementImage" DataSource="{Assign8}" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="120" SuggestedHeight="84"  AdditionalArgs="@AdditionalArgs" ImageId="@Id" ImageTypeCode="@ImageTypeCode" />
+								<HintWidget DataSource="{Assign8}" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="120" SuggestedHeight="84" Command.HoverBegin="" Command.HoverEnd="" />
+							</Children>
+						</Panel>
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush4" IsEnabled="@blockSchem2" PositionXOffset="510" PositionYOffset="705" Command.Click="Schemhero2">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="@Assign8NameStr" />
+							</Children>
+						</ButtonWidget>		
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="640" PositionYOffset="745" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@Assign8Info1Str" />
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="640" PositionYOffset="775" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@Assign8Info2Str" />
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="640" PositionYOffset="805" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@Assign8Info3Str" />
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="640" PositionYOffset="835" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@Assign8Info4Str" />
+
+
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockSchem2" PositionXOffset="950" PositionYOffset="785" Command.Click="Scheme2Sel">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="26" Text="@Scheme2SelStr" />
+							</Children>
+						</ButtonWidget>
+
+
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockSchem2b" PositionXOffset="1420" PositionYOffset="765" Command.Click="SchBonus2Up">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="+" />
+							</Children>
+						</ButtonWidget>
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockSchem2b" PositionXOffset="1420" PositionYOffset="805" Command.Click="SchBonus2Do">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="-" />
+							</Children>
+						</ButtonWidget>
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockSchem2b" PositionXOffset="1420" PositionYOffset="845" Command.Click="SchBonus2Re">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="x" />
+							</Children>
+						</ButtonWidget>
+						<HintWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="40" SuggestedHeight="40" PositionXOffset="1420" PositionYOffset="765" Command.HoverBegin="HintBonSu" Command.HoverEnd="HintEndF" />
+
+
+
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="1120" PositionYOffset="785" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="24" IsDisabled="true" Text="@Scheme2SuccStr" />
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="1120" PositionYOffset="825" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="24" IsDisabled="true" Text="@Scheme2GrudStr" />
+						<HintWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="270" SuggestedHeight="40" PositionXOffset="1120" PositionYOffset="790" Command.HoverBegin="HintSchem2" Command.HoverEnd="HintEndF" />
+
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockEnf" PositionXOffset="950" PositionYOffset="835" Command.Click="Scheme2AllBut">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="22" Text="@Schem2AllButStr" />
+							</Children>
+						</ButtonWidget>
+
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="500" PositionYOffset="875" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="24" IsDisabled="true" Text="@Scheme2StatusStr" />
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="500" PositionYOffset="760" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="40" IsDisabled="true" Text="@IconDead2" />
+
+
+
+
+						<!-- Villainy -->
+						<!-- <RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="960" PositionYOffset="200" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="32" IsDisabled="true" Text="@EnfoStr"/> -->
+
+						<Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="120" SuggestedHeight="100"  PositionXOffset="810" PositionYOffset="200" HorizontalAlignment="Left" VerticalAlignment="Top" Sprite="SPGeneral\SPRecruitment\portrait_cart" Command.HoverBegin=""	Command.HoverEnd="">
+						</Widget>
+
+						<Panel WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" MarginLeft="810" MarginTop="214" StackLayout.LayoutMethod="VerticalBottomToTop">
+							<Children>
+								<ImageIdentifierWidget Id="ElementImage" DataSource="{Assign4}" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="120" SuggestedHeight="84"  AdditionalArgs="@AdditionalArgs" ImageId="@Id" ImageTypeCode="@ImageTypeCode" />
+								<HintWidget DataSource="{Assign4}" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="120" SuggestedHeight="84" Command.HoverBegin="" Command.HoverEnd="" />
+							</Children>
+						</Panel>
+
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockSceneEnf" PositionXOffset="960" PositionYOffset="260" Command.Click="ButAssign4">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="@AssiStr" />
+							</Children>
+						</ButtonWidget>
+
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockSceneEnf" PositionXOffset="1060" PositionYOffset="260" Command.Click="ButRemove4">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="@RemStr" />
+							</Children>
+						</ButtonWidget>
+
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="820" PositionYOffset="330" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="24" IsDisabled="true" Text="@Enforcer1Str" />	
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="820" PositionYOffset="370" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="24" IsDisabled="true" Text="@Enforcer2Str" />	
+
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="820" PositionYOffset="410" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="26" IsDisabled="true" Text="@Enforcer3Str" />
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="895" PositionYOffset="410" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="24" IsDisabled="true" Text="@TotEnfStr" />
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="820" PositionYOffset="415" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="26" IsDisabled="true" Text="____" />
+
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockEnf" PositionXOffset="1060" PositionYOffset="455" Command.Click="PrisoList">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="20" Text="@PrisonerStr" />
+							</Children>
+						</ButtonWidget>
+
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockEnf" PositionXOffset="1180" PositionYOffset="455" Command.Click="FContractCom">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="20" Text="@ContrStr" />
+							</Children>
+						</ButtonWidget>
+
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockEnf" PositionXOffset="1300" PositionYOffset="455" Command.Click="ClanGruFdilter">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="20" Text="@GruLedStr" />
+							</Children>
+						</ButtonWidget>
+
+						<ButtonWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush2" IsEnabled="@blockEnf" PositionXOffset="1310" PositionYOffset="260" Command.Click="AgentsList">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="24" Text="@UrAgStr" />
+							</Children>
+						</ButtonWidget>
+
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="1290" PositionYOffset="310" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@SabStr"/>
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="1290" PositionYOffset="340" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@SpyStr"/>
+						<RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionXOffset="1290" PositionYOffset="370" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="22" IsDisabled="true" Text="@AssStr"/>
+
+						<ButtonWidget IsVisible="@NoBaseSchemeRoom" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top"	Brush="ButtonBrush4" IsEnabled="@blockSceneEnf" PositionXOffset="1280" PositionYOffset="120" Command.Click="Close2">
+							<Children>
+								<RichTextWidget DoNotAcceptEvents="true" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Top" Brush="OverlayPopup.ButtonText"	Brush.FontSize="20" Text="@CrimEntTitleStr" />
+							</Children>
+						</ButtonWidget>
+
+
+					</Children>						
+				</BrushWidget>
+
+		
+				<!--Close Button-->
+				<ButtonWidget Command.Click="Close" HeightSizePolicy ="Fixed" WidthSizePolicy="Fixed" SuggestedHeight="100" SuggestedWidth="100" VerticalAlignment="Center" HorizontalAlignment="Center" PositionYOffset="-465" MarginLeft="1440" Brush="Popup.CloseButton"/>
+
+			</Children>
+		</Widget>
+	</Window>
+</Prefab>

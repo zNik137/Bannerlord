@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TroopList>
+  <Troops>
+  
+<!-- RECRUITMENT in town (minor faction recruitment BUTTON only) -->
+
+  <!-- EMPIRE -->
+      <Troop>
+        <SettlementCulture>empire</SettlementCulture>
+    	  <TroopID>legion_of_the_betrayed_tier_1</TroopID>
+      </Troop>
+      <Troop>
+        <SettlementCulture>empire</SettlementCulture>
+    	  <TroopID>hidden_hand_tier_1</TroopID>
+      </Troop>
+      <Troop>
+        <SettlementCulture>empire</SettlementCulture>
+    	  <TroopID>embers_of_flame_tier_1</TroopID>
+      </Troop>
+      <Troop>
+        <SettlementCulture>empire</SettlementCulture>
+    	  <TroopID>eleftheroi_tier_1</TroopID>
+      </Troop>
+      <Troop>
+        <SettlementCulture>empire</SettlementCulture>
+    	  <TroopID>ADD_TROOP_ID</TroopID>
+      </Troop>
+
+  <!-- BATTANIA -->
+      <Troop>
+        <SettlementCulture>battania</SettlementCulture>
+    	  <TroopID>wolfskins_tier_1</TroopID>
+      </Troop>
+      <Troop>
+        <SettlementCulture>battania</SettlementCulture>
+    	  <TroopID>ADD_TROOP_ID</TroopID>
+      </Troop>
+
+  <!-- ASERAI -->
+      <Troop>
+        <SettlementCulture>aserai</SettlementCulture>
+    	  <TroopID>jawwal_tier_1</TroopID>
+      </Troop>
+      <Troop>
+        <SettlementCulture>aserai</SettlementCulture>
+    	  <TroopID>ghilman_tier_1</TroopID>
+      </Troop>
+      <Troop>
+        <SettlementCulture>aserai</SettlementCulture>
+    	  <TroopID>beni_zilal_tier_1</TroopID>
+      </Troop>
+      <Troop>
+        <SettlementCulture>aserai</SettlementCulture>
+    	  <TroopID>ADD_TROOP_ID</TroopID>
+      </Troop>
+
+  <!-- VLANDIA -->
+      <Troop>
+        <SettlementCulture>vlandia</SettlementCulture>
+    	  <TroopID>brotherhood_of_woods_tier_1</TroopID>
+      </Troop>
+      <Troop>
+        <SettlementCulture>vlandia</SettlementCulture>
+    	  <TroopID>company_of_the_boar_tier_1</TroopID>
+      </Troop>
+      <Troop>
+        <SettlementCulture>vlandia</SettlementCulture>
+    	  <TroopID>ADD_TROOP_ID</TroopID>
+      </Troop>
+
+  <!-- STURGIA -->
+      <Troop>
+        <SettlementCulture>sturgia</SettlementCulture>
+    	  <TroopID>forest_people_tier_1</TroopID>
+      </Troop>
+      <Troop>
+        <SettlementCulture>sturgia</SettlementCulture>
+    	  <TroopID>skolderbrotva_tier_1</TroopID>
+      </Troop>
+      <Troop>
+        <SettlementCulture>sturgia</SettlementCulture>
+    	  <TroopID>lakepike_tier_1</TroopID>
+      </Troop>
+      <Troop>
+        <SettlementCulture>sturgia</SettlementCulture>
+    	  <TroopID>ADD_TROOP_ID</TroopID>
+      </Troop>
+
+  <!-- KHUZAIT -->
+      <Troop>
+        <SettlementCulture>khuzait</SettlementCulture>
+    	  <TroopID>karakhuzaits_tier_1</TroopID>
+      </Troop>
+      <Troop>
+        <SettlementCulture>khuzait</SettlementCulture>
+    	  <TroopID>ADD_TROOP_ID</TroopID>
+      </Troop>
+
+  <!-- New Culture -->
+      <Troop>
+        <SettlementCulture>ADD_CULTURE_ID</SettlementCulture>
+    	  <TroopID>ADD_TROOP_ID</TroopID>
+      </Troop>
+
+
+<!-- BANDITS RECRUITMENT in hideouts
+	The mod is already adding any Tier 2 type troop having the same culture as the hideout culture -->
+
+  <!-- Mountain bandits -->
+      <Troop>
+        <SettlementCulture>mountain_bandits</SettlementCulture>
+    	  <TroopID>looter</TroopID>
+      </Troop>
+	  <Troop>
+        <SettlementCulture>mountain_bandits</SettlementCulture>
+    	  <TroopID>ADD_TROOP_ID</TroopID>
+      </Troop>
+
+  <!-- Forest bandits -->
+      <Troop>
+        <SettlementCulture>forest_bandits</SettlementCulture>
+    	  <TroopID>looter</TroopID>
+      </Troop>
+      <Troop>
+        <SettlementCulture>forest_bandits</SettlementCulture>
+    	  <TroopID>ADD_TROOP_ID</TroopID>
+      </Troop>
+
+
+  <!-- Desert bandits -->
+      <Troop>
+        <SettlementCulture>desert_bandits</SettlementCulture>
+    	  <TroopID>looter</TroopID>
+      </Troop>
+      <Troop>
+        <SettlementCulture>desert_bandits</SettlementCulture>
+    	  <TroopID>ADD_TROOP_ID</TroopID>
+      </Troop>
+
+  <!-- Steppe bandits -->
+      <Troop>
+        <SettlementCulture>steppe_bandits</SettlementCulture>
+    	  <TroopID>looter</TroopID>
+      </Troop>
+      <Troop>
+        <SettlementCulture>steppe_bandits</SettlementCulture>
+    	  <TroopID>ADD_TROOP_ID</TroopID>
+      </Troop>
+
+  <!-- Sea bandits -->
+      <Troop>
+        <SettlementCulture>sea_raiders</SettlementCulture>
+    	  <TroopID>looter</TroopID>
+      </Troop>
+      <Troop>
+        <SettlementCulture>sea_raiders</SettlementCulture>
+    	  <TroopID>ADD_TROOP_ID</TroopID>
+      </Troop>
+
+  <!-- New Bandit Culture -->
+      <Troop>
+        <SettlementCulture>ADD_BANDIT_CULTURE_ID</SettlementCulture>
+    	  <TroopID>ADD_BANDIT_TROOP_ID</TroopID>
+      </Troop>
+	  
+  </Troops>    
+</TroopList>

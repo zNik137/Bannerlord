@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+    <tags>
+        <tag language="Português (BR)" />
+    </tags>
+    <strings>
+        <string id="blcdlgGTExVE" text="Como você ousa ficar diante de mim depois de matar meu pai {VICTIM}? Você cruzou a linha da honra e agora pagará o preço. Prepare-se para encontrar o seu fim!" />
+        <string id="blcdlggYJ6BH" text="Então, foi você quem tirou a vida do meu pai... {VICTIM} era um grande homem, mas aqui estamos. O que você dirá para se defender agora?" />
+        <string id="blcdlgps4zkV" text="{VICTIM} era meu pai, e você garantiu que eu nunca mais ouvisse a voz dele. Não sei se algum dia vou te perdoar, mas por enquanto, fale o que pensa." />
+        <string id="blcdlgJXcBWy" text="Estamos em guerra e eu sei o que você fez com meu pai {VICTIM}. Não pense que eu esqueci. Diga o que você precisa, mas tenha cuidado." />
+        <string id="blcdlgjNnxQ6" text="Mesmo na guerra, não posso ignorar o que aconteceu com meu pai {VICTIM}. Ele era um bom homem. Por que tinha que ser assim?" />
+        <string id="blcdlgjThL0c" text="Esta guerra não muda nada em relação à perda do meu pai {VICTIM}. Fale a sua verdade — preciso ouvi-la." />
+        <string id="blcdlgL1txjd" text="Nunca pensei que veria o rosto do assassino do meu pai, {VICTIM}. Não pense que esqueci ou perdoei. Diga suas palavras e vá embora rapidamente." />
+        <string id="blcdlg9vhQRo" text="É estranho te conhecer assim. Meu pai {VICTIM}, sempre falou de integridade... e agora você tirou a vida dele. O que você tem a dizer em sua defesa?" />
+        <string id="blcdlgqQynS7" text="{VICTIM}, meu pai, não existe mais por sua causa. Tenho perguntas, e você me deve respostas. Fale, antes que minha paciência acabe." />
+        <string id="blcdlgRpZmkp" text="Você matou minha mãe {VICTIM}. Não há misericórdia para você. Você sentirá cada grama da dor que causou!" />
+        <string id="blcdlgBw8lBI" text="Minha mãe, {VICTIM}, merecia mais do que o que você deu a ela. Não vou fingir que isso é fácil... agora, o que você tem a dizer?" />
+        <string id="blcdlgaSCNn4" text="O nome da minha mãe era {VICTIM}, e você acabou com a vida dela. Este campo de batalha resolverá o que as palavras não podem." />
+        <string id="blcdlgFQaWzX" text="Esta guerra não apaga o que você fez com minha mãe {VICTIM}. Mantenha distância, ou haverá consequências." />
+        <string id="blcdlgLBwpGo" text="Mesmo em meio a esta guerra, não consigo parar de pensar na minha mãe {VICTIM}, e como a vida dela acabou por sua causa. Por quê?" />
+        <string id="blcdlgxhcHdt" text="Esta guerra não o absolve do que você fez à minha mãe {VICTIM}. Explique-se." />
+        <string id="blcdlglRQSUG" text="Você não tem o direito nem de falar o nome dela, {VICTIM}. Espero que a culpa o assombre pelo que fez." />
+        <string id="blcdlgOHejDX" text="{VICTIM}, minha mãe, se foi por sua causa. Por quê? O que ela fez para merecer tal destino?" />
+        <string id="blcdlgVcHQtd" text="Eu sei que foi você quem acabou com a vida de {VICTIM}, minha mãe. Eu vou ouvir... mas escolha suas palavras com cuidado." />
+        <string id="blcdlgvkh1lR" text="Você tirou meu filho {VICTIM} de mim. Por isso, não terei misericórdia. Vamos acabar com isso!" />
+        <string id="blcdlgssBKg2" text="Meu filho, {VICTIM}... se foi por sua causa. Qualquer vínculo que tínhamos, termina aqui. Agora, fale." />
+        <string id="blcdlg0VQ72O" text="O nome do meu filho era {VICTIM}. E agora ele se foi, graças a você. Vamos resolver isso." />
+        <string id="blcdlgp6EVKk" text="Nesta guerra, ainda não consigo esquecer o que você fez ao meu filho {VICTIM}. Um dia, você responderá por isso." />
+        <string id="blcdlgCiGPo1" text="Mesmo na guerra, penso no meu filho {VICTIM} e no que você fez. Por que você o tirou de mim?" />
+        <string id="blcdlgpUfu24" text="Esta guerra não muda nada em relação à minha perda — meu filho {VICTIM} se foi por sua causa. Fale." />
+        <string id="blcdlgDXzJMK" text="Você matou meu filho {VICTIM}. Não espere perdão ou civilidade. Você responderá por isso algum dia." />
+        <string id="blcdlgJcIHFs" text="Você tirou meu filho {VICTIM} deste mundo. Nunca pensei que teria que enfrentar você assim. Fale, mas tenha cuidado." />
+        <string id="blcdlgjgpXzS" text="Meu filho {VICTIM} se foi por sua causa. Explique-se e não perca meu tempo." />
+        <string id="blcdlgAUsM64" text="Você tirou minha filha, {VICTIM}, de mim. Vou garantir que você sinta a mesma dor mil vezes mais. Prepare-se!" />
+        <string id="blcdlg1Hq2YA" text="Minha filha, {VICTIM}, merecia muito mais. Eu confiei em você uma vez, mas agora... não consigo ver além da morte dela. Fale." />
+        <string id="blcdlgY016ey" text="Você acabou com a vida da minha filha, {VICTIM}. Essa é uma ferida que não vai cicatrizar. Diga o que quiser antes que a batalha comece." />
+        <string id="blcdlg09wKxr" text="Esta guerra não pode apagar o que você fez com minha filha, {VICTIM}. Um dia, terei minha justiça." />
+        <string id="blcdlgVTO4tj" text="Mesmo no meio da guerra, não consigo parar de pensar em minha filha, {VICTIM}. Por que você a tirou de mim?" />
+        <string id="blcdlgcXnTfD" text="A guerra não muda nada sobre o que você fez com minha filha, {VICTIM}. Fale suas razões, embora elas não a tragam de volta." />
+        <string id="blcdlgUYmtPY" text="Você matou minha filha, {VICTIM}. Não pense por um momento que eu vou te perdoar." />
+        <string id="blcdlg8Hwren" text="{VICTIM}, minha filha, foi tirada de mim por você. Por quê? Preciso entender." />
+        <string id="blcdlgGXRdff" text="Minha filha, {VICTIM}, não existe mais por sua causa. Explique-se agora." />
+        <string id="blcdlgs24XT9" text="Você matou meu avô, {VICTIM}. Essa foi a gota d'água. Não há como voltar atrás — prepare-se para enfrentar a justiça!" />
+        <string id="blcdlgxyGZbq" text="{VICTIM} era meu avô, um pilar da nossa família. E você os tirou de nós. Agora você está diante de mim... o que vai dizer?" />
+        <string id="blcdlgbPMcz3" text="Você acabou com a vida do meu avô, {VICTIM}. Este encontro resolverá mais do que apenas palavras." />
+        <string id="blcdlgCyzEK1" text="Mesmo em meio à guerra, não consigo esquecer o que você fez com meu avô, {VICTIM}. Você vai responder por isso um dia." />
+        <string id="blcdlgl5ESQK" text="A guerra não apagou a dor de perder meu avô, {VICTIM}, por sua causa. Por que você fez isso?" />
+        <string id="blcdlg8VZzxF" text="Meu avô, {VICTIM}, se foi por sua causa. Explique-se, embora nada possa desfazer o passado." />
+        <string id="blcdlgKzmAfQ" text="Você matou meu avô, {VICTIM}. Não pense por um momento que eu vou perdoar ou esquecer isso." />
+        <string id="blcdlgz01Xo0" text="Meu avô, {VICTIM}, foi tirado de mim por sua causa. Por quê? Preciso ouvir seu raciocínio." />
+        <string id="blcdlgtMoEKK" text="O nome do meu avô era {VICTIM}. Você acabou com a vida dele, e eu tenho perguntas que você precisa responder." />
+        <string id="blcdlgRURg1o" text="Você tirou meu neto, {VICTIM}, de mim. Não há perdão, apenas retribuição. Prepare-se!" />
+        <string id="blcdlgm3yBkK" text="Meu neto, {VICTIM}, merecia um futuro. Mas você negou isso a ele. Fale agora, embora isso possa não ajudar seu caso." />
+        <string id="blcdlgNX6oXD" text="Você acabou com a vida do meu neto, {VICTIM}. Por isso, não descansarei até que a justiça seja feita." />
+        <string id="blcdlg7zj6KI" text="Estamos em guerra, mas meu neto, {VICTIM}, se foi por sua causa. Isso não vai acabar bem para você." />
+        <string id="blcdlgBdegcI" text="A guerra não apaga a memória do meu neto, {VICTIM}. Por que você os tirou de mim?" />
+        <string id="blcdlgZ1Bphy" text="O nome do meu neto era {VICTIM}. E agora eles se foram por sua causa. Fale a sua verdade." />
+        <string id="blcdlgW6LPZ5" text="Você matou meu neto, {VICTIM}. Não espere simpatia ou compreensão, apenas responsabilidade." />
+        <string id="blcdlgbghPaD" text="Você tirou minha neta, {VICTIM}, de mim. Por quê? Ajude-me a entender esse ato sem sentido." />
+        <string id="blcdlge5X70Q" text="Minha neta, {VICTIM}, se foi por sua causa. Explique-se enquanto ainda pode." />
+        <string id="blcdlg9wvTaG" text="Você tirou minha esposa, {VICTIM}, de mim. Esse é um crime imperdoável. Agora, você pagará o preço final!" />
+        <string id="blcdlgH9qdyF" text="{VICTIM} era minha esposa, minha parceira em todas as coisas. E você acabou com a vida dela. Explique-se, embora nenhuma palavra possa desfazer isso." />
+        <string id="blcdlgwJJ9LC" text="O nome da minha esposa era {VICTIM}. Ela se foi por sua causa. Esta batalha decidirá mais do que apenas palavras." />
+        <string id="blcdlgbkg8CE" text="Mesmo em meio a esta guerra, penso na minha esposa {VICTIM} e no que você fez com ela. Seu acerto de contas virá." />
+        <string id="blcdlg84DKvo" text="Minha esposa, {VICTIM}, merecia mais do que esse destino. Por que você a tirou de mim?" />
+        <string id="blcdlgkr97ZZ" text="A guerra não muda nada sobre minha perda — minha esposa {VICTIM} se foi por sua causa. Fale." />
+        <string id="blcdlg1pgS3Z" text="Você matou minha esposa {VICTIM}. Nada do que você disser me fará perdoá-lo." />
+        <string id="blcdlg0LthHG" text="{VICTIM} era minha esposa, e você acabou com a vida dela. Diga-me o porquê, embora eu duvide que sua resposta vá me satisfazer." />
+        <string id="blcdlgWRzEnv" text="O nome da minha esposa era {VICTIM}. Você a tirou de mim, e eu tenho perguntas que precisam de respostas." />
+        <string id="blcdlg1xavWH" text="Você matou meu marido, {VICTIM}. Por isso, vou vê-la sofrer assim como eu sofri!" />
+        <string id="blcdlgFMyB5z" text="Meu marido, {VICTIM}, era tudo para mim. E agora ele se foi por sua causa. Explique-se, embora isso possa não importar." />
+        <string id="blcdlgykUzfe" text="O nome do meu marido era {VICTIM}. Você acabou com a vida dele. Não há perdão, apenas julgamento." />
+        <string id="blcdlgZUyCVW" text="Mesmo na guerra, lembro do meu marido, {VICTIM}, e do que você fez a ele. Você enfrentará a justiça um dia." />
+        <string id="blcdlguPFAne" text="Meu marido, {VICTIM}, merecia mais do que você deu a ele. Por que você fez isso?" />
+        <string id="blcdlgvpuEOz" text="Esta guerra não muda nada sobre meu marido, {VICTIM}, e sua morte. Explique-se." />
+        <string id="blcdlgeIliAI" text="Você matou meu marido, {VICTIM}. Essa é uma ferida que nunca vai sarar, nem será perdoada." />
+        <string id="blcdlg6zlSDy" text="{VICTIM} era meu marido, meu companheiro mais próximo. Por que você acabou com a vida dele?" />
+        <string id="blcdlgj9jgqN" text="O nome do meu marido era {VICTIM}. E você o tirou de mim. Fale, embora isso possa não importar." />
+        <string id="blcdlgRySuod" text="Você matou meu parente, {VICTIM}. Essa traição não será esquecida. Prepare-se para a justiça!" />
+        <string id="blcdlgFWwpJF" text="{VICTIM} era um membro da minha família, levado por você. Por quê? Explique-se antes que isso acabe mal." />
+        <string id="blcdlgEuTIiw" text="Você acabou com a vida do meu parente, {VICTIM}. Eu terei minha justiça, de uma forma ou de outra." />
+        <string id="blcdlg7Ggycy" text="Mesmo em meio a esta guerra, não consigo esquecer o que você fez com meu parente, {VICTIM}. Haverá consequências." />
+        <string id="blcdlg96dBmm" text="A guerra não apaga a morte do meu parente, {VICTIM}. Por que você os tirou de nós?" />
+        <string id="blcdlg2SDnuP" text="{VICTIM}, meu parente, se foi por sua causa. Explique-se agora." />
+        <string id="blcdlgL9JBT1" text="Você matou meu parente, {VICTIM}. Não há perdão para o que você fez." />
+        <string id="blcdlgfZiQSL" text="{VICTIM} era um parente meu. A morte deles é sua. Por que você fez isso?" />
+        <string id="blcdlgNbvJLE" text="Meu parente, {VICTIM}, se foi por sua causa. Fale a sua verdade, mesmo que ela não possa salvá-lo." />
+        <string id="blcdlgPQlgOP" text="{KILLER}, seu parente, assassinou meu pai, {VICTIM}. Você trouxe vergonha e perda para nós. Agora, você enfrentará a justiça!" />
+        <string id="blcdlgz7zK21" text="{VICTIM}, meu pai, foi levado pelas mãos de {KILLER}. Eu confiei em você uma vez. Como isso pôde acontecer? Fale agora." />
+        <string id="blcdlgj17o47" text="{VICTIM} era meu pai. {KILLER} fez o que não pode ser desfeito. Este campo de batalha decidirá o resto." />
+        <string id="blcdlg6N69k7" text="Seu familiar, {KILLER}, matou meu pai, {VICTIM}. Não vou perdoar, mas ouvirei sua desculpa." />
+        <string id="blcdlgV9fZiJ" text="{VICTIM}, meu pai, se foi por causa de seu parente, {KILLER}. Eu não esperava essa traição. Por quê?" />
+        <string id="blcdlgemu8Wm" text="{KILLER} acabou com a vida do meu pai, {VICTIM}. Vou lhe dar a chance de se explicar. Fale com cuidado." />
+        <string id="blcdlgx6K9U8" text="Seu parente, {KILLER}, acabou com a vida da minha mãe, {VICTIM}. Vou fazer você se arrepender de ter cruzado com a minha família. Prepare-se!" />
+        <string id="blcdlgKs0sFw" text="Minha mãe, {VICTIM}, merecia mais do que {KILLER} fez. Eu confiei em você, e agora isso? Fale agora." />
+        <string id="blcdlgHvbhEm" text="Minha mãe, {VICTIM}, foi levada por {KILLER}. Este campo de batalha resolverá o que as palavras não podem." />
+        <string id="blcdlgrifeQO" text="{VICTIM}, minha mãe, se foi por causa de {KILLER}. Não pense que eu vou te perdoar. Diga o que você deve e vá embora." />
+        <string id="blcdlgavneGH" text="{KILLER} matou minha mãe, {VICTIM}. Eu não esperava isso da sua família. Por que aconteceu?" />
+        <string id="blcdlgWRLH4O" text="Minha mãe, {VICTIM}, foi levada por seus parentes, {KILLER}. Diga suas razões e eu decidirei o que vem a seguir." />
+        <string id="blcdlgbRp8Ck" text="{KILLER} tirou meu filho, {VICTIM}, de mim. Sua família sentirá a mesma dor antes que esta batalha acabe!" />
+        <string id="blcdlg9Lph5g" text="Meu filho, {VICTIM}, se foi por causa de {KILLER}. Eu já o considerei um aliado. Explique-se." />
+        <string id="blcdlgO4mKze" text="Meu filho, {VICTIM}, foi levado por {KILLER}. Este campo de batalha trará justiça por sua perda." />
+        <string id="blcdlgEfYXdl" text="Seu parente, {KILLER}, matou meu filho, {VICTIM}. Não quero suas desculpas, mas vou ouvir — por enquanto." />
+        <string id="blcdlg54ArNa" text="{VICTIM}, meu filho, se foi por causa das ações de sua família, {KILLER}. Por que chegou a esse ponto?" />
+        <string id="blcdlgDg8c3E" text="{KILLER} acabou com a vida do meu filho, {VICTIM}. Fale o que pensa, mas saiba que isso pesa muito sobre mim." />
+        <string id="blcdlgaS6M1U" text="Seu parente, {KILLER}, roubou minha filha, {VICTIM}. Vou garantir que você carregue a mesma dor. Prepare-se para lutar!" />
+        <string id="blcdlgReoGiB" text="Minha filha, {VICTIM}, caiu pelas mãos de {KILLER}. Eu já respeitei você, mas agora não posso mais. O que você tem a dizer por eles?" />
+        <string id="blcdlgHk9Shj" text="{VICTIM} era minha filha, e {KILLER} acabou com a vida dela. Não posso deixar isso passar. Diga o que tiver que dizer antes que isso acabe." />
+        <string id="blcdlgvUHzB6" text="Seu familiar, {KILLER}, matou minha filha, {VICTIM}. Essa é uma ferida que não vai cicatrizar. Diga o que veio dizer e vá embora." />
+        <string id="blcdlgMpoIXy" text="{VICTIM} era minha filha. {KILLER} fez o imperdoável, e ainda assim, aqui estamos. O que você vai me dizer agora?" />
+        <string id="blcdlgA9OK5u" text="Minha filha, {VICTIM}, se foi por causa de {KILLER}. Você está aqui agora, e eu estou ouvindo. Fale com cuidado." />
+        <string id="blcdlgm8ldjS" text="{KILLER} matou meu avô, {VICTIM}, e hoje, você vai pagar pela traição deles. A justiça exige sangue!" />
+        <string id="blcdlgA34MgY" text="{KILLER} acabou com a vida do meu avô, {VICTIM}. Eles eram um pilar de sabedoria e força. Como isso pôde acontecer?" />
+        <string id="blcdlgmVCAO1" text="Meu avô, {VICTIM}, está morto, e {KILLER} é o responsável. Este campo de batalha será o juiz hoje." />
+        <string id="blcdlg0Qj0gd" text="Seu familiar, {KILLER}, tirou meu avô de mim, {VICTIM}. Não há perdão aqui. Fale rápido." />
+        <string id="blcdlggg0AxY" text="{KILLER} roubou minha família de {VICTIM}, meu avô. Eu respeitei você uma vez. Não me faça me arrepender de ouvir você." />
+        <string id="blcdlgpdf13t" text="Meu avô, {VICTIM}, foi levado por {KILLER}. Fale. Eu vou ouvir, mas não perca meu tempo." />
+        <string id="blcdlgJeM18g" text="{KILLER} matou meu neto, {VICTIM}. Essa dor é infinita. Hoje, sua família sentirá a mesma perda!" />
+        <string id="blcdlgjyYHkA" text="{VICTIM}, meu neto, se foi por causa de {KILLER}. Eu não esperava te encarar assim. Fale sua verdade agora." />
+        <string id="blcdlgFvxgO9" text="Meu neto, {VICTIM}, não existe mais, e {KILLER} é o culpado. Isso acaba aqui no campo de batalha." />
+        <string id="blcdlgQB1q2B" text="Sua família, {KILLER}, roubou {VICTIM}, meu neto, de mim. Eu não vou perdoar, mas vou ouvir o que você tem a dizer." />
+        <string id="blcdlgMiuXTF" text="{VICTIM}, meu neto, se foi por causa de {KILLER}. Você deve saber o quão profunda é essa ferida. O que você tem a dizer?" />
+        <string id="blcdlgkFZkwH" text="Seu familiar, {KILLER}, levou {VICTIM}, meu neto. Estou ouvindo, mas não teste minha paciência." />
+        <string id="blcdlgMTSOiY" text="{KILLER} matou um dos meus parentes, {VICTIM}. O sangue da família derramado pelo seu será vingado hoje!" />
+        <string id="blcdlgJVqsnG" text="Seu familiar, {KILLER}, acabou com a vida do meu parente, {VICTIM}. Esta não é uma conversa fácil, mas fale o que pensa." />
+        <string id="blcdlgbWhdSH" text="Você está aqui e me insulta sobre a morte de {VICTIM}? Você precisava de um exército com o dobro do tamanho dele para derrubá-lo. Patético! Hoje, você vai desejar nunca ter pisado no campo de batalha." />
+        <string id="blcdlgNkoH8q" text="Você estava em vantagem, {VICTIM} lutou bravamente e, ainda assim, você o derrubou. Essa vitória foi satisfatória, sabendo que não foi merecida?" />
+        <string id="blcdlgptajGx" text="Você comandou uma força esmagadora e ainda assim se orgulhou de matar {VICTIM}? Não há honra no que você fez." />
+        <string id="blcdlgS1jlaf" text="Você liderou uma força esmagadora para derrotar {VICTIM}. Mesmo na guerra, não há orgulho em tal ato, apenas desgraça." />
+        <string id="blcdlgTTtKDO" text="{VICTIM} não teve chance contra sua força esmagadora. Eu me pergunto se isso pesa em sua consciência." />
+        <string id="blcdlgwSC9tS" text="Sob seu comando, {VICTIM} foi derrotado por um exército enorme. Essa vitória parece vazia para você?" />
+        <string id="blcdlgs7UGgG" text="Você liderou suas forças para esmagar {VICTIM}, sobrepujando-o com números absolutos. Não há glória nisso, apenas covardia." />
+        <string id="blcdlg6jsd02" text="Eu sei que você estava no comando quando {VICTIM} caiu. Ele não teve chance contra seus números esmagadores. Como você justifica isso?" />
+        <string id="blcdlg7Su2U5" text="Você era o comandante, e {VICTIM} não teve chance contra suas forças enormes. Você ao menos se arrepende da morte dele?" />
+        <string id="blcdlgsGz46K" text="Você matou {VICTIM}, e sem números esmagadores? Hah, até um relógio quebrado acerta duas vezes por dia. Vamos ver como você se sai contra mim!" />
+        <string id="blcdlgQ5Cpx1" text="Então, é verdade — você conseguiu matar {VICTIM} em uma luta justa. Eu não achava que você tinha isso em você. Mas você sente alguma culpa?" />
+        <string id="blcdlg0DBqqa" text="{VICTIM} está morto por suas mãos, e não porque você foi dominado. Até onde você irá para provar a si mesmo?" />
+        <string id="blcdlgUGtqWu" text="Você derrotou {VICTIM} em batalha. Nenhuma probabilidade esmagadora, apenas sua habilidade. Você acha que isso justifica?" />
+        <string id="blcdlgIYEFnm" text="{VICTIM} caiu sob seu comando. Uma luta justa, mas não alivia a perda, não é?" />
+        <string id="blcdlgKjnByr" text="Em uma luta justa, você derrubou {VICTIM}. Você carrega o peso dessa vitória?" />
+        <string id="blcdlggHCG6C" text="Ouvi dizer que você matou {VICTIM} em batalha. Luta justa ou não, isso não o torna nobre. Apenas o torna perigoso." />
+        <string id="blcdlgwYDsaO" text="Você estava no comando quando {VICTIM} caiu, não estava? Ele merecia mais. Valeu a pena?" />
+        <string id="blcdlgSiqhZ1" text="{VICTIM} lutou sob sua liderança e agora está morto. Essa vitória valeu o custo?" />
+        <string id="blcdlgWDGqjg" text="{KILLER}, um dos seus, assassinou {VICTIM} no campo de batalha como um covarde. Pássaros da mesma plumagem voam juntos, eu acho!" />
+        <string id="blcdlgyXVEOl" text="Seu aliado, {KILLER}, foi responsável pela morte de {VICTIM}. Eu me pergunto se esse é o tipo de lealdade que você valoriza — uma que mata sem piedade." />
+        <string id="blcdlgcRjaoy" text="{KILLER} matou {VICTIM} sob sua bandeira, esmagando-o com uma força avassaladora. Você tolera tais ações?" />
+        <string id="blcdlgE5fJNr" text="Seu aliado, {KILLER}, esmagou {VICTIM} com números absolutos. O que isso diz sobre você?" />
+        <string id="blcdlgyXk53E" text="Ouvi dizer que {KILLER} matou {VICTIM} em batalha. É esse o tipo de lealdade que você inspira?" />
+        <string id="blcdlgqkOyd4" text="{KILLER} derrotou {VICTIM} com força esmagadora. Isso reflete seus valores?" />
+        <string id="blcdlgYbJpoW" text="Não pense que esqueci. {KILLER}, alguém que você conhece, massacrou {VICTIM} no campo de batalha. O que isso diz sobre você?" />
+        <string id="blcdlgFUhSfJ" text="Ouvi falar sobre {KILLER} e o que eles fizeram com {VICTIM}. Você deve conhecê-los bem — você aprova essas táticas?" />
+        <string id="blcdlgahcHKP" text="Seu associado, {KILLER}, matou {VICTIM} em uma batalha unilateral. Isso não reflete bem sobre aqueles que você mantém por perto." />
+        <string id="blcdlgr8vbr3" text="{KILLER} matou {VICTIM}, e nem mesmo com números superiores. Uma cobra entre seus aliados, e você não é melhor!" />
+        <string id="blcdlgWrCW5G" text="Seu aliado, {KILLER}, matou {VICTIM} sem nenhuma vantagem. Era essa a habilidade dele... ou a selvageria?" />
+        <string id="blcdlgRLo7Du" text="Seu amigo, {KILLER}, derrubou {VICTIM}. Justo ou não, isso diz muito sobre aqueles com quem você se cerca." />
+        <string id="blcdlgnlEeVj" text="Seu aliado, {KILLER}, matou {VICTIM} em batalha. Mesmo sem números, o ato foi brutal." />
+        <string id="blcdlg3OJPYD" text="{KILLER}, alguém em quem você confia, matou {VICTIM} em batalha. O que você acha disso?" />
+        <string id="blcdlgQFdhiC" text="{KILLER} matou {VICTIM}. Mesmo em uma luta justa, a derrota ainda reflete em seu nome." />
+        <string id="blcdlgYINJsO" text="Não esqueci o que {KILLER}, seu aliado, fez com {VICTIM}. Mesmo sem números, sua brutalidade era incomparável." />
+        <string id="blcdlgYw6qjB" text="{KILLER}, alguém que você conhece bem, matou {VICTIM}. Como você concilia isso com a pessoa que eu pensava que você era?" />
+        <string id="blcdlgE645Fj" text="Seu associado, {KILLER}, matou {VICTIM} em batalha. Justo ou não, suas ações lançam uma sombra sobre seu nome." />
+        <string id="blcdlg17SyKN" text="Hah! Você pode ter vencido nossa batalha anterior, mas isso foi só porque você tinha o dobro da minha mão de obra. Encontrar porcos é mais fácil do que lutar contra soldados nobres de qualidade. Hoje, nós mataremos seus porcos!" />
+        <string id="blcdlgRybbYw" text="Seus números me sobrepujaram da última vez, mas hoje seus porcos cairão sob as espadas de verdadeiros guerreiros." />
+        <string id="blcdlgGWNypo" text="Você venceu nossa última batalha, mas não vamos fingir que foi uma luta justa. O dobro dos meus números e melhores suprimentos — eu não esperaria nada menos de um comandante da sua estatura." />
+        <string id="blcdlg4qt3No" text="As probabilidades estavam a seu favor da última vez, mas sua habilidade ainda brilhou. Estou ansioso para encontrá-lo em terreno plano." />
+        <string id="blcdlgN38LRV" text="Lutamos perto de {LOCATION}, e você venceu. É difícil argumentar contra probabilidades esmagadoras. Vamos ver se você consegue sobreviver sem elas na próxima vez." />
+        <string id="blcdlgi0g1NZ" text="Nosso confronto perto de {LOCATION} foi para você, embora com tais probabilidades, não foi surpreendente. Vamos ver o que acontece em uma luta justa." />
+        <string id="blcdlgSH2SsJ" text="Estamos em guerra, mas não há necessidade de animosidade hoje. Claro, você venceu da última vez perto de {LOCATION}, mas eu ainda diria que nossa rivalidade está longe de acabar." />
+        <string id="blcdlg72ZdE8" text="Sua vitória em {LOCATION} não acabou com nossa rivalidade. Esta guerra ainda tem muito a oferecer." />
+        <string id="blcdlgg78gHt" text="Podemos não estar lutando hoje, mas respeito como você lidou com nosso último encontro. Estou curioso para saber se você permanecerá tão afiado na próxima vez que nos encontrarmos." />
+        <string id="blcdlgHud8Rk" text="Sua estratégia em nosso último encontro deixou uma impressão em mim. Estou ansioso para ver como você se sairá quando nos cruzarmos novamente." />
+        <string id="blcdlgcu0igu" text="Nosso último confronto perto de {LOCATION} foi a seu favor. Mas um tempo de paz ainda pode levar a novas oportunidades quando nos enfrentarmos novamente." />
+        <string id="blcdlgs7vKQ2" text="A batalha em {LOCATION} foi a seu favor, mas a guerra é cheia de surpresas. Estarei pronto para o que vier a seguir." />
+        <string id="blcdlg0XBR0T" text="Você tinha números esmagadores em {LOCATION}, e ainda assim você se pavoneia como se fosse sua habilidade que venceu o dia. Poupe-me de suas ilusões." />
+        <string id="blcdlg4XlTtK" text="Sua suposta vitória em {LOCATION} foi apenas números. A habilidade ainda precisa ser provada." />
+        <string id="blcdlgv26JVI" text="Aquela batalha perto de {LOCATION} — você tinha a vantagem, mas ainda admiro como você liderou suas forças. Gostaria de ver como você se sai em uma luta justa." />
+        <string id="blcdlgvFtuzx" text="Você comandou bem perto de {LOCATION}, mesmo com sua vantagem. Espero enfrentá-lo quando as probabilidades estiverem equilibradas." />
+        <string id="blcdlgwL9UmQ" text="Lembro-me do nosso confronto perto de {LOCATION}. Você venceu, mas com os números do seu lado. Imagino como seria uma revanche." />
+        <string id="blcdlgc1QdEC" text="A luta em {LOCATION} foi a seu favor devido aos números absolutos. Vamos ver se essa sorte se mantém." />
+        <string id="blcdlgGidcMI" text="Então, você me venceu antes — por pouco. Sem reforços, sem probabilidades esmagadoras, apenas sorte. Essa sorte não vai te salvar hoje." />
+        <string id="blcdlgkfuosj" text="A sorte te carregou da última vez, mas hoje você verá como é a verdadeira derrota." />
+        <string id="blcdlgivsxhd" text="Ainda me lembro da sua estratégia inteligente perto de {LOCATION}. Você venceu de forma justa, e eu respeito isso — mesmo que tenha me custado caro." />
+        <string id="blcdlg4OV2Pw" text="Suas táticas em {LOCATION} ganharam meu respeito, mesmo na derrota. Estou ansioso para testar sua habilidade novamente." />
+        <string id="blcdlgfy94cH" text="Nós cruzamos espadas perto de {LOCATION}, e você saiu vitorioso. Não foi sorte, eu admito. Mas sua habilidade vai aguentar hoje?" />
+        <string id="blcdlg1R9KNC" text="Em {LOCATION}, sua habilidade era clara. Mas você consegue manter essa vantagem hoje?" />
+        <string id="blcdlgtOxZNE" text="Você pode ter vencido antes, mas isso não vai me impedir de atacar suas fraquezas na próxima vez. Nossa guerra ainda não acabou." />
+        <string id="blcdlgMT4JoN" text="Nossa guerra não é decidida por sua vitória. Eu atacarei onde você menos espera na próxima vez." />
+        <string id="blcdlgNnlS22" text="Lembro-me da sua vitória e, embora não tenha ficado satisfeito com o resultado, respeito suas táticas. Mas ainda estamos em guerra e a maré pode mudar." />
+        <string id="blcdlgxLFUd3" text="Suas táticas lhe renderam a vitória antes, mas esta guerra tem mais capítulos restantes. Vamos ver como ela acaba." />
+        <string id="blcdlg2KIPG4" text="Nosso último encontro não foi a meu favor, mas ainda não terminei. A guerra continua e tudo pode acontecer." />
+        <string id="blcdlgKtBnMu" text="Esta guerra não foi resolvida por sua vitória em {LOCATION}. Ainda há muito a decidir." />
+        <string id="blcdlgYi0bVc" text="Você pode ter me derrotado uma vez perto de {LOCATION}, mas sempre acreditarei que foi um acaso. Da próxima vez, você não terá tanta sorte." />
+        <string id="blcdlgdms2Rc" text="Sua vitória perto de {LOCATION} foi um acaso, nada mais. Não vai acontecer de novo." />
+        <string id="blcdlgPzAebh" text="Lembro-me do seu triunfo perto de {LOCATION}. Foi uma luta árdua, e eu o respeito por isso. Talvez da próxima vez eu reivindique a vitória." />
+        <string id="blcdlgoplphi" text="A vitória que você conquistou perto de {LOCATION} rendeu meu respeito. Da próxima vez, vou tentar uma vitória minha." />
+        <string id="blcdlgOhPuS2" text="Nossa última batalha perto de {LOCATION} terminou a seu favor. Justo e honesto, eu admito. Vamos torcer para que você consiga manter essa sequência." />
+        <string id="blcdlg0TZgWs" text="Em {LOCATION}, você provou sua habilidade. Vamos ver se ela continua no próximo confronto." />
+        <string id="blcdlgx9eH6c" text="Você perdeu para mim mesmo com todas as suas vantagens. Perto de {LOCATION}, sua "grande liderança" desmoronou como pergaminho molhado. Prepare-se para outra lição de humildade." />
+        <string id="blcdlgSdE3wN" text="Mesmo com suas forças avassaladoras, você caiu para mim em {LOCATION}. Hoje, seu fracasso se repete." />
+        <string id="blcdlgsB4o5z" text="Eu não esperava derrotar você perto de {LOCATION}, dado seu número. Mas talvez seus homens tenham me subestimado. Vamos ver se eles aprenderam a lição hoje." />
+        <string id="blcdlgrU9t2h" text="Você lutou bem perto de {LOCATION}, mas minha vitória foi inesperada. Vamos ver como as probabilidades mudam hoje." />
+        <string id="blcdlgaS4eII" text="Apesar das probabilidades, eu saí vitorioso perto de {LOCATION}. Vamos ver se esse resultado se repete aqui." />
+        <string id="blcdlgfNDPkX" text="Você trouxe uma força esmagadora para {LOCATION}, mas ainda perdeu. Vamos ver como você se sai dessa vez." />
+        <string id="blcdlgyuPZUp" text="Você não pode negar minha vitória em {LOCATION}, mesmo que você tenha tido a vantagem. Não espere nenhuma piedade na próxima vez que lutarmos." />
+        <string id="blcdlgJq7gtm" text="Suas forças eram maiores, mas você ainda perdeu para mim em {LOCATION}. Eu vou te lembrar disso na próxima vez." />
+        <string id="blcdlgUJ1wed" text="Seu exército era mais forte em {LOCATION}, mas mesmo assim, eu venci. Sorte, talvez? Ou talvez eu seja melhor do que eu imaginava." />
+        <string id="blcdlgQ8dOPw" text="Estou surpreso por ter derrotado você em {LOCATION}, dadas as probabilidades. Eu me pergunto se o resultado seria o mesmo novamente." />
+        <string id="blcdlgYLsxIT" text="Nossa última batalha me viu vitorioso, apesar das probabilidades. Deixou uma forte impressão em mim — imagino como isso afetou você." />
+        <string id="blcdlgWMPRvT" text="Eu não esperava vencer em {LOCATION}, mas aqui estamos. Vamos ver se a história se repete." />
+        <string id="blcdlgbtOskL" text="Mesmo com a vantagem, você não conseguiu me vencer em {LOCATION}. Uma performance vergonhosa, não acha?" />
+        <string id="blcdlg5J9hBF" text="Suas forças eram superiores em {LOCATION}, mas ainda assim, eu triunfei. Que desculpa você vai dar dessa vez?" />
+        <string id="blcdlg1R2fJ7" text="Sua liderança em {LOCATION} foi admirável, mesmo que você tenha perdido. Estou ansioso para ver como você cresceu desde então." />
+        <string id="blcdlgHAIahX" text="Eu derrotei você em {LOCATION}, mas sua liderança deixou uma impressão. Eu o respeito por isso." />
+        <string id="blcdlgY2g37n" text="Nosso confronto em {LOCATION} foi uma surpresa — eu não esperava vencer. Talvez tenha sido sorte, mas me pergunto se isso vai acontecer de novo." />
+        <string id="blcdlggEbuXQ" text="Em {LOCATION}, eu triunfei apesar da sua vantagem. Vamos ver se a situação muda hoje." />
+        <string id="blcdlghVzYDV" text="Então, eu derrotei você em {LOCATION} quando estávamos em terreno plano. Você realmente acha que hoje será diferente?" />
+        <string id="blcdlgcLA9tB" text="Em {LOCATION}, você aprendeu o preço da arrogância. Hoje, você aprenderá de novo." />
+        <string id="blcdlgKzfwgx" text="Você lutou bem em {LOCATION}, mas eu ainda consegui vencer. Foi uma boa luta — espero outra igual hoje." />
+        <string id="blcdlgS2e2mj" text="Em {LOCATION}, eu derrotei você, mas você me deu uma batalha digna de ser lembrada. Vamos criar outra hoje." />
+        <string id="blcdlggeDoJu" text="Nosso confronto em {LOCATION} terminou a meu favor. Vamos ver se você melhorou desde então." />
+        <string id="blcdlgbOMBAF" text="Você caiu para mim em {LOCATION}, mas o campo de batalha é sempre imprevisível. Vamos ver o que acontece hoje." />
+        <string id="blcdlgkB8GgD" text="Eu o derrotei de forma justa e honesta em {LOCATION}. Lembre-se disso quando nos encontrarmos novamente no campo de batalha." />
+        <string id="blcdlgaoql06" text="Nossa batalha em {LOCATION} provou quem era mais forte. Espero que você tenha aprendido algo desde então." />
+        <string id="blcdlgh4nuOG" text="Em {LOCATION}, eu conquistei a vitória, mas suas táticas me impressionaram. Estou ansioso para nosso próximo encontro." />
+        <string id="blcdlgzSP2E3" text="Você lutou admiravelmente em {LOCATION}, mesmo na derrota. Eu o respeito como um adversário digno." />
+        <string id="blcdlgDN28iJ" text="Eu triunfei sobre você em {LOCATION}, mas cada batalha é uma experiência de aprendizado. Vamos ver como nos sairemos na próxima vez." />
+        <string id="blcdlgqV8n22" text="Em {LOCATION}, eu saí vitorioso. Mas quem sabe o que o futuro nos reserva na batalha?" />
+        <string id="blcdlgUlPSkA" text="Sua derrota em {LOCATION} deve doer, especialmente porque as probabilidades eram justas. Hoje, vou lembrá-lo dessa derrota." />
+        <string id="blcdlgBGom4v" text="Em {LOCATION}, mostrei minha superioridade. Vamos ver se você trouxe algo novo para o campo de batalha hoje." />
+        <string id="blcdlgrcT8tZ" text="Seu desempenho em {LOCATION} foi louvável, mesmo na derrota. Espero que possamos aprender um com o outro." />
+        <string id="blcdlg52EveY" text="Em {LOCATION}, eu triunfei, mas sua coragem se destacou. Eu o respeito por isso." />
+        <string id="blcdlgQexiJR" text="Nossa batalha em {LOCATION} terminou a meu favor, mas não vou subestimá-lo novamente." />
+        <string id="blcdlg3FlFM6" text="Em {LOCATION}, eu venci o dia, mas você lutou bem. Vamos ver se a história se repete." />
+        <string id="blcdlgW8criF" text="Hah! Parece que você esqueceu como eu te acorrentei e te arrastei como um cachorro para fora do campo de batalha! Não se preocupe, hoje você vai se lembrar de tudo de novo. A menos que você morra como um cachorro em batalha, é claro." />
+        <string id="blcdlgUnEa4x" text="Você se lembra do peso das minhas correntes em seus pulsos? Parece que preciso te lembrar dessa humilhação mais uma vez." />
+        <string id="blcdlgaZRcKL" text="Eu me lembro de como meu {KILLER} te acorrentou como uma fera selvagem. Você achou que poderia escapar do julgamento para sempre? Eu vou te trazer de volta acorrentado!" />
+        <string id="blcdlgsXGI9o" text="Meu {KILLER} uma vez te manteve cativo como o animal selvagem que você é. Eu vou garantir seu retorno ao cativeiro, começando hoje." />
+        <string id="blcdlgR2UHZW" text="{VICTIM}, seu parente, caiu em minhas mãos uma vez antes. Parece que toda a sua família está destinada às minhas correntes, um por um!" />
+        <string id="blcdlgRi724j" text="Eu fiz {VICTIM} prisioneiro, seu parente precioso. Talvez hoje, eu te adicione à minha coleção de cativos." />
+        <string id="blcdlgYe7kTi" text="Você ousa me encarar depois de me enjaular como um ladrão comum? Desta vez, será você implorando por liberdade!" />
+        <string id="blcdlgphZFUZ" text="A humilhação de ser seu prisioneiro ainda queima dentro de mim. Hoje, eu vingarei essa vergonha." />
+        <string id="blcdlgdJyXku" text="{KILLER} uma vez ousou me aprisionar. Você se arrependerá do insulto à minha honra quando nos encontrarmos em batalha!" />
+        <string id="blcdlg63CySi" text="Ser mantido por {KILLER}, o que você também sabe, foi uma ferida no meu orgulho. Prepare-se para minha vingança hoje." />
+        <string id="blcdlgepLsaa" text="Você tomou {VICTIM}, meu parente, como seu prisioneiro. Tal insulto não ficará sem resposta!" />
+        <string id="blcdlg8FGKXz" text="{VICTIM} da minha família sofreu em seu cativeiro. Hoje, você responderá pela dor deles." />
+        <string id="blcdlgQ5eXCX" text="Nós nos encontramos novamente, e não posso deixar de lembrar como eu capturei você. Você veio para retribuir essa humilhação?" />
+        <string id="blcdlg7TsPkp" text="Ver você me lembra de quando eu te acorrentei como uma fera derrotada. Você vai me desafiar novamente, ou você aprendeu seu lugar?" />
+        <string id="blcdlgJlyf5e" text="Você já esteve nas mãos do meu {KILLER}. Eu me pergunto se você veio em busca de vingança ou apenas mais humilhação?" />
+        <string id="blcdlgAfoZGV" text="Suas cicatrizes das correntes do meu {KILLER} ainda aparecem. É vingança que você busca ou veio para se render?" />
+        <string id="blcdlgexLykQ" text="Seu parente, {VICTIM}, uma vez caiu para mim. Você tentará libertar a honra da sua família ou devo tomar mais de você?" />
+        <string id="blcdlgZosxHf" text="{VICTIM}, sua linhagem, provou minha ira. Você seguirá o destino deles ou ousará vingá-los?" />
+        <string id="blcdlgnYZi7L" text="Então, foi você quem ousou me aprisionar. A guerra está sobre nós novamente. Você será tão ousado uma segunda vez?" />
+        <string id="blcdlgKf7q0I" text="Não esqueci sua prisão. Mas a guerra é longa, e minha vingança chegará a tempo." />
+        <string id="blcdlgZQzDSc" text="Seu {KILLER} uma vez me prendeu como um animal. Agora estamos em guerra novamente, e minha lâmina tem sede de retribuição." />
+        <string id="blcdlgppp3pS" text="Eu estava à mercê de seu {KILLER}. Mas esta guerra me deu a chance de acertar as contas." />
+        <string id="blcdlg7t0tuw" text="Você ousou tomar {VICTIM}, meu parente, como prisioneiro. Não deixarei esse insulto passar sem ser contestado." />
+        <string id="blcdlgu3wget" text="{VICTIM} sofreu sob suas mãos, e esta guerra não terminará até que essa dívida seja paga com sangue." />
+        <string id="blcdlgo79agp" text="Eu me lembro do dia em que eu tinha você como meu prisioneiro. Você agora anda livre tentando evitar seu passado?" />
+        <string id="blcdlgBLOW4X" text="Que estranho que nos encontremos novamente em paz, quando uma vez você foi meu prisioneiro." />
+        <string id="blcdlgn18KRK" text="Você já foi acorrentado pelo meu {KILLER}. O destino deve estar pregando uma peça, deixando-nos nos encontrar sem espadas desembainhadas." />
+        <string id="blcdlguOT7Xn" text="Seu passado com meu {KILLER} não foi esquecido, mesmo que estejamos em paz agora. O que o traz aqui?" />
+        <string id="blcdlg72kW8r" text="Seu parente, {VICTIM}, já foi meu prisioneiro. Eles ainda falam da minha misericórdia — ou da minha ira?" />
+        <string id="blcdlghUIUJ6" text="Eu mantive {VICTIM}, seu sangue, acorrentado. A paz pode permanecer agora, mas a memória perdura." />
+        <string id="blcdlgnhEv1M" text="Você já me manteve cativo. A paz pode reinar agora, mas essa memória permanece em minha mente." />
+        <string id="blcdlgz7hDzb" text="Eu me lembro bem da sua prisão. Por que nos encontramos em paz? Você procura zombar de mim?" />
+        <string id="blcdlgbUcm2F" text="Seu {KILLER} já me levou cativo. Agora nos encontramos sem espadas. Quão estranho este mundo pode ser." />
+        <string id="blcdlgwiGI7C" text="Ainda me lembro das correntes do seu {KILLER}. Por que não estamos na garganta um do outro agora?" />
+        <string id="blcdlgve3MwU" text="{VICTIM}, um membro do meu clã, foi levado por você. Por mais pacíficos que estejamos agora, as cicatrizes permanecem." />
+        <string id="blcdlg0jCiIK" text="Você uma vez aprisionou {VICTIM} de minha família. Mesmo se nos encontrarmos sem guerra, eu não esqueci." />
+        <string id="blcdlgGux0gh" text="Hah! Você pode ter derrotado {VICTIM} de nossas fileiras perto de {LOCATION}, mas apenas porque você trouxe números esmagadores. Uma vitória covarde." />
+        <string id="blcdlgvCChc1" text="Derrotar {VICTIM} da nossa facção em {LOCATION} não muda nada. Suas táticas cheiram a desespero." />
+        <string id="blcdlgNLnmsX" text="Ouvi falar da sua vitória sobre {VICTIM} do nosso lado perto de {LOCATION}. Impressionante, mas não deixe que isso lhe suba à cabeça." />
+        <string id="blcdlggee7SM" text="Seu triunfo contra {VICTIM} da nossa facção em {LOCATION} foi algo a ser visto. Muito bem feito." />
+        <string id="blcdlgz3Tce2" text="Então, você derrotou {VICTIM} da nossa facção perto de {LOCATION}. Vamos ver se você se sai tão bem contra mim." />
+        <string id="blcdlglZZiRE" text="Sua vitória contra {VICTIM} do nosso lado em {LOCATION} foi notável, mas não sou tão facilmente derrotado." />
+        <string id="blcdlgUO5DtE" text="Você derrotou {VICTIM} de {AGAINST} perto de {LOCATION}, mas isso não prova muita coisa. Eles não são nem de longe tão habilidosos quanto nós." />
+        <string id="blcdlgKk15YV" text="Derrubar {VICTIM} de {AGAINST} em {LOCATION} não foi uma grande conquista. Você nos encontrará um oponente mais difícil." />
+        <string id="blcdlgcvz6ve" text="Ouvi dizer que você derrotou {VICTIM} de {AGAINST} perto de {LOCATION}. Um grande feito, embora eu não esperasse nada menos de você." />
+        <string id="blcdlgwFOU7W" text="Sua vitória contra {VICTIM} de {AGAINST} em {LOCATION} mostra sua habilidade. Muito bem." />
+        <string id="blcdlgW2P8U1" text="Sua vitória sobre {VICTIM} de {AGAINST} perto de {LOCATION} é bem conhecida. Vamos ver se você consegue manter essa sequência." />
+        <string id="blcdlgk0RQ7c" text="Derrotar {VICTIM} de {AGAINST} em {LOCATION} foi impressionante. Vamos ver como você lida com um desafio real." />
+        <string id="blcdlg2D5xil" text="Sua vitória sobre {VICTIM} de nossa facção perto de {LOCATION} foi impressionante, apesar de sua vantagem numérica." />
+        <string id="blcdlgU2BRRK" text="Derrotar {VICTIM} do nosso lado em {LOCATION} não muda o quão pouco penso de você." />
+        <string id="blcdlgu0K9Ek" text="Ouvi falar sobre sua vitória sobre {VICTIM} do nosso lado perto de {LOCATION}. Bem lutada, embora talvez um pouco injusta, dadas as probabilidades." />
+        <string id="blcdlgEuawg8" text="Seu sucesso contra {VICTIM} da nossa facção em {LOCATION} foi notável. Você tem meu respeito." />
+        <string id="blcdlgoGn2s3" text="Sua vitória sobre {VICTIM} da nossa facção perto de {LOCATION} era esperada, considerando seus números." />
+        <string id="blcdlgGZ0yrM" text="Seu triunfo contra {VICTIM} da nossa facção em {LOCATION} não é nenhuma surpresa, dadas as circunstâncias." />
+        <string id="blcdlgkn1PcM" text="Sua vitória sobre {VICTIM} de {AGAINST} perto de {LOCATION} foi impressionante, apesar de sua vantagem numérica." />
+        <string id="blcdlgfDi7gy" text="Mesmo contra {VICTIM} de {AGAINST} em {LOCATION}, você só venceu por causa de seus números esmagadores." />
+        <string id="blcdlgBNznEQ" text="Ouvi falar sobre sua vitória sobre {VICTIM} de {AGAINST} perto de {LOCATION}. Bem disputada, embora talvez um pouco injusta, dadas as probabilidades." />
+        <string id="blcdlgVHMemN" text="Seu triunfo contra {VICTIM} de {AGAINST} em {LOCATION} foi uma grande demonstração de sua destreza. Muito bem feito." />
+        <string id="blcdlgpkJEcf" text="Sua vitória sobre {VICTIM} de {AGAINST} perto de {LOCATION} era esperada, considerando seus números." />
+        <string id="blcdlgxZptxj" text="Derrotar {VICTIM} de {AGAINST} em {LOCATION} não foi nenhuma surpresa, dadas as forças que você tinha." />
+        <string id="blcdlgQUCfgY" text="Você teve sorte contra {VICTIM} da nossa facção perto de {LOCATION}. Essa sorte não vai te salvar hoje." />
+        <string id="blcdlgYU9BVw" text="Sua suposta vitória sobre {VICTIM} do nosso lado em {LOCATION} significa pouco para mim. Prepare-se para um resultado diferente." />
+        <string id="blcdlg3flROl" text="Ouvi falar sobre sua vitória sobre {VICTIM} do nosso lado perto de {LOCATION}. Lutou de forma justa e bem feito." />
+        <string id="blcdlgMl8z4x" text="Seu sucesso contra {VICTIM} da nossa facção em {LOCATION} foi inspirador. Você tem minha admiração." />
+        <string id="blcdlglD1BCb" text="Você derrotou {VICTIM} da nossa facção perto de {LOCATION}. Não foi pouca coisa, mas agora você me enfrenta." />
+        <string id="blcdlgF5CWrL" text="Sua vitória sobre {VICTIM} do nosso lado em {LOCATION} é notável, mas este é um jogo diferente." />
+        <string id="blcdlg0qFhOb" text="Ouvi dizer que você derrotou {VICTIM} de {AGAINST} perto de {LOCATION}. Não fique convencido, será uma história diferente contra mim." />
+        <string id="blcdlgvHcq8S" text="Sua suposta vitória contra {VICTIM} de {AGAINST} em {LOCATION} não será repetida aqui." />
+        <string id="blcdlgKRJDPH" text="Sua vitória sobre {VICTIM} de {AGAINST} perto de {LOCATION} foi habilidosa. Vamos ver como você lida com essa luta." />
+        <string id="blcdlgKd1gpQ" text="Seu triunfo contra {VICTIM} de {AGAINST} em {LOCATION} foi impressionante. Estou ansioso para ver mais." />
+        <string id="blcdlg30k9LB" text="Você venceu contra {VICTIM} de {AGAINST} perto de {LOCATION}. Isso não foi um acidente, mas você consegue repetir o feito?" />
+        <string id="blcdlgnMRCuX" text="Sua vitória contra {VICTIM} de {AGAINST} em {LOCATION} não foi uma conquista pequena. O que vem a seguir para você?" />
+        <string id="blcdlgLkEBky" text="Você teve sorte contra {VICTIM} da nossa facção perto de {LOCATION}. Essa sorte não vai te salvar hoje." />
+        <string id="blcdlg2keNxj" text="Derrotar {VICTIM} do nosso lado em {LOCATION} foi um acaso. Prepare-se para ver o quão fraco você realmente é." />
+        <string id="blcdlgocNfe4" text="Ouvi falar da sua vitória sobre {VICTIM} do nosso lado perto de {LOCATION}. Lutou de forma justa e bem feito." />
+        <string id="blcdlgWhi3FI" text="Seu triunfo contra {VICTIM} do nosso lado em {LOCATION} foi um momento de orgulho para todos nós. Bem jogado." />
+        <string id="blcdlgd1giqT" text="Você derrotou {VICTIM} da nossa facção perto de {LOCATION}. Não foi pouca coisa, mas agora você me enfrenta." />
+        <string id="blcdlghImsI5" text="Sua vitória sobre {VICTIM} da nossa facção em {LOCATION} foi impressionante. Será que você consegue fazer isso de novo?" />
+        <string id="blcdlgtFnEXr" text="Ouvi dizer que você derrotou {VICTIM} de {AGAINST} perto de {LOCATION}. Não fique convencido, será uma história diferente contra mim." />
+        <string id="blcdlgghkkVv" text="Seu suposto triunfo contra {VICTIM} de {AGAINST} em {LOCATION} será seu último. Prepare-se." />
+        <string id="blcdlg0JKdZv" text="Sua vitória sobre {VICTIM} de {AGAINST} perto de {LOCATION} foi habilidosa. Vamos ver como você lida com essa luta." />
+        <string id="blcdlgiO8LIM" text="Ouvi falar sobre seu sucesso contra {VICTIM} de {AGAINST} em {LOCATION}. Mostre-me a mesma força." />
+        <string id="blcdlgBpNU0u" text="Você venceu contra {VICTIM} de {AGAINST} perto de {LOCATION}. Isso não foi um acidente, mas você consegue repetir o feito?" />
+        <string id="blcdlgrrDYLC" text="Sua vitória sobre {VICTIM} de {AGAINST} em {LOCATION} não foi uma conquista pequena. Vamos testar seus limites agora." />
+        <string id="blcdlgbgGNxR" text="Sua vitória sobre {VICTIM} de nossa facção perto de {LOCATION} foi impressionante. Talvez você tenha aprendido algo com isso." />
+        <string id="blcdlgrPIVCo" text="Mesmo na vitória contra {VICTIM} de nossa facção em {LOCATION}, não vejo nada digno de admiração." />
+        <string id="blcdlghkIRrn" text="Ouvi falar da sua vitória sobre {VICTIM} do nosso lado perto de {LOCATION}. Boa luta, e uma prova da sua habilidade." />
+        <string id="blcdlgpRRxhK" text="Seu sucesso contra {VICTIM} da nossa facção em {LOCATION} nos traz orgulho. Muito bem, guerreiro." />
+        <string id="blcdlgC1OIgo" text="Sua vitória sobre {VICTIM} da nossa facção perto de {LOCATION} foi impressionante. Vamos ver se você consegue manter esse nível de desempenho." />
+        <string id="blcdlgiufCMY" text="Derrubar {VICTIM} do nosso lado em {LOCATION} não foi uma tarefa fácil. Mantenha o ritmo." />
+        <string id="blcdlgBqlLHT" text="Sua vitória sobre {VICTIM} de {AGAINST} perto de {LOCATION} foi impressionante. Talvez você tenha aprendido algo com isso." />
+        <string id="blcdlgdG2yb2" text="Mesmo contra {VICTIM} de {AGAINST} em {LOCATION}, você mal conseguiu. Você não terá tanta sorte da próxima vez." />
+        <string id="blcdlga2FA4U" text="Ouvi falar sobre sua vitória sobre {VICTIM} de {AGAINST} perto de {LOCATION}. Bem lutada, e uma prova de sua habilidade." />
+        <string id="blcdlg8nwuwu" text="Seu triunfo contra {VICTIM} de {AGAINST} em {LOCATION} foi uma demonstração inspiradora de força. Parabéns." />
+        <string id="blcdlgWLoJDJ" text="Sua vitória sobre {VICTIM} de {AGAINST} perto de {LOCATION} foi impressionante. Vamos ver se você consegue manter esse nível de desempenho." />
+        <string id="blcdlgHzkXuL" text="Derrotar {VICTIM} de {AGAINST} em {LOCATION} foi um bom começo. Agora, me mostre o que mais você tem." />
+        <string id="blcdlgUnXjJj" text="Você até perdeu para {VICTIM} da nossa facção perto de {LOCATION}, apesar dos seus números. O que faz você pensar que vai se sair melhor agora?" />
+        <string id="blcdlgmAB4kr" text="Derrotar {VICTIM} do nosso lado em {LOCATION} foi um acaso. Você não terá tanta sorte hoje." />
+        <string id="blcdlgdXA0Qr" text="Ouvi dizer que você perdeu para {VICTIM} do nosso lado perto de {LOCATION}. Não há vergonha nisso, mas talvez você se redima hoje." />
+        <string id="blcdlgLILGpg" text="Sua derrota para {VICTIM} da nossa facção em {LOCATION} foi lamentável. Não se preocupe, você se recuperará." />
+        <string id="blcdlgZ1JrV1" text="Mesmo com forças esmagadoras, você perdeu para {VICTIM} da nossa facção perto de {LOCATION}. Vamos ver como você lida com essa luta." />
+        <string id="blcdlgYuE58v" text="Perder para {VICTIM} da nossa facção em {LOCATION} mostra que você ainda tem muito a aprender. Vamos ver se você cresceu." />
+        <string id="blcdlgEN60fk" text="Você não conseguiu nem derrotar {VICTIM} de {AGAINST} perto de {LOCATION}, apesar de suas vantagens. Uma exibição lamentável." />
+        <string id="blcdlgPluEd2" text="Não derrotar {VICTIM} de {AGAINST} em {LOCATION} expõe suas fraquezas. Desta vez, não será diferente." />
+        <string id="blcdlgXka3l4" text="Ouvi dizer que você foi derrotado por {VICTIM} de {AGAINST} perto de {LOCATION}. Não se preocupe, hoje é uma nova chance." />
+        <string id="blcdlgnfeQ2Y" text="Perder para {VICTIM} de {AGAINST} em {LOCATION} mostra que até os melhores podem cair. Mostre-me o que você aprendeu." />
+        <string id="blcdlgXMigSp" text="Você perdeu para {VICTIM} de {AGAINST} perto de {LOCATION}, mesmo com as probabilidades a seu favor. Espero que tenha aprendido com isso." />
+        <string id="blcdlgcC5tQK" text="Derrotar {VICTIM} de {AGAINST} em {LOCATION} não foi uma tarefa fácil, mas você consegue fazer isso de novo com apostas ainda maiores?" />
+        <string id="blcdlgCGozuc" text="Sua derrota para {VICTIM} da nossa facção perto de {LOCATION} foi inesperada, dada sua vantagem numérica." />
+        <string id="blcdlgd6aVwV" text="Mesmo com números superiores, {VICTIM} da nossa facção em {LOCATION} lhe ensinou uma lição valiosa. Espero mais de você." />
+        <string id="blcdlg8zI9zl" text="Ouvi sobre sua derrota para {VICTIM} do nosso lado perto de {LOCATION}. Não há vergonha nisso, mas talvez você aprenda com a experiência." />
+        <string id="blcdlgziUj9G" text="Sua derrota para {VICTIM} da nossa facção em {LOCATION} não diminui seu valor. É um trampolim para a melhoria." />
+        <string id="blcdlgKHGZex" text="Sua derrota para {VICTIM} de nossa facção perto de {LOCATION} foi surpreendente, considerando seus números." />
+        <string id="blcdlgMAF36t" text="Você caiu para {VICTIM} de nossa facção em {LOCATION}. Vamos ver como você lida com as coisas desta vez." />
+        <string id="blcdlgrTMqpb" text="Sua derrota para {VICTIM} de {AGAINST} perto de {LOCATION} foi inesperada, dada sua vantagem numérica." />
+        <string id="blcdlgvKazam" text="Mesmo com as probabilidades a seu favor, {VICTIM} de {AGAINST} em {LOCATION} o derrotou. Não espere nada melhor desta vez." />
+        <string id="blcdlg8zQXoX" text="Ouvi falar da sua derrota para {VICTIM} de {AGAINST} perto de {LOCATION}. Não há vergonha nisso, mas talvez você aprenda com a experiência." />
+        <string id="blcdlgdp1XE8" text="Perder para {VICTIM} de {AGAINST} em {LOCATION} foi um revés. Vamos ver o que você ganhou com isso." />
+        <string id="blcdlgaMXzsE" text="Sua derrota para {VICTIM} de {AGAINST} perto de {LOCATION} foi surpreendente, considerando seus números." />
+        <string id="blcdlggV5FXW" text="Você perdeu para {VICTIM} de {AGAINST} em {LOCATION}. Espero que tenha aprendido algo desde então." />
+        <string id="blcdlgkO0i33" text="Justo e honesto, {VICTIM} da nossa facção derrotou você perto de {LOCATION}. Você não terá desculpas desta vez." />
+        <string id="blcdlgCFVF9t" text="Você perdeu para {VICTIM} da nossa facção em {LOCATION}, de forma justa e honesta. Chega de fugir dos seus fracassos." />
+        <string id="blcdlgyIeigp" text="Ouvi dizer que {VICTIM} da nossa facção derrotou você perto de {LOCATION}. Uma luta limpa, e sem vergonha na derrota." />
+        <string id="blcdlguX5ieX" text="Mesmo na derrota para {VICTIM} da nossa facção em {LOCATION}, você mostrou honra. Mantenha esse espírito." />
+        <string id="blcdlgSCsBfe" text="Você perdeu para {VICTIM} da nossa facção perto de {LOCATION}. Uma derrota justa. Vamos ver como você se sai hoje." />
+        <string id="blcdlg2W0EPz" text="Perder para {VICTIM} da nossa facção em {LOCATION} não significa que você é fraco, mas é hora de se levantar." />
+        <string id="blcdlgRjCErS" text="Você perdeu para {VICTIM} de {AGAINST} perto de {LOCATION}. Justo e honesto. Prepare-se para sentir o gosto da derrota novamente." />
+        <string id="blcdlgK0yAa3" text="Perder para {VICTIM} de {AGAINST} em {LOCATION} foi seu primeiro erro. Não há como voltar atrás." />
+        <string id="blcdlgTWtLhS" text="Ouvi falar da sua derrota para {VICTIM} de {AGAINST} perto de {LOCATION}. Uma batalha justa, mas hoje é uma nova chance." />
+        <string id="blcdlgKWAEuw" text="Sua derrota para {VICTIM} de {AGAINST} em {LOCATION} mostrou resiliência. Não a deixe ir para o lixo." />
+        <string id="blcdlgc2BQfV" text="Você perdeu uma luta justa para {VICTIM} de {AGAINST} perto de {LOCATION}. Vamos ver se você melhorou desde então." />
+        <string id="blcdlg12oSjU" text="Perder para {VICTIM} de {AGAINST} em {LOCATION} não foi o fim. Vamos ver o quanto você cresceu." />
+        <string id="blcdlgx1pQM2" text="Justo e honesto, {VICTIM} da nossa facção derrotou você perto de {LOCATION}. Você não terá desculpas desta vez." />
+        <string id="blcdlgx5iQhR" text="Você falhou em derrotar {VICTIM} da nossa facção em {LOCATION}. Não será mais fácil hoje." />
+        <string id="blcdlgHryLDo" text="Ouvi dizer que {VICTIM} da nossa facção derrotou você perto de {LOCATION}. Uma luta limpa, e nenhuma vergonha na derrota." />
+        <string id="blcdlgB9rQcb" text="Mesmo na derrota, {VICTIM} da nossa facção mostrou sua habilidade em {LOCATION}. Vamos ver se você consegue fazer melhor." />
+        <string id="blcdlg14xEIw" text="Você perdeu para {VICTIM} da nossa facção perto de {LOCATION}. Uma derrota justa. Vamos ver como você se sai hoje." />
+        <string id="blcdlgys0R4c" text="Sua derrota para {VICTIM} em {LOCATION} foi reveladora. Vamos ver se você aprendeu com isso." />
+        <string id="blcdlgaQrQCl" text="Você perdeu para {VICTIM} de {AGAINST} perto de {LOCATION}. Justo e honesto. Prepare-se para sentir o gosto da derrota novamente." />
+        <string id="blcdlgszWD5g" text="Mesmo com toda a sua força, {VICTIM} de {AGAINST} derrotou você em {LOCATION}. Não espere um resultado diferente." />
+        <string id="blcdlg6y4Ieg" text="Ouvi falar da sua derrota para {VICTIM} de {AGAINST} perto de {LOCATION}. Uma batalha justa, mas hoje é uma nova chance." />
+        <string id="blcdlgqWccpT" text="Não foi uma derrota fácil para {VICTIM} de {AGAINST} em {LOCATION}. Mas não se preocupe, hoje é um novo começo." />
+        <string id="blcdlgHHpN5f" text="Você perdeu uma luta justa para {VICTIM} de {AGAINST} perto de {LOCATION}. Vamos ver se você melhorou desde então." />
+        <string id="blcdlgQCu2eA" text="Mesmo que as probabilidades estivessem a seu favor, {VICTIM} de {AGAINST} superou você em {LOCATION}. Você consegue fazer melhor dessa vez?" />
+        <string id="blcdlgFes1xv" text="Sua derrota para {VICTIM} da nossa facção perto de {LOCATION} foi inesperada. Talvez você os tenha subestimado." />
+        <string id="blcdlg4l6zLG" text="Perder para {VICTIM} da nossa facção em {LOCATION} mostrou fraqueza. Espero que você se saia melhor desta vez." />
+        <string id="blcdlgaVgnk5" text="Ouvi falar sobre sua derrota para {VICTIM} do nosso lado perto de {LOCATION}. Não há vergonha nisso, mas vamos ver como você se recupera." />
+        <string id="blcdlglT08ez" text="Sua derrota para {VICTIM} em {LOCATION} foi lamentável. Mas todo mundo tropeça — vamos ver se você consegue se recuperar." />
+        <string id="blcdlgrrE6B5" text="Sua derrota para {VICTIM} da nossa facção perto de {LOCATION} foi surpreendente. Vamos ver se você consegue mudar as coisas." />
+        <string id="blcdlgVt76yX" text="Você foi pego de surpresa por {VICTIM} em {LOCATION}. Mostre-me o quanto você aprendeu desde então." />
+        <string id="blcdlgbyxDC3" text="Sua derrota para {VICTIM} de {AGAINST} perto de {LOCATION} foi inesperada. Talvez você os tenha subestimado." />
+        <string id="blcdlgwE5pMI" text="Perder para {VICTIM} de {AGAINST} em {LOCATION} deve ter doído. Não espere que o resultado mude desta vez." />
+        <string id="blcdlgYWaPHD" text="Ouvi falar da sua derrota para {VICTIM} de {AGAINST} perto de {LOCATION}. Não é vergonha nenhuma, mas vamos ver como você se recupera." />
+        <string id="blcdlgpThUjp" text="Perder para {VICTIM} de {AGAINST} em {LOCATION} foi uma pílula difícil de engolir. Hoje, no entanto, é uma nova oportunidade." />
+        <string id="blcdlgsVViAS" text="Sua derrota para {VICTIM} de {AGAINST} perto de {LOCATION} foi surpreendente. Vamos ver se você consegue mudar as coisas." />
+        <string id="blcdlgEwnUbB" text="Essa derrota para {VICTIM} de {AGAINST} em {LOCATION} foi inesperada. Você consegue fazer melhor hoje?" />
+        <string id="blcdlgCeYjyz" text="Você perdeu para {VICTIM} da nossa facção perto de {LOCATION}. Não há desculpa para tal fracasso — não espere misericórdia da próxima vez." />
+        <string id="blcdlgPjvIOk" text="Sua derrota para {VICTIM} da nossa facção em {LOCATION} não foi apenas uma derrota, foi uma lição. Não desperdice essa chance." />
+        <string id="blcdlg1glltJ" text="Ouvi dizer que você perdeu para {VICTIM} da nossa facção perto de {LOCATION}. Uma derrota difícil, mas todos nós temos nossos dias ruins. Vamos ver como você se sai hoje." />
+        <string id="blcdlgRgwIr2" text="Até os campeões perdem às vezes. Sua derrota para {VICTIM} da nossa facção em {LOCATION} mostra que você é humano. Vamos ver você se erguer." />
+        <string id="blcdlg5iD1zn" text="Você perdeu para {VICTIM} da nossa facção perto de {LOCATION}. Foi uma luta justa. Imagino como você se sairá na próxima." />
+        <string id="blcdlg1VkXH8" text="Uma derrota justa para {VICTIM} da nossa facção em {LOCATION}. Da próxima vez, veremos se você está mais bem preparado." />
+        <string id="blcdlgeR58C3" text="Você perdeu para {VICTIM} de {AGAINST} perto de {LOCATION}. Deve ser doloroso perder assim. Não espere um resultado melhor da próxima vez." />
+        <string id="blcdlgEaInm3" text="Perder para {VICTIM} de {AGAINST} em {LOCATION} foi apenas o começo da sua queda. Prepare-se para mais do mesmo." />
+        <string id="blcdlgSQ7WRM" text="Ouvi dizer que você perdeu para {VICTIM} de {AGAINST} perto de {LOCATION}. É uma pena. Ainda assim, eu respeito você. Vamos ver se você consegue mudar as coisas hoje." />
+        <string id="blcdlgsrXWow" text="Sua derrota para {VICTIM} de {AGAINST} em {LOCATION} não define você. Estou ansioso para ver como você se sai agora." />
+        <string id="blcdlg38u0Xs" text="Você perdeu para {VICTIM} de {AGAINST} perto de {LOCATION}. Foi uma partida difícil, mas talvez hoje você esteja mais bem preparado." />
+        <string id="blcdlg4bXNI9" text="Essa derrota para {VICTIM} de {AGAINST} em {LOCATION} mostra que você não é invencível. Vamos ver se você consegue mudar as coisas." />
+        <string id="blcdlg86RMTB" text="Você perdeu como um idiota contra {VICTOR} perto de {LOCATION}, mesmo com todas as vantagens! E agora você está diante de mim, esperando um resultado diferente? Patético." />
+        <string id="blcdlguTeUS4" text="Sua lamentável derrota contra {VICTOR} em {LOCATION} ainda está fresca na mente de todos. E você acha que tem uma chance contra mim? Absurdo." />
+        <string id="blcdlgitxTXY" text="Ouvi falar da sua derrota para {VICTOR} perto de {LOCATION}. Mesmo com as probabilidades a seu favor, não foi seu dia. Espero que você se recupere." />
+        <string id="blcdlgCTdCbK" text="Sua derrota para {VICTOR} em {LOCATION} surpreendeu a muitos, inclusive a mim. Até os melhores tropeçam. Fique forte." />
+        <string id="blcdlg9BVRBe" text="As notícias correm rápido — você perdeu para {VICTOR} em {LOCATION}, apesar de suas forças avassaladoras. A sorte é inconstante, não é?" />
+        <string id="blcdlgnypV97" text="Então, as histórias da sua derrota em {LOCATION} contra {VICTOR} são verdadeiras. O destino pode ser cruel até para os mais poderosos." />
+        <string id="blcdlgbL9NcR" text="Sua derrota recente contra {VICTOR} em {LOCATION} deixou você vulnerável. Talvez esta reunião seja... esclarecedora." />
+        <string id="blcdlg9sVtPz" text="Seu erro em {LOCATION} contra {VICTOR} deixou você exposto. Imagino se sua sorte mudará desta vez." />
+        <string id="blcdlgDFLJkO" text="Embora você tenha perdido para {VICTOR} perto de {LOCATION}, sua posição estratégica continua forte. Vamos discutir como podemos nos beneficiar mutuamente de nossa situação atual." />
+        <string id="blcdlgu4VRdF" text="Apesar do seu revés em {LOCATION} contra {VICTOR}, ainda há potencial para recuperação. Vamos ver como podemos trabalhar juntos." />
+        <string id="blcdlgSeiJVz" text="A notícia da sua derrota para {VICTOR} em {LOCATION} se espalhou rapidamente. Em tempos de guerra, a sorte pode mudar rapidamente. Como você planeja se reagrupar?" />
+        <string id="blcdlghNGK7r" text="Todo mundo fala da sua derrota em {LOCATION} contra {VICTOR}. Momentos como esses geralmente levam a alianças inesperadas. O que você diz?" />
+        <string id="blcdlgBmQDdl" text="Como você consegue perder com probabilidades tão esmagadoras? Sua derrota contra {VICTOR} em {LOCATION} foi o assunto do reino. Um verdadeiro erro." />
+        <string id="blcdlgK3GvcX" text="Seu fracasso total em {LOCATION} contra {VICTOR} fez todo mundo rir muito. Você tem alguma desculpa?" />
+        <string id="blcdlg0JRNJs" text="Deve ter doído perder para {VICTOR} em {LOCATION}, especialmente com todas as vantagens que você tinha. Até os melhores vacilam. Acredito que você se levantará novamente." />
+        <string id="blcdlg6KS7Au" text="Seu revés em {LOCATION} contra {VICTOR} foi lamentável, mas é um lembrete de que até os mais fortes tropeçam. Você se recuperará." />
+        <string id="blcdlgm9Aiyw" text="Você perdeu para {VICTOR} perto de {LOCATION}, mesmo com todas as vantagens. Uma lição, talvez, de que nenhuma força é imbatível." />
+        <string id="blcdlgPvRgY8" text="Sua derrota em {LOCATION} contra {VICTOR} mostra que ninguém é invencível. Talvez seja hora de reavaliar sua estratégia." />
+        <string id="blcdlgvijBuD" text="Você não conseguiu nem se defender contra {VICTOR} perto de {LOCATION}. E agora acha que pode me enfrentar? Risível." />
+        <string id="blcdlgUpubqN" text="Depois de sua derrota vergonhosa em {LOCATION} contra {VICTOR}, você ousa se opor a mim? Tolice." />
+        <string id="blcdlgvk6Zhb" text="Ouvi falar da sua derrota para {VICTOR} perto de {LOCATION}. As probabilidades não estavam a seu favor, e mesmo assim você lutou. Respeito essa bravura." />
+        <string id="blcdlgulsUQw" text="Sua derrota em {LOCATION} contra {VICTOR} pode não ter sido uma vitória, mas provou sua coragem. Continue lutando." />
+        <string id="blcdlgZNB7EI" text="Você perdeu para {VICTOR} em {LOCATION}. Em menor número ou em menor manobra, parece que até os grandes podem cair." />
+        <string id="blcdlgmab0bM" text="A derrota em {LOCATION} contra {VICTOR} é conhecida por todos. Até os exércitos mais fortes podem vacilar." />
+        <string id="blcdlgNzgzVT" text="Apesar de estar em menor número, sua derrota para {VICTOR} em {LOCATION} não diminui sua força. Nosso conflito atual apresenta oportunidades para nós dois." />
+        <string id="blcdlgLshqJq" text="Embora você tenha sido derrotado em {LOCATION} por {VICTOR}, vejo uma chance para resolvermos nossos próprios assuntos. Cuidadosamente." />
+        <string id="blcdlgnVVaOp" text="Seu recente revés contra {VICTOR} perto de {LOCATION} pode potencialmente funcionar a nosso favor. Vamos explorar maneiras de virar essa maré?" />
+        <string id="blcdlgjgrchP" text="A derrota em {LOCATION} contra {VICTOR} abre novas portas para a estratégia. Acredito que podemos conseguir mais juntos." />
+        <string id="blcdlg7ZRgVk" text="A notícia da sua derrota para {VICTOR} em {LOCATION} chegou até mim. Nestes tempos incertos, as alianças podem mudar rapidamente. Qual é o seu próximo passo?" />
+        <string id="blcdlg72qIkL" text="A derrota em {LOCATION} contra {VICTOR} muda o cenário desta guerra. Qual é o seu plano para o futuro?" />
+        <string id="blcdlgRasuVb" text="Sua derrota contra {VICTOR} em {LOCATION} foi vergonhosa, mesmo que as probabilidades estivessem contra você. Outra razão pela qual você nunca igualará minha destreza." />
+        <string id="blcdlgSRI0tz" text="A maneira como você caiu para {VICTOR} em {LOCATION} só prova o quão abaixo de mim você está. Lembre-se do seu lugar." />
+        <string id="blcdlgXnCTcJ" text="Sua derrota para {VICTOR} perto de {LOCATION} foi lamentável. Sei que as probabilidades não estavam do seu lado, mas você demonstrou coragem ao se manter firme." />
+        <string id="blcdlgbipZNd" text="Apesar da sua derrota em {LOCATION} contra {VICTOR}, respeito seu esforço. Mesmo a maior queda. Fique forte." />
+        <string id="blcdlgzAFx96" text="Dizem que você perdeu para {VICTOR} perto de {LOCATION}. Infelizmente, mas não há vergonha em cair para forças superiores." />
+        <string id="blcdlgljAO7x" text="Sua derrota em {LOCATION} contra {VICTOR} é notável. Até os mais habilidosos vacilam às vezes." />
+        <string id="blcdlg8SrY7m" text="Você perdeu para um bando de bandidos imundos, mesmo tendo todas as vantagens! Não acredito. Você é realmente tão incompetente? Vou acabar com você se nos encontrarmos novamente." />
+        <string id="blcdlgrkTNaq" text="Perder para um grupo de saqueadores como esse? Mesmo com suas forças superiores. Sei que as coisas não foram fáceis, mas é difícil não se perguntar se você está escorregando." />
+        <string id="blcdlgpQ2hMc" text="Qual é a sensação de perder para um bando de saqueadores desprezíveis quando você tinha a vantagem? Até os maiores caem às vezes, mas aquela derrota foi outra coisa." />
+        <string id="blcdlglJJ5Zs" text="Mesmo na guerra, perder para saqueadores é constrangedor. É melhor você se recompor rápido, ou se tornará motivo de chacota entre os aliados." />
+        <string id="blcdlgPDX0zn" text="Estou surpreso que você perdeu para aqueles saqueadores, especialmente durante a guerra. Talvez você tenha se distraído com preocupações maiores?" />
+        <string id="blcdlgxkEVHk" text="Perder para saqueadores não é o ideal, especialmente quando os recursos são escassos devido à guerra. Espero que isso não afete sua campanha geral." />
+        <string id="blcdlg160hHQ" text="Você perdeu para um bando de bandidos inúteis e foi dominado? Absolutamente patético. Você não conseguiu nem lidar com um bando de bandidos desorganizados." />
+        <string id="blcdlgBruZap" text="Você perdeu para bandidos mesmo com suas forças no lugar? Sei que as probabilidades estavam contra você, mas espero que aprenda com isso." />
+        <string id="blcdlgsdpQtj" text="Mesmo quando você estava em vantagem, um grupo de saqueadores o derrubou. Uma perda difícil, mas talvez você se recupere." />
+        <string id="blcdlg0SD76d" text="Então, você perdeu para uma gangue de bandidos enquanto eles tinham os números? É isso que você ganha por ser um idiota. Só posso imaginar o quão envergonhado você deve se sentir." />
+        <string id="blcdlglPP5qI" text="Mesmo sem ser dominado, você perdeu para bandidos? É difícil de entender. Talvez você tenha se distraído. Eu sei que você pode fazer melhor." />
+        <string id="blcdlg0FpXU8" text="Perder para bandidos não é algo de que a maioria das pessoas se gaba. Mas às vezes as probabilidades simplesmente não estão a seu favor." />
+        <string id="blcdlgpM4u5A" text="Sua derrota nas mãos de saqueadores durante a guerra é preocupante. Ela sugere fraquezas que nossos inimigos podem explorar." />
+        <string id="blcdlgockfDN" text="Estou preocupado com sua perda para esses saqueadores, especialmente dada a situação de guerra. Vamos nos concentrar em fortalecer nossas defesas." />
+        <string id="blcdlgFgPBtA" text="Embora perder para saqueadores não seja o ideal, é crucial manter a perspectiva durante a guerra. Precisaremos reavaliar nossas estratégias." />
+        <string id="blcdlgnrnJ78" text="Uma perda para saqueadores sem uma força esmagadora do seu lado? Que pena. Essa derrota é uma marca de fraqueza que você não conseguirá apagar facilmente." />
+        <string id="blcdlglTMZ8v" text="É uma pena perder para bandidos, especialmente quando a situação não era tão ruim quanto parecia. Mas sei que você tem mais luta em você." />
+        <string id="blcdlg4olR5w" text="Parece que os bandidos pegaram você em um momento ruim. Tenho certeza de que você aprenderá com isso, mas é uma derrota difícil de engolir." />
+        <string id="blcdlgtq4Qxk" text="{HERO} lutou e não lutará {VEZES} vezes contra {EU}. Agora é uma questão de honra" />
+        <string id="blcdlgWG8eGb" text="{HERO} lutou e não lutará {VEZES} vezes contra {EU}. Não há sentido em ser um HERO!" />
+        <string id="blcdlgM0q5jl" text="Uma personalidade movida pelo desejo de riqueza, simplesmente nasceu assim." />
+        <string id="blcdlgEWNWpg" text="Uma pessoa amada de {ME} foi executada por {HERO}. Isso não pode ser deixado para trás" />
+        <string id="blcdlgCzeMaF" text="Uma personalidade que busca atenção ou reconhecimento, simplesmente nasceu assim." />
+        <string id="blcdlgCi3H6j" text="Uma personalidade que almeja poder ou liderança, simplesmente nasceu assim." />
+        <string id="blcdlgdA3El2" text="Sem razão" />
+        <string id="blcdlgeIcWoYU" text="Você pagará pela sua traição. Reze para que nossos caminhos nunca mais se cruzem." />
+        <string id="blcdlge9C60MS" text="Você escolheu a traição em vez da amizade. Vá embora antes que eu mude de ideia sobre deixá-lo viver." />
+        <string id="blcdlgePUFa1Y" text="A execução é um ato grave. Espero que você esteja preparado para enfrentar as consequências." />
+        <string id="blcdlgeectnIz" text="Mesmo sem sacar espadas, nunca perdoarei sua traição. Agora vá embora." />
+        <string id="blcdlgedzuwVq" text="Eu pensei que poderíamos encontrar a paz, mas suas ações destruíram essa esperança. Agora vá embora." />
+        <string id="blcdlgeLg5fTY" text="Não há mais nada a dizer. Vá embora." />
+        <string id="blcdlgeidWdXh" text="Não tenho paciência para você. Vá embora antes que eu perca o controle." />
+        <string id="blcdlgeMBMQRO" text="Eu pensei que éramos aliados, mas parece que não é mais o caso. Adeus." />
+        <string id="blcdlge2wAIIf" text="Essa conversa acabou. Vá agora." />
+        <string id="blcdlgecCVyIt" text="Eu o desprezo. Esta discussão acabou." />
+        <string id="blcdlgeH64AFR" text="A guerra nos separa, mas ainda espero por dias melhores. Adeus." />
+        <string id="blcdlgei47DHI" text="Somos inimigos por circunstância. Vamos terminar esta conversa aqui." />
+        <string id="blcdlgejNtjwE" text="Nossa vingança será rápida. Agora vá." />
+        <string id="blcdlgeHZl1iZ" text="Seu triunfo foi agridoce, mas não muda nada entre nós. Adeus." />
+        <string id="blcdlgevlKWql" text="Vá embora antes que eu reconsidere nossos termos." />
+        <string id="blcdlgeJ0Ratm" text="Você sabe... Uma única vitória não muda seu destino. Esta guerra está longe de terminar. Agora vá." />
+        <string id="blcdlgeeIXTqn" text="Você provou ser um adversário digno. Adeus." />
+        <string id="blcdlgeEVD77g" text="Uma batalha vencida não é uma guerra terminada. Até a próxima vez, saia da minha vista." />
+        <string id="blcdlge7WgiQD" text="Seus prisioneiros não permanecerão seus por muito tempo. Agora vá." />
+        <string id="blcdlgekV9de8" text="Espero que trate seus prisioneiros com honra. Agora me deixe." />
+        <string id="blcdlge2mXX1Y" text="Os capturados são apenas peões nesta guerra. Não tenho mais nada a dizer." />
+        <string id="blcdlgeRdTMTG" text="Seus prisioneiros não comprarão sua misericórdia. Agora vá." />
+        <string id="blcdlgeeOA5Nf" text="Esta guerra transforma amigos em captores. Não tenho mais nada a dizer." />
+        <string id="blcdlgeSlMama" text="A guerra faz prisioneiros, mas não poupa ninguém. Agora vá embora." />
+        <string id="blcdlgeKkrH1P" text="Volte correndo para suas terras, se é que sobrou alguma. Agora saia da minha vista." />
+        <string id="blcdlgeJpetO6" text="Você lutou bravamente, mas este não é o seu dia. Vá embora agora." />
+        <string id="blcdlgevXavJq" text="Você perdeu esta batalha. Vá embora enquanto ainda pode." />
+        <string id="blcdlgeOjz27Z" text="Sua derrota não muda nada. Nos encontraremos novamente." />
+        <string id="blcdlgek1XuMo" text="Uma derrota não o define, mas ainda estamos em guerra. Adeus." />
+        <string id="blcdlge2IfqLm" text="Você perdeu, mas a guerra continua. Agora vá embora." />
+        <string id="blcdlgesoXB9e" text="Eu não tenho mais nada a dizer. Adeus." />
+        <string id="blcdlgFjr23a" text="Você humilhou {VICTIM} da nossa facção perto de {LOCATION}, mas não pense que isso te torna invencível. Me desafie em seguida." />
+        <string id="blcdlgE0Bvlk" text="Então, você esmagou {VICTIM} da nossa facção em {LOCATION}? Suponho que até uma espada cega pode cortar às vezes. Vamos testar sua habilidade." />
+        <string id="blcdlgYgHQXh" text="Ouvi dizer que você derrotou {VICTIM} do nosso lado perto de {LOCATION}. Um confronto justo, sem dúvida. É bom ver que você está ficando mais forte." />
+        <string id="blcdlgf4s6Ud" text="Sua vitória sobre {VICTIM} da nossa facção em {LOCATION} foi bem merecida. Continue assim, e você será uma lenda entre nós." />
+        <string id="blcdlgxaXuLx" text="Então, você triunfou sobre {VICTIM} da nossa facção perto de {LOCATION}. Vamos ver se você consegue manter essa sequência de vitórias." />
+        <string id="blcdlg3KBkh4" text="Sua vitória contra {VICTIM} em {LOCATION} foi impressionante, mas uma única batalha não define um guerreiro. Mostre-me seu valor." />
+        <string id="blcdlgX3Z5XO" text="Você despachou {VICTIM} de {AGAINST} perto de {LOCATION}. Um dia de sorte para você, mas a sorte acaba. Vamos ver como você se sai contra mim." />
+        <string id="blcdlgXsDBzv" text="Então, {VICTIM} de {AGAINST} caiu para você em {LOCATION}? Não se acomode demais—não sou tão fácil de derrubar." />
+        <string id="blcdlg0bFr5J" text="Dizem que você derrotou {VICTIM} de {AGAINST} perto de {LOCATION}. Uma batalha dura, com certeza. Agora, vamos testar nossas habilidades?" />
+        <string id="blcdlgly6YAE" text="Sua vitória sobre {VICTIM} de {AGAINST} em {LOCATION} prova sua força. Eu teria a honra de te enfrentar em seguida." />
+        <string id="blcdlgitQTTm" text="Você saiu vitorioso contra {VICTIM} de {AGAINST} perto de {LOCATION}. Um verdadeiro guerreiro nunca descansa—está pronto para outro desafio?" />
+        <string id="blcdlgiBgi9Z" text="Mesmo depois de derrotar {VICTIM} em {LOCATION}, o caminho de um guerreiro nunca termina. Vamos ver se você realmente afiou sua lâmina." />
+    </strings>
+</base>

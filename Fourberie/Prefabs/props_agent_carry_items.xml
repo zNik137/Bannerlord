@@ -1,0 +1,8 @@
+	<prefabs>
+	  <game_entity name="bd_hammer_a">
+		<transform position="0.13, 0.00, 0.28" rotation="-0.060692, 0.693714, 0.693714, -0.183949" scale="1.0, 1.0, 1.0"/>
+		<components>
+			<meta_mesh_component name="bd_hammer_a"/>
+		</components>
+	 </game_entity>
+	 </prefabs>

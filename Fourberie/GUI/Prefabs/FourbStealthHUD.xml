@@ -1,0 +1,35 @@
+<Prefab>
+  <Constants>
+          <Constant Name="BoundaryCrossing.FillBar.Fill.Height" BrushName="BoundaryCrossing.FillBar.Fill" BrushLayer="DefaultFill" BrushValueType="Height"/>
+  </Constants>
+
+  <Window>
+    <!-- <Widget IsVisible="@IsVisibleAlt" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="1000" SuggestedHeight="150"  PositionXOffset="50" PositionYOffset="50" HorizontalAlignment="Left" VerticalAlignment="Top" Sprite="General\InnerFrame1\canvas"> -->
+		<!-- <Children> -->
+			<!-- <RichTextWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" HorizontalAlignment="Left" VerticalAlignment="Top" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="24" Text="@AggroStatus"/> -->
+		<!-- </Children> -->
+    <!-- </Widget> -->
+	
+		<BrushWidget HeightSizePolicy ="Fixed" WidthSizePolicy="Fixed" SuggestedWidth="600" SuggestedHeight="250" HorizontalAlignment="Left" VerticalAlignment="Top" MarginTop="60" IsVisible="true">
+			<Children>
+				 <Widget IsVisible="@IsVisibleAlt" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="1000" SuggestedHeight="150" HorizontalAlignment="Left" VerticalAlignment="Top" Sprite="General\InnerFrame1\canvas">
+					<Children>
+					<RichTextWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" HorizontalAlignment="Left" VerticalAlignment="Top" Brush="Recruitment.Popup.Title.Text" Brush.FontSize="24" Text="@AggroStatus"/>
+					</Children>
+				</Widget>
+
+				<!--Suspicion Gauge-->
+				<Widget Id="InspectedWidget" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="51" SuggestedHeight="40" VerticalAlignment="Center" PositionXOffset="1600" PositionYOffset="-95" Sprite="SPGeneral\Nameplates\nameplate_vision" AlphaFactor="0.5" Color="#DDCDB3FF" IsEnabled="false" />
+				<Widget DoNotPassEventsToChildren="true" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="200" SuggestedHeight="15"   PositionXOffset="1650" PositionYOffset="20" AlphaFactor="0.5" Color="#DDCDB3FF">
+					<Children>
+						<FillBar WidthSizePolicy="StretchToParent" HeightSizePolicy="Fixed" SuggestedHeight="!BoundaryCrossing.FillBar.Fill.Height" VerticalAlignment="Center" PositionYOffset="2" MaxAmount="@SuspicionGaugeMax" CurrentAmount="@GuardCountAggro" InitialAmount="@GuardCountAggro" Brush="HealthBarBrush" />			
+					</Children>
+				</Widget>
+								
+				<!--Countdown Text-->
+				<!-- <TextWidget IntText="@Countdown" HeightSizePolicy="Fixed" WidthSizePolicy="StretchToParent" SuggestedHeight="100" HorizontalAlignment="Center" VerticalAlignment="Bottom" MarginBottom="0" Brush="BoundaryCrossing.CountdownText"/> -->
+			</Children>
+		</BrushWidget>	
+	
+  </Window>
+</Prefab>

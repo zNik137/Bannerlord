@@ -1,0 +1,34 @@
+<Prefab>
+  <Constants>
+	  <Constant Name="BoundaryCrossing.FillBar.Fill.Height" BrushName="BoundaryCrossing.FillBar.Fill" BrushLayer="DefaultFill" BrushValueType="Height"/>
+  </Constants>
+
+  <Window>
+	  <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="800" SuggestedHeight="600" HorizontalAlignment="Center" VerticalAlignment="Top" IsVisible="@IsVisible">
+		  <Children>
+			  <!--Score Player-->
+			  <SliderWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="300" SuggestedHeight="20" HorizontalAlignment="Left" VerticalAlignment="Top" PositionYOffset="100" Filler="Filler" MaxValueInt="@MaxScore" MinValueInt="0" ValueInt="@MainScore" IsEnabled="true">
+				  <Children>
+					  <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="300" SuggestedHeight="30" HorizontalAlignment="Center" VerticalAlignment="Center" Sprite="SPGeneral\SPOptions\standart_slider_canvas" IsEnabled="false" />
+					  <Widget Id="Filler" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="300" SuggestedHeight="30" VerticalAlignment="Center" Sprite="SPGeneral\SPOptions\standart_slider_fill" ClipContents="true" />
+					  <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="330" SuggestedHeight="50" HorizontalAlignment="Center" VerticalAlignment="Center" Sprite="SPGeneral\SPOptions\standart_slider_frame" IsEnabled="false" />
+				  </Children>
+			  </SliderWidget>
+			<TextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Top" PositionYOffset="150" Text="@MainAgentNameStr" />
+			  
+				<Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="60" SuggestedHeight="60" HorizontalAlignment="Center" VerticalAlignment="Top" PositionYOffset="100" Sprite="SPGeneral\MapOverlay\Encounter\WarIcon"/>
+
+			  <!--Score Oppo-->
+			  <SliderWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="300" SuggestedHeight="20" HorizontalAlignment="Right" VerticalAlignment="Top" PositionYOffset="100" Filler="Filler" MaxValueInt="100" MinValueInt="0" ValueInt="@OppoScore" IsEnabled="true">
+				  <Children>
+					  <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="300" SuggestedHeight="30" HorizontalAlignment="Center" VerticalAlignment="Center" Sprite="SPGeneral\SPOptions\standart_slider_canvas" IsEnabled="false" />
+					  <Widget Id="Filler" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="300" SuggestedHeight="30" VerticalAlignment="Center" Sprite="SPGeneral\SPOptions\standart_slider_fill" ClipContents="true" />
+					  <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="330" SuggestedHeight="50" HorizontalAlignment="Center" VerticalAlignment="Center" Sprite="SPGeneral\SPOptions\standart_slider_frame" IsEnabled="false" />
+				  </Children>
+			  </SliderWidget>
+			  <TextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Right" VerticalAlignment="Top" PositionYOffset="150" Text="@OppoName" />
+			  
+		  </Children>
+	  </Widget>
+  </Window>
+</Prefab>
